@@ -8,8 +8,6 @@ We use our own version of this [student expectations document](https://www.pract
 
 Here are some of the recurring projects we are working on:
 
-## Student Projects
-
 ### Capacity Planning (Storage) - Data Science
 This project looks to create models to forecast capacity and create dashboards to demonstrate current usage and help make informed decisions for storage at WEHI.  
 
