@@ -1,6 +1,8 @@
 # Google Summer of Code Project List
 
-This is a list of projects we are submitting to the Google Summer of Code for 2022
+This is a list of projects we are submitting to the Google Summer of Code for 2022.
+
+To apply, you can [read our suggestions for applying](gsoc-contributor) to these roles.
 
 ## BioNix
 
