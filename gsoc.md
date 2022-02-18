@@ -2,7 +2,7 @@
 
 This is a list of projects we are submitting to the Google Summer of Code for 2022
 
-##BioNix
+## BioNix
 
 Bioinformatics as a discipline frequently uses many individual software tools, connected in potentially complicated ways, to perform typical analysis. As an example, standard Single Nucleotide Variant (SNV) calling in cancer involves alignment of the sequencing reads to a reference genome, sorting and indexing, variant calling, and subsequent annotation against various databases. Each of these stages comprises of one or more software tools with different input requirements. 
 
@@ -20,7 +20,8 @@ Skills required:
 - understanding of version control systems, experience with git will be helpful; 
 - functional programming skills, experience with Nix/NixOS will be helpful. 
 
-1: https://github.com/PapenfussLab/bionix 
-2: https://nixos.org/ 
-3: https://github.com/nixos/nixpkgs 
+References
+1. https://github.com/PapenfussLab/bionix 
+2. https://nixos.org/ 
+3. https://github.com/nixos/nixpkgs 
 
