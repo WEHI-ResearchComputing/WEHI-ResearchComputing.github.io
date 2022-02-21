@@ -4,6 +4,8 @@ This is a list of projects we are submitting to the Google Summer of Code for 20
 
 To apply, you can [read our suggestions for applying](gsoc-contributor) to these roles.
 
+# General Projects
+
 ## BioNix
 
 Bioinformatics as a discipline frequently uses many individual software tools, connected in potentially complicated ways, to perform typical analysis. As an example, standard Single Nucleotide Variant (SNV) calling in cancer involves alignment of the sequencing reads to a reference genome, sorting and indexing, variant calling, and subsequent annotation against various databases. Each of these stages comprises of one or more software tools with different input requirements. 
