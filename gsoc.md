@@ -49,6 +49,8 @@ Skills required:
 - Ability to work independently
 - Ability to handle an ambiguous and constantly changing environment
 
+---
+
 # Image Processing Portal set of projects
 
 Advanced microscopes are now capable of producing very large (terabyte scale) datasets in a single imaging session. Migrating, processing, quantifying and visualising these large datasets is a major bottleneck for traditional wet-lab biologists. This project will help create tools to unlock scientific breakthroughs in the fields of developmental biology, cell biology and human disease and infection, by unlocking high performance compute resources and new technologies to an untrained and naïve user audience. 
@@ -58,7 +60,7 @@ The intention of this proposal is to gain support for the continued development 
 
 Below is a list of available projects for the image processing portal that will leverage existing investment and provide the tools researchers require to manage, process, quantify and visualise their large datasets. 
 
-## User Experience
+## User Experience - Research Software Engineering
 
 This project would suit a candidate who would like to work on front-end design and coding, and likes to learn the end-user workflow to help streamline and make the user interface intuitive. 
 
@@ -75,7 +77,7 @@ Skills required:
 - Ability to work independently
 - Ability to handle an ambiguous and constantly changing environment
 
-## Fast File Converters (Read/Write) 
+## Fast File Converters (Read/Write) - Research Software Engineering
 
 This project would suit a candidate who would like to work on making low-level software extremely efficient and effective within a High Performance Computing (HPC) environment. 
 
