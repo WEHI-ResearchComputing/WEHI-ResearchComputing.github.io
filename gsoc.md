@@ -6,7 +6,9 @@ To apply, you can [read our suggestions for applying](gsoc-contributor) to these
 
 # General Projects
 
-## BioNix
+## BioNix - Research Software Engineering
+
+This project would suit a candidate who was interested in reproducibility, wants to gain experience with executing bioinformatics workflows efficiently, and enjoys streamlining complex processes.
 
 Bioinformatics as a discipline frequently uses many individual software tools, connected in potentially complicated ways, to perform typical analysis. As an example, standard Single Nucleotide Variant (SNV) calling in cancer involves alignment of the sequencing reads to a reference genome, sorting and indexing, variant calling, and subsequent annotation against various databases. Each of these stages comprises of one or more software tools with different input requirements. 
 
@@ -29,6 +31,24 @@ References
 2. https://nixos.org/ 
 3. https://github.com/nixos/nixpkgs 
 
+## Research Data Workflow Processing - Research Data Engineering
+
+This project would suit a candidate who was interested in data engineering, Extract, Transform, and Load (ETL) and enjoys streamlining complex processes.
+
+WEHI is currently developing its Research Data Management requirements and is evaluating products and tools for a hybrid Research Data Management ecosystem. The candidate will develop an understanding of data flow from either a WEHI scientific instrument or from other organisations and determine how data and metadata should be stored to support FAIR data practices. The key output of the project is a test framework for evaluating the suitability of third party or in-house tools to support complex RDM requirements. 
+
+The candidate will:
+- review data movement and metadata systems like MyTardis, RClone, Mediaflux and other object storage technology, 
+- setup and test these systems and benchmark their speed, maintainability and extensibility,  
+- recommend a system that fulfills current needs and could handle future needs, and if there is time that can also integrate with the RDM ecosystem, 
+- potentially extend the chosen system functionality across command-line, GUI, APIs and web by working closely with researchers and the IT research system administrator. 
+
+Skills required:
+- Experience with or ability to quickly learn web technologies, software versioning, databases and Linux command-line
+- Ability to learn high-level complex concepts quickly
+- Ability to work independently
+- Ability to handle an ambiguous and constantly changing environment
+
 # Image Processing Portal set of projects
 
 Advanced microscopes are now capable of producing very large (terabyte scale) datasets in a single imaging session. Migrating, processing, quantifying and visualising these large datasets is a major bottleneck for traditional wet-lab biologists. This project will help create tools to unlock scientific breakthroughs in the fields of developmental biology, cell biology and human disease and infection, by unlocking high performance compute resources and new technologies to an untrained and naïve user audience. 
@@ -40,9 +60,9 @@ Below is a list of available projects for the image processing portal that will 
 
 ## User Experience
 
-The unique selling point of the IPP is to make it easy for the researchers to do complex work in a simple environment that is intuitive and easy to use. This project will help to improve the UX of the IPP in a way that benefits others. 
-
 This project would suit a candidate who would like to work on front-end design and coding, and likes to learn the end-user workflow to help streamline and make the user interface intuitive. 
+
+The unique selling point of the IPP is to make it easy for the researchers to do complex work in a simple environment that is intuitive and easy to use. This project will help to improve the UX of the IPP in a way that benefits others. 
 
 The candidate will be responsible for developing an exceptional and intuitive user centric interface which enables researchers to effortlessly process their datasets. This will include: 
 - Reviewing researcher workflows and understanding the high-level research process
@@ -57,9 +77,9 @@ Skills required:
 
 ## Fast File Converters (Read/Write) 
 
-Existing [Bioformats file readers](https://www.openmicroscopy.org/bio-formats/) are capable of reading many microscopy related, proprietary file formats, however they are often extremely slow and are not optimised for the parallelised environment of High Performance Computing  (HPC).  
-
 This project would suit a candidate who would like to work on making low-level software extremely efficient and effective within a High Performance Computing (HPC) environment. 
+
+Existing [Bioformats file readers](https://www.openmicroscopy.org/bio-formats/) are capable of reading many microscopy related, proprietary file formats, however they are often extremely slow and are not optimised for the parallelised environment of High Performance Computing  (HPC).  
 
 The candidate will be responsible for developing parallelized high-speed readers and writers so that we can read file formats from global vendors, process the data on the HPC, then write out to a different format, enabling fast seamless data movement between acquisition and commercial visualisation & analysis software. 
 
