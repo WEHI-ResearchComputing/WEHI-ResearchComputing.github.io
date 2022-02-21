@@ -27,3 +27,44 @@ References
 2. https://nixos.org/ 
 3. https://github.com/nixos/nixpkgs 
 
+# Image Processing Portal set of projects
+
+Advanced microscopes are now capable of producing very large (terabyte scale) datasets in a single imaging session. Migrating, processing, quantifying and visualising these large datasets is a major bottleneck for traditional wet-lab biologists. This project will help create tools to unlock scientific breakthroughs in the fields of developmental biology, cell biology and human disease and infection, by unlocking high performance compute resources and new technologies to an untrained and naïve user audience. 
+
+
+The intention of this proposal is to gain support for the continued development of a suite of open-source tools accessible to all researchers for the purpose of processing & visualising big microscopy data.  This includes establishing the IPP at various universities and institutes both in Australia and Internationally.
+
+Below is a list of available projects for the image processing portal that will leverage existing investment and provide the tools researchers require to manage, process, quantify and visualise their large datasets. 
+
+## User Experience
+
+The unique selling point of the IPP is to make it easy for the researchers to do complex work in a simple environment that is intuitive and easy to use. This project will help to improve the UX of the IPP in a way that benefits others. 
+
+This project would suit a candidate who would like to work on front-end design and coding, and likes to learn the end-user workflow to help streamline and make the user interface intuitive. 
+
+The candidate will be responsible for developing an exceptional and intuitive user centric interface which enables researchers to effortlessly process their datasets. This will include: 
+- Reviewing researcher workflows and understanding the high-level research process
+- Understanding the language and nuance of how researchers currently process this Big Data
+- Converting understanding into design and implementing said design in a way that is effective and efficient
+
+Skills required:
+- Experience with or ability to quickly learn web technologies such as jQuery, Bootstrap, AngularJS
+- Ability to learn high-level complex concepts quickly
+- Ability to work independently
+- Ability to handle an ambiguous and constantly changing environment
+
+## Fast File Converters (Read/Write) 
+
+Existing [Bioformats file readers](https://www.openmicroscopy.org/bio-formats/) are capable of reading many microscopy related, proprietary file formats, however they are often extremely slow and are not optimised for the parallelised environment of High Performance Computing  (HPC).  
+
+This project would suit a candidate who would like to work on making low-level software extremely efficient and effective within a High Performance Computing (HPC) environment. 
+
+The candidate will be responsible for developing parallelized high-speed readers and writers so that we can read file formats from global vendors, process the data on the HPC, then write out to a different format, enabling fast seamless data movement between acquisition and commercial visualisation & analysis software. 
+
+Skills required:
+- Knowledge of the use of or the ability to quickly learn POSIX systems. 
+- Knowledge of the use of or the ability to quickly learn version control systems such as git. 
+- Knowledge of or the ability to quickly learn functional programming skills.
+- Ability to learn high-level complex concepts quickly
+- Ability to work independently
+- Ability to handle an ambiguous and constantly changing environment
