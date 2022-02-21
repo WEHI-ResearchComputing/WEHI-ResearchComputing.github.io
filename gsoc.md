@@ -31,23 +31,7 @@ References
 2. https://nixos.org/ 
 3. https://github.com/nixos/nixpkgs 
 
-## Research Data Workflow Processing - Research Data Engineering
 
-This project would suit a candidate who was interested in data engineering, Extract, Transform, and Load (ETL) and enjoys streamlining complex processes.
-
-WEHI is currently developing its Research Data Management requirements and is evaluating products and tools for a hybrid Research Data Management ecosystem. The candidate will develop an understanding of data flow from either a WEHI scientific instrument or from other organisations and determine how data and metadata should be stored to support FAIR data practices. The key output of the project is a test framework for evaluating the suitability of third party or in-house tools to support complex RDM requirements. 
-
-The candidate will:
-- review data movement and metadata systems like MyTardis, RClone, Mediaflux and other object storage technology, 
-- setup and test these systems and benchmark their speed, maintainability and extensibility,  
-- recommend a system that fulfills current needs and could handle future needs, and if there is time that can also integrate with the RDM ecosystem, 
-- potentially extend the chosen system functionality across command-line, GUI, APIs and web by working closely with researchers and the IT research system administrator. 
-
-Skills required:
-- Experience with or ability to quickly learn web technologies, software versioning, databases and Linux command-line
-- Ability to learn high-level complex concepts quickly
-- Ability to work independently
-- Ability to handle an ambiguous and constantly changing environment
 
 ---
 
