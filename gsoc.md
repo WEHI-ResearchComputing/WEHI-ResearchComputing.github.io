@@ -64,7 +64,7 @@ This project would suit a candidate who would like to work on making low-level s
 The candidate will be responsible for developing parallelized high-speed readers and writers so that we can read file formats from global vendors, process the data on the HPC, then write out to a different format, enabling fast seamless data movement between acquisition and commercial visualisation & analysis software. 
 
 Skills required:
-- Knowledge of the use of or the ability to quickly learn POSIX systems. 
+- Knowledge of the use of or the ability to quickly learn POSIX systems and low-level languages such as C++. 
 - Knowledge of the use of or the ability to quickly learn version control systems such as git. 
 - Knowledge of or the ability to quickly learn functional programming skills.
 - Ability to learn high-level complex concepts quickly
