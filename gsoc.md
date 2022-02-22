@@ -44,6 +44,20 @@ The intention of this proposal is to gain support for the continued development 
 
 Below is a list of available projects for the image processing portal that will leverage existing investment and provide the tools researchers require to manage, process, quantify and visualise their large datasets. 
 
+## Google Colab integration
+
+This project would suit a candidate who is interested in integrating existing open-source web-based tools into a local HPC instance.
+
+Existing image processing tools are available as Google Colab projects providing 	ease of access to challenging processing tasks such as machine learning and deep 	learning packages. This workflow is not suitable for some sensitive datasets, thus 	implementing instances of these packages within the IPP would allow for such 		workflows to be run on local hardware in adherence with funding body policy.  
+
+The candidate would be responsible for developing both the front end interface as well as the back end integration into the HPC job scheduler. 
+
+Skills required: 
+
+- Knowledge of the use of POSIX systems. 
+- Experience with or ability to quickly learn version control systems like git. 
+- Experience with or ability to quickly learn functional programming skills and other programming skills like HTML, Nix/NixOS,and Python.  
+
 ## User Experience - Research Software Engineering
 
 This project would suit a candidate who would like to work on front-end design and coding, and likes to learn the end-user workflow to help streamline and make the user interface intuitive. 
