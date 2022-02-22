@@ -99,7 +99,7 @@ This project would suit a candidate who would like to work on developing and/or 
 
 Performing common image processing tasks on Big Data is often extremely slow using desktop PCs, our goal is to move these tasks to HPC to speed up and simplify the workflow for the end user.  Simple image processing tasks such as user-defined cropping, dimensionality reduction, registration and bleach correction are often already written in various languages and packages, but often are single threaded. 
 
-This candidate for this project would help combine these exiting open-source tools into a parallelisable, multi-threaded image processing toolbox implementation into the IPP.  
+The candidate for this project would help combine these exiting open-source tools into a parallelisable, multi-threaded image processing toolbox implementation into the IPP.  
 
 Tools to be developed may include: 
 - ROI Crop Images using the lightweight image viewer  
@@ -112,3 +112,19 @@ Tools to be developed may include:
  Skills required: 
 - Experience with or ability to quickly learn version control systems like git. 
 - Experience with or ability to quickly learn functional programming skills and other programming skills like HTML, JAVA, JavaScript, Python and C/C++. 
+
+
+## ImageJ/FIJI/Napari macro job submission 
+
+This project would suit a candidate who is interested in developing skills in integrating existing open-source tools through API calls to develop a data-processing pipeline via HPC job submission. 
+
+ImageJ/FIJI is an existing open-source image analysis tool familiar to most biologists, with a large number of active plugins and tools being developed. ImageJ/FIJI has its own macro language (IJM) and can support several other languages such as Java, JavaScript, python and Groovy. Similarly, projects are underway for this type of feature to be implemented in the modern python implementation of image processing viewers, Napari.  
+
+This project would create a page for the Image Processing Portal where users can submit their own code to run in batch mode on their connected files. 
+
+Skills required: 
+
+- Experience with or ability to quickly learn version control systems like git. 
+- Experience with or ability to quickly learn functional programming skills and other programming skills like HTML, JAVA, JavaScript, Python and C/C++. 
+
+
