@@ -76,3 +76,39 @@ Skills required:
 - Ability to learn high-level complex concepts quickly
 - Ability to work independently
 - Ability to handle an ambiguous and constantly changing environment
+
+
+## Lightweight Web-based Multi-dimensional Image Viewer 
+
+This project would suit a candidate who would like to work on combining front end web-based GUI elements with back end high speed HPC data processing tools through use of HPC job submission. 
+
+Handling Big Data has many issues including the ability for users to quickly view n-Dimensional datasets for verification of quality and suitability for further processing.   
+
+UQ has developed an existing tool called “Phoebe” that allows users to non-sequentially scrub through Big Data through the use of HPC resources.  This project would aim to integrate this existing tool into the IPP. 
+
+The candidate would be responsible for developing a lightweight n-dimensional web-based image viewer, which would allow users to scrub through their files to confirm suitability for subsequent processing steps. 
+
+Skills required: 
+- Experience with or ability to quickly learn version control systems like git. 
+- Experience with or ability to quickly learn functional programming skills and other programming skills like HTML, Python and C/C++. 
+
+
+## Image operations
+
+This project would suit a candidate who would like to work on developing and/or optimising existing single threaded code for parallelisation in a HPC environment and learning more about HPC job submission.
+
+Performing common image processing tasks on Big Data is often extremely slow using desktop PCs, our goal is to move these tasks to HPC to speed up and simplify the workflow for the end user.  Simple image processing tasks such as user-defined cropping, dimensionality reduction, registration and bleach correction are often already written in various languages and packages, but often are single threaded. 
+
+This candidate for this project would help combine these exiting open-source tools into a parallelisable, multi-threaded image processing toolbox implementation into the IPP.  
+
+Tools to be developed may include: 
+- ROI Crop Images using the lightweight image viewer  
+- Maximum/Minimum Intensity Projections  
+- Spherical and Chromatic aberration correction 
+- Volumetric Registration & Stitching 
+- 4D image arithmetic manipulations  
+
+
+ Skills required: 
+- Experience with or ability to quickly learn version control systems like git. 
+- Experience with or ability to quickly learn functional programming skills and other programming skills like HTML, JAVA, JavaScript, Python and C/C++. 
