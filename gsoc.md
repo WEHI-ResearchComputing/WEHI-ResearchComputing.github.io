@@ -14,11 +14,14 @@ Bioinformatics as a discipline frequently uses many individual software tools, c
 
 As a result, reproducibility is difficult to achieve due to the large number of components and the complicated dependency structure inherent in both building the software tools and execution of the workflow. A recently proposed solution to the problem, BioNix[1], leverages the Nix[2] functional package management system to both manage the software and execute the workflow. This has allowed an unprecedented level of reproducibility in the field. 
 
-The candidate will be responsible for expressing various bioinformatics processing pipelines in the BioNix workflow framework. The goal is to write a variety of standard processing pipelines within the framework, making typical analysis both easily accessible and highly reproducible to many bioinformatics researchers. This will include: 
+The candidate will be responsible for expressing various bioinformatics processing pipelines in the BioNix workflow framework. The goal is to write a variety of standard processing pipelines within the framework, making typical analysis both easily accessible and highly reproducible to many bioinformatics researchers. 
+
+This will include: 
 - wrapping underlying bioinformatics software that is required and not currently available in nixpkgs[3]; 
 - writing expressions to execute the tools as individual processing stages; 
 - test each stage in isolation to verify functionality and bit-reproducibility; 
 - test whole workflows for functionality. 
+
 
 Skills required: 
 
@@ -31,7 +34,19 @@ References
 2. https://nixos.org/ 
 3. https://github.com/nixos/nixpkgs 
 
+Expected outcomes:
+- Wrapping at least 2 whole bioinformatics workflows with all underlying bioinformatics software using nixpkgs with full testing of each stage and as a whole on two different compute platforms.
 
+Possible Mentors:
+- Justin Bedo
+- Matthew Wakefield
+- Rowland Mosbergen
+
+Expected Size of Project:
+- 350 hours
+
+Difficulty rating:
+- Medium
 
 ---
 
@@ -48,7 +63,7 @@ Below is a list of available projects for the image processing portal that will 
 
 This project would suit a candidate who is interested in integrating existing open-source web-based tools into a local HPC instance.
 
-Existing image processing tools are available as Google Colab projects providing 	ease of access to challenging processing tasks such as machine learning and deep 	learning packages. This workflow is not suitable for some sensitive datasets, thus 	implementing instances of these packages within the IPP would allow for such 		workflows to be run on local hardware in adherence with funding body policy.  
+Existing image processing tools are available as Google Colab projects providing ease of access to challenging processing tasks such as machine learning and deeplearning packages. This workflow is not suitable for some sensitive datasets, thus implementing instances of these packages within the IPP would allow for such workflows to be run on local hardware in adherence with funding body policy.  
 
 The candidate would be responsible for developing both the front end interface as well as the back end integration into the HPC job scheduler. 
 
@@ -57,6 +72,20 @@ Skills required:
 - Knowledge of the use of POSIX systems. 
 - Experience with or ability to quickly learn version control systems like git. 
 - Experience with or ability to quickly learn functional programming skills and other programming skills like HTML, Nix/NixOS,and Python.  
+
+Expected outcomes:
+- Implementing at least 2 image processing Google Colab projects into the IPP with full testing of a sensitive dataset situation on two different compute platforms.
+
+Possible Mentors:
+- Justin Springer
+- Hoang Nguyen
+- Rowland Mosbergen
+
+Expected Size of Project:
+- 350 hours
+
+Difficulty rating:
+- Medium
 
 ## User Experience - Research Software Engineering
 
@@ -75,6 +104,20 @@ Skills required:
 - Ability to work independently
 - Ability to handle an ambiguous and constantly changing environment
 
+Expected outcomes:
+- Improving the UX of the IPP by evaluating, benchmarking, and co-designing with Big Data researcher processing workflow from two or more institutions, then benchmarking the results.
+
+Possible Mentors:
+- Justin Springer
+- Hoang Nguyen
+- Rowland Mosbergen
+
+Expected Size of Project:
+- 350 hours
+
+Difficulty rating:
+- Medium
+
 ## Fast File Converters (Read/Write) - Research Software Engineering
 
 This project would suit a candidate who would like to work on making low-level software extremely efficient and effective within a High Performance Computing (HPC) environment. 
@@ -91,6 +134,19 @@ Skills required:
 - Ability to work independently
 - Ability to handle an ambiguous and constantly changing environment
 
+Expected outcomes:
+- Optimise at least two Bioformats file readers for HPC by benchmarking, evaluating, and re-engineering.
+
+Possible Mentors:
+- Justin Springer
+- Hoang Nguyen
+- Rowland Mosbergen
+
+Expected Size of Project:
+- 350 hours
+
+Difficulty rating:
+- Hard
 
 ## Lightweight Web-based Multi-dimensional Image Viewer 
 
@@ -106,6 +162,19 @@ Skills required:
 - Experience with or ability to quickly learn version control systems like git. 
 - Experience with or ability to quickly learn functional programming skills and other programming skills like HTML, Python and C/C++. 
 
+Expected outcomes:
+- Integrate "Phoebe" into the IPP by evaluating, benchmarking, and potentially re-engineering Big Data researcher processing workflows from two or more institutions.
+
+Possible Mentors:
+- Justin Springer
+- Hoang Nguyen
+- Rowland Mosbergen
+
+Expected Size of Project:
+- 350 hours
+
+Difficulty rating:
+- Medium
 
 ## Image operations
 
@@ -127,6 +196,19 @@ Tools to be developed may include:
 - Experience with or ability to quickly learn version control systems like git. 
 - Experience with or ability to quickly learn functional programming skills and other programming skills like HTML, JAVA, JavaScript, Python and C/C++. 
 
+Expected outcomes:
+- Optimise or develop at least two key image operations into parallelised software that can run in a HPC environment.
+
+Possible Mentors:
+- Justin Springer
+- Hoang Nguyen
+- Rowland Mosbergen
+
+Expected Size of Project:
+- 350 hours
+
+Difficulty rating:
+- Medium
 
 ## ImageJ/FIJI/Napari macro job submission 
 
@@ -141,4 +223,16 @@ Skills required:
 - Experience with or ability to quickly learn version control systems like git. 
 - Experience with or ability to quickly learn functional programming skills and other programming skills like HTML, JAVA, JavaScript, Python and C/C++. 
 
+Expected outcomes:
+- Develop at least two macro job submissoins for ImageJ, FIJI or Napari into the IPP.
 
+Possible Mentors:
+- Justin Springer
+- Hoang Nguyen
+- Rowland Mosbergen
+
+Expected Size of Project:
+- 350 hours
+
+Difficulty rating:
+- Medium
