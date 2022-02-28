@@ -109,6 +109,7 @@ Expected outcomes:
 
 Possible Mentors:
 - James Springfield
+- Nicholas Condon
 - Hoang Nguyen
 - Rowland Mosbergen
 
@@ -138,8 +139,9 @@ Expected outcomes:
 - Optimise at least two Bioformats file readers for HPC by benchmarking, evaluating, and re-engineering.
 
 Possible Mentors:
-- Justin Springer
+- James Springfield
 - Hoang Nguyen
+- Nicholas Condon
 - Rowland Mosbergen
 
 Expected Size of Project:
@@ -166,7 +168,7 @@ Expected outcomes:
 - Integrate "Phoebe" into the IPP by evaluating, benchmarking, and potentially re-engineering Big Data researcher processing workflows from two or more institutions.
 
 Possible Mentors:
-- Justin Springer
+- James Springfield
 - Hoang Nguyen
 - Rowland Mosbergen
 
@@ -227,8 +229,9 @@ Expected outcomes:
 - Develop at least two macro job submissoins for ImageJ, FIJI or Napari into the IPP.
 
 Possible Mentors:
-- Justin Springer
+- James Springfield
 - Hoang Nguyen
+- Nicholas Condon
 - Rowland Mosbergen
 
 Expected Size of Project:
