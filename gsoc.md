@@ -63,7 +63,7 @@ Below is a list of available projects for the image processing portal that will 
 
 This project would suit a candidate who is interested in integrating existing open-source web-based tools into a local HPC instance.
 
-Existing image processing tools are available as Google Colab projects providing ease of access to challenging processing tasks such as machine learning and deeplearning packages. This workflow is not suitable for some sensitive datasets, thus implementing instances of these packages within the IPP would allow for such workflows to be run on local hardware in adherence with funding body policy.  
+Existing image processing tools are available as [Google Colab projects](https://colab.research.google.com/) providing ease of access to challenging processing tasks such as [machine learning and deeplearning packages](https://github.com/HenriquesLab/ZeroCostDL4Mic). This workflow is not suitable for some sensitive datasets, thus implementing instances of these packages within the IPP would allow for such workflows to be run on local hardware in adherence with funding body policy.  
 
 The candidate would be responsible for developing both the front end interface as well as the back end integration into the HPC job scheduler. 
 
@@ -77,7 +77,7 @@ Expected outcomes:
 - Implementing at least 2 image processing Google Colab projects into the IPP with full testing of a sensitive dataset situation on two different compute platforms.
 
 Possible Mentors:
-- Justin Springer
+- James Springfield
 - Hoang Nguyen
 - Rowland Mosbergen
 
@@ -108,7 +108,7 @@ Expected outcomes:
 - Improving the UX of the IPP by evaluating, benchmarking, and co-designing with Big Data researcher processing workflow from two or more institutions, then benchmarking the results.
 
 Possible Mentors:
-- Justin Springer
+- James Springfield
 - Hoang Nguyen
 - Rowland Mosbergen
 
@@ -154,7 +154,7 @@ This project would suit a candidate who would like to work on combining front en
 
 Handling Big Data has many issues including the ability for users to quickly view n-Dimensional datasets for verification of quality and suitability for further processing.   
 
-UQ has developed an existing tool called “Phoebe” that allows users to non-sequentially scrub through Big Data through the use of HPC resources.  This project would aim to integrate this existing tool into the IPP. 
+UQ has developed an existing tool called [“Phoebe”](https://rcc.uq.edu.au/visualisation) that allows users to non-sequentially scrub through Big Data through the use of HPC resources.  This project would aim to integrate this existing tool into the IPP. 
 
 The candidate would be responsible for developing a lightweight n-dimensional web-based image viewer, which would allow users to scrub through their files to confirm suitability for subsequent processing steps. 
 
@@ -214,7 +214,7 @@ Difficulty rating:
 
 This project would suit a candidate who is interested in developing skills in integrating existing open-source tools through API calls to develop a data-processing pipeline via HPC job submission. 
 
-ImageJ/FIJI is an existing open-source image analysis tool familiar to most biologists, with a large number of active plugins and tools being developed. ImageJ/FIJI has its own macro language (IJM) and can support several other languages such as Java, JavaScript, python and Groovy. Similarly, projects are underway for this type of feature to be implemented in the modern python implementation of image processing viewers, Napari.  
+[ImageJ/FIJI](fiji.sc) is an existing open-source image analysis tool familiar to most biologists, with a large number of active plugins and tools being developed. ImageJ/FIJI has its own macro language [(IJM)](https://imagej.nih.gov/ij/docs/macro_reference_guide.pdf) and can support several other languages such as Java, JavaScript, python and Groovy. Similarly, projects are underway for this type of feature to be implemented in the modern python implementation of image processing viewers, [Napari](https://napari.org/).  
 
 This project would create a page for the Image Processing Portal where users can submit their own code to run in batch mode on their connected files. 
 
