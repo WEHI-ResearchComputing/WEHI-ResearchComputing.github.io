@@ -55,4 +55,7 @@ This projects looks to improve on Haemosphere, which is like a web-based pocket 
 This project looks to improve on LoxCodeR, a way of barcoding stem cells to follow how they differentiate to form other types of cells.
 
 
+
+## Other projects
+
 There are more projects on the [Google Summer of Code](gsoc) page that could be brought into our standard student internship program.
