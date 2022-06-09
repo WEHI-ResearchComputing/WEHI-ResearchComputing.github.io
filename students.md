@@ -54,6 +54,8 @@ This projects looks to improve on Haemosphere, which is like a web-based pocket 
 ### LoxCodeR - Data Science
 This project looks to improve on LoxCodeR, a way of barcoding stem cells to follow how they differentiate to form other types of cells.
 
+### cryo-EM - Software Engineering
+This project looks to report and analyse Big Data cryo-EM workflows and use machine learning to inform future experimental design.
 
 
 ## Other projects
