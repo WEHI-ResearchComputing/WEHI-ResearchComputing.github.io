@@ -60,6 +60,8 @@ This project looks to report and analyse Big Data cryo-EM workflows and use mach
 ### BioNix - Software Engineering
 This project helps with reproducibility in the field of Bioinformatics. For more details see [BioNix project](student-bionix).
 
+### Imaging - Software Engineering and Data Science
+This project helps with the current work around automated processing to the High Performance Compute. For more details see [Imaging project](student-imaging).
 
 ## Other projects
 
