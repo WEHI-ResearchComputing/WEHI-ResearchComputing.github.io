@@ -63,6 +63,10 @@ This project helps with reproducibility in the field of Bioinformatics. For more
 ### Imaging - Software Engineering and Data Science
 This project helps with the current work around automated processing to the High Performance Compute. For more details see [Imaging project](student-imaging).
 
+### Immunology modelling 
+
+This project helps with enhancing the framework API for agent-based modelling in Immunology. For more details see [Immunology modelling project](student-immunology-modelling)
+
 ## Other projects
 
 There are more projects on the [Google Summer of Code](gsoc) page that could be brought into our standard student internship program.
