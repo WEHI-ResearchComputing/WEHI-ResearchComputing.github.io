@@ -57,7 +57,7 @@ This projects looks to improve on Haemosphere, which is like a web-based pocket 
 This project looks to improve on LoxCodeR, a way of barcoding stem cells to follow how they differentiate to form other types of cells.
 
 ### cryo-EM - Software Engineering
-This project looks to report and analyse Big Data cryo-EM workflows and use machine learning to inform future experimental design.
+This project looks to report and analyse Big Data cryo-EM workflows and use machine learning to inform future experimental design. For more details see [cryoEM project.](student-cryoem)
 
 ### Capacity Planning (Storage) - Data Science
 This project looks to create models to forecast capacity and create dashboards to demonstrate current usage and help make informed decisions for storage at WEHI.  
