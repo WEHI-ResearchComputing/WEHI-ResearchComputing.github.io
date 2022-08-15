@@ -36,6 +36,15 @@ We thank all our students for the effort they have done and look forward to meet
 
 Here are some of the recurring projects we are working on:
 
+### BioNix - Software Engineering
+This project helps with reproducibility in the field of Bioinformatics. For more details see [BioNix project](student-bionix).
+
+### Imaging - Software Engineering and Data Science
+This project helps with the current work around automated processing to the High Performance Compute. For more details see [Imaging project](student-imaging).
+
+### Immunology modelling 
+This project helps with enhancing the framework API for agent-based modelling in Immunology. For more details see [Immunology modelling project](student-immunology-modelling)
+
 ### Capacity Planning (Storage) - Data Science
 This project looks to create models to forecast capacity and create dashboards to demonstrate current usage and help make informed decisions for storage at WEHI.  
 
@@ -57,15 +66,7 @@ This project looks to improve on LoxCodeR, a way of barcoding stem cells to foll
 ### cryo-EM - Software Engineering
 This project looks to report and analyse Big Data cryo-EM workflows and use machine learning to inform future experimental design.
 
-### BioNix - Software Engineering
-This project helps with reproducibility in the field of Bioinformatics. For more details see [BioNix project](student-bionix).
 
-### Imaging - Software Engineering and Data Science
-This project helps with the current work around automated processing to the High Performance Compute. For more details see [Imaging project](student-imaging).
-
-### Immunology modelling 
-
-This project helps with enhancing the framework API for agent-based modelling in Immunology. For more details see [Immunology modelling project](student-immunology-modelling)
 
 ## Other projects
 
