@@ -57,6 +57,9 @@ This project looks to improve on LoxCodeR, a way of barcoding stem cells to foll
 ### cryo-EM - Software Engineering
 This project looks to report and analyse Big Data cryo-EM workflows and use machine learning to inform future experimental design.
 
+### BioNix - Software Engineering
+This project helps with reproducibility in the field of Bioinformatics. For more details see [BioNix project](student-bionix).
+
 
 ## Other projects
 
