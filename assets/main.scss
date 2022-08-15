@@ -8,7 +8,7 @@
 pre, code, .highlighter-rouge .highlight { background-color: #f8f8f8; }
 
 // Add logo to masthead
-.site-title::before {
+h1 a::before {
 	content: url("/assets/wehi-logo-2020.png");
 	display: inline-block;
 	position: relative;
