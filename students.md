@@ -38,7 +38,7 @@ Here are some of the recurring projects we are working on:
 
 
 
-### Imaging - Software Engineering and Data Science
+### Imaging - Data Science or Software Engineering
 This project helps with the current work around automated processing to the High Performance Compute. For more details see [Imaging project](student-imaging).
 
 ### Immunology modelling - Data Science or Software Engineering
@@ -50,19 +50,19 @@ This project helps to setup foundational infrastructure for adding visualisation
 ### BioNix - Software Engineering
 This project helps with reproducibility in the field of Bioinformatics. For more details see [BioNix project](student-bionix).
 
-### Haemosphere - Software Engineering
+### Haemosphere - Data Science or Software Engineering
 This projects looks to improve on Haemosphere, which is like a web-based pocket dictionary for visualising and comparing genomic blood datasets.
 
-### LoxCodeR - Data Science
+### LoxCodeR - Data Science of Software Engineering
 This project looks to improve on LoxCodeR, a way of barcoding stem cells to follow how they differentiate to form other types of cells.
 
-### cryo-EM - Software Engineering
+### cryo-EM - Data Science or Software Engineering
 This project looks to report and analyse Big Data cryo-EM workflows and use machine learning to inform future experimental design. For more details see [cryoEM project.](student-cryoem)
 
-### Capacity Planning (Storage) - Data Science
+### Capacity Planning (Storage) - Data Science or Software Engineering
 This project looks to create models to forecast capacity and create dashboards to demonstrate current usage and help make informed decisions for storage at WEHI.  
 
-### Capacity Planning (Compute) - Data Science
+### Capacity Planning (Compute) - Data Science or Software Engineering
 This project looks to create models to forecast capacity and create dashboards to demonstrate current usage and help make informed decisions for compute at WEHI.
 
 ### Research Data Workflow Processing - Software Engineering
