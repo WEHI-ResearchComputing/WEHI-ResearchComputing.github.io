@@ -46,7 +46,7 @@ This project helps with the current work around automated processing to the High
 This project helps with enhancing the framework API for agent-based modelling in Immunology. For more details see [Immunology modelling project](student-immunology-modelling)
 
 ### Clinical Dashboards - Data Science or Software Engineering
-This project helps to setup foundational infrastructure for adding visualisation dashboards for clinically-adjacent data. For more details see [Clinical Dashboards project.(student-clinical-dashboards)
+This project helps to setup foundational infrastructure for adding visualisation dashboards for clinically-adjacent data. For more details see [Clinical Dashboards project.](student-clinical-dashboards)
 
 ### Capacity Planning (Storage) - Data Science
 This project looks to create models to forecast capacity and create dashboards to demonstrate current usage and help make informed decisions for storage at WEHI.  
