@@ -4,7 +4,7 @@ RCP regularly provides student internship opportunities through the University o
 
 We will be looking at Google Summer of Code and Outreachy in the near future.
 
-We use our own version of this [student expectations document](https://www.practicaldiversity.org/2022/01/19/student-expectations-document/) as we want to ensure that our students get the best experience possible.
+To understand more about the program, you can download and read the [RCP Student Internship Program Handbook.](/RDM-0220-RCP-Student-Internship-Handbook.pdf) 
 
 ## Stories from students and hosts
 
