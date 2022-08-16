@@ -2,8 +2,6 @@
 
 RCP regularly provides student internship opportunities through the University of Melbourne Data Science and Software Engineering programs.
 
-We will be looking at Google Summer of Code and Outreachy in the near future.
-
 To understand more about the program, you can download and read the [RCP Student Internship Program Handbook.](/RDM-0220-RCP-Student-Internship-Handbook.pdf) 
 
 
