@@ -2,7 +2,7 @@
 
 The Research Computing Platform is based in the Computational Biology theme.
 
-At Research Computing Platform we are interested in research software engineering and research software support for WEHI researchers. We always appreciate comments and feedback on how we can better support more researchers.
+At Research Computing Platform our mission is to create a collaborative, multi-disciplinary platform that supports and advocates for WEHI researchers and their computational research.
 
 We provide [student internship opportunities](students) through the University of Melbourne for Data Science and Software Engineering. To understand more about the program, you can download and read the [RCP Student Internship Program Handbook.](/RDM-0220-RCP-Student-Internship-Handbook.pdf) 
 
