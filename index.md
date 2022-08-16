@@ -4,7 +4,33 @@ The Research Computing Platform is based in the Computational Biology theme.
 
 At Research Computing Platform we are interested in research software engineering and research software support for WEHI researchers. We always appreciate comments and feedback on how we can better support more researchers.
 
-We provide [student internship opportunities](students) through the University of Melbourne for Data Science and Software Engineering, and are looking at the [Google Summer of Code](gsoc) and Outreachy. 
+We provide [student internship opportunities](students) through the University of Melbourne for Data Science and Software Engineering. To understand more about the program, you can download and read the [RCP Student Internship Program Handbook.](/RDM-0220-RCP-Student-Internship-Handbook.pdf) 
+
+## Stories from students and hosts
+
+Here is a story from one of our newsletters in November 2021:
+
+Recently, WEHI has started an initiative of student internships from the Masters of Data Science and Masters of Engineering courses at the University of Melbourne. We see this as an opportunity to reach out to the new generation of software engineers and data scientists and give them a hands-on experience in medical research by collaborating with researchers. 
+
+The Naik lab collaboration had multiple students working on extending their LoxCodeR Shiny app. Our collaboration with the Hilton lab included a student working on migrating Haemosphere to Python 3 and improving the underlying software infrastructure. We also initiated an internal project for data storage capacity planning. 
+
+One of the challenges that the students faced was the complexity of the biology. But as the internships continued, they found ways to solve this. 
+
+“Students were intially worried as the biology was too complex and overwhelming. But they found that while they have to understand the high-level biology, once they combine that with looking at the code and the data, everything tends to make more sense and they can be more productive.” says Rowland Mosbergen, a member of the Research Computing Platform. “It is more important that students have an openness to learn, and critical thinking to put everything together, than it is to have a deep background in biology”. 
+
+It is safe to say that the results have been appreciated both by students and collaborators. 
+
+Dr Carolyn de Graaf from the Hilton lab worked with Nirmala Dhanawada (Masters of Information technology) on the Haemosphere project and had this to say about the program. 
+
+"I am so pleased that you thought of Haemosphere for this program. It is hard to get the resources to maintain software after it has been published, but I will sleep better at night knowing that the code has been updated and is more stable. "
+
+Kush Garg from the Master of Data Science worked on the data storage capacity planning project and had this to say about his time at WEHI. 
+
+"I would like to express my gratitude for all the support and guidance throughout this internship. 
+
+Also, it has been a great time working at WEHI. I learnt a lot in terms of real-world experience and starting a new project. The discussions and presentations helped me to improve my communication skills, develop curiosity around the problem statement and solutions." 
+
+We thank all our students for the effort they have done and look forward to meeting future students. 
 
 <ul>
   {% for post in site.posts %}
