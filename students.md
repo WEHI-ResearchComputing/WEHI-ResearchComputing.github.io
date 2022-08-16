@@ -60,11 +60,8 @@ This project looks to improve on LoxCodeR, a way of barcoding stem cells to foll
 ### Haemosphere - Data Science or Software Engineering
 This projects looks to improve on Haemosphere, which is like a web-based pocket dictionary for visualising and comparing genomic blood datasets. For more details see [Haemosphere project.](student-haemosphere)
 
-### Capacity Planning (Storage) - Data Science or Software Engineering
-This project looks to create models to forecast capacity and create dashboards to demonstrate current usage and help make informed decisions for storage at WEHI.  
-
-### Capacity Planning (Compute) - Data Science or Software Engineering
-This project looks to create models to forecast capacity and create dashboards to demonstrate current usage and help make informed decisions for compute at WEHI.
+### Capacity Planning (Storage and Compute) - Data Science or Software Engineering
+This project looks to create models to forecast capacity and create dashboards to demonstrate current usage and help make informed decisions for storage and compute at WEHI. For more details see [Capacity Planning Storage and Compute project.](student-capacity-planning.md)
 
 ### Research Data Workflow Processing - Software Engineering
 This project looks to define Research Data Management workflows and use them to benchmark High Performance Compute on WEHI infrastructure and beyond.
