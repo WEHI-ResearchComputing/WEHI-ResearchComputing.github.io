@@ -1,6 +1,6 @@
 # Students
 
-RCP regularly provides student internship opportunities through the University of Melbourne Data Science and Software Engineering programs.
+The WEHI Research Computing Platform regularly provides student internship opportunities through the University of Melbourne Data Science and Software Engineering programs.
 
 To understand more about the program, you can download and read the [RCP Student Internship Program Handbook.](/RDM-0220-RCP-Student-Internship-Handbook.pdf) 
 
