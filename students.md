@@ -31,7 +31,7 @@ This project helps with reproducibility in the field of Bioinformatics. For more
 ### cryo-EM - Data Science or Software Engineering
 This project looks to report and analyse Big Data cryo-EM workflows and use machine learning to inform future experimental design. For more details see [cryoEM project.](student-cryoem)
 
-### LoxCodeR - Data Science of Software Engineering
+### LoxCodeR - Data Science or Software Engineering
 This project looks to improve on LoxCodeR, a way of barcoding stem cells to follow how they differentiate to form other types of cells. For more details see [LoxCode project.](student-loxcoder)
 
 ### Haemosphere - Data Science or Software Engineering
