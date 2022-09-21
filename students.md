@@ -26,6 +26,19 @@ Software engineering is focused on systematising analysis or tools that help us 
 
 Sometimes our projects can involve all these aspects if you are interested enough!
 
+### 3. Can you tell me a story about learning a new concept quickly?
+
+This might be starting a new job, or a new course and learning the language and the nuances of this new environment.
+
+### 4. Can you tell me a story about learning a new technical skill quickly?
+
+This might be learning a new programming language or new technology in a short amount of time.
+
+### 5. Do you have any questions about the program?
+
+Please let us know if you have any questions about the program that aren't answered in the [RCP Student Internship Program Handbook.](/RDM-0220-RCP-Student-Internship-Handbook.pdf) 
+
+
 
 ## List of projects
 
