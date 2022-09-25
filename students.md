@@ -10,7 +10,7 @@ To understand more about the program, you can download and read the [RCP Student
 
 ## Key Questions you should ask yourself
 
-To help understand your interests and identify potential projects, there are two questions we ask: 
+To help understand your interests and identify potential projects, there are five questions we ask you to answer in your cover letter: 
 
 ### 1. Would you prefer to work in the research domain or the professional domain?
 
