@@ -6,7 +6,7 @@ At Research Computing Platform our mission is to create a collaborative, multi-d
 
 We provide [student internship opportunities](students) through the University of Melbourne for Data Science and Software Engineering. To understand more about the program, you can download and read the [RCP Student Internship Program Handbook.](/RDM-0220-RCP-Student-Internship-Handbook.pdf) 
 
-[![Handbook cover that shows WEHI logo and blue dots interconnected with lines](/assets/handbook_cover.png){:height="100px" style="float:left;"}](/RDM-0220-RCP-Student-Internship-Handbook.pdf) 
+[![Handbook cover that shows WEHI logo and blue dots interconnected with lines](/assets/handbook_cover.png){:height="400px" style=""}](/RDM-0220-RCP-Student-Internship-Handbook.pdf) 
 
 ## Stories from the RCP
 
