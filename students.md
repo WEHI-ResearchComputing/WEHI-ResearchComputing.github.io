@@ -56,6 +56,10 @@ This project helps to setup foundational infrastructure for adding visualisation
 ### Genomics Quality Control - Research - Software Engineering
 This project helps to setup infrastructure to collate and display Quality Control (QC) information from Genomics workflows. For more details see [Genomics Quality Control project.](student-genomics-qc)
 
+### Genomics Metadata Multiplexing - Research - Software Engineering
+This project helps to setup infrastructure to keep track of what happens to a sample once it reaches the Genomics Facility. For more details see [Genomics Metadata Multiplexing project.](students-genomics-metadata.md) 
+
+
 ### BioNix - Research - Software Engineering
 This project helps with reproducibility in the field of Bioinformatics. For more details see [BioNix project](student-bionix).
 
