@@ -8,8 +8,6 @@ We mainly work with projects that use R and Shiny, Python, Julia, bash, while al
 
 To understand more about the program, you can download and read the [RCP Student Internship Program Handbook.](/RDM-0220-RCP-Student-Internship-Handbook.pdf)
 
-[![Photo of student intern discussing student internships at WEHI](/assets/youran.png)]([https://www.youtube.com/watch?v=QVMrIFLXOFw](https://www.youtube.com/watch?v=QVMrIFLXOFw))
-
 ## Key Questions you should ask yourself
 
 To help understand your interests and identify potential projects, there are five questions we ask you to answer in your cover letter: 
