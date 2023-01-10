@@ -6,7 +6,7 @@ Our users include computational biologists, molecular biologists and bioinformat
 
 - improve specific aspects of the package (e.g increase coverage for unit tests, trouble-shoot bugs or provide new features requested by users, improve code quality, develop new graphics)
 - improve our existing tutorials and develop new ones on www.mixOmics.org
-- respond to users questions on our discussion forum at https://mixomics-users.discourse.group/ (this would require a good mastery of the methods and would only apply towards the end of the internship)
+- if there is an appropriate opportunity and motivation, respond to users questions on our discussion forum at https://mixomics-users.discourse.group. This is because it would require a good mastery of the methods and would only apply towards the end of the internship.
 
 After the (steep) learning phase, there will be opportunities for students to propose new features and functionalities in the package if they wish.
 
