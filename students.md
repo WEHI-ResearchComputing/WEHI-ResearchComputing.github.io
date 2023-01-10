@@ -59,7 +59,6 @@ This project helps to setup infrastructure to collate and display Quality Contro
 ### Genomics Metadata Multiplexing - Research - Software Engineering
 This project helps to setup infrastructure to keep track of what happens to a sample once it reaches the Genomics Facility. For more details see [Genomics Metadata Multiplexing project.](students-genomics-metadata.md) 
 
-
 ### BioNix - Research - Software Engineering
 This project helps with reproducibility in the field of Bioinformatics. For more details see [BioNix project](student-bionix).
 
@@ -82,3 +81,6 @@ This project looks to define Research Data Management workflows and use them to 
 ## Other projects
 
 There are more projects on the [Google Summer of Code](gsoc) page that could be brought into our standard student internship program.
+
+### mixOmics - Research - Data Science or Software Engineering
+This projects looks to improve the mixOmics toolkit, an R package dedicated to the statistical integration of omics data sets. For more details see  [mixOmics project.](students-mixOmics.md) 
