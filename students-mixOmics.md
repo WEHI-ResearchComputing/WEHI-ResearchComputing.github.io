@@ -1,31 +1,31 @@
-# Genomics Metadata Multiplexing Student Intern Project
+# mixOmics Student Intern Project
 
-Core sequencing facilities, such as WEHI Genomics, process hundreds of sequencing runs every year. They have to keep track of the how samples are merged (multiplexed) so that they can be uncoupled (demultiplexed) after the sample has been digitised (sequenced) through the sequencing machine. This is a type of metadata. 
+mixOmics is a large R package that provides statistical methods to integrate omics data sets (e.g transcriptomics, proteomics, metabolomics, metagenomics) that simultaneously measure the activity of thousands of biological features (e.g transcripts, proteins, metabolites, bacteria). Data integration enables identification of specific biological relationships between these features (e.g. genes and proteins), to create new insights into molecular processes involved in health and disease. MixOmics includes 19 data integration methods, amongst which 13 were developed in our lab. These methods are all based on dimension reduction using Projection to Latent Structures (PLS).
 
-While this allows the sequencing facility to save money by processing samples in bulk, the ability to keep track of these multiplexes is complicated. This is especially significant because there is no resourcing to provide an assistant to be able to check the quality all the metadata at the time of multiplexing. 
+Our users include computational biologists, molecular biologists and bioinformaticians who wish to integrate their data and identify signatures of genes, proteins etc. to explain or predict a disease outcome. The package (ranked in the top 5% package in Bioconductor) is easy to use because all methods use the same underlying PLS principles and produce numerous graphics for interpretation (Fig. 1). We continuously improve the mixOmics package based on the community feedback. As this is a large project, the internship requires complementary skillsets to:
 
-Just like a dental assistant, we need the ability to digitally record and check the quality of the demultiplexing information made by the sequencing facility staff member. We can do this by using machine learning and voice activated controls.  
+- improve specific aspects of the package (e.g increase coverage for unit tests, trouble-shoot bugs or provide new features requested by users, improve code quality, develop new graphics)
+- improve our existing tutorials and develop new ones on www.mixOmics.org
+- respond to users questions on our discussion forum at https://mixomics-users.discourse.group/ (this would require a good mastery of the methods and would only apply towards the end of the internship)
 
-We will propose to do a proof-of-concept to help track multiplexing and other sample transformations as part of the WEHI Genomics facility. 
+After the (steep) learning phase, there will be opportunities for students to propose new features and functionalities in the package if they wish.
 
-The proof-of-concept could be an iPad or Android tablet that has a combination of voice in manual inputs that keeps track of changes that the staff member does. This could then be exported into a format that could be connected to a sample database or another API. Machine Learning tools such as [Talon](https://github.com/nix-community/talon-nix) could be reviewed as part of this project. 
+Figure 1. Overview of the methods in mixOmics for data exploration and integration of multiple omics data sets (courtesy of Prof. Lê Cao)
 
-The Research Software Engineer Intern role will: 
-- work closely with researchers to identify their needs around capturing metadata by voice or manual input 
-- Review the options available for building a proof-of-concept application based on maintainability and extensibility 
-- Implement, build, or trial applications to test fit-for-purpose 
+Skills and Pre-requisites:
 
-There is also a fair amount of flexibility with this project to allow the student to inject their own ideas and introduce new features and functionality. 
+- Very good knowledge of R and Linux command-line
+- Ability to learn and understand high-level statistical concepts quickly
+- Ability to work independently and to report to a group and discuss theories and results
+- Excellent skills in statistical analysis of complex data
+- Ability to work with github
+- Ability to interact with users
+- Interest in biological applications
 
-Skills and Pre-requisites: 
-- Basic knowledge or ability to learn quickly Java/Javascript/CSS, databases and Linux command-line 
-- Ability to learn and understand high-level concepts quickly 
-- Ability to work independently and to report to a group and discuss theories and results 
-- Good analytical skills 
-- Working with git would be an advantage 
-
-Benefits for students whilst undertaking the internship include: 
-- Each student will get hands on experience in working in an emerging research software environment within a highly regarded medical research institute. 
-- Gain understanding of how real-world software is assessed, developed and how priorities and requirements are established within a research environment. 
-- Gain understanding of the importance of maintainable, scalable and extensible code. 
-- Improving oral and written communication skills in a team environment. 
+Benefits for students whilst undertaking the internship include:
+- Each student will get hands on experience in working in an emerging research software environment.
+- Gain understanding of how real-world software is assessed, developed and how priorities and requirements are established within a research environment.
+- Gain understanding of the importance of maintainable, scalable and extensible code.
+- Improving oral and written communication skills in a team environment.
+- Learn about new statistical methods for mining large data
+- Learn about high-throughput biology
