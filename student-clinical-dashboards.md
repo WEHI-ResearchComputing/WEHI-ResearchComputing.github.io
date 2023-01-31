@@ -2,6 +2,8 @@
 
 WEHI is currently looking at how to take clinical data from databases and create visualisations and dashboards to help administrators and clinicians explore the data. 
 
+Supervisors: Rowland Mosbergen, Ashley Ng, Siavash Foroughi
+
 The Research Data Engineer Intern role will:  
 - help create or gather synthetic datasets to allow for open collaboration, 
 - identify generic and specific visualisations that would help administrators and clinicians explore the data,
