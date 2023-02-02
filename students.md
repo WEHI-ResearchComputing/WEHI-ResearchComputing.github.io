@@ -78,7 +78,7 @@ This project looks to create models to forecast capacity and create dashboards
 
 ### Research Data Workflow Processing - Research -  Software Engineering
 This project looks to define Research Data Management workflows and use them to benchmark High Performance Compute on WEHI infrastructure and beyond.
-
+To learn more about it, please read the presentation, [Benchmarking domain-specific research workflow solutions at an international level](https://figshare.com/articles/presentation/Benchmarking_domain-specific_research_workflow_solutions_at_an_international_level/21259425)
 
 ## Other projects
 
