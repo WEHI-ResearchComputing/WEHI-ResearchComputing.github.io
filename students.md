@@ -49,14 +49,8 @@ Here are some of the recurring projects and new projects we are working on:
 ### Imaging - Research - Data Science or Software Engineering
 This project helps with the current work around automated processing of images from microscopes to the High Performance Compute. For more details see [Imaging project](student-imaging).
 
-### Immunology modelling - Research - Data Science or Software Engineering
-This project helps with enhancing the framework API for agent-based modelling in Immunology. For more details see [Immunology modelling project](student-immunology-modelling)
-
 ### Clinical Dashboards - Research - Data Science or Software Engineering
 This project helps to setup foundational infrastructure for adding visualisation dashboards for clinically-adjacent data. For more details see [Clinical Dashboards project.](student-clinical-dashboards)
-
-### Genomics Quality Control - Research - Software Engineering
-This project helps to setup infrastructure to collate and display Quality Control (QC) information from Genomics workflows. For more details see [Genomics Quality Control project.](student-genomics-qc)
 
 ### Genomics Metadata Multiplexing - Research - Software Engineering
 This project helps to setup infrastructure to keep track of what happens to a sample once it reaches the Genomics Facility. For more details see [Genomics Metadata Multiplexing project.](students-genomics-metadata.md) 
@@ -64,17 +58,22 @@ This project helps to setup infrastructure to keep track of what happens to a sa
 ### BioNix - Research - Software Engineering
 This project helps with reproducibility in the field of Bioinformatics. For more details see [BioNix project](student-bionix).
 
+## Potential Projects that are dependent on various factors
+
 ### cryo-EM - Research - Data Science or Software Engineering
 This project looks to report and analyse Big Data cryo-EM workflows and use machine learning to inform future experimental design. For more details see [cryoEM project.](student-cryoem)
-
-### LoxCodeR - Research - Data Science or Software Engineering
-This project looks to improve on LoxCodeR, a way of barcoding stem cells to follow how they differentiate to form other types of cells. For more details see [LoxCode project.](student-loxcoder)
 
 ### Haemosphere - Research - Data Science or Software Engineering
 This projects looks to improve on Haemosphere, which is like a web-based pocket dictionary for visualising and comparing genomic blood datasets. For more details see [Haemosphere project.](student-haemosphere)
 
-### Capacity Planning (Storage and Compute) - Professional - Data Science or Software Engineering
-This project looks to create models to forecast capacity and create dashboards to demonstrate current usage and help make informed decisions for storage and compute at WEHI. For more details see [Capacity Planning Storage and Compute project.](student-capacity-planning.md)
+### Immunology modelling - Research - Data Science or Software Engineering
+This project helps with enhancing the framework API for agent-based modelling in Immunology. For more details see [Immunology modelling project](student-immunology-modelling)
+
+### Genomics Quality Control - Research - Software Engineering
+This project helps to setup infrastructure to collate and display Quality Control (QC) information from Genomics workflows. For more details see [Genomics Quality Control project.](student-genomics-qc)
+
+### LoxCodeR - Research - Data Science or Software Engineering
+This project looks to improve on LoxCodeR, a way of barcoding stem cells to follow how they differentiate to form other types of cells. For more details see [LoxCode project.](student-loxcoder)
 
 ### Research Data Workflow Processing - Research -  Software Engineering
 This project looks to define Research Data Management workflows and use them to benchmark High Performance Compute on WEHI infrastructure and beyond.
@@ -86,3 +85,9 @@ There are more projects on the [Google Summer of Code](gsoc) page that could be 
 
 ### mixOmics - Research - Data Science or Software Engineering
 This projects looks to improve the mixOmics toolkit, an R package dedicated to the statistical integration of omics data sets. For more details see  [mixOmics project.](students-mixOmics.md) 
+
+## Previous projects
+
+
+### Capacity Planning (Storage and Compute) - Professional - Data Science or Software Engineering
+This project looks to create models to forecast capacity and create dashboards to demonstrate current usage and help make informed decisions for storage and compute at WEHI. For more details see [Capacity Planning Storage and Compute project.](student-capacity-planning.md)
