@@ -6,7 +6,12 @@ Many of the projects work in the Data Analysis and [Research Software Engineerin
 
 We mainly work with projects that use R and Shiny, Python, Julia, bash, while also making the most out of other technologies such as RStudio, Jupyter notebooks, PowerBI and other applications within the data analytics space.
 
-To understand more about the program, you can download and read the [RCP Student Internship Program Handbook](/RDM-0220-RCP-Student-Internship-Handbook.pdf), or you can listen to two students talk about their projects (click image below).
+To understand more about the program, you can download and read the [RCP Student Internship Program Handbook](/RDM-0220-RCP-Student-Internship-Handbook.pdf), 
+
+
+[![Handbook cover that shows WEHI logo and blue dots interconnected with lines](/assets/handbook_cover.png){:height="400px" style=""}](/RDM-0220-RCP-Student-Internship-Handbook.pdf) 
+
+or you can listen to two students talk about their projects (click image below).
 
 [![Symposium image of four people on a virtual call](/assets/symposium.jpeg){:width="400px"}](https://www.youtube.com/watch?v=QVMrIFLXOFw)
 
