@@ -10,17 +10,21 @@ To understand more about the program, you can download and read the [RCP Student
 
 [![Symposium image of four people on a virtual call](/assets/symposium.jpeg){:width="400px"}](https://www.youtube.com/watch?v=QVMrIFLXOFw)
 
-## Key Questions you should ask yourself
+## Suggestions for your Application 
+
+We suggest that you write a 1 page cover letter introducing yourself. We also have [material on how to write a good cover letter and what to look for when you are writing a resume](https://doi.org/10.6084/m9.figshare.21057535.v2).
+
+### Key Questions you should ask yourself
 
 To help understand your interests and identify potential projects, there are five questions we ask you to answer in your cover letter: 
 
-### 1. Would you prefer to work in the research domain or the professional domain?
+#### 1. Would you prefer to work in the research domain or the professional domain?
 
 The projects in research are more complex than the professional ones, for those who love a challenge, are interested in biology, and are confident they can learn technical and conceptual ideas quickly.
 
 The professional ones are more for those who want experience that might be aligned to business and are confident they can learn technical and conceptual ideas relatively quickly.
 
-### 2. Would you prefer to do data engineering, data analysis, or software engineering?
+#### 2. Would you prefer to do data engineering, data analysis, or software engineering?
 
 Data engineering is focused on streamlining and cleaning data systematically.
 Data analysis is focused on cleaning data and analysing it using statistical or machine learning algorithms.
@@ -28,15 +32,15 @@ Software engineering is focused on systematising analysis or tools that help us 
 
 Sometimes our projects can involve all these aspects if you are interested enough!
 
-### 3. Can you tell me a story about learning a new concept quickly?
+#### 3. Can you tell me a story about learning a new concept quickly?
 
 This might be starting a new job, or a new course and learning the language and the nuances of this new environment.
 
-### 4. Can you tell me a story about learning a new technical skill quickly?
+#### 4. Can you tell me a story about learning a new technical skill quickly?
 
 This might be learning a new programming language or new technology in a short amount of time.
 
-### 5. Do you have any questions about the program?
+#### 5. Do you have any questions about the program?
 
 Please let us know if you have any questions about the program that aren't answered in the [RCP Student Internship Program Handbook.](/RDM-0220-RCP-Student-Internship-Handbook.pdf) 
 
