@@ -19,6 +19,10 @@ or you can listen to two students talk about their projects (click image below).
 
 We suggest that you write a 1 page cover letter introducing yourself. We also have [material on how to write a good cover letter and what to look for when you are writing a resume](https://doi.org/10.6084/m9.figshare.21057535.v2).
 
+### How to Apply
+
+As of Semester 2, 2023, to be eligible you must [fill out the RCP Student Internship Enrollment form](https://forms.monday.com/forms/000959eede6191bb6ab7faf916483739?r=use1). This takes precedence over any other application method. 
+
 ### Key Questions you should ask yourself
 
 To help understand your interests and identify potential projects, there are five questions we ask you to answer in your cover letter: 
