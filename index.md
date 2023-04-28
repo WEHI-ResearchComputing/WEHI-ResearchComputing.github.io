@@ -4,9 +4,9 @@ The Research Computing Platform (RCP) is based in the Computational Biology them
 
 At Research Computing Platform our mission is to create a collaborative, multi-disciplinary platform that supports and advocates for WEHI researchers and their computational research.
 
-We provide [student internship opportunities](students) through the University of Melbourne for Data Science and Software Engineering. To understand more about the program, you can download and read the [RCP Student Internship Program Handbook.](/RDM-0220-RCP-Student-Internship-Handbook.pdf) 
+We provide [student internship opportunities](students) through the University of Melbourne for Data Science and Software Engineering. To understand more about the program, you can download and read the [RCP Student Internship Program Handbook.](https://figshare.com/articles/presentation/Research_Computing_Platform_Student_Internship_Handbook/21259467) 
 
-[![Handbook cover that shows WEHI logo and blue dots interconnected with lines](/assets/handbook_cover.png){:height="400px" style=""}](/RDM-0220-RCP-Student-Internship-Handbook.pdf) 
+[![Handbook cover that shows WEHI logo and blue dots interconnected with lines](/assets/handbook_cover.png){:height="400px" style=""}]([/RDM-0220-RCP-Student-Internship-Handbook.pdf](https://figshare.com/articles/presentation/Research_Computing_Platform_Student_Internship_Handbook/21259467)) 
 
 ## Stories from the RCP
 
