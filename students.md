@@ -75,6 +75,10 @@ This project helps with reproducibility in the field of Bioinformatics. For more
 
 ## Potential Projects that are dependent on various factors
 
+### Immunology Web Application - Research - Software Engineering
+
+This project looks to make Cyton, a sophisticated mathematical model, accessible to the scientific community by creating a web application that researchers can access with their browsers from anywhere in the world. For more details see [Immunology Web Application project.](student-immunology-web-application)
+
 ### cryo-EM - Research - Data Science or Software Engineering
 This project looks to report and analyse Big Data cryo-EM workflows and use machine learning to inform future experimental design. For more details see [cryoEM project.](student-cryoem)
 
@@ -98,11 +102,12 @@ To learn more about it, please read the presentation, [Benchmarking domain-speci
 
 There are more projects on the [Google Summer of Code](gsoc) page that could be brought into our standard student internship program.
 
-### mixOmics - Research - Data Science or Software Engineering
-This projects looks to improve the mixOmics toolkit, an R package dedicated to the statistical integration of omics data sets. For more details see  [mixOmics project.](students-mixOmics.md) 
 
 ## Previous projects
 
 
 ### Capacity Planning (Storage and Compute) - Professional - Data Science or Software Engineering
 This project looks to create models to forecast capacity and create dashboards to demonstrate current usage and help make informed decisions for storage and compute at WEHI. For more details see [Capacity Planning Storage and Compute project.](student-capacity-planning.md)
+
+### mixOmics - Research - Data Science or Software Engineering
+This projects looks to improve the mixOmics toolkit, an R package dedicated to the statistical integration of omics data sets. For more details see  [mixOmics project.](students-mixOmics.md) 
