@@ -111,3 +111,9 @@ This project looks to create models to forecast capacity and create dashboards
 
 ### mixOmics - Research - Data Science or Software Engineering
 This projects looks to improve the mixOmics toolkit, an R package dedicated to the statistical integration of omics data sets. For more details see  [mixOmics project.](students-mixOmics.md) 
+
+## Dates for Semester 2, 2023 - Bachelor of Science, Master of Data Science
+
+- 26th of June to the 13th of October (16 weeks)
+- 7 hours per week
+- 100 hours
