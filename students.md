@@ -112,8 +112,15 @@ This project looks to create models to forecast capacity and create dashboards
 ### mixOmics - Research - Data Science or Software Engineering
 This projects looks to improve the mixOmics toolkit, an R package dedicated to the statistical integration of omics data sets. For more details see  [mixOmics project.](students-mixOmics.md) 
 
-## Dates for Semester 2, 2023 - Bachelor of Science, Master of Data Science
+## Dates for Semester 2, 2023 
 
-- 26th of June to the 13th of October (16 weeks)
+### Bachelor of Science, Master of Data Science
+- Monday 26th of June to Friday 13th of October (16 weeks)
 - 7 hours per week
-- 100 hours
+- 100 hours total
+
+### Engineering and IT eg. Master of Information Technology, Master of Engineering (Mechatronics)
+- Monday 24th July to Friday 20th October 2023 (13 weeks)
+- 24 hours per week
+
+
