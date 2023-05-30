@@ -120,7 +120,7 @@ This projects looks to improve the mixOmics toolkit, an R package dedicated to t
 - 100 hours total
 
 ### Engineering and IT eg. Master of Information Technology, Master of Engineering (Mechatronics)
-- Monday 24th July to Friday 20th October 2023 (13 weeks)
+- Monday 24th July to Friday 27th October 2023 (14 weeks)
 - 24 hours per week
 
 
