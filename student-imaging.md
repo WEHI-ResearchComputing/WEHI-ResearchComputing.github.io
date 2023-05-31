@@ -1,6 +1,10 @@
 # Imaging Student Internship Project
 
+## Introduction 
+
 WEHI is currently developing its Research Data Management requirements and is evaluating products and tools for a hybrid Research Data Management ecosystem. The candidate will develop an understanding of data flow from WEHI microscopes such as a Lattice Light Sheet and determine how to automate the processing of microscopy files. The key output of the project is to further the current work around automated processing to the High Performance Compute. 
+
+## Duties while on placement 
 
 The Research Data Engineer Intern role will:  
 - review existing semi-automated workflows that are processing of microscopy data, 
@@ -10,6 +14,8 @@ The Research Data Engineer Intern role will:
 
 There is also flexibility with this project to allow the student to inject their own ideas and introduce new features and functionality. 
 
+## Skills and Pre-requisites 
+
 Skills and Pre-requisites: 
 - Interest in cutting edge image processing 
 - Basic knowledge of Linux command-line 
@@ -17,6 +23,9 @@ Skills and Pre-requisites:
 - Ability to work independently and to report to a group and discuss theories and results 
 - Good analytical skills 
 - Previous experience with git would be useful but not necessary 
+
+
+## Benefits for students 
 
 Benefits for students whilst undertaking the internship include:
 - Working in a High Performance Computing environment or adjacent environment. 
