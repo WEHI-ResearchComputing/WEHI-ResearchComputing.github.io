@@ -61,28 +61,32 @@ Please let us know if you have any questions about the program that aren't answe
 
 Here are some of the recurring projects and new projects we are working on:
 
-### Imaging - Research - Data Science or Software Engineering
+### Flux - Research - Software Engineering
+
+This project helps with the current work around automated processing of images from microscopes to the High Performance Compute. For more details see [Flux project](student-flux).
+
+### Imaging - Research - Data Science or Data Engineering
 This project helps with the current work around automated processing of images from microscopes to the High Performance Compute. For more details see [Imaging project](student-imaging).
 
-### Clinical Dashboards - Research - Data Science or Software Engineering
+### Clinical Dashboards - Research - Data Science, Full-Stack, or Data Engineering
 This project helps to setup foundational infrastructure for adding visualisation dashboards for clinically-adjacent data. For more details see [Clinical Dashboards project.](student-clinical-dashboards)
 
-### Genomics Metadata Multiplexing - Research - Software Engineering
+### Genomics Metadata Multiplexing - Research - Data Engineering, Full-Stack, or Software Engineering
 This project helps to setup infrastructure to keep track of what happens to a sample once it reaches the Genomics Facility. For more details see [Genomics Metadata Multiplexing project.](students-genomics-metadata.md) 
 
-### BioNix - Research - Software Engineering
+### BioNix - Research - Data Engineering
 This project helps with reproducibility in the field of Bioinformatics. For more details see [BioNix project](student-bionix).
 
 ## Potential Projects that are dependent on various factors
 
-### Immunology Web Application - Research - Software Engineering
+### Immunology Web Application - Research - Full-Stack
 
 This project looks to make Cyton, a sophisticated mathematical model, accessible to the scientific community by creating a web application that researchers can access with their browsers from anywhere in the world. For more details see [Immunology Web Application project.](student-immunology-web-application)
 
-### cryo-EM - Research - Data Science or Software Engineering
+### cryo-EM - Research - Data Science or Data Engineering
 This project looks to report and analyse Big Data cryo-EM workflows and use machine learning to inform future experimental design. For more details see [cryoEM project.](student-cryoem)
 
-### Haemosphere - Research - Data Science or Software Engineering
+### Haemosphere - Research - Data Science or Full-Stack
 This projects looks to improve on Haemosphere, which is like a web-based pocket dictionary for visualising and comparing genomic blood datasets. For more details see [Haemosphere project.](student-haemosphere)
 
 ### Immunology modelling - Research - Data Science or Software Engineering
@@ -94,7 +98,7 @@ This project helps to setup infrastructure to collate and display Quality Contro
 ### LoxCodeR - Research - Data Science or Software Engineering
 This project looks to improve on LoxCodeR, a way of barcoding stem cells to follow how they differentiate to form other types of cells. For more details see [LoxCode project.](student-loxcoder)
 
-### Research Data Workflow Processing - Research -  Software Engineering
+### Research Data Workflow Processing - Research -  Data Engineering
 This project looks to define Research Data Management workflows and use them to benchmark High Performance Compute on WEHI infrastructure and beyond.
 To learn more about it, please read the presentation, [Benchmarking domain-specific research workflow solutions at an international level](https://figshare.com/articles/presentation/Benchmarking_domain-specific_research_workflow_solutions_at_an_international_level/21259425)
 
@@ -106,7 +110,7 @@ There are more projects on the [Google Summer of Code](gsoc) page that could be 
 ## Previous projects
 
 
-### Capacity Planning (Storage and Compute) - Professional - Data Science or Software Engineering
+### Capacity Planning (Storage and Compute) - Professional - Data Science, Full-Stack or Data Engineering
 This project looks to create models to forecast capacity and create dashboards to demonstrate current usage and help make informed decisions for storage and compute at WEHI. For more details see [Capacity Planning Storage and Compute project.](student-capacity-planning.md)
 
 ### mixOmics - Research - Data Science or Software Engineering
