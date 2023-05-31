@@ -61,10 +61,6 @@ Please let us know if you have any questions about the program that aren't answe
 
 Here are some of the recurring projects and new projects we are working on:
 
-### Flux - Research - Software Engineering
-
-This project helps with the current work around automated processing of images from microscopes to the High Performance Compute. For more details see [Flux project](student-flux).
-
 ### Imaging - Research - Data Science or Data Engineering
 This project helps with the current work around automated processing of images from microscopes to the High Performance Compute. For more details see [Imaging project](student-imaging).
 
@@ -78,6 +74,14 @@ This project helps to setup infrastructure to keep track of what happens to a sa
 This project helps with reproducibility in the field of Bioinformatics. For more details see [BioNix project](student-bionix).
 
 ## Potential Projects that are dependent on various factors
+
+### Quantum Computing in Bioinformatics - Research - Data Science, Software Engineering
+
+This project is looking to create foundational knowledge of quantum computing in bioinformatics. For more details see [Quantum Computing in Bioinformatics project](students-quantum).
+
+### Flux - Research - Software Engineering
+
+This project helps with the current work around automated processing of images from microscopes to the High Performance Compute. For more details see [Flux project](students-flux).
 
 ### Immunology Web Application - Research - Full-Stack
 
