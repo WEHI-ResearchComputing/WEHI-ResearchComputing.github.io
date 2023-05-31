@@ -1,10 +1,10 @@
 # Clinical Dashboards Student Internship Project
 
+## Introduction
+
 WEHI is currently looking at how to take clinical data from databases and create visualisations and dashboards to help administrators and clinicians explore the data. You can read the [background information and project presentations by former students.](https://figshare.com/projects/Clinical_Dashboards/163360) 
 
-Supervisors: Rowland Mosbergen, Ashley Ng, Siavash Foroughi
-
-
+## Duties while on placement 
 
 The Research Data Engineer Intern role will:  
 - help create or gather synthetic datasets to allow for open collaboration, 
@@ -14,13 +14,17 @@ The Research Data Engineer Intern role will:
 
 There is also flexibility with this project to allow the student to inject their own ideas and introduce new features and functionality. 
 
-Skills and Pre-requisites: 
+
+## Skills and Pre-requisites
+
 - Interest in working with clinically-adjacent data
 - Background or willingness to learn visualisation and dashboard tools
 - Willingness and ability to learn and understand high-level concepts quickly 
 - Ability to work independently and to report to a group and discuss theories and results 
 - Good analytical skills 
 - Previous experience with git would be useful but not necessary 
+
+## Benefits for students 
 
 Benefits for students whilst undertaking the internship include:
 - Working in a clinical-adjacent environment. 
