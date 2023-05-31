@@ -1,6 +1,11 @@
 # Capacity Planning Storage and Compute Student Intern Project
 
+## Introduction
+
 WEHI is currently reviewing its storage and compute capacity and would like to create models to forecast capacity and create dashboards to demonstrate current usage and help make informed decisions.  
+
+
+## Duties while on placement
 
 The Capacity Planning Data Scientist Intern and Capacity Planning Data Engineering Intern role will:   
 
@@ -10,12 +15,16 @@ The Capacity Planning Data Scientist Intern and Capacity Planning Data Engin
 
 There is also flexibility with this project to allow the student to inject their own ideas and introduce new features and functionality.  
 
+## Skills and Pre-requisites
+
 Preferred skills: 
 - Basic knowledge or willingness to learn, the combining and integrating of data from multiple sources like databases and APIs  
 - Ability to learn and understand high-level concepts quickly  
 - Ability to work independently and to report to a group and discuss theories and results  
 - Good analytical skills  
 - Previous experience with, or willingness to learn,  R or Python  
+
+## Benefits for students 
 
 Benefits for students whilst undertaking the internship include:
 - Each student will get hands on experience in working in a Big Data environment within a highly regarded medical research institute.   
