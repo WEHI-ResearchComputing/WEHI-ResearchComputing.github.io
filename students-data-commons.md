@@ -18,7 +18,7 @@ The Research Data Architect Intern role will:
 - Stay updated on emerging data management technologies and industry trends. 
 - Explore and experiment with new tools, frameworks, and platforms that can enhance the data lakehouse / data commons implementation. 
 
-## Skills and Pre-requisites:
+## Skills and Pre-requisites
 
 To excel in this internship project, the ideal candidate should have a willingness to research data lakehouses and data commons, an ability to learn quickly, an enthusiasm for data architecture, and a willingness to share and communicate information. 
 
