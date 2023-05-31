@@ -73,6 +73,9 @@ This project helps to setup infrastructure to keep track of what happens to a sa
 ### BioNix - Research - Data Engineering
 This project helps with reproducibility in the field of Bioinformatics. For more details see [BioNix project](student-bionix).
 
+### Data Lakehouse / Data Commons - Research - Data Architecture
+This project aims to create a proof-of-concept for a Data Lakehouse / Data Commons at WEHI. For more details see [Data Lakehouse / Data Commons project](students-data-commons).
+
 ## Potential Projects that are dependent on various factors
 
 ### Quantum Computing in Bioinformatics - Research - Data Science, Software Engineering
@@ -106,9 +109,6 @@ This project looks to improve on LoxCodeR, a way of barcoding stem cells to foll
 This project looks to define Research Data Management workflows and use them to benchmark High Performance Compute on WEHI infrastructure and beyond.
 To learn more about it, please read the presentation, [Benchmarking domain-specific research workflow solutions at an international level](https://figshare.com/articles/presentation/Benchmarking_domain-specific_research_workflow_solutions_at_an_international_level/21259425)
 
-## Other projects
-
-There are more projects on the [Google Summer of Code](gsoc) page that could be brought into our standard student internship program.
 
 
 ## Previous projects
