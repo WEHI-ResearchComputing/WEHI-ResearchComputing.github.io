@@ -1,7 +1,10 @@
 # Immunology modelling 
 
+## Introduction 
+
 Immunological responses to infection are complex and nuanced. Our ability to understand and manipulate these responses depends on sophisticated computer simulations of cellular processes. We have a built a framework that allows the easy construction of agent-based models to address question in immune cell biology.
 
+## Duties while on placement 
 This role involves enhancing the framework API to
 
 - ensure it meets best software design principals so that it is easy to use and durable
@@ -10,11 +13,14 @@ This role involves enhancing the framework API to
 
 There is also flexibility with this project to allow the student to inject their own ideas and introduce new features and functionality.
 
+## Skills and Pre-requisites 
+
 Skills and Pre-requisites:
 
 - Knowledge of, or willingness to learn, the Julia programming language
 - Knowledge of numerical methods or excellent software design and engineering skills
 
+## Benefits for students 
 
 We aim to ensure that each student gets a great learning experience tailored to their ability, interest and experience.
 
