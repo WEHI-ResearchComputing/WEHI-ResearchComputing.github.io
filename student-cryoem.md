@@ -1,4 +1,11 @@
+# cryo-EM project
+
+## Introduction
+
 WEHI is currently focusing on improving its ability to handle big data from the multi-million dollar Cryogenic Electron Microscopy (cryo-EM) instrument. The candidate will develop an understanding of data flow from the cryo-EM facility and determine how data and metadata should be stored to support Findable Accessible Interoperable and Resuable data practices. The key output of the project is a framework for evaluating the suitability of third-party or in-house tools to support complex cryo-EMprocessing requirements. 
+
+
+## Duties while on placement 
 
 The Research Data Engineer Intern role will:  
 - review cryo-EM data transfer and storage and look to improve the scripts and tools available to the cyro-EM community, 
@@ -7,7 +14,10 @@ The Research Data Engineer Intern role will:
 
 There is also flexibility with this project to allow the student to inject their own ideas and introduce new features and functionality. 
 
-Skills and Pre-requisites: 
+
+## Skills and Pre-requisites 
+
+Skills and Pre-requisites include:
 - Interest in research and Big Data processing 
 - Basic knowledge of the Linux command-line and ability to learn on-the-fly 
 - Willingness and ability to learn and understand high-level concepts 
@@ -15,6 +25,8 @@ Skills and Pre-requisites:
 - Good analytical skills 
 - Previous experience with git would be useful but not necessary
  
+## Benefits for students 
+
 
 Benefits for students whilst undertaking the internship include:
 - Working in a High Performance Computing environment or adjacent environment.  
