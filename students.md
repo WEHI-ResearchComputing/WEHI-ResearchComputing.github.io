@@ -6,6 +6,8 @@ Many of the projects work in the Data Analysis and [Research Software Engineerin
 
 We mainly work with projects that use R and Shiny, Python, Julia, bash, while also making the most out of other technologies such as RStudio, Jupyter notebooks, PowerBI and other applications within the data analytics space.
 
+Read through the whole of the page. How you apply is shown at the bottom of the page.
+
 To understand more about the program, you can download and read the [RCP Student Internship Program Handbook](https://figshare.com/articles/presentation/Research_Computing_Platform_Student_Internship_Handbook/21259467), 
 
 
@@ -18,12 +20,6 @@ or you can listen to two students talk about their projects (click image below).
 ## Suggestions for your Application 
 
 We suggest that you write a 1 page cover letter introducing yourself. We also have [material on how to write a good cover letter and what to look for when you are writing a resume](https://doi.org/10.6084/m9.figshare.21057535.v2).
-
-### How to Apply
-
-Due to the volume of students now applying to this internship, as of Semester 2, 2023, to be eligible you must [fill out the RCP Student Internship Enrollment form](https://redcap.wehi.edu.au/surveys/?s=AMYXK9FFHXR9LE9T). 
-
-This is because we now need to streamline our applications and ensure no students are missed in the application process. To do this we need to move from a a manual process to this more automated process. We appreciate that there may be some confusion but any applicants will be redirected to this form as it takes precedence over any other application method. 
 
 ### Key Questions you should ask yourself
 
@@ -125,5 +121,12 @@ This projects looks to improve the mixOmics toolkit, an R package dedicated to t
 ### Engineering and IT eg. Master of Information Technology, Master of Engineering (Mechatronics)
 - Monday 24th July to Friday 27th October 2023 (14 weeks)
 - 24 hours per week
+
+
+## How to Apply
+
+Due to the volume of students now applying to this internship, as of Semester 2, 2023, to be eligible you must [fill out the RCP Student Internship Enrollment form](https://redcap.wehi.edu.au/surveys/?s=AMYXK9FFHXR9LE9T). 
+
+This is because we now need to streamline our applications and ensure no students are missed in the application process. To do this we need to move from a a manual process to this more automated process. We appreciate that there may be some confusion but any applicants will be redirected to this form as it takes precedence over any other application method. 
 
 
