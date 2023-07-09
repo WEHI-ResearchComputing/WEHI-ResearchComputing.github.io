@@ -32,4 +32,7 @@ The benefits for students whilst undertaking the internship include:
 - The student will learn Basic awareness and knowledge of quantum computing.
 - Basic awareness and knowledge of the ecosystem that needs to surround quantum computing. 
 - Ability to communicate and share complex information to key stakeholders in their language. 
-- Experience with researchers and ability to navigate a research environment. 
+- Experience with researchers and ability to navigate a research environment.
+
+## Further Reading
+- [Quantum Computing Repository](https://github.com/WEHI-ResearchComputing/quantum-computing)
