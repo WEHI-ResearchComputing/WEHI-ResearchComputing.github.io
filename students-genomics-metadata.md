@@ -36,4 +36,7 @@ Benefits for students whilst undertaking the internship include:
 - Each student will get hands on experience in working in an emerging research software environment within a highly regarded medical research institute. 
 - Gain understanding of how real-world software is assessed, developed and how priorities and requirements are established within a research environment. 
 - Gain understanding of the importance of maintainable, scalable and extensible code. 
-- Improving oral and written communication skills in a team environment. 
+- Improving oral and written communication skills in a team environment.
+
+## Further reading
+- [Genomics Metadata Multiplexing Github repo](https://github.com/WEHI-ResearchComputing/Genomics-Metadata-Multiplexing)
