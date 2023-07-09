@@ -2,7 +2,7 @@
 
 ## Introduction
 
-WEHI is currently looking at how to take clinical data from databases and create visualisations and dashboards to help administrators and clinicians explore the data. You can read the [background information and project presentations by former students.](https://figshare.com/projects/Clinical_Dashboards/163360) 
+WEHI is currently looking at how to take clinical data from databases and create visualisations and dashboards to help administrators and clinicians explore the data. 
 
 ## Duties while on placement 
 
@@ -32,3 +32,6 @@ Benefits for students whilst undertaking the internship include:
 - Gain understanding of how real-world software is assessed, developed and how priorities and requirements are established within a clinical environment.  
 - Gain understanding of the importance of maintainable, scalable and extensible code. 
 
+## Further reading
+- [Clinical Informatics Collaborative Github Organisation](https://github.com/Clinical-Informatics-Collaborative)
+- [Background information and project presentations by former students on figshare](https://figshare.com/projects/Clinical_Dashboards/163360) 
