@@ -8,6 +8,8 @@ We provide [student internship opportunities](students) through the University o
 
 [![Handbook cover that shows WEHI logo and blue dots interconnected with lines](/assets/handbook_cover.png){:height="400px" style=""}](https://figshare.com/articles/presentation/Research_Computing_Platform_Student_Internship_Handbook/21259467) 
 
+You can also look at [the wikis for some of our internship projects.](project-wikis)
+
 ## Stories from the RCP
 
 Here is a story from one of our newsletters in November 2021:
