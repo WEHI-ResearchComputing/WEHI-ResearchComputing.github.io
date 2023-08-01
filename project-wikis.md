@@ -1,5 +1,7 @@
 # Student Internship Project Wikis
 
+This page allows you to have a look at all the wikis for the internship projects offered at WEHI.
+
 1. [Imaging Getting Started](https://github.com/WEHI-ResearchComputing/Imaging-Getting-Started/wiki)
 2. [Data Commons](https://github.com/WEHI-ResearchComputing/data-commons/wiki)
 3. [Quantum Computing](https://github.com/WEHI-ResearchComputing/quantum-computing/wiki)
