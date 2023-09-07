@@ -122,10 +122,13 @@ This projects looks to improve the mixOmics toolkit, an R package dedicated to t
 - Monday 24th July to Friday 27th October 2023 (14 weeks)
 - 24 hours per week
 
+## Summer intake 2023/2024 now available
+
+Please look at How to Appy for now details.
 
 ## How to Apply
 
-Due to the volume of students now applying to this internship, as of Semester 2, 2023, to be eligible you must [fill out the RCP Student Internship Enrollment form](https://redcap.wehi.edu.au/surveys/?s=AMYXK9FFHXR9LE9T). 
+Due to the volume of students now applying to this internship, to be eligible you must [fill out the RCP Student Internship Enrollment form](https://redcap.wehi.edu.au/surveys/?s=AMYXK9FFHXR9LE9T). 
 
 This is because we now need to streamline our applications and ensure no students are missed in the application process. To do this we need to move from a a manual process to this more automated process. We appreciate that there may be some confusion but any applicants will be redirected to this form as it takes precedence over any other application method. 
 
