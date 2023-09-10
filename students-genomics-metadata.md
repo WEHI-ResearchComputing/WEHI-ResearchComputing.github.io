@@ -39,4 +39,4 @@ Benefits for students whilst undertaking the internship include:
 - Improving oral and written communication skills in a team environment.
 
 ## Further reading
-- [Genomics Metadata Multiplexing Github repo](https://github.com/WEHI-ResearchComputing/Genomics-Metadata-Multiplexing)
+- [Genomics Metadata Multiplexing](https://github.com/WEHI-ResearchComputing/Genomics-Metadata-Multiplexing/wiki)
