@@ -36,13 +36,14 @@ The benefits for the studnet include:
 
 
 ## References
-1. https://github.com/PapenfussLab/bionix 
-2. https://nixos.org/ 
-3. https://github.com/nixos/nixpkgs
-4. https://github.com/WEHI-ResearchComputing/BioNix-qc-pipe
-5. https://github.com/WEHI-ResearchComputing/BioNix-Training
-6. https://github.com/WEHI-ResearchComputing/BioNix-virusbreakend
-7. https://github.com/WEHI-ResearchComputing/BioNix-GettingStarted
+1. [BioNix Getting Started](https://github.com/WEHI-ResearchComputing/BioNix-GettingStarted/wiki)
+2. https://github.com/PapenfussLab/bionix 
+3. https://nixos.org/ 
+4. https://github.com/nixos/nixpkgs
+5. https://github.com/WEHI-ResearchComputing/BioNix-qc-pipe
+6. https://github.com/WEHI-ResearchComputing/BioNix-Training
+7. https://github.com/WEHI-ResearchComputing/BioNix-virusbreakend
+
 
 
 
