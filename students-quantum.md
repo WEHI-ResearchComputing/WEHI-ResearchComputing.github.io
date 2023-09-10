@@ -35,4 +35,4 @@ The benefits for students whilst undertaking the internship include:
 - Experience with researchers and ability to navigate a research environment.
 
 ## Further Reading
-- [Quantum Computing Repository](https://github.com/WEHI-ResearchComputing/quantum-computing)
+- [Quantum Computing](https://github.com/WEHI-ResearchComputing/quantum-computing/wiki)
