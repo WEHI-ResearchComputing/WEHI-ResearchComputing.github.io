@@ -34,5 +34,6 @@ Benefits for students whilst undertaking the internship include:
 - Gain understanding of the importance of maintainable, scalable and extensible code. 
 
 Background information:
+- [Imaging Getting Started](https://github.com/WEHI-ResearchComputing/Imaging-Getting-Started/wiki)
 - [This video talks about different 3D microscopy modalities.](https://www.youtube.com/watch?v=afIkWHx3duc)
 - [More information but information about hardware can be skipped](https://www.youtube.com/watch?v=5xDN-4YLu-o)
