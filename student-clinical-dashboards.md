@@ -35,5 +35,5 @@ Benefits for students whilst undertaking the internship include:
 ## Further reading
 - [Clinical Informatics Collaborative Github Organisation](https://github.com/Clinical-Informatics-Collaborative)
 - [Clinical Dashboards subproject wiki](https://github.com/Clinical-Informatics-Collaborative/clinical_dashboards/wiki)
-- [PDF extraction of clinical reports subproject](https://github.com/Clinical-Informatics-Collaborative/pdf-extraction-clinical-reports)
+- [Extract PDF](https://github.com/Clinical-Informatics-Collaborative/pdf-extraction-clinical-reports/wiki)
 - [Background information and project presentations by former students on figshare](https://figshare.com/projects/Clinical_Dashboards/163360) 
