@@ -35,4 +35,4 @@ The benefits for students whilst undertaking the internship include:
 
 
 ## Further reading
-- [Data Commons Github Repository](https://github.com/WEHI-ResearchComputing/data-commons)
+- [Data Commons](https://github.com/WEHI-ResearchComputing/data-commons/wiki)
