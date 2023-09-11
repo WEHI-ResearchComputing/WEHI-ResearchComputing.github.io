@@ -48,8 +48,7 @@ This might be learning a new programming language or new technology in a short a
 
 #### 4. Do you have any questions about the program?
 
-Please let us know if you have any questions about the program that aren't answered in the [RCP Student Internship Program Handbook.](/RDM-0220-RCP-Student-Internship-Handbook.pdf) 
-
+Please let us know if you have any questions about the program that aren't answered in the [RCP Student Internship Program Handbook](/RDM-0220-RCP-Student-Internship-Handbook.pdf), the [FAQ online](faq), or the [RCP Student Internship Onboarding Checklist](https://figshare.com/articles/online_resource/RDM_0138_RCP_Student_Onboarding_Checklist/23280815). 
 
 
 ## List of projects
