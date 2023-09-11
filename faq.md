@@ -8,7 +8,7 @@ Here are some Frequently Asked Questions that we hear from students.
 
 ## How do I know if I am eligible?
 
-For the enginering students, please contact eng-placements [at] unimelb [dot] edu [dot] au. For the data science and maths students, please contact science-industry-internships[at] unimelb [dot] edu [dot] au.
+For the enginering students, please contact engit-placements [at] unimelb [dot] edu [dot] au. For the data science and maths students, please contact science-industry-internships[at] unimelb [dot] edu [dot] au.
 
 ## I know that the internships are usually 100% offsite, but what if I want to go into the office sometimes?
 
