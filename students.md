@@ -126,7 +126,9 @@ This projects looks to improve the mixOmics toolkit, an R package dedicated to t
 
 ## Summer intake 2023/2024 now available
 
-Please look at How to Appy for now details.
+Please look at How to Apply for now details.
+
+Suggested start and end dates are from the 13th November 2023 to 1st March 2024.
 
 ## How to Apply
 
