@@ -17,6 +17,8 @@ or you can listen to two students talk about their projects (click image below).
 
 [![Symposium image of four people on a virtual call](/assets/symposium.jpeg){:width="400px"}](https://www.youtube.com/watch?v=QVMrIFLXOFw)
 
+You can also try to avoid [the top 5 mistakes that students make](top-5-mistakes).
+
 ## Suggestions for your Application 
 
 We suggest that you write a 1 page cover letter introducing yourself. We also have [material on how to write a good cover letter and what to look for when you are writing a resume](https://doi.org/10.6084/m9.figshare.21057535.v2).
