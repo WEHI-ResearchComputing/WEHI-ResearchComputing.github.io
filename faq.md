@@ -32,4 +32,4 @@ Data engineering is focused on streamlining and cleaning data systematically. Da
 
 ## I setup my Workday (HR system) through an initial email but now that password doesn't work or I cannot login to my WEHI email
 
-The links you might have previously used to access Workday before your official start date will no longer allow access.  Email hr@wehi.edu.au as this is the contact provided if you encounter any issue in regard to Workday. They will provided you with the new credentials to set up your WEHI email. 
+The links you might have previously used to access Workday before your official start date will no longer allow access.  Email hr [at] wehi [dot] edu [dot] au as this is the contact provided if you encounter any issue in regard to Workday. They will provided you with the new credentials to set up your WEHI email. 
