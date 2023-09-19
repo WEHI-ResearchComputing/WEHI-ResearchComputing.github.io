@@ -55,6 +55,11 @@ Please let us know if you have any questions about the program that aren't answe
 
 Here are some of the recurring projects and new projects we are working on:
 
+
+### schex Bioconductor - Research - Software Engineering
+This project helps with understanding what could be streamlined when maintaining software packages for the popular Bioconductor community. For more details see [schex Bioconductor project](students-schex).
+
+
 ### Imaging - Research - Data Science or Data Engineering
 This project helps with the current work around automated processing of images from microscopes to the High Performance Compute. For more details see [Imaging project](student-imaging).
 
