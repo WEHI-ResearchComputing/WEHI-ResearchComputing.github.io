@@ -30,10 +30,11 @@ We suggest that you write a 1 page cover letter introducing yourself. We also ha
 To help understand your interests and identify potential projects, there are four questions we ask you to answer in your cover letter: 
 
 
-#### 1. Would you prefer to do data engineering, data analysis, or software engineering?
+#### 1. Would you prefer to do data engineering, data analytics, full-stack web developer or software engineering?
 
 Data engineering is focused on streamlining and cleaning data systematically.
-Data analysis is focused on cleaning data and analysing it using statistical or machine learning algorithms.
+Data analytics is focused on using cleaned data to visualise and use simple statistical methods (like a z-score).
+Full-stack web develepor is about building dynamic websites.
 Software engineering is focused on systematising analysis or tools that help us make decisions.
 
 Sometimes our projects can involve all these aspects if you are interested enough!
@@ -60,13 +61,13 @@ Here are some of the recurring projects and new projects we are working on:
 This project helps with understanding what could be streamlined when maintaining software packages for the popular Bioconductor community. For more details see [schex Bioconductor project](students-schex).
 
 
-### Imaging - Research - Data Science or Data Engineering
+### Imaging - Research - Data Engineering
 This project helps with the current work around automated processing of images from microscopes to the High Performance Compute. For more details see [Imaging project](student-imaging).
 
-### Clinical Dashboards - Research - Data Science, Full-Stack, or Data Engineering
+### Clinical Dashboards - Research - Data Analytics, Full-Stack Web Developer, or Data Engineering
 This project helps to setup foundational infrastructure for adding visualisation dashboards for clinically-adjacent data. For more details see [Clinical Dashboards project.](student-clinical-dashboards)
 
-### Genomics Metadata Multiplexing - Research - Data Engineering, Full-Stack, or Software Engineering
+### Genomics Metadata Multiplexing - Research - Data Engineering, Full-Stack Web Developer, or Software Engineering
 This project helps to setup infrastructure to keep track of what happens to a sample once it reaches the Genomics Facility. For more details see [Genomics Metadata Multiplexing project.](students-genomics-metadata.md) 
 
 ### BioNix - Research - Data Engineering
@@ -77,7 +78,7 @@ This project aims to create a proof-of-concept for a Data Lakehouse / Data Commo
 
 ## Potential Projects that are dependent on various factors
 
-### Quantum Computing in Bioinformatics - Research - Data Science, Software Engineering
+### Quantum Computing in Bioinformatics - Research - Data Analytics, Software Engineering
 
 This project is looking to create foundational knowledge of quantum computing in bioinformatics. For more details see [Quantum Computing in Bioinformatics project](students-quantum).
 
@@ -85,26 +86,26 @@ This project is looking to create foundational knowledge of quantum computing in
 
 This project helps with the current work around automated processing of images from microscopes to the High Performance Compute. For more details see [Flux project](students-flux).
 
-### Immunology Web Application - Research - Full-Stack
+### Immunology Web Application - Research - Full-Stack Web Developer
 
 This project looks to make Cyton, a sophisticated mathematical model, accessible to the scientific community by creating a web application that researchers can access with their browsers from anywhere in the world. For more details see [Immunology Web Application project.](student-immunology-web-application)
 
-### cryo-EM - Research - Data Science or Data Engineering
+### cryo-EM - Research - Data Analytics or Data Engineering
 This project looks to report and analyse Big Data cryo-EM workflows and use machine learning to inform future experimental design. For more details see [cryoEM project.](student-cryoem)
 
-### Haemosphere - Research - Data Science or Full-Stack
+### Haemosphere - Research - Data Analytics or Full-Stack Web Developer
 This projects looks to improve on Haemosphere, which is like a web-based pocket dictionary for visualising and comparing genomic blood datasets. For more details see [Haemosphere project.](student-haemosphere)
 
-### Immunology modelling - Research - Data Science or Software Engineering
+### Immunology modelling - Research - Data Analytics or Software Engineering
 This project helps with enhancing the framework API for agent-based modelling in Immunology. For more details see [Immunology modelling project](student-immunology-modelling)
 
-### Genomics Quality Control - Research - Software Engineering
+### Genomics Quality Control - Research - Full-Stack Web Developer
 This project helps to setup infrastructure to collate and display Quality Control (QC) information from Genomics workflows. For more details see [Genomics Quality Control project.](student-genomics-qc)
 
-### LoxCodeR - Research - Data Science or Software Engineering
+### LoxCodeR - Research - Data Analytics or Software Engineering
 This project looks to improve on LoxCodeR, a way of barcoding stem cells to follow how they differentiate to form other types of cells. For more details see [LoxCode project.](student-loxcoder)
 
-### Research Data Workflow Processing - Research -  Data Engineering
+### Research Data Workflow Processing - Research -  Data Analytics or Data Engineering
 This project looks to define Research Data Management workflows and use them to benchmark High Performance Compute on WEHI infrastructure and beyond.
 To learn more about it, please read the presentation, [Benchmarking domain-specific research workflow solutions at an international level](https://figshare.com/articles/presentation/Benchmarking_domain-specific_research_workflow_solutions_at_an_international_level/21259425)
 
@@ -113,10 +114,10 @@ To learn more about it, please read the presentation, [Benchmarking domain-speci
 ## Previous projects
 
 
-### Capacity Planning (Storage and Compute) - Professional - Data Science, Full-Stack or Data Engineering
+### Capacity Planning (Storage and Compute) - Professional - Data Analytics, Full-Stack Web Developer or Data Engineering
 This project looks to create models to forecast capacity and create dashboards to demonstrate current usage and help make informed decisions for storage and compute at WEHI. For more details see [Capacity Planning Storage and Compute project.](student-capacity-planning.md)
 
-### mixOmics - Research - Data Science or Software Engineering
+### mixOmics - Research - Software Engineering
 This projects looks to improve the mixOmics toolkit, an R package dedicated to the statistical integration of omics data sets. For more details see  [mixOmics project.](students-mixOmics.md) 
 
 ## Dates for Semester 2, 2023 
