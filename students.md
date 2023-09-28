@@ -6,24 +6,19 @@ Many of the projects work in the Data Analysis and [Research Software Engineerin
 
 We mainly work with projects that use R and Shiny, Python, Julia, bash, while also making the most out of other technologies such as RStudio, Jupyter notebooks, PowerBI and other applications within the data analytics space.
 
-Read through the whole of the page. How you apply is shown at the bottom of the page.
+Read through the whole of this webpage. How you apply is shown at the bottom of the page.
 
-To understand more about the program, you can download and read the [RCP Student Internship Program Handbook](https://figshare.com/articles/presentation/Research_Computing_Platform_Student_Internship_Handbook/21259467), 
+## Key Documents to review
 
-
-[![Handbook cover that shows WEHI logo and blue dots interconnected with lines](/assets/handbook_cover.png){:height="400px" style=""}](https://figshare.com/articles/presentation/Research_Computing_Platform_Student_Internship_Handbook/21259467) 
+- To understand more about the program, you can download and read the [RCP Student Internship Program Handbook](https://figshare.com/articles/presentation/Research_Computing_Platform_Student_Internship_Handbook/21259467), 
+- You can also try to avoid [the top 5 mistakes that students make](top-5-mistakes).
+- You can also have a look at the [FAQ online.](faq)
+- We suggest that you write a 1 page cover letter introducing yourself. We also have [material on how to write a good cover letter and what to look for when you are writing a resume](https://doi.org/10.6084/m9.figshare.21057535.v2).
 
 or you can listen to two students talk about their projects (click image below).
 
 [![Symposium image of four people on a virtual call](/assets/symposium.jpeg){:width="400px"}](https://www.youtube.com/watch?v=QVMrIFLXOFw)
 
-You can also try to avoid [the top 5 mistakes that students make](top-5-mistakes).
-
-There is also [a FAQ online.](faq)
-
-## Suggestions for your Application 
-
-We suggest that you write a 1 page cover letter introducing yourself. We also have [material on how to write a good cover letter and what to look for when you are writing a resume](https://doi.org/10.6084/m9.figshare.21057535.v2).
 
 ### Key Questions you should ask yourself
 
