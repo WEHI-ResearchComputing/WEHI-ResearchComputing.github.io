@@ -14,6 +14,7 @@ Read through the whole of this webpage. How you apply is shown at the bottom of 
 - You can also try to avoid [the top 5 mistakes that students make](top-5-mistakes).
 - You can also have a look at the [FAQ online.](faq)
 - We suggest that you write a 1 page cover letter introducing yourself. We also have [material on how to write a good cover letter and what to look for when you are writing a resume](https://doi.org/10.6084/m9.figshare.21057535.v2).
+- View the [intake dates here](intake_dates) 
 
 or you can listen to two students talk about their projects (click image below).
 
@@ -114,23 +115,6 @@ This project looks to create models to forecast capacity and create dashboards
 
 ### mixOmics - Research - Software Engineering
 This projects looks to improve the mixOmics toolkit, an R package dedicated to the statistical integration of omics data sets. For more details see  [mixOmics project.](students-mixOmics.md) 
-
-## Dates for Semester 2, 2023 
-
-### Bachelor of Science, Master of Data Science
-- Monday 26th of June to Friday 13th of October (16 weeks)
-- 7 hours per week
-- 100 hours total
-
-### Engineering and IT eg. Master of Information Technology, Master of Engineering (Mechatronics)
-- Monday 24th July to Friday 27th October 2023 (14 weeks)
-- 24 hours per week
-
-## Summer intake 2023/2024 now available
-
-Please look at How to Apply for now details.
-
-Suggested start and end dates are from the 13th November 2023 to 23rd February 2024 for Engineering and IT students (24 hours per week).
 
 ## How to Apply
 
