@@ -1,5 +1,9 @@
 # Student intake dates
 
+You can find out dates for:
+- [Engineering and IT](https://eng.unimelb.edu.au/industry/students/internships#key-dates) and
+- [Faculty of Science](https://science.unimelb.edu.au/engage/industry/internships#key-dates)
+
 ## Summer intake 2023/2024 now available
 
 Suggested start and end dates are from the 13th November 2023 to 23rd February 2024 for Engineering and IT students (24 hours per week).
