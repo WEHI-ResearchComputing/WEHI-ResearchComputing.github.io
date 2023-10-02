@@ -4,7 +4,7 @@
 
 Suggested start and end dates are from the 13th November 2023 to 23rd February 2024 for Engineering and IT students (24 hours per week).
 
-Suggested start and end dates are from the 13th November 2023 to 23rd February 2024 for Faculty of Science students (7 hours per week).
+Suggested start and end dates are from the 20th November 2023 to 23rd February 2024 for Faculty of Science students (7 hours per week).
 
 
 ## Archived dates
