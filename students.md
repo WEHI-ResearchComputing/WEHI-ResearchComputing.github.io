@@ -58,25 +58,25 @@ This project helps with understanding what could be streamlined when maintaining
 
 
 ### Imaging - Research - Data Engineering
-This project helps with the current work around automated processing of images from microscopes to the High Performance Compute. For more details see [Imaging project](student-imaging).
+This project helps with the current work around automated processing of images from microscopes to the High Performance Compute. For more details see [Imaging project](student-imaging) and the [Imaging Getting Started Wiki](https://github.com/WEHI-ResearchComputing/Imaging-Getting-Started/wiki).
 
 ### Clinical Dashboards - Research - Data Analytics, Full-Stack Web Developer, or Data Engineering
-This project helps to setup foundational infrastructure for adding visualisation dashboards for clinically-adjacent data. For more details see [Clinical Dashboards project.](student-clinical-dashboards)
+This project helps to setup foundational infrastructure for adding visualisation dashboards for clinically-adjacent data. For more details see [Clinical Dashboards project.](student-clinical-dashboards), the [Extract PDF Wiki](https://github.com/Clinical-Informatics-Collaborative/pdf-extraction-clinical-reports/wiki), and the [Clinical Dashboards Wiki](https://github.com/Clinical-Informatics-Collaborative/clinical_dashboards/wiki).
 
 ### Genomics Metadata Multiplexing - Research - Data Engineering, Full-Stack Web Developer, or Software Engineering
-This project helps to setup infrastructure to keep track of what happens to a sample once it reaches the Genomics Facility. For more details see [Genomics Metadata Multiplexing project.](students-genomics-metadata.md) 
+This project helps to setup infrastructure to keep track of what happens to a sample once it reaches the Genomics Facility. For more details see [Genomics Metadata Multiplexing project.](students-genomics-metadata.md) and the [Genomics Metadata Multiplexing Wiki](https://github.com/WEHI-ResearchComputing/Genomics-Metadata-Multiplexing/wiki) 
 
 ### BioNix - Research - Data Engineering
-This project helps with reproducibility in the field of Bioinformatics. For more details see [BioNix project](student-bionix).
+This project helps with reproducibility in the field of Bioinformatics. For more details see [BioNix project](student-bionix) and the [BioNix Getting Started Wiki](https://github.com/WEHI-ResearchComputing/BioNix-GettingStarted/wiki).
 
 ### Data Lakehouse / Data Commons - Research - Data Architecture
-This project aims to create a proof-of-concept for a Data Lakehouse / Data Commons at WEHI. For more details see [Data Lakehouse / Data Commons project](students-data-commons).
+This project aims to create a proof-of-concept for a Data Lakehouse / Data Commons at WEHI. For more details see [Data Lakehouse / Data Commons project](students-data-commons) and the [Data Commons Wiki](https://github.com/WEHI-ResearchComputing/data-commons/wiki).
 
 ## Potential Projects that are dependent on various factors
 
 ### Quantum Computing in Bioinformatics - Research - Data Analytics, Software Engineering
 
-This project is looking to create foundational knowledge of quantum computing in bioinformatics. For more details see [Quantum Computing in Bioinformatics project](students-quantum).
+This project is looking to create foundational knowledge of quantum computing in bioinformatics. For more details see [Quantum Computing in Bioinformatics project](students-quantum) and the [Quantum Computing Wiki](https://github.com/WEHI-ResearchComputing/quantum-computing/wiki).
 
 ### Flux - Research - Software Engineering
 
