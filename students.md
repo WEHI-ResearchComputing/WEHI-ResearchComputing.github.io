@@ -21,9 +21,9 @@ or you can listen to two students talk about their projects (click image below).
 [![Symposium image of four people on a virtual call](/assets/symposium.jpeg){:width="400px"}](https://www.youtube.com/watch?v=QVMrIFLXOFw)
 
 
-## List of projects
+## List of student intern projects
 
-Here are some of the [recurring projects and new projects we are working on](project-wikis).
+Here are some of the [recurring student intern projects and new projects we are working on](project-wikis).
 
 ## How to Apply
 
