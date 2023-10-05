@@ -70,4 +70,6 @@ This project looks to create models to forecast capacity and create dashboards
 ### mixOmics - Research - Software Engineering
 This projects looks to improve the mixOmics toolkit, an R package dedicated to the statistical integration of omics data sets. For more details see  [mixOmics project.](students-mixOmics.md) 
 
+## Other documentation
+
 And a high level [Getting started Guides - wiki](https://github.com/Research-Data-Workflows/getting-started-guide/wiki)
