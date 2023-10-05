@@ -21,9 +21,22 @@ or you can listen to two students talk about their projects (click image below).
 [![Symposium image of four people on a virtual call](/assets/symposium.jpeg){:width="400px"}](https://www.youtube.com/watch?v=QVMrIFLXOFw)
 
 
-### Key Questions you should ask yourself
+## List of projects
 
-To help understand your interests and identify potential projects, there are four questions we ask you to answer in your cover letter: 
+Here are some of the [recurring projects and new projects we are working on](project-wikis).
+
+## How to Apply
+
+Due to the volume of students now applying to this internship, to be eligible you must [fill out the RCP Student Internship Enrollment form](https://redcap.wehi.edu.au/surveys/?s=AMYXK9FFHXR9LE9T). 
+
+You can see the [intake dates here](intake_dates).
+
+This is because we now need to streamline our applications and ensure no students are missed in the application process. To do this we need to move from a a manual process to this more automated process. We appreciate that there may be some confusion but any applicants will be redirected to this form as it takes precedence over any other application method. 
+
+
+### Key Questions you should answer in the cover letter
+
+We suggest that you write a 1 page cover letter introducing yourself. We also have [material on how to write a good cover letter and what to look for when you are writing a resume](https://doi.org/10.6084/m9.figshare.21057535.v2). To help understand your interests and identify potential projects, there are four questions we ask you to answer in your cover letter: 
 
 
 #### 1. Would you prefer to do data engineering, data analytics, full-stack web developer or software engineering?
@@ -47,17 +60,5 @@ This might be learning a new programming language or new technology in a short a
 
 Please let us know if you have any questions about the program that aren't answered in the [RCP Student Internship Program Handbook](/RDM-0220-RCP-Student-Internship-Handbook.pdf), the [FAQ online](faq), or the [RCP Student Internship Onboarding Checklist](https://figshare.com/articles/online_resource/RDM_0138_RCP_Student_Onboarding_Checklist/23280815). 
 
-
-## List of projects
-
-Here are some of the [recurring projects and new projects we are working on](project-wikis).
-
-## How to Apply
-
-Due to the volume of students now applying to this internship, to be eligible you must [fill out the RCP Student Internship Enrollment form](https://redcap.wehi.edu.au/surveys/?s=AMYXK9FFHXR9LE9T). 
-
-You can see the [intake dates here](intake_dates).
-
-This is because we now need to streamline our applications and ensure no students are missed in the application process. To do this we need to move from a a manual process to this more automated process. We appreciate that there may be some confusion but any applicants will be redirected to this form as it takes precedence over any other application method. 
 
 
