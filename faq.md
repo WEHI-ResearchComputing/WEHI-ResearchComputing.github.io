@@ -10,6 +10,12 @@ Here are some Frequently Asked Questions that we hear from students.
 
 For the enginering students, please contact engit-placements [at] unimelb [dot] edu [dot] au. For the data science and maths students, please contact science-industry-internships[at] unimelb [dot] edu [dot] au.
 
+## Where are the details I need to fill in my form?
+
+You can find the information here:
+- These internships are 100% remote.
+- The [intake dates and hours per week are here](intake_dates)
+
 ## I know that the internships are usually 100% offsite, but what if I want to go into the office sometimes?
 
 We are open to having some opportunities to go to the office, especially if we can catchup with the other students. It would not be that regular though, but this can be discussed with other students. We also have a [monthly onsite lunch with other Research Software Engineers around Parkville]([url](https://www.eventbrite.co.nz/o/the-rse-association-of-australia-and-new-zealand-65201929823)).
