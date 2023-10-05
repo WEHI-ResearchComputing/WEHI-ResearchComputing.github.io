@@ -8,7 +8,7 @@ We mainly work with projects that use R and Shiny, Python, Julia, bash, while al
 
 Read through the whole of this webpage. How you apply is shown at the bottom of the page.
 
-## Key Documents to review
+## Key Documents to review and FAQ
 
 - To understand more about the program, you can download and read the [RCP Student Internship Program Handbook](https://figshare.com/articles/presentation/Research_Computing_Platform_Student_Internship_Handbook/21259467), 
 - You can also try to avoid [the top 5 mistakes that students make](top-5-mistakes).
