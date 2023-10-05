@@ -15,6 +15,7 @@ For the enginering students, please contact engit-placements [at] unimelb [dot] 
 You can find the information here:
 - These internships are 100% remote.
 - The [intake dates and hours per week are here](intake_dates)
+- Title of the supervisor and phone number should be in the emails sent by your supervisor
 
 ## I know that the internships are usually 100% offsite, but what if I want to go into the office sometimes?
 
