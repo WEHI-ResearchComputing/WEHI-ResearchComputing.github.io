@@ -10,6 +10,10 @@ Here are some Frequently Asked Questions that we hear from students.
 
 For the enginering students, please contact engit-placements [at] unimelb [dot] edu [dot] au. For the data science and maths students, please contact science-industry-internships[at] unimelb [dot] edu [dot] au.
 
+## How flexible are the starting dates? 
+
+We are flexible. We aim to keep the same starting dates for everyone to make it easier to put people into the WEHI system, but the actual date you start can be flexible. You could start a week or two later if you need to. We are also flexible if you need to take time off during the internship as well.
+
 ## Where are the details I need to fill in my form?
 
 You can find the information here:
@@ -36,6 +40,14 @@ There is also a Virtual Computing Drop-in as well as a Thursday meeting to talk 
 Data engineering is focused on streamlining and cleaning data systematically. Data analysis is focused on cleaning data and analysing it using statistical or machine learning algorithms. Software engineering is focused on systematising analysis or tools that help us make decisions.
 
 # Onboarding onto the internship program
+
+## Given that the internship is remote, am I allowed to complete the internship while on travel?
+
+Yes, that is correct.
+
+## The description stated that so many hrs per week is expected, but at roughly which times and for how long?
+
+As it is remote, we are very flexible but there are times when we do get together, such as the weekly project meeting. This is explained in [the Student Internship Handbook](https://figshare.com/articles/presentation/Research_Computing_Platform_Student_Internship_Handbook/21259467).
 
 ## I setup my Workday (HR system) through an initial email but now that password doesn't work or I cannot login to my WEHI email
 
