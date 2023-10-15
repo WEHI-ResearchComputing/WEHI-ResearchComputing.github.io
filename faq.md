@@ -19,7 +19,8 @@ We are flexible. We aim to keep the same starting dates for everyone to make it 
 You can find the information here:
 - These internships are 100% remote.
 - The [intake dates and hours per week are here](intake_dates).
-- Title of the supervisor and phone number should be in the emails sent by your supervisor.
+-  Supervisor/ Industry Contact details such as the title of the supervisor and phone number should be in the emails sent by your supervisor.
+-  An official letter on company letterhead/ An email from the host supervisor with their contact details visible should be the email offer you received from your supervisor.
 
 ## I know that the internships are usually 100% offsite, but what if I want to go into the office sometimes?
 
