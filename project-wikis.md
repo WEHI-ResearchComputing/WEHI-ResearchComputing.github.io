@@ -57,7 +57,7 @@ This project looks to improve on LoxCodeR, a way of barcoding stem cells to foll
 
 ### Research Data Workflow Processing - Research -  Data Analytics or Data Engineering
 This project looks to define Research Data Management workflows and use them to benchmark High Performance Compute on WEHI infrastructure and beyond.
-To learn more about it, please read the presentation, [Benchmarking domain-specific research workflow solutions at an international level](https://figshare.com/articles/presentation/Benchmarking_domain-specific_research_workflow_solutions_at_an_international_level/21259425) as well as [the GitHub from the students from 2023](https://github.com/JiayaoLU/Data-Science-Project) that has three public Tableau graphs.
+To learn more about it, please read the presentation, [Benchmarking domain-specific research workflow solutions at an international level](https://figshare.com/articles/presentation/Benchmarking_domain-specific_research_workflow_solutions_at_an_international_level/21259425) as well as [the GitHub from the students from 2023](https://github.com/JiayaoLU/Data-Science-Project) that has three public Tableau graphs. A [presentation of this work is available on Sharepoint (WEHI access only)](https://wehieduau.sharepoint.com/:b:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Benchmarking%20HPC%20Research%20Data%20Workflow/DSP%20S2%20Final%20Presentation.pdf?csf=1&web=1&e=iB4AFa).
 
 
 
