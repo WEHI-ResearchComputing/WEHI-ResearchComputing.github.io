@@ -50,6 +50,10 @@ Yes, that is correct.
 
 As it is remote, we are very flexible but there are times when we do get together, such as the weekly project meeting. This is explained in [the Student Internship Handbook](https://figshare.com/articles/presentation/Research_Computing_Platform_Student_Internship_Handbook/21259467).
 
+## My project is complex and ambiguous - what can I do to deal with this?
+
+This is [an explanation on how to deal with a complex and ambiguous project](complex-projects).
+
 ## I setup my Workday (HR system) through an initial email but now that password doesn't work or I cannot login to my WEHI email
 
 The links you might have previously used to access Workday before your official start date will no longer allow access.  Email hr [at] wehi [dot] edu [dot] au as this is the contact provided if you encounter any issue in regard to Workday. They will provided you with the new credentials to set up your WEHI email. 
