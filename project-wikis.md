@@ -5,7 +5,7 @@ This page allows you to have a look at all the internship projects offered at WE
 ## New and Ongoing Projects 
 
 ### schex Bioconductor - Research - Software Engineering
-This project helps with understanding what could be streamlined when maintaining software packages for the popular Bioconductor community. For more details see [schex Bioconductor project](students-schex).
+This project helps with understanding what could be streamlined when maintaining software packages for the popular Bioconductor community. For more details see [schex Bioconductor project](students-schex) and the [schex Bioconductor package](https://bioconductor.org/packages/release/bioc/html/schex.html).
 
 
 ### Imaging - Research - Data Engineering
