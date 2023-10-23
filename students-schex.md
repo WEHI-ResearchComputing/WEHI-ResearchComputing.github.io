@@ -1,4 +1,4 @@
-# Research Data Architect (schex Bioconductor) 
+# Research Software Engineer (schex Bioconductor) 
 
 ## Introduction
 
