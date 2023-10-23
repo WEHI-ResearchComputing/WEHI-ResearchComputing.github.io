@@ -43,4 +43,5 @@ The student will have an opportunity to self-direct and be proactive in their ap
 
 
 ## Further reading
-- To be provided
+- [schex Bioconductor package](https://bioconductor.org/packages/release/bioc/html/schex.html)
+- [schex GitHub repository](https://github.com/SaskiaFreytag/schex)
