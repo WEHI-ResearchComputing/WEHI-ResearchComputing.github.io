@@ -1,6 +1,6 @@
 # Students
 
-The WEHI Research Computing Platform regularly provides student internship opportunities through the University of Melbourne Data Science and Software Engineering programs. These internships are 100% remote.
+The WEHI Research Computing Platform regularly provides student internship opportunities through the University of Melbourne Data Science and Software Engineering programs. These internships are 100% remote. Out of the 7 anonymous reviews that have been given by students as at 23rd of October 2023, our internships have been rated a 4.7 out of 5.
 
 Many of the projects work in the Data Analysis and [Research Software Engineering](https://rse-aunz.github.io/) space using High Performance Compute (HPC). We work across diverse projects such as imaging, cryo-EM, genomics, transcriptomics, clinical informatics, and capacity planning.
 
