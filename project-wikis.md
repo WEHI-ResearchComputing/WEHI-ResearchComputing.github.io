@@ -24,7 +24,7 @@ This project helps with reproducibility in the field of Bioinformatics. For more
 This project aims to create a proof-of-concept for a Data Lakehouse / Data Commons at WEHI. For more details see [Data Lakehouse / Data Commons project](students-data-commons) and the [Data Commons Wiki](https://github.com/WEHI-ResearchComputing/data-commons/wiki).
 
 ### Student Organiser - Full-Stack Web Developer
-This project aims to improve [the web application](https://github.com/WEHI-ResearchComputing/student-intern-organiser) that WEHI RCP uses to help streamline the recruitment of students for the internship program.
+This project aims to improve [the web application](https://github.com/WEHI-ResearchComputing/student-intern-organiser) that WEHI RCP uses to help streamline the recruitment of students for the internship program. For more details [read the student organiser wiki](https://github.com/WEHI-ResearchComputing/student-intern-organiser/wiki)
 
 ## Potential Projects that are dependent on various factors
 
