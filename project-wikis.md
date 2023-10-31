@@ -41,7 +41,7 @@ This project helps with the current work around automated processing of images f
 This project looks to make Cyton, a sophisticated mathematical model, accessible to the scientific community by creating a web application that researchers can access with their browsers from anywhere in the world. For more details see [Immunology Web Application project.](student-immunology-web-application)
 
 ### cryo-EM - Research - Data Analytics or Data Engineering
-This project looks to report and analyse Big Data cryo-EM workflows and use machine learning to inform future experimental design. For more details see [cryoEM project.](student-cryoem)
+This project looks to report and analyse Big Data cryo-EM workflows and use machine learning to inform future experimental design. For more details see [cryoEM project](student-cryoem) and the [cryo-EM wiki](https://github.com/WEHI-ResearchComputing/cryo_em_grid_detection_ai/wiki).
 
 ### Haemosphere - Research - Data Analytics or Full-Stack Web Developer
 This projects looks to improve on Haemosphere, which is like a web-based pocket dictionary for visualising and comparing genomic blood datasets. For more details see [Haemosphere project.](student-haemosphere)
