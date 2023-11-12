@@ -42,6 +42,10 @@ Data engineering is focused on streamlining and cleaning data systematically. Da
 
 # Onboarding onto the internship program
 
+## The Workday email says "On your first day, please arrive at 9.00am unless your manager has advised an alternative time and ask for your manager upon arrival at reception." - is this accurate?
+
+No, it is not accurate. This is a 100% remote internship and that part of the Workday email can be safely ignored. On your first day, you will be scheduled some virtual drop-in sessions so you can meet the supervisor and other interns. 
+
 ## Given that the internship is remote, am I allowed to complete the internship while on travel?
 
 Yes, that is correct.
