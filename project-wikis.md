@@ -4,7 +4,10 @@ This page allows you to have a look at all the internship projects offered at WE
 
 ## New and Ongoing Projects 
 
-### schex Bioconductor - Research - Software Engineering
+### AIVE - Research Software Engineering
+The project would involve a series of stages to bring the software infrastructure to a level that will help with development in a complex research environment where currently only 2 people in the world know the software.  For more details see the [AIVE project](students-aive).
+
+### schex Bioconductor - Research Software Engineering
 This project helps with understanding what could be streamlined when maintaining software packages for the popular Bioconductor community. For more details see [schex Bioconductor project](students-schex), the [Bioconductor Maintenance wiki](https://github.com/WEHI-ResearchComputing/bioconductor_maintenance/wiki) and the [schex Bioconductor package](https://bioconductor.org/packages/release/bioc/html/schex.html).
 
 
