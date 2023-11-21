@@ -75,6 +75,7 @@ These are the key courses you need to do:
 These are the courses you could do if interested:
 - Understanding Risk Management
 - WEHI Child Safe Training
+- Workday basics
 
 These are the ones you can ignore as you are 100% remote:
 - Safety Orientation Program - Laboratory
