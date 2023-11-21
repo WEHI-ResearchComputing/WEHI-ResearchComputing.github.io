@@ -42,9 +42,14 @@ Data engineering is focused on streamlining and cleaning data systematically. Da
 
 # Onboarding onto the internship program
 
+
 ## The Workday email says "On your first day, please arrive at 9.00am unless your manager has advised an alternative time and ask for your manager upon arrival at reception." - is this accurate?
 
 No, it is not accurate. This is a 100% remote internship and that part of the Workday email can be safely ignored. On your first day, you will be scheduled some virtual drop-in sessions so you can meet the supervisor and other interns. 
+
+## I setup my Workday (HR system) through an initial email but now that password doesn't work or I cannot login to my WEHI email
+
+The links you might have previously used to access Workday before your official start date will no longer allow access.  Email hr [at] wehi [dot] edu [dot] au as this is the contact provided if you encounter any issue in regard to Workday. They will provided you with the new credentials to set up your WEHI email. You may need to go into Incognito mode to get it to work.
 
 ## Given that the internship is remote, am I allowed to complete the internship while on travel?
 
@@ -58,6 +63,21 @@ As it is remote, we are very flexible but there are times when we do get togethe
 
 This is [an explanation on how to deal with a complex and ambiguous project](complex-projects).
 
-## I setup my Workday (HR system) through an initial email but now that password doesn't work or I cannot login to my WEHI email
+## What courses in Workday do I need to complete?
 
-The links you might have previously used to access Workday before your official start date will no longer allow access.  Email hr [at] wehi [dot] edu [dot] au as this is the contact provided if you encounter any issue in regard to Workday. They will provided you with the new credentials to set up your WEHI email. You may need to go into Incognito mode to get it to work.
+These are the key courses you need to do:
+- Law at Work - Privacy for the Private Sector
+- Law at Work - Sexual Harassment Prevention
+- Law at Work - Workplace Bullying
+- Law at Work - Anti-discrimination and Equal Opportunity
+- Acceptable Workplace Behaviour at WEHI
+
+These are the courses you could do if interested:
+- Understanding Risk Management
+- WEHI Child Safe Training
+
+These are the ones you can ignore as you are 100% remote:
+- Safety Orientation Program - Laboratory
+- Safety Orientation Program - General
+
+
