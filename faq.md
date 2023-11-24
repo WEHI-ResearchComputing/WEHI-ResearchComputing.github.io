@@ -81,4 +81,21 @@ These are the ones you can ignore as you are 100% remote:
 - Safety Orientation Program - Laboratory
 - Safety Orientation Program - General
 
+## What should I put in the public wiki?
 
+General knowledge to put into the wiki would include (among others):
+- A diagram showing how the high-level parts of the system interact
+- A diagram of how the biology works at a simple level that you need for the project
+- A diagram to show how the overall steps of the workflow and a simple explanation of why each step is done
+
+NOTE: Please ensure that anything you put in the public domain is not private. The rule of thumb is that if you found the material on the public internet, you can treat it as public. If you found the material within WEHI or from a WEHI source, you should ask if you can make it public. If you are not sure, please ask your supervisor.
+
+## What should I put in my technical diary?
+
+Within your project channel in Sharepoint, you should have a Technical notes folder for your intake eg. Semester 2 2023 Technical notes.
+
+Technical knowledge to put into your technical diary in Sharepoint (among others) would include:
+- commandline commands you used to setup your sofwtware system eg. pip install pandas
+- technical errors you encountered and how you fixed them, or what was the process you found to fix them
+- general technical notes that took you some time to figure out that might help a future student
+- any technical help you received from other students, mentors, or supervisors 
