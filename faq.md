@@ -83,6 +83,8 @@ These are the ones you can ignore as you are 100% remote:
 
 ## What should I put in the public wiki?
 
+The public wiki is to share information with future students the things you needed to understand at a high level to be able to start working on the technical side of the project.
+
 General knowledge to put into the wiki would include (among others):
 - A diagram showing how the high-level parts of the system interact
 - A diagram of how the biology works at a simple level that you need for the project
@@ -92,7 +94,7 @@ NOTE: Please ensure that anything you put in the public domain is not private. T
 
 ## What should I put in my technical diary?
 
-Within your project channel in Sharepoint, you should have a Technical notes folder for your intake eg. Semester 2 2023 Technical notes.
+Within your project channel in Sharepoint, you should have a Technical notes folder for your intake eg. Semester 2 2023 Technical notes. This is to help future students understand what you did in detail to get your results.
 
 Technical knowledge to put into your technical diary in Sharepoint (among others) would include:
 - commandline commands you used to setup your sofwtware system eg. pip install pandas
