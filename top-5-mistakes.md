@@ -62,7 +62,10 @@ Many of our projects are long-term and cannot be solved by a single cohort of st
 
 Students have learnt important knowledge several times but haven’t documented in a way that the next cohort of students can benefit from it. So, the next cohort of students get frustrated that they can’t get traction because they cannot understand what happened before at a high-level and at a technical level. 
 
-Solution: Document the general knowledge you have learned in a GitHub wiki, document your technical knowledge and daily activities in Sharepoint, and create a presentation that makes it easy for others to understand what it takes to continue the project. 
+Solution: Document the general knowledge you have learned in a GitHub wiki, document your technical knowledge and daily activities in a technical diary within Sharepoint, and create a presentation that makes it easy for others to understand what it takes to continue the project. 
+
+You can [find out more from the FAQ.](https://wehi-researchcomputing.github.io/faq)
+ 
 
 # Conclusion
 
