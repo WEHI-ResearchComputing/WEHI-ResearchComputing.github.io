@@ -113,4 +113,4 @@ There is a way to escalate how to ask for help. This shows you how you can escal
 4. Ask your fellow students
 5. Ask your supervisor, and cc in your fellow students
 
-Please also make sure you explain the problem in detail, with screenshots and any error messages. These should be saved into your technical diary that should be stored in Sharepoint.
+Please also make sure you [explain the problem in detail, with screenshots and any error messages](https://www.themuse.com/advice/5-times-youll-need-to-ask-your-tech-team-for-help-and-how-to-do-it-right). These should be saved into your technical diary that should be stored in Sharepoint.
