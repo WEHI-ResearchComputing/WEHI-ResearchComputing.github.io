@@ -43,3 +43,8 @@ We thank all our students for the effort they have done and look forward to meet
     </li>
   {% endfor %}
 </ul>
+
+
+# Direct link to GitHub repo
+
+[https://github.com/WEHI-ResearchComputing/WEHI-ResearchComputing.github.io](https://github.com/WEHI-ResearchComputing/WEHI-ResearchComputing.github.io)
