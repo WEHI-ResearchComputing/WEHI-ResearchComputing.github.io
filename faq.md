@@ -101,3 +101,16 @@ Technical knowledge to put into your technical diary in Sharepoint (among others
 - technical errors you encountered and how you fixed them, or what was the process you found to fix them
 - general technical notes that took you some time to figure out that might help a future student
 - any technical help you received from other students, mentors, or supervisors 
+
+
+## How should I ask for help to solve a problem?
+
+There is a way to escalate how to ask for help. This shows you how you can escalate a problem in order from start to finish:
+
+1. Try to solve it yourself via documentation provided in the wiki and in Sharepoint
+2. Try to solive it yourself via an internet search
+3. Try to solve it using ChatGPT, provided that the information you provide ChatGPT is not private to WEHI
+4. Ask your fellow students
+5. Ask your supervisor, and cc in your fellow students
+
+Please also make sure you explain the problem in detail, with screenshots and any error messages. These should be saved into your technical diary that should be stored in Sharepoint.
