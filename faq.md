@@ -149,5 +149,5 @@ Key things to do before for the regular weekly meeting (yes even the first one t
     1. what each student has done,
     2. write down any questions you have for the meeting to use as an agenda,
     3. provide a link to the wiki, and
-    4. provide a link to the technical notes in Sharepoint
+    4. provide a link to the technical notes in WEHI-wide student intern group in Sharepoint / Files in Teams
     5. remember to ask to record the meeting to more easily keep notes if needed
