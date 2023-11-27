@@ -10,9 +10,12 @@ Read through the whole of this webpage. How you apply is shown at the bottom of 
 
 ## Key Documents to review and FAQ
 
-- To understand more about the program, you can download and read the [RCP Student Internship Program Handbook](https://figshare.com/articles/presentation/Research_Computing_Platform_Student_Internship_Handbook/21259467), 
-- You can also try to avoid [the top 5 mistakes that students make](top-5-mistakes).
-- You can also have a look at the [FAQ online.](faq)
+To understand more about the program, you can read the [RCP Student Internship Program Handbook](https://figshare.com/articles/presentation/Research_Computing_Platform_Student_Internship_Handbook/21259467), and the [RCP Student Onboarding Checklist](https://figshare.com/articles/online_resource/RDM_0138_RCP_Student_Onboarding_Checklist/23280815). 
+
+Please read the [online FAQ](faq) if you have any follow up questions as it is updated regularly.
+
+For other information:
+- You can try to avoid [the top 5 mistakes that students make](top-5-mistakes).
 - We suggest that you write a 1 page cover letter introducing yourself. We also have [material on how to write a good cover letter and what to look for when you are writing a resume](https://doi.org/10.6084/m9.figshare.21057535.v2).
 - View the [intake dates here](intake_dates) 
 
