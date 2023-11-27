@@ -61,7 +61,29 @@ As it is remote, we are very flexible but there are times when we do get togethe
 
 ## My project is complex and ambiguous - what can I do to deal with this?
 
+All of the projects are complex and ambiguous. 
+
 This is [an explanation on how to deal with a complex and ambiguous project](complex-projects).
+
+## What is the overall structure of the internship going to look like?
+
+To understand how the overall process of the project will be
+
+1. Improve understanding at high level from wiki to help student interns be independent
+2. Improve understanding at technical level from Sharepoint / Onboarding page on wiki
+3. Write up a presentation to say what you think you should do on the project. This helps student interns become independent
+4. Start improving on the project by working independently
+5. Do a final presentation to explain how you improved the project, along with updated documentation on wiki/Sharepoint
+
+
+## You ask us to be as independent as possible. How can we do that?
+
+Rules of thumb for being independent:
+- If you don't know why at a high level, you won't be independent. Always take the time to understand high level, so that you can anticipate the client
+- The idea is that you can guess what the client (me) is going to say before I say it
+- And the idea is to ask a question, knowing what the client is going to say, this allows you to test your understanding of the problem
+- If you ask a question, and they say something different, then you need to ask why
+
 
 ## What courses in Workday do I need to complete?
 
