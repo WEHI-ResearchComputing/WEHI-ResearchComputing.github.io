@@ -40,7 +40,7 @@ There is also a Virtual Computing Drop-in as well as a Thursday meeting to talk 
 
 Data engineering is focused on streamlining and cleaning data systematically. Data analysis is focused on cleaning data and analysing it using statistical or machine learning algorithms. Software engineering is focused on systematising analysis or tools that help us make decisions.
 
-# Onboarding onto the internship program
+# Onboarding onto the internship program (Workday)
 
 
 ## The Workday email says "On your first day, please arrive at 9.00am unless your manager has advised an alternative time and ask for your manager upon arrival at reception." - is this accurate?
@@ -50,6 +50,27 @@ No, it is not accurate. This is a 100% remote internship and that part of the Wo
 ## I setup my Workday (HR system) through an initial email but now that password doesn't work or I cannot login to my WEHI email
 
 The links you might have previously used to access Workday before your official start date will no longer allow access.  Email hr [at] wehi [dot] edu [dot] au as this is the contact provided if you encounter any issue in regard to Workday. They will provided you with the new credentials to set up your WEHI email. You may need to go into Incognito mode to get it to work.
+
+## What courses in Workday do I need to complete?
+
+These are the key courses you need to do:
+- Law at Work - Privacy for the Private Sector
+- Law at Work - Sexual Harassment Prevention
+- Law at Work - Workplace Bullying
+- Law at Work - Anti-discrimination and Equal Opportunity
+- Acceptable Workplace Behaviour at WEHI
+
+These are the courses you could do if interested:
+- Understanding Risk Management
+- WEHI Child Safe Training
+- Workday basics
+
+These are the ones you can ignore as you are 100% remote:
+- Safety Orientation Program - Laboratory
+- Safety Orientation Program - General
+
+
+# Onboarding onto the internship program (Non-Workday)
 
 ## Given that the internship is remote, am I allowed to complete the internship while on travel?
 
@@ -85,23 +106,6 @@ Rules of thumb for being independent:
 - If you ask a question, and they say something different, then you need to ask why
 
 
-## What courses in Workday do I need to complete?
-
-These are the key courses you need to do:
-- Law at Work - Privacy for the Private Sector
-- Law at Work - Sexual Harassment Prevention
-- Law at Work - Workplace Bullying
-- Law at Work - Anti-discrimination and Equal Opportunity
-- Acceptable Workplace Behaviour at WEHI
-
-These are the courses you could do if interested:
-- Understanding Risk Management
-- WEHI Child Safe Training
-- Workday basics
-
-These are the ones you can ignore as you are 100% remote:
-- Safety Orientation Program - Laboratory
-- Safety Orientation Program - General
 
 ## What should I put in the public wiki?
 
@@ -136,3 +140,14 @@ There is a way to escalate how to ask for help. This shows you how you can escal
 5. Ask your supervisor, and cc in your fellow students
 
 Please also make sure you [explain the problem in detail, with screenshots and any error messages](https://www.themuse.com/advice/5-times-youll-need-to-ask-your-tech-team-for-help-and-how-to-do-it-right). These should be saved into your technical diary that should be stored in Sharepoint.
+
+## What are the key things to do before the weekly meetings? 
+
+Key things to do before for the regular weekly meeting (yes even the first one that is usually in week 2):
+1. Please meet as a team before the meeting without your supervisors to ensure you as a team of students are all on the same page
+2. Please send a weekly email update 24 hours before the meeting with:
+    1. what each student has done,
+    2. write down any questions you have for the meeting to use as an agenda,
+    3. provide a link to the wiki, and
+    4. provide a link to the technical notes in Sharepoint
+    5. remember to ask to record the meeting to more easily keep notes if needed
