@@ -120,7 +120,7 @@ NOTE: Please ensure that anything you put in the public domain is not private. T
 
 ## What should I put in my technical diary?
 
-Within your project channel in Sharepoint, you should have a Technical notes folder for your intake eg. Semester 2 2023 Technical notes. This is to help future students understand what you did in detail to get your results.
+Within your project channel in Sharepoint (ie. within the WEHI-wide student intern group in Teams > Files), you should have a Technical notes folder for your intake eg. Semester 2 2023 Technical notes. This is to help future students understand what you did in detail to get your results. This also includes things that should not be made public. So descriptions of where you put data or how you ran a script on Milton should not be made public and should go in Sharepoint.
 
 Technical knowledge to put into your technical diary in Sharepoint (among others) would include:
 - commandline commands you used to setup your sofwtware system eg. pip install pandas
