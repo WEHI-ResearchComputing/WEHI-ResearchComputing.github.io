@@ -72,7 +72,7 @@ These are the ones you can ignore as you are 100% remote:
 
 # Onboarding onto the internship program (Non-Workday)
 
-# How do I get access to the WEHI-wide student intern group using my WEHI email address?
+## How do I get access to the WEHI-wide student intern group using my WEHI email address?
 
 To get access to WEHI-wide student intern group using your WEHI email address. We need to do this as we will be deleting the unimelb email access once everyone has their WEHI email addresses.
 
