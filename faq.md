@@ -72,6 +72,17 @@ These are the ones you can ignore as you are 100% remote:
 
 # Onboarding onto the internship program (Non-Workday)
 
+# How do I get access to the WEHI-wide student intern group using my WEHI email address?
+
+To get access to WEHI-wide student intern group using your WEHI email address. We need to do this as we will be deleting the unimelb email access once everyone has their WEHI email addresses.
+
+1. Click on [this SharePoint / Teams invite link ](https://teams.microsoft.com/l/team/19%3amelRsRhBMdnv7a9KSPVaWGjsfQvwASeGRixJ0WSKpNc1%40thread.tacv2/conversations?groupId=da2a37ef-90d5-48d9-b8cb-586457b569da&tenantId=aa7c72e2-c5cf-4a40-a22a-a585c04ca07c)
+2. Open it up in Microsoft Teams Client by selecting Open Microsoft Teams
+3. Click on Join button in blue
+4.. It should then say Request Sent
+5. Wait for me to approve your access
+
+
 ## Given that the internship is remote, am I allowed to complete the internship while on travel?
 
 Yes, that is correct.
