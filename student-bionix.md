@@ -8,10 +8,14 @@ As a result, reproducibility is difficult to achieve due to the large number of 
 
 ## Duties while on placement
 
-The candidate will be responsible for expressing various bioinformatics processing pipelines in the BioNix workflow framework. The goal is to write a variety of standard processing pipelines within the framework, making typical analysis both easily accessible and highly reproducible to many bioinformatics researchers. 
+The candidate will be get the opportunity to: 
 
-This will include: 
-- wrapping underlying bioinformatics software that is required and not currently available in nixpkgs[3]; 
+- Learn about open source norms; 
+- Improve the documentation around Nix and BioNix to make it easier and quicker to learn concepts; 
+- Wrap underlying bioinformatics software that is required and not currently available in nixpkgs[3] as an open source contributor; 
+
+Further bonus goals include:  
+
 - writing expressions to execute the tools as individual processing stages; 
 - test each stage in isolation to verify functionality and bit-reproducibility; 
 - test whole workflows for functionality. 
