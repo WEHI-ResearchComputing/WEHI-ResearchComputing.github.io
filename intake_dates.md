@@ -1,5 +1,11 @@
 # Student intake dates
 
+## Semester 1 2024 intake now available
+
+
+- **[Engineering and IT](https://eng.unimelb.edu.au/industry/students/internships#key-dates):** start and end dates are from the 26th of February to 17th of May for 28 hours per week.
+- **[Faculty of Science](https://science.unimelb.edu.au/engage/industry/internships#key-dates):** start and end dates are from the 26th of February to 17th of May for 8 hours per week.
+
 
 ## Summer intake 2023/2024 now available
 
