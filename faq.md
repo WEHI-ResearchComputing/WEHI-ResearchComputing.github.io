@@ -116,7 +116,23 @@ Rules of thumb for being independent:
 - And the idea is to ask a question, knowing what the client is going to say, this allows you to test your understanding of the problem
 - If you ask a question, and they say something different, then you need to ask why
 
+## We are required to interview a number of people to gather insight into their career pathway. How can I arrange this with you?
 
+You can see more in Ask About Career on [page 25 of the RCP Student Onboarding Checklist](https://doi.org/10.6084/m9.figshare.23280815.v5)
+
+For those doing the Bachelor of Science or the Master of Data Science course, you will need to ask a series of questions to a supervisor about their career.
+The questions are as follows:
+- How did you get started in this field, and what do you think has made you successful throughout your career?
+- Are there other ways that people you know entered this field?
+- What are the pros and cons of working in this field?
+- What traits, skills, or experiences do employers in your field look for in candidates?
+- If you were me, what would you do to try to break into this field now?
+- Are there particular publications, professional associations, or events I should explore for additional information on this field?
+- Would you advise me to speak to others about breaking into this field? Can you recommend anyone in particular?
+
+[There is a video available](https://wehieduau.sharepoint.com/sites/StudentInternGroupatWEHI/_layouts/15/stream.aspx?id=%2Fsites%2FStudentInternGroupatWEHI%2FShared%20Documents%2FOnboarding%20todo%2F2021%2D12%2D22%20Data%20science%20internship%20survey%20questions%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview) at Onboarding todo channel > Files > 2021-12-22 Data science internship survey questions. 
+
+Once you have watched this, if you have further questions, please email me and we can arrange a time to chat about this as a group.
 
 ## What should I put in the public wiki?
 
