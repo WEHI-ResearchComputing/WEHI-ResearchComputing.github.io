@@ -11,7 +11,7 @@ The project would involve a series of stages to bring the software infrastructur
 This project helps with understanding what could be streamlined when maintaining software packages for the popular Bioconductor community. For more details see [schex Bioconductor project](students-schex), the [Bioconductor Maintenance wiki](https://github.com/WEHI-ResearchComputing/bioconductor_maintenance/wiki) and the [schex Bioconductor package](https://bioconductor.org/packages/release/bioc/html/schex.html).
 
 
-### Imaging - Research - Data Engineering
+### Imaging - Research - Data Engineering, Full-Stack Web Developer
 This project helps with the current work around automated processing of images from microscopes to the High Performance Compute. For more details see [Imaging project](student-imaging) and the [Imaging Getting Started Wiki](https://github.com/WEHI-ResearchComputing/Imaging-Getting-Started/wiki).
 
 ### Clinical Dashboards - Research - Data Analytics, Full-Stack Web Developer, or Data Engineering
@@ -23,7 +23,7 @@ This project helps to setup infrastructure to keep track of what happens to a sa
 ### BioNix - Research - Data Engineering
 This project helps with reproducibility in the field of Bioinformatics. For more details see [BioNix project](student-bionix) and the [BioNix Getting Started Wiki](https://github.com/WEHI-ResearchComputing/BioNix-GettingStarted/wiki).
 
-### Data Lakehouse / Data Commons - Research - Data Architecture
+### Data Commons - Research - Full-Stack Web Developer, Data Engineering
 This project aims to create a proof-of-concept for a Data Lakehouse / Data Commons at WEHI. For more details see [Data Lakehouse / Data Commons project](students-data-commons) and the [Data Commons Wiki](https://github.com/WEHI-ResearchComputing/data-commons/wiki).
 
 ### Student Organiser - Full-Stack Web Developer
