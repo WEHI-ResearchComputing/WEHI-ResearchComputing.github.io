@@ -8,22 +8,19 @@ We mainly work with projects that use R and Shiny, Python, Julia, bash, while al
 
 We prepare students for the real-world by teaching them [how understanding the domain problem and the users is more important than technical skills](complex-projects), showing them [how to become as independent as possible](faq#you-ask-us-to-be-as-independent-as-possible-how-can-we-do-that), and teaching them how to work productively in a remote environment.
 
+We even tell students how to try to avoid [the top 5 mistakes that students make](top-5-mistakes).
+
 Read through the whole of this webpage. How you apply is shown at the bottom of the page.
+
+You can listen to two students talk about their projects (click image below).
+
+[![Symposium image of four people on a virtual call](/assets/symposium.jpeg){:width="400px"}](https://www.youtube.com/watch?v=QVMrIFLXOFw)
 
 ## Key Documents to review and FAQ
 
 To understand more about the program, you can read the [RCP Student Internship Program Handbook](https://figshare.com/articles/presentation/Research_Computing_Platform_Student_Internship_Handbook/21259467), and the [RCP Student Onboarding Checklist](https://figshare.com/articles/online_resource/RDM_0138_RCP_Student_Onboarding_Checklist/23280815). 
 
 Please read the [online FAQ](faq) if you have any follow up questions as it is updated regularly.
-
-For other information:
-- You can try to avoid [the top 5 mistakes that students make](top-5-mistakes).
-- We suggest that you write a 1 page cover letter introducing yourself. We also have [material on how to write a good cover letter and what to look for when you are writing a resume](https://doi.org/10.6084/m9.figshare.21057535.v2).
-- View the [intake dates here](intake_dates) 
-
-or you can listen to two students talk about their projects (click image below).
-
-[![Symposium image of four people on a virtual call](/assets/symposium.jpeg){:width="400px"}](https://www.youtube.com/watch?v=QVMrIFLXOFw)
 
 
 ## List of student intern projects
@@ -32,7 +29,10 @@ Here are some of the [recurring student intern projects and new projects we are 
 
 ## How to Apply
 
-Details on [how to apply are here](how-to-apply).
+
+- We suggest that you write a 1 page cover letter introducing yourself. We also have [material on how to write a good cover letter and what to look for when you are writing a resume](https://doi.org/10.6084/m9.figshare.21057535.v2).
+- View the [intake dates here](intake_dates) 
+- Further details on [how to apply are here](how-to-apply).
 
 
 
