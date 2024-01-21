@@ -4,6 +4,10 @@ This page allows you to have a look at all the internship projects offered at WE
 
 ## New and Ongoing Projects 
 
+### Conference Organiser - Software Engineering
+
+This project involves creating a web-based application to help conference organisers of RSEAA24, an international conference of Research Software Engineers that is held in September. For more details see [the GitHub repo for the Conference Organiser](https://github.com/rowlandm/conference_organiser).
+
 ### AIVE - Research Software Engineering
 The project would involve a series of stages to bring the software infrastructure to a level that will help with development in a complex research environment where currently only 2 people in the world know the software.  For more details see the [AIVE project](students-aive).
 
