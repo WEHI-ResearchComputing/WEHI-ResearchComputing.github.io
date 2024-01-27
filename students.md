@@ -12,6 +12,8 @@ We even tell students how to try to avoid [the top 5 mistakes that students make
 
 Read through the whole of this webpage. How you apply is shown at the bottom of the page.
 
+Sometimes, we are in contact with students who cannot get course credit and are extremely keen to volunteer as an open source software contributor. In these situations, we have to be careful we do not act in an exploitative way. This is why [we have written our expectations of potential open source contributors to make the expectations more transparent](/expectations_open_source_contributors). 
+
 You can listen to two students talk about their projects (click image below).
 
 [![Symposium image of four people on a virtual call](/assets/symposium.jpeg){:width="400px"}](https://www.youtube.com/watch?v=QVMrIFLXOFw)
