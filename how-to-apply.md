@@ -39,3 +39,4 @@ You can find more information here:
 - These internships are 100% remote.
 - The [intake dates and hours per week are here](intake_dates).
 - Title of the supervisor and phone number should be in the emails sent by your supervisor.
+- [A list of questions we ask in our initial interview](/email_acknowledgement).
