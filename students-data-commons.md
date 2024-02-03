@@ -1,8 +1,8 @@
-# Research Data Architect (Data Lakehouse / Data Commons) 
+# Research Software Engineer (Data Commons) 
 
 ## Introduction 
 
-As part of our ongoing efforts to evaluate and implement innovative data management strategies, we are offering an internship opportunity to work on a proof-of-concept project for a data lakehouse / data commons. We are seeking a motivated and detail-oriented intern to join our team and contribute to the development of a proof-of-concept data infrastructure. 
+As part of our ongoing efforts to evaluate and implement innovative data management strategies, we are offering an internship opportunity to work on a proof-of-concept project for a data commons. We are seeking a motivated and detail-oriented intern to join our team and contribute to the development of a proof-of-concept data infrastructure. 
 
 ## Duties while on placement 
 
@@ -10,7 +10,7 @@ As a Research Software Engineer Intern, you will play a crucial role in supporti
 
 The Research Software Engineer Intern role will: 
 
-- Assist in testing and implementing data models for the proof-of-concept data lakehouse / data commons. 
+- Assist in testing and implementing data models for the proof-of-concept data commons. 
 - Work with the team to implement conceptual and logical data models that align with project objectives. 
 - Support the implementation of data ingestion pipelines for the proof-of-concept. 
 - Contribute to the development of data governance practices and policies for the proof-of-concept project. 
