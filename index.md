@@ -48,3 +48,7 @@ We thank all our students for the effort they have done and look forward to meet
 # Direct link to GitHub repo
 
 [https://github.com/WEHI-ResearchComputing/WEHI-ResearchComputing.github.io](https://github.com/WEHI-ResearchComputing/WEHI-ResearchComputing.github.io)
+
+# Reviewers of the program
+
+If your role is to review the projects tied to this program for a University, [you may want to read this](explanation_about_ohs).
