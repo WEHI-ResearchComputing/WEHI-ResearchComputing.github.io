@@ -39,6 +39,6 @@ Here are some of the [recurring student intern projects and new projects we are 
 - Further details on [how to apply are here](how-to-apply).
 
 
-# To make changes to this website
+## To make changes to this website
 
-Go to https://github.com/WEHI-ResearchComputing/WEHI-ResearchComputing.github.io
+Go to [the GitHub repo to change this website](https://github.com/WEHI-ResearchComputing/WEHI-ResearchComputing.github.io)
