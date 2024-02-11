@@ -192,4 +192,8 @@ Here is a template for your one page project summary - [RCP#0013 RCP Student Int
 
 It also has a link to a set of slides that are a good example to follow.
 
+The one page project summary audience is for myself and potential researchers who want to understand what you have done from a high level point of view, but can easily click on links to get to the technical detail / reports / visualisations. The one page summary should be handed in before the presentation or before the internship finishes.
+
 For your final presentation – please make sure you have an acknowledgement slide and show the slides to your supervisor before your final presentation. [A good example of a set of slides is here.](https://wehieduau.sharepoint.com/:p:/r/sites/StudentInternGroupatWEHI/_layouts/15/Doc.aspx?sourcedoc=%7B30ACDBAE-D620-42C3-97D4-50D2201052A4%7D&file=Final%20Presentation%20Genomics%20Metadata%20Multiplexing.pptx&action=edit)
+
+The audience for the presentation is for future students and for researchers who might be interested in understanding what you have done from a high level point of view, but can easily look at the wiki to find out more.
