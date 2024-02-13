@@ -186,14 +186,16 @@ We take a break between Christmas and New Year, as well as the first week of Jan
 Remember, we ask you to write up a presentation to say what you think you should do on the project. This helps you become independent. If you do decide to do some work over the holidays, understanding the high level problem will help you make decisions at a technical level without your supervisor's help.
 
 
-## What do I need to do for my final presentation
+## What do I need to do for my final presentation and summary report?
+
+The final presentation and summary report are due on the last week of the internship. They are usually done at the same time as the regular weekly project meeting. It is important to provide an early draft and a late draft to your supervisors for both the final presentation and the summary report. The early draft is to make sure you are on the right track, and the late draft is to polish things. Please put them into Teams Files / Sharepoint so that they can be commented on directly by your supervisors. 
 
 Here is a template for your one page project summary - [RCP#0013 RCP Student Internship Program Summary - Summer 2324.docx](https://wehieduau.sharepoint.com/:w:/s/StudentInternGroupatWEHI/EUlhCvAdKYRBmRs_yj6_nAMBIaKJ8kDQMfm9zmVie7lkRg?e=aSHtZS)
-
-It also has a link to a set of slides that are a good example to follow.
 
 The one page project summary audience is for myself and potential researchers who want to understand what you have done from a high level point of view, but can easily click on links to get to the technical detail / reports / visualisations. The one page summary should be handed in before the presentation or before the internship finishes.
 
 For your final presentation – please make sure you have an acknowledgement slide and show the slides to your supervisor before your final presentation. [A good example of a set of slides is here.](https://wehieduau.sharepoint.com/:p:/r/sites/StudentInternGroupatWEHI/_layouts/15/Doc.aspx?sourcedoc=%7B30ACDBAE-D620-42C3-97D4-50D2201052A4%7D&file=Final%20Presentation%20Genomics%20Metadata%20Multiplexing.pptx&action=edit)
 
 The audience for the presentation is for future students and for researchers who might be interested in understanding what you have done from a high level point of view, but can easily look at the wiki to find out more.
+
+Maximum time for the presentation is 15 to 20 minutes.
