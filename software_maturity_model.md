@@ -1,6 +1,6 @@
 # Software maturity model
 
-This software maturity model illustrates one way in which one can build a software or system solution in a highly complex problem space, while gaining the weight of the community behind you: 
+This software maturity model illustrates one way in which you can build a software or system solution [without making the three common mistakes in managing complex new projects](https://doi.org/10.6084/m9.figshare.23639565), while gaining the weight of the community behind you: 
 
 1. Identify problem space by listening, documenting, confirming our understanding and advocating for the researcher. Share this widely as possible. Minimise the efforts needed by stakeholders to engage in the project.
 2. Test conceptual architecture to theoretically solve multiple stakeholder challenges. Share this as widely as possible, so different stakeholders can identify potential problems and edge cases. Minimise the efforts needed by stakeholders to engage in the project.
