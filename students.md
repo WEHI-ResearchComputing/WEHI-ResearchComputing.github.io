@@ -6,7 +6,7 @@ Many of the projects work in the Data Analysis and [Research Software Engineerin
 
 We mainly work with projects that use R and Shiny, Python, Julia, bash, while also making the most out of other technologies such as RStudio, Jupyter notebooks, PowerBI and other applications within the data analytics space.
 
-We prepare students for the real-world by teaching them [how understanding the domain problem and the users is more important than technical skills](complex-projects), showing them [how to become as independent as possible](faq#you-ask-us-to-be-as-independent-as-possible-how-can-we-do-that), and teaching them how to work productively in a remote environment.
+We prepare students for the real-world by teaching them [how understanding the domain problem and the users is more important than technical skills](complex-projects), showing them [how to become as independent as possible](faq#you-ask-us-to-be-as-independent-as-possible-how-can-we-do-that), [explain how a software maturity model can help clarify expectations](software_maturity_model), and teaching them how to work productively in a remote environment.
 
 We even tell students how to try to avoid [the top 5 mistakes that students make](top-5-mistakes).
 
