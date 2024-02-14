@@ -5,7 +5,7 @@ This software maturity model illustrates one way to
 1. Identify problem space by listening, documenting, confirming our understanding and advocating for the researcher
 2. Test conceptual architecture to theoretically solve multiple stakeholder challenges
 3. Draw up wireframes to illustrate what this potential solution might look like
-4. Do a proof-of-concept, like a working wire-frame, using tiny data
+4. Do a proof-of-concept, like a working wire-frame, using tiny data. A proof-of-concept does not have to be technically sound, it can be like a "smoke and mirrors" situation where you are trying to build enthusiasm for the project from stakeholders.
 5. If no resources, do a prototype, which is a more robust proof-of-concept, using bigger data. This can also be used to review potential existing solutions.
 6. Do a pilot, which is like pre-production, using real data, in a real situation, with a small number of collaborators, based on the evidence in the previous steps.
 7. Roll out to production with appropriate service level agreements, documentation, and training for system admins and users
