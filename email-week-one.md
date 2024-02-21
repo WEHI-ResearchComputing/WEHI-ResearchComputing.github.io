@@ -27,7 +27,7 @@ I will be adding your student email to the WEHI system so you can gain access to
 
 Workday is the Human Resources software tool at WEHI. You will receive an email from Workday and will need to fill in all the forms before you start. You may not receive the Workday email before your start date. This is OK, you will just need to wait and use your student email for the time being. Please also note that there is a Workday FAQ you can find in the FAQ below.
 
-Here are a few things you can do before you start:
+Here are a few things you can do:
 
 - You can read about [the top 5 mistakes that students make](https://wehi-researchcomputing.github.io/top-5-mistakes)
 - You can also have a [look at the FAQ](https://wehi-researchcomputing.github.io/faq)
