@@ -13,8 +13,8 @@ The key milestones are:
 We send onboarding emails to your unimelb email on:
 - the Monday before you start ([Link to the email](emaiL-one-week-before))
 - the Monday of week 1 ([Link to the email](email-week-one))
-- the Monday of week 2
-- the Monday of week 3
-- The Monday of week 4
-- The Monday of week 10
-- The last week of your internship
+- the Monday of week 2 ([Link to the email](email-week-two))
+- the Monday of week 3 ([Link to the email](email-week-three))
+- The Monday of week 4 ([Link to the email](email-week-four))
+- The Monday of week 10 ([Link to the email](email-week-ten))
+- The last week of your internship ([Link to the email](email-final-week))
