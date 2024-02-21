@@ -1,5 +1,7 @@
 # Email - Week 1
 
+Hi All,
+
 Welcome to the RCP Student Internship Program at WEHI. We are excited to have you join our team and provide you with valuable learning opportunities throughout your internship.
 
 This is your email to start week 1 of your internship. You are probably excited and a little bit anxious too. That’s OK. Please remember you have other students to connect with and you can always ask your supervisor or me for help.
