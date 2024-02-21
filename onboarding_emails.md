@@ -1,0 +1,19 @@
+# Key milestones and onboarding emails
+
+We send you emails throughout your internship to ensure you are aware of what is coming up.
+
+The key milestones are:
+1. Week 1 - setup Workday, read
+2. Week 4 - draw up the high level problem on the virtual whiteboard
+3. Week 5 - meet up with stakeholders and subject matter experts (SMEs)
+4. Second last week - practice presentation and submission of one page summary report
+5. Last week - final presentation
+
+We send onboarding emails to your unimelb email on:
+- the Monday before you start ([Link to the email](emaiL_one_week_before))
+- the Monday of week 1
+- the Monday of week 2
+- the Monday of week 3
+- The Monday of week 4
+- The Monday of week 10
+- The last week of your internship
