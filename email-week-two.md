@@ -1,5 +1,7 @@
 # Email - Week 2
 
+Hi All,
+
 This is your email to start week 2 of your internship. You are probably getting your head around the concepts and perhaps still feeling a little bit anxious too. That’s OK. Please remember that this is a “best-effort” internship for most of you and we are trying to see how good you really are in a safe environment. Remember, you can always ask your supervisor or me for help.
 
 
