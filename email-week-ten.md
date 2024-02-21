@@ -28,3 +28,8 @@ Here are a few things you can do:
 If you have any questions or need further clarification regarding the internship program or the onboarding document, please feel free to reach out to me after you have looked through these documents. We are here to assist you and provide any necessary support.
 
 We are looking forward to working with you and wish you a rewarding and successful internship experience.
+
+
+Regards,
+
+Rowland Mosbergen
