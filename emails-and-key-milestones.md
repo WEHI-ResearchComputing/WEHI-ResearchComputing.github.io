@@ -16,5 +16,6 @@ We send onboarding emails to your unimelb email on:
 - the Monday of week 2 ([Link to the email](email-week-two))
 - the Monday of week 3 ([Link to the email](email-week-three))
 - The Monday of week 4 ([Link to the email](email-week-four))
+- The Monday of week 5 ([Link to the email](email-week-five))
 - The Monday of week 10 ([Link to the email](email-week-ten))
 - The last week of your internship ([Link to the email](email-final-week))
