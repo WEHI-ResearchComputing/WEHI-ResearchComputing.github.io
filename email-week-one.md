@@ -15,7 +15,7 @@ This is a 100% remote internship and that part of the Workday email can be safel
 3. Reach out to your fellow student interns and supervisors to organise the weekly project meetings for the whole of your internship.
 4. Schedule two regular co-working sessions per week with your fellow student interns, without supervisors. These can be used so you can work together. The second co-working session should be co-ordinated with your sister project. A sister project is a project that is working on a similar set of technology to you that you would regularly talk to.
 
-You can see the full list in [the key milestones and onboarding emails page](onboarding_emails).
+You can see the full list in [the key milestones and onboarding emails page](onboarding-emails).
 
 ## Onboarding documentation
 
