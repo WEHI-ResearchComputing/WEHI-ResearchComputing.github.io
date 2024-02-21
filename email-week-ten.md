@@ -18,7 +18,7 @@ You can see the full list in [the key milestones and onboarding emails page](ema
 
 Please [read through the onboarding document](https://doi.org/10.6084/m9.figshare.23280815) as this will help you ease your way into WEHI.
 
-Here are a few things you can do before you start:
+Here are a few things you can do:
 
 - You can read about [the top 5 mistakes that students make](https://wehi-researchcomputing.github.io/top-5-mistakes)
 - You can also have a [look at the FAQ](https://wehi-researchcomputing.github.io/faq)
