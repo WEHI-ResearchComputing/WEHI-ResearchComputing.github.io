@@ -8,6 +8,17 @@ Welcome to the RCP Student Internship Program at WEHI. We are excited to have yo
 
 This is a 100% remote internship and that part of the Workday email can be safely ignored. On your first day, you will be scheduled some virtual drop-in sessions so you can meet the supervisor and other interns.
 
+
+## Goals for your first week
+
+1. Read the onboarding documentation
+2. Setup Workday (if available)
+3. Reach out to your fellow student interns and supervisors to organise the weekly project meetings for the whole of your internship.
+4. Schedule two regular co-working sessions per week with your fellow student interns, without supervisors. These can be used so you can work together. The second co-working session should be co-ordinated with your sister project. A sister project is a project that is working on a similar set of technology to you that you would regularly talk to.
+
+You can see the full list in [the key milestones and onboarding emails page](emails-and-key-milestones).
+
+
 ## Onboarding information
 
 Please [read through the onboarding document](https://doi.org/10.6084/m9.figshare.23280815) as this will help you ease your way into WEHI.
