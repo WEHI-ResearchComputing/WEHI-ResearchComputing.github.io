@@ -13,6 +13,7 @@ We mainly work with projects that use R and Shiny, Python, Julia, bash, while al
 We prepare students for the real-world by teaching them:
 - [how understanding the domain problem and the users is more important than technical skills](complex-projects),
 - showing them [how to become as independent as possible](faq#you-ask-us-to-be-as-independent-as-possible-how-can-we-do-that), 
+-show them how to document and share knowledge to others in a professional manner,
 - [explain how a software maturity model can help clarify expectations](software_maturity_model), and 
 - teaching them how to work productively in a remote environment.
 
