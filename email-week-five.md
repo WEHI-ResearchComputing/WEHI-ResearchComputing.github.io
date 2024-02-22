@@ -7,8 +7,11 @@ This is your email to start week 5 of your internship. Now we are expecting you 
 ## Goals for the week
 
 1. If you didn't pass last week, draw up the high-level problem on the whiteboard in front of your supervisor(s). They will ask you questions to see how well you know WHY the problem exists and WHY it causes researchers problems. 
-2. If you pass, you will get permission to reach out to stakeholders and SMEs to setup a time to meet them in week 5. You will be provided with emails and asked to reach out to them to organise a time and day for the next week or two to meet with them. As part of this email, you will need to write down some questions to give them an idea of what you are going to ask them.
-3. If you are meeting with the stakeholders/SMEs this week, make sure to thank them and add them to your acknowledgement slides in the final presentation.
+2. If you pass, you will get permission to reach out to stakeholders and SMEs to setup a time to meet them in week 5. You will be provided with emails and asked to reach out to them to organise a time and day for the next week or two to meet with them.
+3. As part of this email, you will need to write down some questions to give them an idea of what you are going to ask them.
+4. You will behave in a professional way when you meet with stakeholders and subject matter experts,
+5. You will provide a summary of the conversation and send it back to the stakeholders / SMEs to confirm you have understood what they have said, and
+6. If you are meeting with the stakeholders/SMEs this week, make sure to thank them and add them to your acknowledgement slides in the final presentation.
 
 You can see the full list in [the key milestones and onboarding emails page](emails-and-key-milestones).
 
