@@ -9,7 +9,8 @@ This is your email to start week 10 of your internship. Now we are expecting you
 1. Copy the presentation slide mentioned in [the FAQ "What do I need to do for my final presentation and summary report?"](faq#what-do-i-need-to-do-for-my-final-presentation-and-summary-report) to the Sharepoint/Teams and use this as the basis for your final presentation slides. Add this as a link to your wiki's onboarding page.
 2. Copy the one page summary report mentioned in [the FAQ "What do I need to do for my final presentation and summary report?"](faq#what-do-i-need-to-do-for-my-final-presentation-and-summary-report) to the Sharepoint/Teams and use this as the basis for your final one page summary report. Add this as a link to your wiki's onboarding page.
 3. Share these links with your supervisors in your weekly email.
-4. In your meeting this week, ask when will the final presentation be. This is usually in week 12 during semester 1 and 2, and week 14 in the summer intake. The week before the final presentation you will be expected to submit your one page summary report and give a practice presentation.
+4. In your meeting this week, ask when will the final presentation be. This is usually in week 12 during semester 1 and 2, and week 14 in the summer intake.
+5. The week before the final presentation you will be expected to submit your one page summary report, finalise the onboarding page of the wiki, and give a practice presentation.
 
 
 You can see the full list in [the key milestones and onboarding emails page](emails-and-key-milestones).
