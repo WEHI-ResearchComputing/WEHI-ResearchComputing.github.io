@@ -8,7 +8,7 @@ The key milestones are:
 1. setup Workday,
 2. read documentation,
 3. schedule weekly meetings with your supervisors, and
-4. schedule two weekly meetings with your team members (ie. without your supervisor).
+4. schedule two weekly meetings with your team members and sister project interns (ie. without your supervisor).
 
 ## Week 2 
 1. create a weekly template email to send to your supervisor one day before the weekly meeting,
