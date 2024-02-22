@@ -3,12 +3,40 @@
 We send you emails throughout your internship to ensure you are aware of what is coming up.
 
 The key milestones are:
-1. Week 1 - setup Workday, read documentation, schedule weekly meetings with your supervisors, and schedule two weekly meetings with your team members (and without your supervisor).
-2. Week 2 - create a weekly template email to send to your supervisor one day before the weekly meeting, organise two weekly non-supervisor co-working sessions, setup technical diaries for each student, and continue to study for week 4 where you will be expected to answer high-level questions about the project.
-3. Week 4 - draw up the high level problem on the virtual whiteboard to the satisfaction of your supervisors so that you can organise a meeting with stakeholders / subject matter experts (SMEs) in week 5.
-4. Week 5 - meet up with stakeholders and subject matter experts.
-5. Second last week - practice presentation and submission of one page summary report.
-6. Last week - final presentation.
+
+## Week 1 
+1. setup Workday,
+2. read documentation,
+3. schedule weekly meetings with your supervisors, and
+4. schedule two weekly meetings with your team members (ie. without your supervisor).
+
+## Week 2 
+1. create a weekly template email to send to your supervisor one day before the weekly meeting,
+2. organise two weekly non-supervisor co-working sessions,
+3. setup technical diaries for each student, and
+4. continue to study for week 4 where you will be expected to answer high-level questions about the project.
+
+## Week 4 
+1. draw up the high level problem on the virtual whiteboard to the satisfaction of your supervisors so that you can organise a meeting with stakeholders / subject matter experts (SMEs) in week 5.
+
+## Week 5 
+1. Write up questions before you meet up with stakeholders and subject matter experts (SMEs), 
+2. Behave in a professional way when you meet with stakeholders and subject matter experts, and
+3. Provide a summary of the conversation and send it back to the stakeholders / SMEs to confirm you have understood what they have said.
+
+## Week 10
+1. Create final presentation document in Sharepoint and link to wiki onboarding page, and
+2. Create one page summary report document in Sharepoint and link to wiki onboarding page.
+
+## Second last week
+1. Share practice presentation,
+2. Finalise the onboarding page on the wiki,
+3. Practice presentation in the weekly project meeting, and
+4. Submit one page summary report.
+
+## Last week 
+1. Do the final presentation.
+
 
 We send onboarding emails to your unimelb email on:
 - the Monday before you start ([Link to the email](emaiL-one-week-before))
