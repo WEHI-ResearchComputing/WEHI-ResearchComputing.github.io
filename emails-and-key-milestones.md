@@ -12,7 +12,7 @@ The key milestones are:
 
 ## Week 2 
 1. create a weekly template email to send to your supervisor one day before the weekly meeting,
-2. organise two weekly non-supervisor co-working sessions,
+2. start your two weekly non-supervisor co-working sessions,
 3. setup technical diaries for each student, and
 4. continue to study for week 4 where you will be expected to answer high-level questions about the project.
 
