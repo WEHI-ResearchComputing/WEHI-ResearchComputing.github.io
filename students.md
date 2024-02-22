@@ -2,17 +2,23 @@
 
 The WEHI Research Computing Platform regularly provides unpaid student internship opportunities through the University of Melbourne Data Science and Software Engineering programs. These internships are 100% remote. Out of the 7 anonymous reviews that have been given by students as at 23rd of October 2023, our internships have been rated a 4.7 out of 5.
 
+## Types of projects
+
 Many of the projects work in the Data Analysis and [Research Software Engineering](https://rse-aunz.github.io/) space using High Performance Compute (HPC). We work across diverse projects such as imaging, cryo-EM, genomics, transcriptomics, clinical informatics, and capacity planning.
 
 We mainly work with projects that use R and Shiny, Python, Julia, bash, while also making the most out of other technologies such as RStudio, Jupyter notebooks, PowerBI and other applications within the data analytics space.
+
+## Learn real world skills
 
 We prepare students for the real-world by teaching them [how understanding the domain problem and the users is more important than technical skills](complex-projects), showing them [how to become as independent as possible](faq#you-ask-us-to-be-as-independent-as-possible-how-can-we-do-that), [explain how a software maturity model can help clarify expectations](software_maturity_model), and teaching them how to work productively in a remote environment.
 
 We even tell students how to try to avoid [the top 5 mistakes that students make](top-5-mistakes).
 
-Read through the whole of this webpage. How you apply is shown at the bottom of the page.
+## Open source contributors
 
 Sometimes, we are in contact with students who cannot get course credit and are extremely keen to volunteer as an open source software contributor. In these situations, we have to be careful we do not act in an exploitative way. This is why [we have written our expectations of potential open source contributors to make the expectations more transparent](/expectations_open_source_contributors). 
+
+## Hear from previous students
 
 You can listen to two students talk about their projects (click image below).
 
@@ -33,7 +39,6 @@ To understand more about the program, you can read:
 Here are some of the [recurring student intern projects and new projects we are working on](project-wikis).
 
 ## How to Apply
-
 
 - We suggest that you write a 1 page cover letter introducing yourself. We also have [material on how to write a good cover letter and what to look for when you are writing a resume](https://doi.org/10.6084/m9.figshare.21057535.v2).
 - View the [intake dates here](intake_dates) 
