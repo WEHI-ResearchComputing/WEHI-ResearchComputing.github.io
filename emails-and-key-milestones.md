@@ -39,7 +39,7 @@ The key milestones are:
 
 ## Onboarding emails
 
-We send onboarding emails to your unimelb email on:
+We send onboarding emails to your university email on:
 - the Monday before you start ([Link to the email](emaiL-one-week-before))
 - the Monday of week 1 ([Link to the email](email-week-one))
 - the Monday of week 2 ([Link to the email](email-week-two))
