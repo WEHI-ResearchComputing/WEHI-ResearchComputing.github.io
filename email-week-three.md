@@ -10,7 +10,7 @@ This is your email to start week 3 of your internship. You are probably getting 
 1. Read about the high-level project itself, and go back and watch the recording from week 2.
 2. Send your weekly email update to your supervisors one day before the weekly meeting. This should be the standard across all the future weekly project meetings. Usually, students who do not send regular email updates usually do not do well and do not receive good references by their supervisors.
 3. Practice with your team mates on how you would draw up the high-level problem on the whiteboard. This is because you will need to do this in front of your supervisors. If you pass, you will get permission to reach out to stakeholders and SMEs to setup a time to meet them in week 5.
-4. You should be meeting with your other team mates at least twice a week for co-working sessions.
+4. You should be meeting with your other team mates at least twice a week for co-working sessions. Make one of those sessions a joint session with your sister project.
 
 You can see the full list in [the key milestones and onboarding emails page](emails-and-key-milestones).
 
