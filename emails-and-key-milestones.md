@@ -37,6 +37,7 @@ The key milestones are:
 ## Last week 
 1. Do the final presentation.
 
+## Onboarding emails
 
 We send onboarding emails to your unimelb email on:
 - the Monday before you start ([Link to the email](emaiL-one-week-before))
