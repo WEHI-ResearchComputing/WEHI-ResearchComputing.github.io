@@ -11,6 +11,7 @@ This is your email to start week 2 of your internship. You are probably getting 
 2. Setup Workday (if available).
 3. Setup a weekly template email update to send to your supervisors one day before the weekly meeting. This should be the standard across all the future weekly project meetings. Usually, students who do not send regular email updates usually do not do well and do not receive good references by their supervisors.
 4. Schedule two regular co-working sessions per week with your fellow student interns, without supervisors. These can be used so you can work together. The second co-working session should be co-ordinated with your sister project. A sister project is a project that is working on a similar set of technology to you that you would regularly talk to.
+5. Create a technical diary folder on Sharepoint/Teams and add a link from the onboarding page of the wiki to the technical diary folder. Add your technical diary into this folder, you can use a word document.
 
 You can see the full list in [the key milestones and onboarding emails page](emails-and-key-milestones).
 
