@@ -24,7 +24,13 @@ You can find the information here:
 
 ## I know that the internships are usually 100% offsite, but what if I want to go into the office sometimes?
 
-We are open to having some opportunities to go to the office, especially if we can catchup with the other students. It would not be that regular though, but this can be discussed with other students. We also have a [monthly onsite lunch with other Research Software Engineers around Parkville]([url](https://www.eventbrite.co.nz/o/the-rse-association-of-australia-and-new-zealand-65201929823)).
+We are open to having some opportunities to go to the office, especially if we can catchup with the other students. It would not be that regular though, but this can be discussed with other students. 
+
+There are also places to network:
+1. There is a [monthly onsite lunch with other Research Software Engineers (RSEs) around Parkville]([url](https://www.eventbrite.com.au/o/the-rse-association-of-australia-and-new-zealand-65201929823)). There are also online meetings every month as well.
+2. The [RSE Asia Australia unconference](https://rseaa.github.io/) happens every year in September. This is an online event and we encourage you to attend as there are scholarships available.
+3. You can join [the RSE Association of Australia and New Zealand](https://rse-aunz.github.io/) via their website.
+4. There is a WEHI student symposium usually at the end of the year that we encourage you to attend. This is a [link to the 2023 version of the Student Symposium (WEHI access only)](https://wehieduau.sharepoint.com/sites/Announcements/SitePages/Be-Part-Of-The-WEHI-Student-Symposium-2023!.aspx).
 
 ## How do I know you won't get disengaged with the students?
 
@@ -99,13 +105,7 @@ This is [an explanation on how to deal with a complex and ambiguous project](com
 
 ## What is the overall structure of the internship going to look like?
 
-To understand how the overall process of the project will be
-
-1. Improve understanding at high level from wiki to help student interns be independent
-2. Improve understanding at technical level from Sharepoint / Onboarding page on wiki
-3. Write up a presentation to say what you think you should do on the project. This helps student interns become independent
-4. Start improving on the project by working independently
-5. Do a final presentation to explain how you improved the project, along with updated documentation on wiki/Sharepoint
+To understand how the overall process of the project please look at [the Key milestones and onboarding emails page](emails-and-key-milestones).
 
 
 ## You ask us to be as independent as possible. How can we do that?
