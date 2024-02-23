@@ -11,9 +11,6 @@ This project involves creating a web-based application to help conference organi
 ### AIVE - Research Software Engineering
 The project would involve a series of stages to bring the software infrastructure to a level that will help with development in a complex research environment where currently only 2 people in the world know the software.  For more details see the [AIVE project](students-aive).
 
-### schex Bioconductor - Research Software Engineering
-This project helps with understanding what could be streamlined when maintaining software packages for the popular Bioconductor community. For more details see [schex Bioconductor project](students-schex), the [Bioconductor Maintenance wiki](https://github.com/WEHI-ResearchComputing/bioconductor_maintenance/wiki) and the [schex Bioconductor package](https://bioconductor.org/packages/release/bioc/html/schex.html).
-
 
 ### Imaging - Research - Data Engineering, Full-Stack Web Developer
 This project helps with the current work around automated processing of images from microscopes to the High Performance Compute. For more details see [Imaging project](student-imaging) and the [Imaging Getting Started Wiki](https://github.com/WEHI-ResearchComputing/Imaging-Getting-Started/wiki).
@@ -76,6 +73,10 @@ This project looks to create models to forecast capacity and create dashboards
 
 ### mixOmics - Research - Software Engineering
 This projects looks to improve the mixOmics toolkit, an R package dedicated to the statistical integration of omics data sets. For more details see  [mixOmics project.](students-mixOmics.md) 
+
+
+### schex Bioconductor - Research Software Engineering
+This project helps with understanding what could be streamlined when maintaining software packages for the popular Bioconductor community. For more details see [schex Bioconductor project](students-schex), the [Bioconductor Maintenance wiki](https://github.com/WEHI-ResearchComputing/bioconductor_maintenance/wiki) and the [schex Bioconductor package](https://bioconductor.org/packages/release/bioc/html/schex.html).
 
 ## Other documentation
 
