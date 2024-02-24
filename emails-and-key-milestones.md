@@ -29,12 +29,18 @@ The key milestones are:
 2. Create one page summary report document in Sharepoint and link to wiki onboarding page.
 
 ## Second last week
+
+To find out actual dates for your intake, go to [the Student intake dates page](intake_dates).
+
 1. Share practice presentation,
 2. Finalise the onboarding page on the wiki,
 3. Practice presentation in the weekly project meeting, and
 4. Submit one page summary report.
 
 ## Last week 
+
+To find out actual dates for your intake, go to [the Student intake dates page](intake_dates).
+
 1. Do the final presentation.
 
 ## Onboarding emails
