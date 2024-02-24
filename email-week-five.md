@@ -12,6 +12,7 @@ This is your email to start week 5 of your internship. Now we are expecting you 
 4. You will behave in a professional way when you meet with stakeholders and subject matter experts,
 5. You will provide a summary of the conversation and send it back to the stakeholders / SMEs to confirm you have understood what they have said, and
 6. If you are meeting with the stakeholders/SMEs this week, make sure to thank them and add them to your acknowledgement slides in the final presentation.
+7. Make sure you know when your final presentation is due. To find out actual the dates for your intake, go to [the Student intake dates page](intake_dates).
 
 You can see the full list in [the key milestones and onboarding emails page](emails-and-key-milestones).
 
