@@ -8,6 +8,12 @@ Welcome to the RCP Student Internship Program at WEHI. We are excited to have yo
 
 This is a 100% remote internship and that part of the Workday email can be safely ignored. On your first day, you will be scheduled some virtual drop-in sessions so you can meet the supervisor and other interns.
 
+## WARNING: Read the FAQ before setting up Workday
+
+it is usually an issue with students to have issues with Workday.
+
+Please go to [the FAQ and look through all the Workday issues]([https://wehi-researchcomputing.github.io/faq](https://wehi-researchcomputing.github.io/faq#onboarding-onto-the-internship-program-workday)) before your start setting up Workday.
+
 
 ## Goals for your first week
 
