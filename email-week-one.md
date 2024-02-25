@@ -10,6 +10,13 @@ This is your email to start week 1 of your internship. You are probably excited 
 
 This is a 100% remote internship and that part of the Workday email can be safely ignored. On your first day, you will be scheduled some virtual drop-in sessions so you can meet the supervisor and other interns.
 
+## Workday problems
+
+it is usually an issue with students to have issues with Workday.
+
+Please go to [the FAQ and search for Workday](https://wehi-researchcomputing.github.io/faq) to find the issues previous students have dealt with.
+
+
 ## Goals for the week
 
 1. Read the onboarding documentation
