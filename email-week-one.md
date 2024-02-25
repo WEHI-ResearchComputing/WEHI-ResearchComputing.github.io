@@ -14,7 +14,7 @@ This is a 100% remote internship and that part of the Workday email can be safel
 
 it is usually an issue with students to have issues with Workday.
 
-Please go to [the FAQ and look through all the Workday issues](https://wehi-researchcomputing.github.io/faq) before your start setting up Workday.
+Please go to [the FAQ and look through all the Workday issues](https://wehi-researchcomputing.github.io/faq#onboarding-onto-the-internship-program-workday) before your start setting up Workday.
 
 
 ## Goals for the week
