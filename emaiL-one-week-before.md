@@ -10,7 +10,9 @@ This is a 100% remote internship and that part of the Workday email can be safel
 
 ## WARNING: Read the FAQ before setting up Workday
 
-it is usually an issue with students to have issues with Workday.
+Workday is the Human Resources software tool at WEHI. You will receive an email from Workday and will need to fill in all the forms before you start. You may not receive the Workday email before your start date. This is OK, you will just need to wait and use your student email for the time being. Please also note that there is a Workday FAQ you can find in the FAQ below.
+
+It is usually an issue with students to have issues with Workday.
 
 Please go to [the FAQ and look through all the Workday issues](https://wehi-researchcomputing.github.io/faq#onboarding-onto-the-internship-program-workday) before your start setting up Workday.
 
@@ -30,8 +32,6 @@ You can see the full list in [the key milestones and onboarding emails page](ema
 Please [read through the onboarding document](https://doi.org/10.6084/m9.figshare.23280815) as this will help you ease your way into WEHI.
 
 I will be adding your student email to the WEHI system so you can gain access to our Sharepoint/Teams. This is temporary as you will be given a WEHI email address via Workday.
-
-Workday is the Human Resources software tool at WEHI. You will receive an email from Workday and will need to fill in all the forms before you start. You may not receive the Workday email before your start date. This is OK, you will just need to wait and use your student email for the time being. Please also note that there is a Workday FAQ you can find in the FAQ below.
 
 Here are a few things you can do before you start:
 
