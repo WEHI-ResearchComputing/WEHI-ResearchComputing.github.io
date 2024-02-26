@@ -14,7 +14,7 @@ This is a 100% remote internship and that part of the Workday email can be safel
 
 Workday is the Human Resources software tool at WEHI. You will receive an email from Workday and will need to fill in all the forms before you start. You may not receive the Workday email before your start date. This is OK, you will just need to wait and use your student email for the time being. Please also note that there is a Workday FAQ you can find in the FAQ below..
 
-Itt is usually an issue with students to have issues with Workday.
+It is usually an issue with students to have issues with Workday.
 
 Please go to [the FAQ and look through all the Workday issues](https://wehi-researchcomputing.github.io/faq#onboarding-onto-the-internship-program-workday) before your start setting up Workday.
 
@@ -25,7 +25,7 @@ Please go to [the FAQ and look through all the Workday issues](https://wehi-rese
 2. Setup Workday (if available)
 3. Reach out to your fellow student interns and supervisors to organise the weekly project meetings for the whole of your internship.
 4. Schedule two regular co-working sessions per week with your fellow student interns, without supervisors. These can be used so you can work together. The second co-working session should be co-ordinated with your sister project. A sister project is a project that is working on a similar set of technology to you that you would regularly talk to.
-5. Setup your WEHI email and email me the details so I can add them to my list
+5. Setup your WEHI email and email Rowland the details so he can add them to his list
 
 You can see the full list in [the key milestones and onboarding emails page](emails-and-key-milestones).
 
