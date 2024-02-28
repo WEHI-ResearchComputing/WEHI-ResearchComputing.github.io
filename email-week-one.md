@@ -26,6 +26,7 @@ Please go to [the FAQ and look through all the Workday issues](https://wehi-rese
 3. Reach out to your fellow student interns and supervisors to organise the weekly project meetings for the whole of your internship.
 4. Schedule two regular co-working sessions per week with your fellow student interns, without supervisors. These can be used so you can work together. The second co-working session should be co-ordinated with your sister project. A sister project is a project that is working on a similar set of technology to you that you would regularly talk to.
 5. Setup your WEHI email and email Rowland the details so he can add them to his list
+6. [Add your WEHI email to the Sharepoing/Teams "WEHI-wide student intern group"](faq#how-do-i-get-access-to-the-wehi-wide-student-intern-group-using-my-wehi-email-address)
 
 You can see the full list in [the key milestones and onboarding emails page](emails-and-key-milestones).
 
