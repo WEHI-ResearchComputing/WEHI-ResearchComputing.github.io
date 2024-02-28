@@ -15,6 +15,18 @@ This is your email to start week 2 of your internship. You are probably getting 
 
 You can see the full list in [the key milestones and onboarding emails page](emails-and-key-milestones).
 
+## Key things to do before for your regular weekly project meeting
+
+1. Please meet as a team before the meeting without your supervisors to ensure you as a team of students are all on the same page
+2. Please send a weekly email update 24 hours before the meeting with: 
+  - what each student has done,
+  - write down any questions you have for the meeting to use as an agenda,
+  - provide a link to the wiki, and 
+  - provide a link to the technical notes in Sharepoint
+3. Remember to ask to record the meeting to more easily keep notes if needed
+4. Document the action items and make sure they are in the weekly email update for next week
+
+
 ## Onboarding documentation
 
 Please [read through the onboarding document](https://doi.org/10.6084/m9.figshare.23280815) as this will help you ease your way into WEHI.
