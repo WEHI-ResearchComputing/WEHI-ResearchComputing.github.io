@@ -102,7 +102,7 @@ As it is remote, we are very flexible but there are times when we do get togethe
 
 We have a few options at WEHI for storage and compute.
 
-Some projects have requirements that you can use your own laptop or computer. 
+Some projects have requirements that you can use your own laptop or computer.  For others you can use the following options:
 
 1. If you want to use a High Performance Computer (HPC) to learn more skills, or you have bigger requirements of storage and compute than can fit on your laptop, [you can use the Milton HPC](https://wehieduau.sharepoint.com/sites/rc2/SitePages/What-is-Milton.aspx).
 2. If you use Milton HPC, [you can use the VAST scratch space for your temporary storage](https://wehieduau.sharepoint.com/sites/rc2/SitePages/Data-how-to-store.aspx#stornext-and-vast).
@@ -110,6 +110,9 @@ Some projects have requirements that you can use your own laptop or computer.
 4. If you have small data files that your supervisor says is OK to share publicly and you want to share with future students, [you can use figshare](https://figshare.com/).
 5. If you have small data files that your supervisor says is not OK to share publicly and you want to share with future students, [you can use the WEHI-wide student intern group on Sharepoint/Teams.](https://wehieduau.sharepoint.com/sites/StudentInternGroupatWEHI/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x0120008FF8F20683AC284798EA496C639CC069&viewid=afd55542-8e3a-4327-95f9-63450ae10d2a).
 6. If you have big data files and you want to share with future students, [you can talk to your supervisor about using VAST projects](https://wehieduau.sharepoint.com/sites/rc2/SitePages/Data-how-to-store.aspx#stornext-and-vast). It would be rare for students to need a VAST project space, so please ask your supervisor first.
+
+Research Computing Platform (RCP) also has [training courses available for things like Python, Git, Linux, Milton and more](https://wehieduau.sharepoint.com/sites/rc2/SitePages/RCP-Training.aspx).
+
 
 ## My project is complex and ambiguous - what can I do to deal with this?
 
