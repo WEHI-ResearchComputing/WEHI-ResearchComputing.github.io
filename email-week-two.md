@@ -35,6 +35,7 @@ Please [read through the onboarding document](https://doi.org/10.6084/m9.figshar
 
 Here are a few things you can do:
 
+- You can [look at the storage and compute options available at WEHI](https://wehi-researchcomputing.github.io/faq#i-need-to-use-storage-and-compute-what-are-my-options).
 - You can read about [the top 5 mistakes that students make](https://wehi-researchcomputing.github.io/top-5-mistakes)
 - You can also have a [look at the FAQ](https://wehi-researchcomputing.github.io/faq)
 - You can learn [how to handle a complex and ambiguous project](https://wehi-researchcomputing.github.io/complex-projects) 
