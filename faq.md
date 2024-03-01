@@ -171,9 +171,9 @@ Please also make sure you [explain the problem in detail, with screenshots and a
 
 ## What are the key things to do before the weekly meetings? 
 
-Key things to do before for the regular weekly meeting (yes even the first one that is usually in week 2):
+Key things to do before for the regular weekly meeting (yes even the first one that is usually in week 2 although it will be mostly empty):
 1. Please meet as a team before the meeting without your supervisors to ensure you as a team of students are all on the same page
-2. Please send a weekly email update 24 hours before the meeting with the subject '[Project name] week [x] update' eg. 'Clinical Dashboards week 3 update'. The email should have:
+2. Please send a weekly email update one business day before the meeting (ie. Friday if you have a Monday meeting) with the subject '[Project name] week [x] update' eg. 'Clinical Dashboards week 3 update'. The email should have:
     1. what each student has done,
     2. write down any questions you have for the meeting to use as an agenda,
     3. provide a link to the wiki, and
