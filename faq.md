@@ -178,7 +178,7 @@ Key things to do before for the regular weekly meeting (yes even the first one t
 2. Please send a weekly email update one business day before the meeting (ie. Friday if you have a Monday meeting) with the subject '[Project name] week [x] update' eg. 'Clinical Dashboards week 3 update'. The email should have:
     1. what each student has done,
     2. write down any questions you have for the meeting to use as an agenda,
-    3. provide a link to the wiki, and
+    3. provide a link to the wiki and/or the GitHub repository, and
     4. provide a link to the technical notes in WEHI-wide student intern group in Sharepoint / Files in Teams
     5. remember to ask to record the meeting to more easily keep notes if needed
 
