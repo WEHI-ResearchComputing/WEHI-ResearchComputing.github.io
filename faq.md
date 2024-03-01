@@ -113,6 +113,7 @@ Some projects have requirements that you can use your own laptop or computer.  F
 
 Research Computing Platform (RCP) also has [training courses available for things like Python, Git, Linux, Milton and more](https://wehieduau.sharepoint.com/sites/rc2/SitePages/RCP-Training.aspx).
 
+RCP also has [a drop-in session that you can go to ask technical questions](https://wehieduau.sharepoint.com/sites/rc2/SitePages/Computing-Drop-in.aspx) about high-performance computing (HPC), Slurm usage, cloud computing, general programming, R, Python, package development, code optimisation, data processing, data storage, and data management.
 
 ## My project is complex and ambiguous - what can I do to deal with this?
 
