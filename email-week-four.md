@@ -4,6 +4,12 @@ Hi All,
 
 This is your email to start week 4 of your internship. Now we are expecting you to understand the high-level problem.
 
+
+## WARNING: Do you have a problem? Please read this first
+
+Many students ask their supervisor questions that could be easily solved within the team. Please read this [to find out when and how to send an email to your supervisor to ask a question](https://wehi-researchcomputing.github.io/faq#how-should-i-ask-for-help-to-solve-a-problem).
+
+
 ## Goals for the week
 
 1. Draw up the high-level problem on the whiteboard in front of your supervisor(s). They will ask you questions to see how well you know WHY the problem exists and WHY it causes researchers problems. 
