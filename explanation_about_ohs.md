@@ -12,7 +12,9 @@ During the project, [I ask the students to understand the basic concepts](https:
 
 I have changed the way I have setup the student projects so that now students are in groups of three. There have been times when I have not been able to make that happen, but that is the standard as of Summer 2023/2024. 
 
-As per the [RCP student handbook](https://doi.org/10.6084/m9.figshare.21259467) and the [RCP onboarding checklist](https://doi.org/10.6084/m9.figshare.23280815.v5), I mention to them that I will schedule a time to catchup with them for a project meeting on the Monday or Tuesday of every week. 
+As per the [RCP student handbook](https://doi.org/10.6084/m9.figshare.21259467) and the [RCP onboarding checklist](https://doi.org/10.6084/m9.figshare.23280815.v5), I mention to them that I will schedule a time to catchup with them for a project meeting at the start of every week. 
+
+You can [see the key milestones and the onboarding emails we send at regular intervals during the internship](emails-and-key-milestones).
 
 Most projects are building on the previous set of students work as they are complicated and it can take a long time for average students to grasp new domain information. These average students want to be spoon-fed, which is a major criticism that businesses have of new graduates. 
 
