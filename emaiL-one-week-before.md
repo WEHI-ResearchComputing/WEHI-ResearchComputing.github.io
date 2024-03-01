@@ -35,10 +35,10 @@ I will be adding your student email to the WEHI system so you can gain access to
 
 Here are a few things you can do before you start:
 
-- You can read about [the top 5 mistakes that students make](https://wehi-researchcomputing.github.io/top-5-mistakes)
-- You can also have a [look at the FAQ](https://wehi-researchcomputing.github.io/faq)
-- You can learn [how to handle a complex and ambiguous project](https://wehi-researchcomputing.github.io/complex-projects) 
-- You can [review your project and look at the available documentation](https://wehi-researchcomputing.github.io/project-wikis)
+- You can read about [the top 5 mistakes that students make](top-5-mistakes)
+- You can also have a [look at the FAQ](faq)
+- You can learn [how to handle a complex and ambiguous project](complex-projects) 
+- You can [review your project and look at the available documentation](project-wikis)
 - You can also [use this internship as an opportunity to network](faq#i-know-that-the-internships-are-usually-100-offsite-but-what-if-i-want-to-go-into-the-office-sometimes)
 
 If you have any questions or need further clarification regarding the internship program or the onboarding document, please feel free to reach out to me after you have looked through these documents. We are here to assist you and provide any necessary support.
