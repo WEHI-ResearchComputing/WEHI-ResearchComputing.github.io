@@ -20,7 +20,8 @@ Please go to [the FAQ and look through all the Workday issues](https://wehi-rese
 
 ## WARNING: Do you have a problem? Please read this first
 
-https://wehi-researchcomputing.github.io/faq#how-should-i-ask-for-help-to-solve-a-problem
+Many students ask their supervisor questions that could be easily solved within the team. Please read this [to find out when and how to send an email to your supervisor to ask a question](https://wehi-researchcomputing.github.io/faq#how-should-i-ask-for-help-to-solve-a-problem).
+
 
 
 ## Goals for the week
