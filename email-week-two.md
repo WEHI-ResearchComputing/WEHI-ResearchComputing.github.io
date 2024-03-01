@@ -5,6 +5,11 @@ Hi All,
 This is your email to start week 2 of your internship. You are probably getting your head around the concepts and perhaps still feeling a little bit anxious too. That’s OK. Please remember that this is a “best-effort” internship for most of you and we are trying to see how good you really are in a safe environment. Remember, you can always ask your supervisor or me for help.
 
 
+## WARNING: Do you have a problem? Please read this first
+
+Many students ask their supervisor questions that could be easily solved within the team. Please read this [to find out when and how to send an email to your supervisor to ask a question](https://wehi-researchcomputing.github.io/faq#how-should-i-ask-for-help-to-solve-a-problem).
+
+
 ## Goals for the week
 
 1. Read the onboarding documentation on how to get setup in WEHI and about the high-level project itself.
