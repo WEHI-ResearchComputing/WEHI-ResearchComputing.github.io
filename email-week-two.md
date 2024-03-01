@@ -13,6 +13,7 @@ This is your email to start week 2 of your internship. You are probably getting 
 4. Schedule two regular co-working sessions per week with your fellow student interns, without supervisors. These can be used so you can work together. The second co-working session should be co-ordinated with your sister project. A sister project is a project that is working on a similar set of technology to you that you would regularly talk to.
 5. Create a technical diary folder on Sharepoint/Teams and add a link from the onboarding page of the wiki to the technical diary folder. Add your technical diary into this folder, you can use a word document.
 6. You should have your WEHI address added to the Sharepoint/Teams "WEHI-wide student intern group". If you haven't, please add it by following the ["How do I get access to the WEHI-wide student intern group using my WEHI email address?"](faq#how-do-i-get-access-to-the-wehi-wide-student-intern-group-using-my-wehi-email-address) FAQ
+7. You should have been sent a calendar invite to your university email and your WEHI email about the week 4 activity of drawing the high-level problem on the whiteboard , the week of practice presentations and submission of summary reports, and the week of final presentations.
 
 You can see the full list in [the key milestones and onboarding emails page](emails-and-key-milestones).
 
