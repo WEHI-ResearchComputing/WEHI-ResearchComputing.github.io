@@ -181,7 +181,7 @@ There is a way to escalate how to ask for help. This shows you how you can do yo
 Before you send that email:
 1. Did you check the FAQ, [the onboarding doc](https://doi.org/10.6084/m9.figshare.23280815), and [the wiki onboarding page via the project pages](project-wikis)? Did you search for a keyword? If it is a broad question, did you do an internet search?
 2. Did you ask your project teammates to help you? That is what team mates are for!
-3. Did you write down what actions you took in steps #2 and #3 so I know what you have tried?
+3. Did you write down in the email what actions you took in steps #2 and #3 so I know what you have tried?
 4. Did you specify exactly what you are having a problem with? ie. "I had trouble with a document" vs "I had trouble accessing ABC.doc in Sharepoint folder X".
 5. Did you cc in your team mates into the email so that they can find out too?
 
