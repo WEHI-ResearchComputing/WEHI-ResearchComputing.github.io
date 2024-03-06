@@ -27,7 +27,7 @@ Many students ask their supervisor questions that could be easily solved within 
 ## Goals for the week
 
 1. Read the onboarding documentation
-2. Setup Workday (if available)
+2. Setup Workday (if available) based off the information in [the Onboarding onto the Internship program FAQ](https://wehi-researchcomputing.github.io/faq#onboarding-onto-the-internship-program-workday)
 3. Reach out to your fellow student interns and supervisors to organise the weekly project meetings for the whole of your internship. Your supervisor can then create a weekly calendar invite on your behalf.
 4. Schedule two regular co-working sessions per week with your fellow student interns, without supervisors. These can be used so you can work together. The second co-working session should be co-ordinated with your sister project. A sister project is a project that is working on a similar set of technology to you that you would regularly talk to.
 5. Setup your WEHI email and email Rowland the details so he can add them to his list
