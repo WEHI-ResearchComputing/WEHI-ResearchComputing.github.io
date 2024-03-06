@@ -61,7 +61,7 @@ The links you might have previously used to access Workday before your official 
 ## What courses in Workday do I need to complete?
 
 These are the key courses you need to do:
-- Law at Work - Privacy for the Private Sector
+- Law at Work - Privacy for the Private Sector and/or Private Fundamentals at WEHI
 - Law at Work - Sexual Harassment Prevention
 - Law at Work - Workplace Bullying
 - Law at Work - Anti-discrimination and Equal Opportunity
