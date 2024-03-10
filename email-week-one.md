@@ -32,6 +32,7 @@ Many students ask their supervisor questions that could be easily solved within 
 4. Schedule two regular co-working sessions per week with your fellow student interns, without supervisors. These can be used so you can work together. The second co-working session should be co-ordinated with your sister project. A sister project is a project that is working on a similar set of technology to you that you would regularly talk to.
 5. Setup your WEHI email and email Rowland the details so he can add them to his list
 6. Add your WEHI email to the Sharepoint/Teams "WEHI-wide student intern group" by following the ["How do I get access to the WEHI-wide student intern group using my WEHI email address?"](faq#how-do-i-get-access-to-the-wehi-wide-student-intern-group-using-my-wehi-email-address) FAQ
+7. Read [the Social Media Policy for student interns](social_media_policy).
 
 You can see the full list in [the key milestones and onboarding emails page](emails-and-key-milestones).
 
