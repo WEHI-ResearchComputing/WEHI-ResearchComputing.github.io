@@ -27,6 +27,7 @@ Many students ask their supervisor questions that could be easily solved within 
 2. Setup Workday (if available)
 3. Reach out to your fellow student interns and supervisors to organise the weekly project meetings for the whole of your internship.
 4. Schedule two regular co-working sessions per week with your fellow student interns, without supervisors. These can be used so you can work together. The second co-working session should be co-ordinated with your sister project. A sister project is a project that is working on a similar set of technology to you that you would regularly talk to.
+5. Read [the Social Media Policy for student interns](social_media_policy).
 
 You can see the full list in [the key milestones and onboarding emails page](emails-and-key-milestones).
 
