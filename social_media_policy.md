@@ -7,7 +7,7 @@ This is the social media policy for open source contributors and students who ar
 3. All social media posts must adhere to our [Code of Conduct](code-of-conduct).
 
 
-Suggestions to improve your social media posts:
+## Suggestions to improve your social media posts:
 1. On LinkedIn, you can addd @wehi_research to your post to tag WEHI and @rowland_mosbergen to tag Rowland Mosbergen, who can boost your post if it follows the social media policy.
 2. Feel free to use [the Research Computing Logo](/assets/rcp_logo.png).
 
