@@ -115,6 +115,10 @@ Research Computing Platform (RCP) also has [training courses available for thing
 
 RCP also has [a drop-in session that you can go to ask technical questions](https://wehieduau.sharepoint.com/sites/rc2/SitePages/Computing-Drop-in.aspx) about high-performance computing (HPC), Slurm usage, cloud computing, general programming, R, Python, package development, code optimisation, data processing, data storage, and data management.
 
+## Is it OK for me to post on social media?
+
+Yes, but please read [the Social Media Policy for student interns](social_media_policy).
+
 ## My project is complex and ambiguous - what can I do to deal with this?
 
 All of the projects are complex and ambiguous. 
