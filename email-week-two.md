@@ -20,6 +20,7 @@ Many students ask their supervisor questions that could be easily solved within 
 6. You should have your WEHI address added to the Sharepoint/Teams "WEHI-wide student intern group". If you haven't, please add it by following the ["How do I get access to the WEHI-wide student intern group using my WEHI email address?"](faq#how-do-i-get-access-to-the-wehi-wide-student-intern-group-using-my-wehi-email-address) FAQ
 7. You should have been sent a calendar invite to your university email and your WEHI email about the week 4 activity of drawing the high-level problem on the whiteboard , the week of practice presentations and submission of summary reports, and the week of final presentations.
 8. Read [the Social Media Policy for student interns](social_media_policy).
+9. Get a feel for what you need for the whiteboard presentation for week 4. Here is [an example of drawing up the high level problem on a virtual whiteboard WEHI email access only](https://wehieduau.sharepoint.com/:v:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Student%20Organiser/2024-03%20Rowland%20thoughts%20on%20Student%20organiser-20240302_110318-Meeting%20Recording.mp4?csf=1&web=1&e=dtm4hd).
 
 You can see the full list in [the key milestones and onboarding emails page](emails-and-key-milestones).
 
