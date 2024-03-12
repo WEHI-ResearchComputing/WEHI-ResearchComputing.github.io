@@ -115,6 +115,12 @@ Research Computing Platform (RCP) also has [training courses available for thing
 
 RCP also has [a drop-in session that you can go to ask technical questions](https://wehieduau.sharepoint.com/sites/rc2/SitePages/Computing-Drop-in.aspx) about high-performance computing (HPC), Slurm usage, cloud computing, general programming, R, Python, package development, code optimisation, data processing, data storage, and data management.
 
+## If I want to use Nectar, what suggestions would you have?
+
+Make sure you enable 22 SSH access with 0.0.0.0/0 using CIRS. See [the Nectar SSH troubleshooting guide](https://support.ehelp.edu.au/support/solutions/articles/6000149723-troubleshooting-ssh-access-to-a-nectar-instance).
+
+It is recommended to use NeCTAR Ubuntu 22.04 LTS (Jammy) amd64 so that students can share documentation between projects and intakes.
+
 ## Is it OK for me to post on social media?
 
 Yes, but please read [the Social Media Policy for student interns](social_media_policy).
