@@ -119,11 +119,14 @@ RCP also has [a drop-in session that you can go to ask technical questions](http
 
 Make sure you use "Any Availability Zone" if you are using Nectar as some of the University of Melbourne hosts are full.
 
-Make sure you enable 22 SSH access with 0.0.0.0/0 using CIRS. See [the Nectar SSH troubleshooting guide](https://support.ehelp.edu.au/support/solutions/articles/6000149723-troubleshooting-ssh-access-to-a-nectar-instance).
-
 It is recommended to use NeCTAR Ubuntu 22.04 LTS (Jammy) amd64 so that students can share documentation between projects and intakes.
 
+Make sure you enable 22 SSH access with 0.0.0.0/0 using CIRS. See [the Nectar SSH troubleshooting guide](https://support.ehelp.edu.au/support/solutions/articles/6000149723-troubleshooting-ssh-access-to-a-nectar-instance).
+
 If you want to run a web server, it is recommended to use SSL and therefore you will need to enable 443 HTTPS access with 0.0.0.0/0 using CIRS. See [the Nectar SSH troubleshooting guide](https://support.ehelp.edu.au/support/solutions/articles/6000149723-troubleshooting-ssh-access-to-a-nectar-instance).
+
+If you want to run a flask development server, it is recommended to use SSL and therefore you will need to enable port 5000 access with 0.0.0.0/0 using CIRS. For other non-standard ports you will have to do a similar setup. See [the Nectar SSH troubleshooting guide](https://support.ehelp.edu.au/support/solutions/articles/6000149723-troubleshooting-ssh-access-to-a-nectar-instance).
+
 
 We should also have a standard to setup a SSL web certificate in the future.
 
