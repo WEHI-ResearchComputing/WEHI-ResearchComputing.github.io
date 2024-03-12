@@ -17,7 +17,7 @@ The key milestones are:
 4. continue to study for week 4 where you will be expected to answer high-level questions about the project.
 
 ## Week 4 
-1. draw up the high level problem on the virtual whiteboard to the satisfaction of your supervisors so that you can organise a meeting with stakeholders / subject matter experts (SMEs) in week 5.
+1. draw up the high level problem on the virtual whiteboard to the satisfaction of your supervisors so that you can organise a meeting with stakeholders / subject matter experts (SMEs) in week 5. Here is [an example of drawing up the high level problem on a virtual whiteboard WEHI email access only](https://wehieduau.sharepoint.com/:v:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Student%20Organiser/2024-03%20Rowland%20thoughts%20on%20Student%20organiser-20240302_110318-Meeting%20Recording.mp4?csf=1&web=1&e=dtm4hd).
 
 ## Week 5 
 1. Write up questions before you meet up with stakeholders and subject matter experts (SMEs), 
