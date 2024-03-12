@@ -123,7 +123,7 @@ It is recommended to use NeCTAR Ubuntu 22.04 LTS (Jammy) amd64 so that students 
 
 If you want to run a web server, it is recommended to use SSL and therefore you will need to enable 443 HTTPS access with 0.0.0.0/0 using CIRS. See [the Nectar SSH troubleshooting guide](https://support.ehelp.edu.au/support/solutions/articles/6000149723-troubleshooting-ssh-access-to-a-nectar-instance).
 
-We should also have a standard to setup a SSL web certificate.
+We should also have a standard to setup a SSL web certificate in the future.
 
 ## Is it OK for me to post on social media?
 
