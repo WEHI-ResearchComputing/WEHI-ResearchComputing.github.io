@@ -6,8 +6,7 @@ One overarching concept to remember is that you need to be proactive and organis
 
 
 *It's no secret nor a new revelation that active learners who inquire, debate, seek, problem-solve do better than passive students whose objective, in Freire's words, quietly "bank knowledge" to help them pass their next test.*
-
-[From Howard Rheingold](https://www.patreon.com/posts/64545194)
+- [From Howard Rheingold](https://www.patreon.com/posts/64545194)
 
 Here are some suggestions on how to handle this situtation:
 
