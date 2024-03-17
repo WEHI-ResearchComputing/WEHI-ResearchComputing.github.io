@@ -5,7 +5,9 @@ Students may be in projects that are complex or ambiguous.
 One overarching concept to remember is that you need to be proactive and organised to work on a complex or ambiguities project.
 
 
-*It's no secret nor a new revelation that active learners who inquire, debate, seek, problem-solve do better than passive students whose objective, in Freire's words, quietly "bank knowledge" to help them pass their next test.* From["Help your students help you teach" by Howard Rheingold](https://www.patreon.com/posts/64545194)
+*It's no secret nor a new revelation that active learners who inquire, debate, seek, problem-solve do better than passive students whose objective, in Freire's words, quietly "bank knowledge" to help them pass their next test.* 
+
+From["Help your students help you teach" by Howard Rheingold](https://www.patreon.com/posts/64545194)
 
 Here are some suggestions on how to handle this situtation:
 
