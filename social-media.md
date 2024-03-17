@@ -56,6 +56,15 @@ alt-text: Hand with marker about to tick the third box of a checklist that has f
 
 ## Week 10 final presentations around the corner
 
+It is week 10 and we've got our practice presentations coming up soon on the second last week, along with that one page summary report we've been working on. It's all part of getting ready for those final presentations.
+
+Let's use this opportunity to share what we've learned, what we've done, what we would have done differently for next time and what the future could hold!
+
+And pro-tip - practice with your sister projects and share an early draft with your supervisor so that both of them can give you feedback early!
+
+![hourglass](/assets/hourglass.jpeg) by [JamesDeMers from Pixabay](https://pixabay.com/photos/hourglass-sandglass-timer-695275/)
+
+alt-text: Brown hourglass with white sand with most of the sand on the top half.
 
 ## Second last week - practice presentations and handing in summary report
 
