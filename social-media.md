@@ -33,7 +33,7 @@ It also allows then to test their continuous improvement skills in a safe space:
 
 ![Whiteboard](/assets/whiteboard.jpeg)
 
-alt-text: Symbolic whiteboard with lightbulb and words like idea, cubrir, Creative, and smaller icons debiting grains, team work and other things
+alt-text: Symbolic whiteboard with lightbulb and words like idea, concept, team, creative, and smaller icons including graphs, money bag, team work and other things
 
 
 ## End of week 4 - whiteboard outcomes
