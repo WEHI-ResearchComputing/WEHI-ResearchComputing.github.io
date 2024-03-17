@@ -31,13 +31,24 @@ This can lead to the students being more independent from their supervisors.
 
 It also allows then to test their continuous improvement skills in a safe space: critical thinking, tolerance for ambiguity, tolerance for complexity, adaptability, learnability and bring collaborative.
 
-![Whiteboard](/assets/whiteboard.jpeg)
+![Whiteboard](/assets/whiteboard.jpeg) from [Pixabay](https://pixabay.com/photos/whiteboard-marketing-idea-concept-4876651/)
 
 alt-text: Symbolic whiteboard with lightbulb and words like idea, concept, team, creative, and smaller icons including graphs, money bag, team work and other things
 
 
 ## End of week 4 - whiteboard outcomes
 
+This week, students have been participating in whiteboard presentations, each sharing their understanding of the project with enthusiasm.
+
+
+In a safe and supportive learning environment, the process involved the students putting together the diagram from scratch or from pre-created images. Then the supervisors asked students questions while also providing assistance when needed, fostering a collaborative approach to learning. Most of the questions were around the whys more than the whats - eg. "Why did you choose this?".
+
+We do this to gauge the students' understanding of the topic being presented and are designed to encourage critical thinking and reflection, prompting students to articulate their thoughts and ideas.
+
+On reflection, the most interesting ....
+
+
+NOTE: Could provide a screenshot of the presentation and the diagram that the students showed.
 
 
 ## Week 10 final presentations around the corner
