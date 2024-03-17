@@ -31,7 +31,7 @@ This can lead to the students being more independent from their supervisors.
 
 It also allows then to test their continuous improvement skills in a safe space: critical thinking, tolerance for ambiguity, tolerance for complexity, adaptability, learnability and bring collaborative.
 
-![Whiteboard](/assets/whiteboard.jpeg) from [Pixabay](https://pixabay.com/photos/whiteboard-marketing-idea-concept-4876651/)
+![Whiteboard](/assets/whiteboard.jpeg) by [Adrian from Pixabay](https://pixabay.com/photos/whiteboard-marketing-idea-concept-4876651/)
 
 alt-text: Symbolic whiteboard with lightbulb and words like idea, concept, team, creative, and smaller icons including graphs, money bag, team work and other things
 
@@ -47,8 +47,11 @@ We do this to gauge the students' understanding of the topic being presented and
 
 On reflection, the most interesting ....
 
+NOTE: Could provide a screenshot of the presentation and the diagram that the students showed. Default image below.
 
-NOTE: Could provide a screenshot of the presentation and the diagram that the students showed.
+![Half completed checklist](/assets/half-checklist.jpeg) by [Tumisu from Pixabay](https://pixabay.com/photos/checklist-list-hand-pen-business-1919292/)
+
+alt-text: Hand with marker about to tick the third box of a checklist that has four boxes. Two boxes are already ticked.
 
 
 ## Week 10 final presentations around the corner
