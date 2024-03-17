@@ -68,6 +68,13 @@ alt-text: Brown hourglass with white sand with most of the sand on the top half.
 
 ## Second last week - practice presentations and handing in summary report
 
+We are getting so close to the end of the internship! This week we have students practicing their final presentations and handing in their one page summary report.
+
+The final presentation is used to give the students practice in presenting their work and also reflect on what they learned and what they would do differnently if they were faced with a similar project in the future.
+
+The one page summary report summarises the high-level domain, architecture/algorithm, and technical work the students did over the course of the intake. This makes it easier to share the whole range of work that was done across all projects.
+
+![analytics](/assets/analytics.jpeg) by [Pexels from Pixabay](https://pixabay.com/photos/analysis-analytics-business-charts-1841158/)
 
 ## Last week - final presentations 
 
