@@ -218,12 +218,15 @@ Key things to do before for the regular weekly meeting (yes even the first one t
     4. provide a link to the technical notes in WEHI-wide student intern group in Sharepoint / Files in Teams
     5. remember to ask to record the meeting to more easily keep notes if needed
 
-## What happens over Christmas / New Year period?
+## What happens over Christmas / New Year / Easter period?
 
 We take a break between Christmas and New Year, as well as the first week of January as well. During the time away there is no need to write and send the weekly update email during the break. We do encourage you to write down questions and what you have done in your technical diary so that you can ask questions when we are back in the second week of January.
 
 Remember, we ask you to write up a presentation to say what you think you should do on the project. This helps you become independent. If you do decide to do some work over the holidays, understanding the high level problem will help you make decisions at a technical level without your supervisor's help.
 
+Easter break usually has three public holidays at WEHI Good Friday, Easter Monday and Easter Tuesday. We take a break on those days.
+
+You can confirm the breaks via [the Public and WEHI holidays on Catalyst](https://wehieduau.sharepoint.com/sites/payandleave/SitePages/Public-and-Institute-holidays.aspx).
 
 ## What do I need to do for my final presentation and summary report?
 
