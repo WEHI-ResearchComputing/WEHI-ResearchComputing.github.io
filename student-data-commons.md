@@ -23,7 +23,7 @@ The Research Software Engineer Intern role will:
 
 ## Skills and Pre-requisites 
 
-To excel in this internship project, the ideal candidate should have a willingness to research data lakehouses and data commons, an ability to learn quickly, an enthusiasm for research software architecture, and a willingness to share and communicate information. It would be beneficial if the student had an interest in learning Python, Flask, Virtual Machines, and how to improve business workflows.  It would also be of benefit if the student was interested in learning about bioinformatics data formats. 
+To excel in this internship project, the ideal candidate should have a willingness to research data lakehouses and data commons, an ability to learn quickly, an enthusiasm for research software architecture, and a willingness to share and communicate information. It would be beneficial if the student had an interest in learning Python, System administration, Virtual Machines, and how to improve business workflows.  It would also be of benefit if the student was interested in learning about bioinformatics data formats. 
 
 
 ## Further reading
