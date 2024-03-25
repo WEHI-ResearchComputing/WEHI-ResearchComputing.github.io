@@ -4,18 +4,15 @@
 
 Core sequencing facilities, such as WEHI Genomics, process hundreds of sequencing runs every year. They have to keep track of the how samples are merged (multiplexed) so that they can be uncoupled (demultiplexed) after the sample has been digitised (sequenced) through the sequencing machine. This is a type of metadata. 
 
-While this allows the sequencing facility to save money by processing samples in bulk, the ability to keep track of these multiplexes is complicated. This is especially significant because there is no resourcing to provide an assistant to be able to check the quality all the metadata at the time of multiplexing. 
-
-Just like a dental assistant, we need the ability to digitally record and check the quality of the demultiplexing information made by the sequencing facility staff member. We can do this by using machine learning and voice activated controls.  
+While this allows the sequencing facility to save money by processing samples in bulk, the ability to keep track of these multiplexes is complicated. This is especially significant because there is no resourcing to provide an assistant to be able to check the quality all the metadata at the time of multiplexing.  
 
 We will propose to do a proof-of-concept to help track multiplexing and other sample transformations as part of the WEHI Genomics facility. 
 
-The proof-of-concept could be an iPad or Android tablet that has a combination of voice in manual inputs that keeps track of changes that the staff member does. This could then be exported into a format that could be connected to a sample database or another API. Machine Learning tools such as [Talon](https://github.com/nix-community/talon-nix) could be reviewed as part of this project. 
 
 ## Duties while on placement 
 
 The Research Software Engineer Intern role will: 
-- work closely with researchers to identify their needs around capturing metadata by voice or manual input 
+- work closely with researchers to identify their needs around genomics metadata multiplexing
 - Review the options available for building a proof-of-concept application based on maintainability and extensibility 
 - Implement, build, or trial applications to test fit-for-purpose 
 
