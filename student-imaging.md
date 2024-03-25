@@ -2,7 +2,7 @@
 
 ## Introduction 
 
-WEHI is currently developing its Research Data Management requirements and is evaluating products and tools for a hybrid Research Data Management ecosystem. The candidate will develop an understanding of data flow from WEHI microscopes such as a Lattice Light Sheet and determine how to automate the processing of microscopy files. The key output of the project is to further the current work around automated processing to the High Performance Compute. 
+WEHI is currently developing its Research Data Management requirements and is evaluating products and tools for a hybrid Research Data Management ecosystem. The candidate will develop an understanding of data flow from WEHI microscopes and determine how to automate the processing of microscopy files based off custom scripts provided by the BioImaging team. The key output of the project is to further the current work around making it easier for non-technical people to access High Performance Compute. 
 
 ## Duties while on placement 
 
