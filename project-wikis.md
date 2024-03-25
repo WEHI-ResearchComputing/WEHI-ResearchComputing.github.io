@@ -11,15 +11,9 @@ This project involves creating a web-based application to help conference organi
 ### AIVE - Research Software Engineering
 The project would involve a series of stages to bring the software infrastructure to a level that will help with development in a complex research environment where currently only 2 people in the world know the software.  For more details see the [AIVE project](student-aive).
 
-
-### Imaging - Research - Data Engineering, Full-Stack Web Developer
-This project helps with the current work around automated processing of images from microscopes to the High Performance Compute. For more details see [Imaging project](student-imaging) and the [Imaging Getting Started Wiki](https://github.com/WEHI-ResearchComputing/Imaging-Getting-Started/wiki).
-
 ### Clinical Dashboards - Research - Data Analytics, Full-Stack Web Developer, or Data Engineering
 This project helps to setup foundational infrastructure for adding visualisation dashboards for clinically-adjacent data. For more details see [Clinical Dashboards project.](student-clinical-dashboards), the [Extract PDF Wiki](https://github.com/Clinical-Informatics-Collaborative/pdf-extraction-clinical-reports/wiki), and the [Clinical Dashboards Wiki](https://github.com/Clinical-Informatics-Collaborative/clinical_dashboards/wiki).
 
-### Genomics Metadata Multiplexing - Research - Data Engineering, Full-Stack Web Developer, or Software Engineering
-This project helps to setup infrastructure to keep track of what happens to a sample once it reaches the Genomics Facility. For more details see [Genomics Metadata Multiplexing project.](student-genomics-metadata.md) and the [Genomics Metadata Multiplexing Wiki](https://github.com/WEHI-ResearchComputing/Genomics-Metadata-Multiplexing/wiki) 
 
 ### BioNix - Research - Data Engineering
 This project helps with reproducibility in the field of Bioinformatics. For more details see [BioNix project](student-bionix) and the [BioNix Getting Started Wiki](https://github.com/WEHI-ResearchComputing/BioNix-GettingStarted/wiki).
@@ -32,37 +26,27 @@ This project aims to improve [the web application](https://github.com/WEHI-Resea
 
 ## Potential Projects that are dependent on various factors
 
+### Genomics Metadata Multiplexing - Research - Data Engineering, Full-Stack Web Developer, or Software Engineering
+This project helps to setup infrastructure to keep track of what happens to a sample once it reaches the Genomics Facility. For more details see [Genomics Metadata Multiplexing project.](student-genomics-metadata.md) and the [Genomics Metadata Multiplexing Wiki](https://github.com/WEHI-ResearchComputing/Genomics-Metadata-Multiplexing/wiki) 
+
 ### Quantum Computing in Bioinformatics - Research - Data Analytics, Software Engineering
 
 This project is looking to create foundational knowledge of quantum computing in bioinformatics. For more details see [Quantum Computing in Bioinformatics project](student-quantum) and the [Quantum Computing Wiki](https://github.com/WEHI-ResearchComputing/quantum-computing/wiki).
 
-### Flux - Research - Software Engineering
+### Imaging - Research - Data Engineering, Full-Stack Web Developer
+This project helps with the current work around automated processing of images from microscopes to the High Performance Compute. For more details see [Imaging project](student-imaging) and the [Imaging Getting Started Wiki](https://github.com/WEHI-ResearchComputing/Imaging-Getting-Started/wiki).
 
-This project helps with the current work around automated processing of images from microscopes to the High Performance Compute. For more details see [Flux project](student-flux).
 
 ### Immunology Web Application - Research - Full-Stack Web Developer
 
 This project looks to make Cyton, a sophisticated mathematical model, accessible to the scientific community by creating a web application that researchers can access with their browsers from anywhere in the world. For more details see [Immunology Web Application project.](student-immunology-web-application)
 
-### cryo-EM - Research - Data Analytics or Data Engineering
-This project looks to report and analyse Big Data cryo-EM workflows and use machine learning to inform future experimental design. For more details see [cryoEM project](student-cryoem) and the [cryo-EM wiki](https://github.com/WEHI-ResearchComputing/cryo_em_grid_detection_ai/wiki).
 
 ### Haemosphere - Research - Data Analytics or Full-Stack Web Developer
 This projects looks to improve on Haemosphere, which is like a web-based pocket dictionary for visualising and comparing genomic blood datasets. For more details see [Haemosphere project.](student-haemosphere)
 
-### Immunology modelling - Research - Data Analytics or Software Engineering
-This project helps with enhancing the framework API for agent-based modelling in Immunology. For more details see [Immunology modelling project](student-immunology-modelling)
-
-### Genomics Quality Control - Research - Full-Stack Web Developer
-This project helps to setup infrastructure to collate and display Quality Control (QC) information from Genomics workflows. For more details see [Genomics Quality Control project.](student-genomics-qc)
-
 ### LoxCodeR - Research - Data Analytics or Software Engineering
 This project looks to improve on LoxCodeR, a way of barcoding stem cells to follow how they differentiate to form other types of cells. For more details see [LoxCode project.](student-loxcoder)
-
-### Research Data Workflow Processing - Research -  Data Analytics or Data Engineering
-This project looks to define Research Data Management workflows and use them to benchmark High Performance Compute on WEHI infrastructure and beyond.
-To learn more about it, please read the presentation, [Benchmarking domain-specific research workflow solutions at an international level](https://figshare.com/articles/presentation/Benchmarking_domain-specific_research_workflow_solutions_at_an_international_level/21259425) as well as [the GitHub from the students from 2023](https://github.com/JiayaoLU/Data-Science-Project) that has three public Tableau graphs. A [presentation of this work is available on Sharepoint (WEHI access only)](https://wehieduau.sharepoint.com/:b:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Benchmarking%20HPC%20Research%20Data%20Workflow/DSP%20S2%20Final%20Presentation.pdf?csf=1&web=1&e=iB4AFa).
-
 
 
 ## Previous projects
@@ -77,6 +61,26 @@ This projects looks to improve the mixOmics toolkit, an R package dedicated to t
 
 ### schex Bioconductor - Research Software Engineering
 This project helps with understanding what could be streamlined when maintaining software packages for the popular Bioconductor community. For more details see [schex Bioconductor project](student-schex), the [Bioconductor Maintenance wiki](https://github.com/WEHI-ResearchComputing/bioconductor_maintenance/wiki) and the [schex Bioconductor package](https://bioconductor.org/packages/release/bioc/html/schex.html).
+
+
+### Research Data Workflow Processing - Research -  Data Analytics or Data Engineering
+This project looks to define Research Data Management workflows and use them to benchmark High Performance Compute on WEHI infrastructure and beyond.
+To learn more about it, please read the presentation, [Benchmarking domain-specific research workflow solutions at an international level](https://figshare.com/articles/presentation/Benchmarking_domain-specific_research_workflow_solutions_at_an_international_level/21259425) as well as [the GitHub from the students from 2023](https://github.com/JiayaoLU/Data-Science-Project) that has three public Tableau graphs. A [presentation of this work is available on Sharepoint (WEHI access only)](https://wehieduau.sharepoint.com/:b:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Benchmarking%20HPC%20Research%20Data%20Workflow/DSP%20S2%20Final%20Presentation.pdf?csf=1&web=1&e=iB4AFa).
+
+### Immunology modelling - Research - Data Analytics or Software Engineering
+This project helps with enhancing the framework API for agent-based modelling in Immunology. For more details see [Immunology modelling project](student-immunology-modelling)
+
+### Genomics Quality Control - Research - Full-Stack Web Developer
+This project helps to setup infrastructure to collate and display Quality Control (QC) information from Genomics workflows. For more details see [Genomics Quality Control project.](student-genomics-qc)
+
+
+### cryo-EM - Research - Data Analytics or Data Engineering
+This project looks to report and analyse Big Data cryo-EM workflows and use machine learning to inform future experimental design. For more details see [cryoEM project](student-cryoem) and the [cryo-EM wiki](https://github.com/WEHI-ResearchComputing/cryo_em_grid_detection_ai/wiki).
+
+### Flux - Research - Software Engineering
+
+This project helps with the current work around automated processing of images from microscopes to the High Performance Compute. For more details see [Flux project](student-flux).
+
 
 ## Other documentation
 
