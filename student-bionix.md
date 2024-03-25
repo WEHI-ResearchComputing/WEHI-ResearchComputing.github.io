@@ -1,10 +1,12 @@
-# BioNix Student Internship Project
+# BioNix Open Source Student Internship Project
 
 ## Introduction
 
 Bioinformatics as a discipline frequently uses many individual software tools, connected in potentially complicated ways, to perform typical analysis. As an example, standard Single Nucleotide Variant (SNV) calling in cancer involves alignment of the sequencing reads to a reference genome, sorting and indexing, variant calling, and subsequent annotation against various databases. Each of these stages comprises of one or more software tools with different input requirements. 
 
 As a result, reproducibility is difficult to achieve due to the large number of components and the complicated dependency structure inherent in both building the software tools and execution of the workflow. A recently proposed solution to the problem, BioNix[1], leverages the Nix[2] functional package management system to both manage the software and execute the workflow. This has allowed an unprecedented level of reproducibility in the field. 
+
+In this project, we expose you to Open Source and ask you to become an open source contributor to global open source Nix packages.
 
 ## Duties while on placement
 
