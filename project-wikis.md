@@ -2,7 +2,11 @@
 
 This page allows you to have a look at all the internship projects offered at WEHI.
 
-## New and Ongoing Projects 
+## New Projects 
+
+This will be updated soon.
+
+## Ongoing Projects
 
 ### Data Commons - Research - Full-Stack Web Developer, Data Engineering
 This project aims to create a proof-of-concept for a Data Lakehouse / Data Commons at WEHI. For more details see [Data Lakehouse / Data Commons project](student-data-commons) and the [Data Commons Wiki](https://github.com/WEHI-ResearchComputing/data-commons/wiki).
