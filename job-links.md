@@ -14,9 +14,9 @@ These are some job links to help you after your internship.
 - [No Visa Jobs](https://novisajobs.com/)
 - [Ladders](https://www.theladders.com/)
 - [Flex Jobs](https://www.flexjobs.com/)
-- [Remote Jobs](https://remote.co/remote-jobs
-- [Just Remote](https://justremote.co/
-- [Pangian](https://pangian.com/
+- [Remote Jobs](https://remote.co/remote-jobs)
+- [Just Remote](https://justremote.co/)
+- [Pangian](https://pangian.com/)
 
 
 ## Job tactics
