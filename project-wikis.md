@@ -50,8 +50,7 @@ This project looks to make Cyton, a sophisticated mathematical model, accessible
 ### Haemosphere - Research - Data Analytics or Full-Stack Web Developer
 This projects looks to improve on Haemosphere, which is like a web-based pocket dictionary for visualising and comparing genomic blood datasets. For more details see [Haemosphere project.](student-haemosphere)
 
-### LoxCodeR - Research - Data Analytics or Software Engineering
-This project looks to improve on LoxCodeR, a way of barcoding stem cells to follow how they differentiate to form other types of cells. For more details see [LoxCode project.](student-loxcoder)
+
 
 
 ## Previous projects
@@ -85,6 +84,9 @@ This project looks to report and analyse Big Data cryo-EM workflows and use mach
 ### Flux - Research - Software Engineering
 
 This project helps with the current work around automated processing of images from microscopes to the High Performance Compute. For more details see [Flux project](student-flux).
+
+### LoxCodeR - Research - Data Analytics or Software Engineering
+This project looks to improve on LoxCodeR, a way of barcoding stem cells to follow how they differentiate to form other types of cells. For more details see [LoxCode project.](student-loxcoder)
 
 
 ## Other documentation
