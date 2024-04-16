@@ -18,7 +18,7 @@ This project helps to setup foundational infrastructure for adding visualisation
 ### Student Organiser - Full-Stack Web Developer
 This project aims to improve [the web application](https://github.com/WEHI-ResearchComputing/student-intern-organiser) that WEHI RCP uses to help streamline the recruitment of students for the internship program. For more details [read the student organiser wiki](https://github.com/WEHI-ResearchComputing/student-intern-organiser/wiki)
 
-### Conference Organiser - Software Engineering
+### Conference Organiser - Full-Stack Web Developer
 
 This project involves creating a web-based application to help conference organisers of RSEAA24, an international conference of Research Software Engineers that is held in September. For more details see [the GitHub repo for the Conference Organiser](https://github.com/rowlandm/conference_organiser).
 
