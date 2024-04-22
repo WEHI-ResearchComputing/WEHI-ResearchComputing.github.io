@@ -232,7 +232,7 @@ You can confirm the breaks via [the Public and WEHI holidays on Catalyst](https:
 
 The final presentation and summary report are due on the last week of the internship. They are usually done at the same time as the regular weekly project meeting. It is important to provide an early draft and a late draft to your supervisors for both the final presentation and the summary report. The early draft is to make sure you are on the right track, and the late draft is to polish things. Please put them into Teams Files / Sharepoint so that they can be commented on directly by your supervisors. 
 
-Here is a template for your one page project summary - [RCP#0013 RCP Student Internship Program Summary - Summer 2324.docx](https://wehieduau.sharepoint.com/:w:/s/StudentInternGroupatWEHI/EUlhCvAdKYRBmRs_yj6_nAMBIaKJ8kDQMfm9zmVie7lkRg?e=aSHtZS)
+We create a single document for all summary reports to be filed together. You will be sent a link to this document when it is ready.
 
 The one page project summary audience is for myself and potential researchers who want to understand what you have done from a high level point of view, but can easily click on links to get to the technical detail / reports / visualisations. The one page summary should be handed in before the presentation or before the internship finishes.
 
