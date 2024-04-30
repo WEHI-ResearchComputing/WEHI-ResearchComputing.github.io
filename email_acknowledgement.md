@@ -10,7 +10,7 @@ To make things clearer, I have provided the questions I will be asking in the ca
 
 1. How do I pronounce your name? I may ask you this question to ensure I do the best I can to pronounce your name.
 2. This is a 100% remote internship. This means all meetings are virtual. Are you OK with this?
-3. We take Diversity, Equity, and Inclusion seriously. We have a Code of Conduct that you have to abide by that is in the WEHI RCP Student Internship Handbook on page 10. Have you read it and are you willing to abide by it?
+3. We take Diversity, Equity, and Inclusion seriously. We have a [Code of Conduct that you have to abide](code-of-conduct) by that is in the WEHI RCP Student Internship Handbook on page 10. Have you read it and are you willing to abide by it?
 4. Are you a talker or are you more of a listener? 
 5. Are you more of a facilitator/organiser or a follower? 
 6. And are you more of a person who's an intentional thinker where you will need to go away think about it or are you more of a quick brainstormer who likes to share ideas in a meeting?
