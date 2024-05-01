@@ -48,7 +48,7 @@ This project looks to make Cyton, a sophisticated mathematical model, accessible
 
 
 ### Haemosphere - Research - Data Analytics or Full-Stack Web Developer
-This projects looks to improve on Haemosphere, which is like a web-based pocket dictionary for visualising and comparing genomic blood datasets. For more details see [Haemosphere project.](student-haemosphere)
+This projects looks to improve on Haemosphere, which is like a web-based pocket dictionary for visualising and comparing genomic blood datasets. For more details see [Haemosphere project](student-haemosphere) and [the Haemosphere wiki](https://github.com/WEHI-ResearchComputing/haemosphere-introduction/wiki).
 
 
 
