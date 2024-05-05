@@ -2,7 +2,11 @@
 
 Hi All,
 
-I will be calling you by mobile phone over the next week to get a better understanding of projects that fit your interests and career aspirations. Please let me know if you need to make other arrangements as I can be flexible.  
+Thank you for your submission to the WEHI Student Internship Program. Because this is a popular program it is difficult to reach out to everyone with a one-on-one interview.
+
+If you are granted an interview, I will be calling you by mobile phone over the next week to get a better understanding of projects that fit your interests and career aspirations. Please let me know if you need to make other arrangements as I can be flexible.  
+
+If you are not granted an interview, I will let you know as soon as I can by email.
 
 If I am calling and it is a bad time, don’t answer. I can leave a message and call back later. 
 
