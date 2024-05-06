@@ -4,7 +4,9 @@ My name is Rowland, and as I work in a research institute and have a background 
 
 The way I allocate students to projects is based on their skills and interests. The process is as follows: 
 
-I call every student who applies for [a quick chat to understand their skills and interests](https://wehi-researchcomputing.github.io/email_acknowledgement). I explain to them the projects that might interest them and where I see that they could contribute. I explain the challenges and whether something is difficult or easy. I ask them to think about what they want. I also share with them the link to the project page so that they can see more options. This might take 15 minutes per student and takes up a lot of time, but I think it is worth it to make sure I understand them. 
+I send an email to [acknowledge their submission has been seen](https://wehi-researchcomputing.github.io/email_acknowledgement). If the application is not taken forward I email the  unsuccessful students as soon as possible.  If the application is taken forward I reach out to them for a short discussion.
+
+At that short discussion I explain to them the projects that might interest them and where I see that they could contribute. I explain the challenges and whether something is difficult or easy. I ask them to think about what they want. I also share with them the link to the project page so that they can see more options. This might take 15 minutes per student and takes up a lot of time, but I think it is worth it to make sure I understand them. 
 
 Once they agree to a project that they want to do and that I can allocate them to, I will email them with an offer. At this point they can accept or refuse this offer.  
 
@@ -23,11 +25,12 @@ By doing this I teach them that they need to document their new knowledge and te
 As discussed earlier, the students and look at the wiki that shows what the previous students have done, and I also talk to them over the phone about the work of the previous students. This should not be a surprise to applicants that they are working on a project developed by previous interns. They can refuse the offer of the project if they find the project not to their liking. 
 
 The current intake of the Genomics Metadata Multiplexing project is an example of an ongoing project that is working extremely well due to the foundational work done by previous students. This set of students are enjoying the work and the ability to make a difference. 
+
 I also have scheduled a voluntary follow-up session / networking session between students on Thursday across the entire student intake but have stopped these due to lack of uptake by the students. By the third week no-one attends, and I am left to myself. 
 
 I also have added to the handbook and onboarding checklist the [monthly in-person Research Software Engineer (RSE) lunches that I organise](https://www.eventbrite.com.au/e/rse-parkville-lunch-catchup-tickets-628136371797?aff=ebdsoporgprofile) and attend but again, the uptake has been low. Roughly, less than 5% of students attend a lunch and none attend consistently. 
 
-Last intake, I asked a group of students to liaise with another group on a project. I asked multiple times but this was not actioned. This intake, I did ask and there has been some communication between groups. 
+Last intake, I asked a group of students to liaise with another group on a project. I asked multiple times but this was not actioned. This intake, I did ask for more structure where a scheduled meeting with a sister project needed to be set and this has increased the communication between groups. 
 
 In the projects where there is a need for a Subject Matter Expert (SME), I have been trialling to catchup with the SME at the 5-week mark for a Q and A. This allows the students to understand the information in the wiki and some basic terms and models of the domain so that they can make the most out of the SME’s time and answers. This has been a good working model so far. 
 
