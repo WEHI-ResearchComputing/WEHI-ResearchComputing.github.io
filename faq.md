@@ -171,6 +171,17 @@ The questions are as follows:
 
 Once you have watched this, if you have further questions, please email me and we can arrange a time to chat about this as a group.
 
+## We are required to request supervisor signature for the Work Log. How can I arrange this with you?
+
+For those doing the Bachelor of Science or the Master of Data Science course, it is required to complete this supervisor signature work using [DocuSign](https://www.docusign.com/). This ensures that your work log is verified accurately and submitted on time.
+
+To arrange this:
+- Sign Up for [DocuSign](https://www.docusign.com/): Use the free 30-day trial of DocuSign. This service allows you to send documents for electronic signature, making the process efficient and convenient for both you and your supervisor.
+- Prepare Your Work Log: Ensure your work log is complete and ready for signature.
+- Send for Signature: Upload your work log to DocuSign, add your supervisor’s email, and send it for their electronic signature.
+
+By using DocuSign, you can efficiently obtain your supervisor's signature and ensure that your work log is ready for submission.
+
 ## What should I put in the public wiki?
 
 The public wiki is to share information with future students the things you needed to understand at a high level to be able to start working on the technical side of the project.
