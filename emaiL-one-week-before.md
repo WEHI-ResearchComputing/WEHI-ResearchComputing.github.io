@@ -14,6 +14,8 @@ Workday is the Human Resources software tool at WEHI. You will receive an email 
 
 It is usually an issue with students to have issues with Workday.
 
+## WARNING: Please note that your setup with University of Melbourne may cause confusion in your browser. Please use "Incognito" or "Private" mode when you are troubleshooting.
+
 Please go to [the FAQ and look through all the Workday issues](https://wehi-researchcomputing.github.io/faq#onboarding-onto-the-internship-program-workday) before your start setting up Workday.
 
 
