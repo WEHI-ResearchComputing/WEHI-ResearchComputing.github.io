@@ -22,7 +22,7 @@ Please go to [the FAQ and look through all the Workday issues](https://wehi-rese
 
 Many students ask their supervisor questions that could be easily solved within the team. Please read this [to find out when and how to send an email to your supervisor to ask a question](https://wehi-researchcomputing.github.io/faq#how-should-i-ask-for-help-to-solve-a-problem).
 
-
+## WARNING: Please note that your setup with University of Melbourne may cause confusion in your browser. Please use "Incognito" or "Private" mode when you are troubleshooting.
 
 ## Goals for the week
 
