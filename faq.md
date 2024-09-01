@@ -41,7 +41,7 @@ To ensure ongoing engagement, we have weekly check-ins with the student interns 
 
 We aim to get them to understand the conceptual parts on these weekly check-ins, so that they can work with the technical side of things at their own pace.
 
-There is also a Virtual Computing Drop-in as well as a Thursday meeting to talk more generally about careers and other skills.
+There is also a Virtual Computing Drop-in as well as a Thursday  to talk more generally about careers and other skills.
 
 ## What is the difference between data engineering, data analysis, and software engineering?
 
@@ -225,9 +225,13 @@ Key things to do before for the regular weekly meeting (yes even the first one t
 2. Please send a weekly email update one business day before the meeting (ie. Friday if you have a Monday meeting) with the subject '[Project name] week [x] update' eg. 'Clinical Dashboards week 3 update'. The email should have:
     1. what each student has done,
     2. write down any questions you have for the meeting to use as an agenda,
-    3. provide a link to the wiki and/or the GitHub repository, and
-    4. provide a link to the technical notes in WEHI-wide student intern group in Sharepoint / Files in Teams
-    5. remember to ask to record the meeting to more easily keep notes if needed
+    3. provide links to the previous final presentations by previous students,
+    4. provide a link to the whiteboard session video or image you did (after week 4), 
+    5. provide a summary of the top things you discussed in the whiteboard session (after week 4),
+    6. provide a link to the wiki and/or the GitHub repository, 
+    7. provide a link to the technical notes in WEHI-wide student intern group in Sharepoint / Files in Teams
+    8. remember to ask to record the meeting to more easily keep notes if needed,
+    9. and provide bullet point summary from previous meeting.
 
 ## What happens over Christmas / New Year / Easter period?
 
