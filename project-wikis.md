@@ -8,19 +8,14 @@ This will be updated soon.
 
 ## Ongoing Projects
 
-### Data Commons - Research - Full-Stack Web Developer, Data Engineering
+### Data Commons / REDMANE - Research - Full-Stack Web Developer, Data Engineering
 This project aims to create a proof-of-concept for a Data Lakehouse / Data Commons at WEHI. For more details see [Data Lakehouse / Data Commons project](student-data-commons) and the [Data Commons Wiki](https://github.com/WEHI-ResearchComputing/data-commons/wiki).
 
 ### Clinical Dashboards - Research - Data Analytics, Full-Stack Web Developer, or Data Engineering
 This project helps to setup foundational infrastructure for adding visualisation dashboards for clinically-adjacent data. For more details see [Clinical Dashboards project.](student-clinical-dashboards), the [Extract PDF Wiki](https://github.com/Clinical-Informatics-Collaborative/pdf-extraction-clinical-reports/wiki), and the [Clinical Dashboards Wiki](https://github.com/Clinical-Informatics-Collaborative/clinical_dashboards/wiki).
 
-
 ### Student Organiser - Full-Stack Web Developer
 This project aims to improve [the web application](https://github.com/WEHI-ResearchComputing/student-intern-organiser) that WEHI RCP uses to help streamline the recruitment of students for the internship program. For more details [read the student organiser wiki](https://github.com/WEHI-ResearchComputing/student-intern-organiser/wiki)
-
-### Conference Organiser - Full-Stack Web Developer
-
-This project involves creating a web-based application to help conference organisers of RSEAA24, an international conference of Research Software Engineers that is held in September. For more details see [the GitHub repo for the Conference Organiser](https://github.com/rowlandm/conference_organiser).
 
 
 ## Potential Projects that are dependent on various factors
@@ -47,14 +42,17 @@ This project helps with the current work around automated processing of images f
 This project looks to make Cyton, a sophisticated mathematical model, accessible to the scientific community by creating a web application that researchers can access with their browsers from anywhere in the world. For more details see [Immunology Web Application project.](student-immunology-web-application)
 
 
-### Haemosphere - Research - Data Analytics or Full-Stack Web Developer
-This projects looks to improve on Haemosphere, which is like a web-based pocket dictionary for visualising and comparing genomic blood datasets. For more details see [Haemosphere project](student-haemosphere) and [the Haemosphere wiki](https://github.com/WEHI-ResearchComputing/haemosphere-introduction/wiki).
+### Conference Organiser - Full-Stack Web Developer
 
+This project involves creating a web-based application to help conference organisers of RSEAA24, an international conference of Research Software Engineers that is held in September. For more details see [the GitHub repo for the Conference Organiser](https://github.com/rowlandm/conference_organiser).
 
 
 
 ## Previous projects
 
+
+### Haemosphere - Research - Data Analytics or Full-Stack Web Developer
+This projects looks to improve on Haemosphere, which is like a web-based pocket dictionary for visualising and comparing genomic blood datasets. For more details see [Haemosphere project](student-haemosphere) and [the Haemosphere wiki](https://github.com/WEHI-ResearchComputing/haemosphere-introduction/wiki).
 
 ### Capacity Planning (Storage and Compute) - Professional - Data Analytics, Full-Stack Web Developer or Data Engineering
 This project looks to create models to forecast capacity and create dashboards to demonstrate current usage and help make informed decisions for storage and compute at WEHI. For more details see [Capacity Planning Storage and Compute project.](student-capacity-planning.md)
