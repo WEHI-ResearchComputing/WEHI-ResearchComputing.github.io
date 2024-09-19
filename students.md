@@ -2,6 +2,13 @@
 
 The WEHI Research Computing Platform regularly provides unpaid student internship opportunities through the University of Melbourne Data Science and Software Engineering programs. These internships are 100% remote. Out of the 9 anonymous reviews that have been given by students as at 3rd of March 2024, our internships have been rated a 4.6 out of 5.
 
+
+## Summer 2024/2025 now available
+- Engineering and IT: start and end dates are from 25 November to 21 February for around 24 hours per week.
+- Faculty of Science: start and end dates are from 25 November to 21 February for around 8 hours per week.
+- Final Presentations are due week of the 17th of February for all students. Practice presentations will be done the week of the 10th February.
+- Please read through this page to see the list of projects and how to apply.
+
 ## Types of projects
 
 Many of the projects work in the Data Analysis and [Research Software Engineering](https://rse-aunz.github.io/) space using High Performance Compute (HPC). We work across diverse projects such as imaging, cryo-EM, genomics, transcriptomics, clinical informatics, and capacity planning.
@@ -43,6 +50,7 @@ To understand more about the program, you can read:
 ## List of student intern projects
 
 Here are some of the [recurring student intern projects and new projects we are working on](project-wikis).
+
 
 ## How to Apply
 
