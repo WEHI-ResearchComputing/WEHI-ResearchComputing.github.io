@@ -9,11 +9,6 @@ The WEHI Research Computing Platform regularly provides unpaid student internshi
 - Final Presentations are due week of the 17th of February for all students. Practice presentations will be done the week of the 10th February.
 - Please read through this page to see the list of projects and how to apply.
 
-## Types of projects
-
-Many of the projects work in the Data Analysis and [Research Software Engineering](https://rse-aunz.github.io/) space using High Performance Compute (HPC). We work across diverse projects such as imaging, cryo-EM, genomics, transcriptomics, clinical informatics, and capacity planning.
-
-We mainly work with projects that use R and Shiny, Python, Julia, bash, while also making the most out of other technologies such as RStudio, Jupyter notebooks, PowerBI and other applications within the data analytics space.
 
 ## Learn real world skills
 
@@ -25,6 +20,18 @@ We prepare students for the real-world by teaching them:
 - teaching them how to work productively in a remote environment.
 
 We even tell students how to try to avoid [the top 5 mistakes that students make](top-5-mistakes).
+
+## Types of projects
+
+Many of the projects work in the Data Analysis and [Research Software Engineering](https://rse-aunz.github.io/) space using High Performance Compute (HPC). We work across diverse projects such as imaging, cryo-EM, genomics, transcriptomics, clinical informatics, and capacity planning.
+
+We mainly work with projects that use R and Shiny, Python, Julia, bash, while also making the most out of other technologies such as RStudio, Jupyter notebooks, PowerBI and other applications within the data analytics space.
+
+
+### List of student intern projects
+
+Here are some of the [recurring student intern projects and new projects we are working on](project-wikis).
+
 
 ## Open source contributors
 
@@ -46,10 +53,6 @@ To understand more about the program, you can read:
 - the [online FAQ](faq), and
 - the [key milestones and emails for the projects](emails-and-key-milestones)
 
-
-## List of student intern projects
-
-Here are some of the [recurring student intern projects and new projects we are working on](project-wikis).
 
 
 ## How to Apply
