@@ -8,26 +8,27 @@ As part of our ongoing efforts to evaluate and implement innovative data managem
 
 This project is made up of the following sub-projects that an intern can apply for:
 - Create synthetic multi-omics data to match synthetic clinical and other metadata
-- Extend functionality of the Data Registry application
-- Ingestion of data and metadata into the Data Registry
-- Setup standardisation in authentication and security for multiple Data Portals
-- Setup cBioPortal as a Data Portal
-- Setup generic secure Shiny/R App as a Data Portal
-- Setup Omero as a Data Portal
-- Setup Storage Calculator as a Data Portal
+- Extend functionality of the Data Registry application in ReactJS and FASTAPI
+- Ingestion of data and metadata into the Data Registry using Python, and authenticating to an API
+- Setup standardisation in authentication and security for multiple Data Portals using OIDC, AAF, and KeyCloak
+- Setup cBioPortal as a Data Portal on the Nectar Cloud secured with OIDC
+- Setup generic secure Shiny/R App as a Data Portal on the Nectar Cloud secured with OIDC
+- Setup Omero as a Data Portal on the Nectar Cloud secured with OIDC
+- Setup Storage Calculator as a Data Portal on the Nectar Cloud secured with OIDC
 
 ## Duties while on placement 
 
 As a Research Software Engineer Intern, you will play a crucial role in supporting the design and implementation of a pre-production Research Data Management ecosystem called REDMANE. This internship will provide you with valuable hands-on experience in trialling, analysing, and improving different platforms. You will assist in building a scalable data management infrastructure and gain exposure to various aspects of data integration, modeling, and governance. 
 
-The Research Software Engineer Intern role will: 
+The Research Software Engineer Intern role will generally: 
 
-- Assist in testing and implementing data models for REDMANE. 
-- Work with the team to implement conceptual and logical data models that align with project objectives. 
-- Support the implementation of data ingestion pipelines. 
-- Contribute to the development of data governance practices and policies for the proof-of-concept project. 
-- Collaborate with the team to plan and build the data management infrastructure. 
-- Assist in documenting the data architecture, design decisions, and implementation processes. Contribute to creating technical documentation and user guides for future reference. 
+- Assist in setup, extending, and testing Data Registry and Data Portals using synthetic data for multiple REDMANE ecosystems. 
+- Support the implementation of data ingestion pipelines for Data Registry and Data Portals securely. 
+- Contribute to the development of a base set of requirements for Data Portals to be able to be part of the REDMANE ecosystem.
+- Setup environment to provide authentication across the Data Registry and Data Portals.
+- Setup Data Portals for existing applications such as cBioPortal, Shniy, Omero and custom-made Storage Calculator.
+- Assist in documenting the design decisions, and implementation processes.
+- Contribute to creating technical documentation and user guides for future reference. 
 - Stay updated on emerging data management technologies and industry trends. 
 - Explore and experiment with new tools, frameworks, and platforms that can enhance the implementation. 
 
