@@ -2,22 +2,34 @@
 
 ## Introduction 
 
-As part of our ongoing efforts to evaluate and implement innovative data management strategies, we are offering an internship opportunity to work on a proof-of-concept project for a data commons. We are seeking a motivated and detail-oriented intern to join our team and contribute to the development of a proof-of-concept data infrastructure. 
+As part of our ongoing efforts to evaluate and implement innovative data management strategies, we are offering an internship opportunity to work on a pre-production project for a data commons called REDMANE. We are seeking a motivated and detail-oriented intern to join our team and contribute to the development of a pre-production data infrastructure. 
+
+## Multiple sub-projects within this project
+
+This project is made up of the following sub-projects that an intern can apply for:
+- Create synthetic multi-omics data to match synthetic clinical and other metadata
+- Extend functionality of the Data Registry application
+- Ingestion of data and metadata into the Data Registry
+- Setup standardisation in authentication and security for multiple Data Portals
+- Setup cBioPortal as a Data Portal
+- Setup generic secure Shiny/R App as a Data Portal
+- Setup Omero as a Data Portal
+- Setup Storage Calculator as a Data Portal
 
 ## Duties while on placement 
 
-As a Research Software Engineer Intern, you will play a crucial role in supporting the design and implementation of a proof-of-concept data lakehouse / data commons. This internship will provide you with valuable hands-on experience in trialling, analysing, and improving different platforms. You will assist in building a scalable data management infrastructure and gain exposure to various aspects of data integration, modeling, and governance. 
+As a Research Software Engineer Intern, you will play a crucial role in supporting the design and implementation of a pre-production Research Data Management ecosystem called REDMANE. This internship will provide you with valuable hands-on experience in trialling, analysing, and improving different platforms. You will assist in building a scalable data management infrastructure and gain exposure to various aspects of data integration, modeling, and governance. 
 
 The Research Software Engineer Intern role will: 
 
-- Assist in testing and implementing data models for the proof-of-concept data commons. 
+- Assist in testing and implementing data models for REDMANE. 
 - Work with the team to implement conceptual and logical data models that align with project objectives. 
-- Support the implementation of data ingestion pipelines for the proof-of-concept. 
+- Support the implementation of data ingestion pipelines. 
 - Contribute to the development of data governance practices and policies for the proof-of-concept project. 
-- Collaborate with the team to plan and build the data management infrastructure for the proof-of-concept data lakehouse / data commons. 
+- Collaborate with the team to plan and build the data management infrastructure. 
 - Assist in documenting the data architecture, design decisions, and implementation processes. Contribute to creating technical documentation and user guides for future reference. 
 - Stay updated on emerging data management technologies and industry trends. 
-- Explore and experiment with new tools, frameworks, and platforms that can enhance the data lakehouse / data commons implementation. 
+- Explore and experiment with new tools, frameworks, and platforms that can enhance the implementation. 
 
  
 
