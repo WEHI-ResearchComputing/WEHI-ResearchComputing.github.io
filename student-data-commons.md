@@ -40,4 +40,5 @@ To excel in this internship project, the ideal candidate should have a willingne
 
 
 ## Further reading
-- [Data Commons](https://github.com/WEHI-ResearchComputing/data-commons/wiki)
+- [Introduction to REDMANE](https://www.canva.com/design/DAGRElfmJC4/4qVkhe7LuQR1MYBUxPBWdw/view?utm_content=DAGRElfmJC4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- [Data Commons Wiki](https://github.com/WEHI-ResearchComputing/data-commons/wiki)
