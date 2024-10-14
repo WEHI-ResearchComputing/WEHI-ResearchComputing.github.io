@@ -55,7 +55,7 @@ This project involves creating a web-based application to help conference organi
 This projects looks to improve on Haemosphere, which is like a web-based pocket dictionary for visualising and comparing genomic blood datasets. For more details see [Haemosphere project](student-haemosphere) and [the Haemosphere wiki](https://github.com/WEHI-ResearchComputing/haemosphere-introduction/wiki).
 
 ### Capacity Planning (Storage and Compute) - Professional - Data Analytics, Full-Stack Web Developer or Data Engineering
-This project looks to create models to forecast capacity and create dashboards to demonstrate current usage and help make informed decisions for storage and compute at WEHI. For more details see [Capacity Planning Storage and Compute project.](student-capacity-planning.md)
+This project looks to create models to forecast capacity and create dashboards to demonstrate current usage and help make informed decisions for storage and compute at WEHI. It also created a Storage Calculator that is now being implmented into REDMANE. For more details see [Capacity Planning Storage and Compute project.](student-capacity-planning.md)
 
 ### mixOmics - Research - Software Engineering
 This projects looks to improve the mixOmics toolkit, an R package dedicated to the statistical integration of omics data sets. For more details see  [mixOmics project.](student-mixOmics.md) 
