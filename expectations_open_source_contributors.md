@@ -1,6 +1,6 @@
 # Expectations for Open Source Contributors
 
-We wanted to clarify the expectations for those students who cannot get course credit and want to volunteer as an open source software contributor. We would be grateful for any appropriate contribution, big or small. 
+We wanted to clarify the expectations for those students who cannot get course credit and want to volunteer as an open source software contributor. We would be grateful for any appropriate contribution, big or small and we put together these expectations to avoid any exploitations of open source contributors.
 
 1. Make sure that this contribution benefits you and you are clear what you would like to get out of it. Talk to us to ensure that what you are expecting is going to be able to be met. 
 2. There are no expectations of how long you will be able to contribute for. You can stop at any time. Life happens, and you are volunteering. If you can, let us know if you do not want to contribute anymore so you don't get messages inappropriately.
