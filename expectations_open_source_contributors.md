@@ -10,3 +10,21 @@ We wanted to clarify the expectations for those students who cannot get course c
 6. We still expect you to abide by our [Code of Conduct](https://wehi-researchcomputing.github.io/code-of-conduct).
 7. We expect that you will tell us if something is wrong so that we can help appropriately.
 8. We want you to have fun, learn new things, and feel part of a community! Please let us know if you aren't feeling this.
+
+## Comparison to the Student Internship with course credit
+
+How does an open source contributor differ from the student intern who gets course credit? We have explained the differences below. 
+
+| Situation | Open Source Contributor | Student Intern with course credit |
+| --- | --- | --- |
+| Must complete all hours as specified in contract | N/A | mandatory |
+| Must attend weekly meetings with supervisor | encouraged but optional | mandatory |
+| Must attend weekly meetings with other students | encouraged but optional | mandatory |
+| Must attend weekly meetings with sister project | encouraged but optional | mandatory |
+| Must complete summary report | encouraged but optional | mandatory |
+| Must provide a final presentation | encouraged but optional | mandatory |
+| Must update wiki and documentation as appropriate | encouraged but optional | mandatory |
+| Must work on an open source project | mandatory | optional |
+| Has access to WEHI resources | no | yes |
+| --- | --- | --- |
+
