@@ -15,7 +15,7 @@ This project aims to create a proof-of-concept for a Data Lakehouse / Data Commo
 This project helps to setup foundational infrastructure for adding visualisation dashboards for clinically-adjacent data. For more details see [Clinical Dashboards project.](student-clinical-dashboards), the [Extract PDF Wiki](https://github.com/Clinical-Informatics-Collaborative/pdf-extraction-clinical-reports/wiki), and the [Clinical Dashboards Wiki](https://github.com/Clinical-Informatics-Collaborative/clinical_dashboards/wiki).
 
 ### Student Organiser - Full-Stack Web Developer
-This project aims to improve [the web application](https://github.com/WEHI-ResearchComputing/student-intern-organiser) that WEHI RCP uses to help streamline the recruitment of students for the internship program. For more details [read the student organiser wiki](https://github.com/WEHI-ResearchComputing/student-intern-organiser/wiki)
+This project aims to improve [the web application](https://github.com/WEHI-ResearchComputing/student-intern-organiser) that WEHI RCP uses to help streamline the recruitment of students for the internship program. For more details [read the student organiser project.](student-organiser)
 
 
 ## Potential Projects that are dependent on various factors
