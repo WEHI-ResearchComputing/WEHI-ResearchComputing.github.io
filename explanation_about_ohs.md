@@ -6,6 +6,14 @@ My name is Rowland, and as I work in a research institute and have a background 
 
 Students are encouraged to self-direct during the internship and be as independent as possible, with supervision. Balancing what the student wants to do and benefiting WEHI is a great example of a fantastic project.
 
+The key continuous improvement skills that are tested and improved apon during this program are:
+1. Tolerance for Complexity
+2. Tolerance for Ambiguity
+3. Critical Thinking
+4. Adaptability
+5. Learnability
+6. Collaborative by Default
+
 ### Concept-first approach
 
 It is important for students to understand the high-level concepts of the domain the student is working in. This increases the independence of the student to work through complexity.
