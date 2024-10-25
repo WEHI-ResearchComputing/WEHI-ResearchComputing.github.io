@@ -60,13 +60,18 @@ I recognise that this is a 100% remote role and that all meetings and interactio
 
 Finally, I provide resources to the students that help them in every step of the program, including FAQS that include how I expect meetings to be run, how you can escalate a question, among other things.
 
-I also provide other ways that they can work twoards independence by teaching them:
-- how understanding the domain problem and the users is more important than technical skills, and how to work on a complex, ambiguous project,
-- showing them how to become as independent as possible,
-- show them how to document and share knowledge to others in a professional manner,
-- explain how a software maturity model can help clarify expectations, and
+I also provide other ways that they can work towards independence by teaching them:
+- how understanding the domain problem and the users is more important than technical skills, and [how to work on a complex, ambiguous project](complex-projects),
+- showing them [how to become as independent as possible](faq#you-ask-us-to-be-as-independent-as-possible-how-can-we-do-that), 
+- show them [how to document and share knowledge](email-week-two) to others in a professional manner,
+- [explain how a software maturity model can help clarify expectations](software_maturity_model), and 
 - teaching them how to work productively in a remote environment.
 
-I even tell students how to try to avoid the top 5 mistakes that students make.
+We even tell students how to try to avoid [the top 5 mistakes that students make](top-5-mistakes).
 
+## Feedback
+
+We have had 169 students through the program since Semester 2, 2021 who have provided over 18 person years of effort to help us uncover and document complexity early in over 20 projects.
+
+Out of the 14 anonymous reviews that have been given by students as at 11th of October 2024, our internships have been rated a 4.7 out of 5.
  
