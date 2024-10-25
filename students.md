@@ -54,7 +54,6 @@ You can listen to two students talk about their projects (click image below).
 
 To understand more about the program, you can read:
 - the [RCP Student Internship Program Handbook](https://figshare.com/articles/presentation/Research_Computing_Platform_Student_Internship_Handbook/21259467),
-- the [RCP Student Onboarding Checklist](https://figshare.com/articles/online_resource/RDM_0138_RCP_Student_Onboarding_Checklist/23280815),
 - the [RCP Code of Conduct](/code-of-conduct),
 - the [Social Media Policy for student interns](social_media_policy),
 - the [online FAQ](faq), and
