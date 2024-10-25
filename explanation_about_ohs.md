@@ -2,7 +2,27 @@
 
 My name is Rowland, and as I work in a research institute and have a background as a developer, I tend to marry these skills together into research-based and developer projects, sometimes both.  
 
-To get a better understanding of the internship, I provid a [RCP student handbook](https://doi.org/10.6084/m9.figshare.21259467).
+## Philosophy
+
+Students are encouraged to self-direct during the internship and be as independent as possible, with supervision. Balancing what the student wants to do and benefiting WEHI is a great example of a fantastic project.
+
+### Concept-first approach
+
+It is important for students to understand the high-level concepts of the domain the student is working in. This increases the independence of the student to work through complexity.
+
+### Documentation is Key
+
+Students need to recognise the limited time they have and what they can achieve. This is why documentation is key to ensure information is passed to future students.
+
+### Test your limits
+
+The ability to learn quickly by doing your own research is important. Finding out how fast you learn and where your limits are, in a safe space, can help you to know yourself better.
+
+To get a better understanding of the internship, I provide a [RCP student handbook](https://doi.org/10.6084/m9.figshare.21259467).
+
+### Collaboration is vital
+
+There are multiple internships running at the same time. We encourage students to collaborate within projects and across sister projects (similar projects) via co-working meetings.
 
 ## Allocating Students to Projects
 
