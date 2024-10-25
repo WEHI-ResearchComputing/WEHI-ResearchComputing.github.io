@@ -16,7 +16,7 @@ Once they agree to a project that they want to do and that I can allocate them t
 
 ## During the project
 
-I ask studenets to meet a minimum of three times a week. One meeting is to meet as a team with the supervisor to understand the high-level concepts and the architectural or algorithmic limitations, another meeting is a co-working meeting with their fellow project members without the supervisor, and another meeting is a co-working meeting with "sister project" team members to help share information across projects.
+I ask students to meet a minimum of three times a week. One meeting is to meet as a team with the supervisor to understand the high-level concepts and the architectural or algorithmic limitations, another meeting is a co-working meeting with their fellow project members without the supervisor, and another meeting is a co-working meeting with "sister project" team members to help share information across projects.
 
 [I ask the students to understand the basic concepts](https://wehi-researchcomputing.github.io/complex-projects) before they choose how they would like to improve the project. So, if they want to create a web application, they can, if it contributes to solving the broader problem. In that way, we are asking them to self-direct their project to something that is interesting to them and helps build the skills they want. 
 
