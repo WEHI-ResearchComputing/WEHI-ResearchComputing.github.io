@@ -7,16 +7,6 @@ We have had 169 students through the program since Semester 2, 2021 who have pro
 Out of the 14 anonymous reviews that have been given by students as at 11th of October 2024, our internships have been rated a 4.7 out of 5.
 
 
-## Summer 2024/2025 now available
-
-Please note applications for Faculty of Science has closed for the summer as we have had over 90 students apply.
-
-- Engineering and IT: start and end dates are from 25 November to 21 February for around 24 hours per week.
-- Faculty of Science: start and end dates are from 25 November to 21 February for around 8 hours per week.
-- Final Presentations are due week of the 17th of February for all students. Practice presentations will be done the week of the 10th February.
-- Please read through this page to see the list of projects and how to apply.
-
-
 ## Learn real world skills
 
 We prepare students for the real-world by teaching them:
