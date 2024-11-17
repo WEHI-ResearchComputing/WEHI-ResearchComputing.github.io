@@ -26,11 +26,10 @@ Many students ask their supervisor questions that could be easily solved within 
 
 ## Goals for the week
 
-1. Read the onboarding documentation
+1. Read the onboarding documentation (see below) and ensure you understand the "whys" behind the high-level context and the potential high-level tasks. This is the most important goal for your first week.
 2. Setup Workday (if available) based off the information in [the Onboarding onto the Internship program FAQ](https://wehi-researchcomputing.github.io/faq#onboarding-onto-the-internship-program-workday)
 3. Reach out to your fellow student interns and supervisors to organise the weekly project meetings for the whole of your internship. Your supervisor can then create a weekly calendar invite on your behalf.
 4. Schedule two regular co-working sessions per week with your fellow student interns, without supervisors. These can be used so you can work together. The second co-working session should be co-ordinated with your sister project. A sister project is a project that is working on a similar set of technology to you that you would regularly talk to.
-5. Setup your WEHI email and email Rowland the details so he can add them to his list
 6. Add your WEHI email to the Sharepoint/Teams "WEHI-wide student intern group" by following the ["How do I get access to the WEHI-wide student intern group using my WEHI email address?"](faq#how-do-i-get-access-to-the-wehi-wide-student-intern-group-using-my-wehi-email-address) FAQ
 7. Read [the Social Media Policy for student interns](social_media_policy).
 
@@ -38,9 +37,8 @@ You can see the full list in [the key milestones and onboarding emails page](ema
 
 ## Onboarding documentation
 
-Please [read through the onboarding document](https://doi.org/10.6084/m9.figshare.23280815) as this will help you ease your way into WEHI.
+Please [read through the welcome presentation slides](https://www.canva.com/design/DAGLV0H1qOk/dID_FQC6UBABBsPsNDgCyA/view?utm_content=DAGLV0H1qOk) as this will help you ease your way into WEHI. This includes the setup of your WEHI email and other things.
 
-I will be adding your student email to the WEHI system so you can gain access to our Sharepoint/Teams. This is temporary as you will be given a WEHI email address via Workday.
 
 Here are a few things you can do:
 
