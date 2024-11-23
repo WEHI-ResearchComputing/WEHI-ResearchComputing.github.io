@@ -10,6 +10,10 @@ This is your email to start week 1 of your internship. You are probably excited 
 
 This is a 100% remote internship and that part of the Workday email can be safely ignored. On your first day, you will be scheduled some virtual drop-in sessions so you can meet the supervisor and other interns.
 
+## WARNING: Open Source Contributors
+
+Please note that you won't have access to WEHI resources, including Workday and email. We will ensure that all information is being stored on Github repos that are publicly available.
+
 ## WARNING: Read the FAQ before setting up Workday
 
 Workday is the Human Resources software tool at WEHI. You will receive an email from Workday and will need to fill in all the forms before you start. You may not receive the Workday email before your start date. This is OK, you will just need to wait and use your student email for the time being. Please also note that there is a Workday FAQ you can find in the FAQ below..
@@ -30,12 +34,13 @@ Many students ask their supervisor questions that could be easily solved within 
 2. Setup Workday (if available) based off the information in [the Onboarding onto the Internship program FAQ](https://wehi-researchcomputing.github.io/faq#onboarding-onto-the-internship-program-workday)
 3. Reach out to your fellow student interns and supervisors to organise the weekly project meetings for the whole of your internship. Your supervisor can then create a weekly calendar invite on your behalf.
 4. Schedule two regular co-working sessions per week with your fellow student interns, without supervisors. These can be used so you can work together. The second co-working session should be co-ordinated with your sister project. A sister project is a project that is working on a similar set of technology to you that you would regularly talk to.
-6. Add your WEHI email to the Sharepoint/Teams "WEHI-wide student intern group" by following the ["How do I get access to the WEHI-wide student intern group using my WEHI email address?"](faq#how-do-i-get-access-to-the-wehi-wide-student-intern-group-using-my-wehi-email-address) FAQ
+6. Add your WEHI email (if you have one) to the Sharepoint/Teams "WEHI-wide student intern group" by following the ["How do I get access to the WEHI-wide student intern group using my WEHI email address?"](faq#how-do-i-get-access-to-the-wehi-wide-student-intern-group-using-my-wehi-email-address) FAQ
 7. Read [the Social Media Policy for student interns](social_media_policy).
+8. Create a chat room for your team to make communication easier - find out what everyone is most likely to use and use that!
 
 You can see the full list in [the key milestones and onboarding emails page](emails-and-key-milestones).
 
-## Onboarding documentation
+## Onboarding documentation to understand high-level context
 
 Please [read through the welcome presentation slides](https://www.canva.com/design/DAGLV0H1qOk/dID_FQC6UBABBsPsNDgCyA/view?utm_content=DAGLV0H1qOk) as this will help you ease your way into WEHI. This includes the setup of your WEHI email and other things.
 
