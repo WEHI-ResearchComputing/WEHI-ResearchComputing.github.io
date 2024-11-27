@@ -104,7 +104,7 @@ We have a few options at WEHI for storage and compute.
 
 Some projects have requirements that you can use your own laptop or computer.  For others you can use the following options:
 
-1. If you want to use a High Performance Computer (HPC) to learn more skills, or you have bigger requirements of storage and compute than can fit on your laptop, [you can use the Milton HPC](https://wehieduau.sharepoint.com/sites/rc2/SitePages/What-is-Milton.aspx).
+1. If you want to use a High Performance Computer (HPC) to learn more skills, or you have bigger requirements of storage and compute than can fit on your laptop, [you can use the Milton HPC](https://wehieduau.sharepoint.com/sites/rc2/SitePages/using-milton.aspx) To get access to Milton HPC, all WEHI researchers must first submit a request.
 2. If you use Milton HPC, [you can use the VAST scratch space for your temporary storage](https://wehieduau.sharepoint.com/sites/rc2/SitePages/Data-how-to-store.aspx#stornext-and-vast).
 3. If you want to run a web server or service, then [you can use Nectar, the Australian Research Cloud](https://support.ehelp.edu.au/support/solutions/articles/6000055380-resources-available-to-you) using your WEHI email and password.
 4. If you have small data files that your supervisor says is OK to share publicly and you want to share with future students, [you can use figshare](https://figshare.com/).
