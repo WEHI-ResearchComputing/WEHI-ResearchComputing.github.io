@@ -12,9 +12,9 @@ Many students ask their supervisor questions that could be easily solved within 
 
 ## Goals for the week
 
-1. Read about the high-level project itself, and go back and watch the recording from week 2.
+1. Read about the high-level project itself, and go back and watch the recording from week 2 as well as the high level concepts mentioned in the Student Projects Outline and in previous final presentations. Remember, you need to understand how to identify key information from noise.
 2. Send your weekly email update to your supervisors one day before the weekly meeting. This should be the standard across all the future weekly project meetings. Usually, students who do not send regular email updates usually do not do well and do not receive good references by their supervisors.
-3. Practice with your team mates on how you would draw up the high-level problem on the whiteboard waiut a 10 to 15 minute limit. This is because you will need to do this in front of your supervisors. If you pass, you will get permission to reach out to stakeholders and SMEs to setup a time to meet them in week 5. Here is [an example of drawing up the high level problem on a virtual whiteboard WEHI email access only](https://wehieduau.sharepoint.com/:v:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Student%20Organiser/2024-03%20Rowland%20thoughts%20on%20Student%20organiser-20240302_110318-Meeting%20Recording.mp4?csf=1&web=1&e=dtm4hd).
+3. Practice with your team mates on how you would draw up the high-level problem on the whiteboard within a 10 to 15 minute limit. This is because you will need to do this in front of your supervisors. If you pass, you will get permission to reach out to stakeholders and SMEs to setup a time to meet them in week 5. Here is [an example of drawing up the high level problem on a virtual whiteboard WEHI email access only](https://wehieduau.sharepoint.com/:v:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Student%20Organiser/2024-03%20Rowland%20thoughts%20on%20Student%20organiser-20240302_110318-Meeting%20Recording.mp4?csf=1&web=1&e=dtm4hd).
 4. You should be meeting with your other team mates at least twice a week for co-working sessions. Make one of those sessions a joint session with your sister project.
 
 You can see the full list in [the key milestones and onboarding emails page](emails-and-key-milestones).
@@ -31,8 +31,6 @@ You can see the full list in [the key milestones and onboarding emails page](ema
 4. Document the action items and make sure they are in the weekly email update for next week
 
 ## Onboarding documentation
-
-Please [read through the onboarding document](https://doi.org/10.6084/m9.figshare.23280815) as this will help you ease your way into WEHI.
 
 Here are a few things you can do:
 
