@@ -16,7 +16,7 @@ This project helps the Genomics lab quote their complex product range to interna
 
 ### Duplex Sequencing Plugin - Research Software
 
-This project helps the Genomics lab  streamline quality control plot generation for duplex sequencing data.  More details will be provided soon.
+This project helps the Genomics lab  streamline quality control plot generation for duplex sequencing data.  For more details see [Duplex Sequencing Plugin project](student-duplex-sequencing)
 
 ## Ongoing Projects
 
