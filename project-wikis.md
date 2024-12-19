@@ -12,7 +12,7 @@ This project helps with reproducibility in the field of Bioinformatics. For more
 
 ### Genomics Invoicing - Research Software
 
-This project helps the Genomics lab quote their complex product range to internal and external clients. More details will be provided soon.
+This project helps the Genomics lab quote their complex product range to internal and external clients. For more details see [Genomics Invoicing project](student-genomics-invoicing).
 
 ### Duplex Sequencing Plugin - Research Software
 
