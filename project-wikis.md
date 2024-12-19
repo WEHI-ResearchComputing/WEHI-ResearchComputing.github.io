@@ -14,6 +14,10 @@ This project helps with reproducibility in the field of Bioinformatics. For more
 
 This project helps the Genomics lab quote their complex product range to internal and external clients. More details will be provided soon.
 
+### Duplex Sequencing Plugin - Research Software
+
+This project helps the Genomics lab  streamline quality control plot generation for duplex sequencing data.  More details will be provided soon.
+
 ## Ongoing Projects
 
 ### Data Commons / REDMANE - Research - Full-Stack Web Developer, Data Engineering
