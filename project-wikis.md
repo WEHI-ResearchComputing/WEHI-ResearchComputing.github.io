@@ -21,7 +21,7 @@ This project helps the Genomics lab  streamline quality control plot generation 
 ## Ongoing Projects
 
 ### Data Commons / REDMANE - Research - Full-Stack Web Developer, Data Engineering
-This project aims to create a proof-of-concept for a Data Lakehouse / Data Commons at WEHI. For more details see [Introduction to REDMANE](https://www.canva.com/design/DAGRElfmJC4/4qVkhe7LuQR1MYBUxPBWdw/view?utm_content=DAGRElfmJC4&utm_campaign=designshare&utm_medium=link&utm_source=editor), [Data Lakehouse / Data Commons project](student-data-commons) and the [Data Commons Wiki](https://github.com/WEHI-ResearchComputing/data-commons/wiki).
+This project aims to create a proof-of-concept for a Data Lakehouse / Data Commons at WEHI. For more details see [Introduction to REDMANE](https://www.canva.com/design/DAGblemAUC0/DJfOcOWjcSxjpuqAwLIUcw/view?utm_content=DAGblemAUC0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5673c27e7b), [Data Lakehouse / Data Commons project](student-data-commons) and the [Data Commons Wiki](https://github.com/WEHI-ResearchComputing/data-commons/wiki).
 
 ### Clinical Dashboards - Research - Data Analytics, Full-Stack Web Developer, or Data Engineering
 This project helps to setup foundational infrastructure for adding visualisation dashboards for clinically-adjacent data. For more details see [Clinical Dashboards project.](student-clinical-dashboards), the [Extract PDF Wiki](https://github.com/Clinical-Informatics-Collaborative/pdf-extraction-clinical-reports/wiki), and the [Clinical Dashboards Wiki](https://github.com/Clinical-Informatics-Collaborative/clinical_dashboards/wiki).
