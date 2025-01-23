@@ -200,3 +200,6 @@ What we learned was ... maximus metus id erat pharetra facilisis. Nullam ac urna
 - Weekly Progress
 - Project Management Tools
 
+# To update this file
+
+Go to [Github and fork this repo. This is the file you need](https://github.com/WEHI-ResearchComputing/WEHI-ResearchComputing.github.io/tree/main/intakes/11-Summer-2024-2025).
