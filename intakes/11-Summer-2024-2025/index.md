@@ -202,4 +202,4 @@ What we learned was ... maximus metus id erat pharetra facilisis. Nullam ac urna
 
 # To update this file
 
-Go to [Github and fork this repo. This is the file you need](https://github.com/WEHI-ResearchComputing/WEHI-ResearchComputing.github.io/tree/main/intakes/11-Summer-2024-2025).
+Go to [Github and fork this repo, make changes, and then do a pull request back to the original repo. This is the file you need](https://github.com/WEHI-ResearchComputing/WEHI-ResearchComputing.github.io/tree/main/intakes/11-Summer-2024-2025).
