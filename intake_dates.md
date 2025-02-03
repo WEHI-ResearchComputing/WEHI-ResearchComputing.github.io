@@ -3,7 +3,7 @@
 ## Semester 1 2025 now available
 
 - **[Engineering and IT](https://eng.unimelb.edu.au/industry/students/internships#key-dates):** start and end dates are from 3rd of March to 6th of June for around 24 hours per week.
-- **[Faculty of Science](https://science.unimelb.edu.au/engage/industry/internships#key-dates):** start and end dates are from 3rd of March to 6th of June for around 8 hours per week.
+- **[Faculty of Science](https://science.unimelb.edu.au/engage/industry/internships#key-dates):** start and end dates are from 3rd of March to 24th of May for around 8 hours per week.
 - **Final Presentations are yet to be determined.** Practice presentations will be done the week before final presentations.
 
 ## Summer 2024/2025 
