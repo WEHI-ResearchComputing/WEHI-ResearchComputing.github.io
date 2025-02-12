@@ -25,9 +25,13 @@ Many of the projects work in the Data Analysis and [Research Software Engineerin
 We mainly work with projects that use R and Shiny, Python, Julia, bash, while also making the most out of other technologies such as RStudio, Jupyter notebooks, PowerBI and other applications within the data analytics space.
 
 
-### List of student intern projects
+### List of student intern projects (subject to availability and eligibility)
 
 Here are some of the [recurring student intern projects and new projects we are working on](project-wikis).
+
+### List of previous student intern project reports
+
+Here are some of the [previous student intern reports](intakes/).
 
 
 ## Open source contributors
