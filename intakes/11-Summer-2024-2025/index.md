@@ -124,6 +124,12 @@ What we learned was ... maximus metus id erat pharetra facilisis. Nullam ac urna
 - Final presentation video (if supervisor agrees)
 - GitHub repos
 - Technical Diary
+    - [Keycloak Set Up](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2024%20Semester%202/Authentication/KeyCloak%20Set%20Up.docx?d=we5e013c2b59c409f8775dc21e0f98f26&csf=1&web=1&e=zXw3xv)
+    - [Auth0 Set Up](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2024%20Semester%202/Authentication/Auth0%20Okta%20Set%20Up.docx?d=w0f5fb55e3eed4418b4a9a0c502f5fe94&csf=1&web=1&e=vLQ75F)
+    - [Get AAF Access](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2025%20Summer/Web%20Development/Authenticaiton/AAF%20set%20up.docx?d=wac2a0ab50c1c45ea8bd400eda03ab0bd&csf=1&web=1&e=AEnOQY)
+    - [AAF Connection](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2025%20Summer/Web%20Development/Authenticaiton/AAF%20Connection.docx?d=we099b838cfe54d83b01a8ac9e9f10628&csf=1&web=1&e=RgRQoR)
+    - [Integrate Keycloak by Using FastAPI](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2025%20Summer/Web%20Development/Authenticaiton/Integrate%20keyCloak%20by%20using%20fastapi.docx?d=wb36139e263ee42a997a307bbffe90377&csf=1&web=1&e=0vNWWH)
+    - [Set up Keycloak on Nectar VM](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2025%20Summer/Web%20Development/Authenticaiton/Set%20up%20Keycloak%20on%20the%20Nectar%20VM.docx?d=w661b9e6185ee4e6cb55c2c2a5cc3a3c3&csf=1&web=1&e=rJJde7) 
 - Weekly Progress
 - Project Management Tools
 
