@@ -129,7 +129,8 @@ What we learned was ... maximus metus id erat pharetra facilisis. Nullam ac urna
     - [Get AAF Access](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2025%20Summer/Web%20Development/Authenticaiton/AAF%20set%20up.docx?d=wac2a0ab50c1c45ea8bd400eda03ab0bd&csf=1&web=1&e=AEnOQY)
     - [AAF Connection](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2025%20Summer/Web%20Development/Authenticaiton/AAF%20Connection.docx?d=we099b838cfe54d83b01a8ac9e9f10628&csf=1&web=1&e=RgRQoR)
     - [Integrate Keycloak by Using FastAPI](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2025%20Summer/Web%20Development/Authenticaiton/Integrate%20keyCloak%20by%20using%20fastapi.docx?d=wb36139e263ee42a997a307bbffe90377&csf=1&web=1&e=0vNWWH)
-    - [Set up Keycloak on Nectar VM](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2025%20Summer/Web%20Development/Authenticaiton/Set%20up%20Keycloak%20on%20the%20Nectar%20VM.docx?d=w661b9e6185ee4e6cb55c2c2a5cc3a3c3&csf=1&web=1&e=rJJde7) 
+    - [Set up Keycloak on Nectar VM](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2025%20Summer/Web%20Development/Authenticaiton/Set%20up%20Keycloak%20on%20the%20Nectar%20VM.docx?d=w661b9e6185ee4e6cb55c2c2a5cc3a3c3&csf=1&web=1&e=rJJde7)
+    - [Authentication Demo](https://wehieduau.sharepoint.com/:v:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2025%20Summer/Web%20Development/Authenticaiton/Authentication%20Demo.mp4?csf=1&web=1&e=iLGiGr)
 - Weekly Progress
 - Project Management Tools
 
