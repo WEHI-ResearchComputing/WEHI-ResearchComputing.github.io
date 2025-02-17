@@ -26,19 +26,21 @@ What we learned was ... maximus metus id erat pharetra facilisis. Nullam ac urna
 
 # REDMANE Clinical Dashboards
 
-The challenge that we were trying to solve was ... ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet turpis lacus. Morbi a risus sed nunc venenatis vehicula sed sit amet tortor. Integer leo metus, scelerisque quis gravida quis, laoreet sed nisl. Duis lacus diam, dapibus id orci nec, pellentesque sollicitudin arcu. Vestibulum auctor nec velit sit amet ornare. 
+The challenge that we were trying to solve was how to utilize publicly available clinical metadata while ensuring patient privacy and addressing any potential security concerns while still making the data useful for research. As an example, sensitive data such as: medicare number, date of birth, location of residence, etc, are often included in clinical data. Therefore the solution is to artificially or 'synthetically' generate clinical data that replicates real world datasets.
+  
+The way we tried to solve this was by developing code that renamed public clinical data files from cBioportal and randomly sampled a publicly available .fastq fille from genomeInABottle to generate the corresponding fastq files for each patient in the clinical data file. While these files aren’t real genome sequences, they are in the correct fastq format and can be used for other teams' data workflows. 
 
-The way we tried to solve this was ... lorem mauris, ut suscipit dui porta at. Aenean elementum risus vel interdum condimentum. Nunc massa turpis, bibendum in leo vitae, dapibus cursus urna. Integer placerat lacinia finibus. Etiam vitae dolor ut tortor consectetur ultrices eu eget nisi. Cras neque massa, vestibulum id purus nec, aliquam molestie dolor. Vivamus sollicitudin, orci ut bibendum viverra, quam felis viverra purus, ut consectetur diam turpis quis eros.
-
-What we learned was ... maximus metus id erat pharetra facilisis. Nullam ac urna ultricies diam volutpat faucibus. Sed feugiat placerat est nec scelerisque. Aenean a nisl sit amet ligula gravida fermentum eget in purus. Praesent a dui quis diam bibendum convallis vel in lacus.
+Not only did we learn about methods for generating synthetic clinical data, but we also gained valuable experience in writing clean, maintainable code that integrates seamlessly into larger team workflows. Since our work was being used by multiple intern teams, it was crucial to distribute data efficiently and document our code thoroughly. We quickly realized that clear cross-team communication and well-structured documentation were essential to the success of both our team and others. While we each improved our technical skills, we found that soft skills—such as collaboration and effective communication—were just as critical. Additionally, developing a strong understanding of the high-level context of our work significantly reduced redundancy and saved time, allowing us to make more informed decisions thorughout the internship.
 
 ## Key links
-- Final presentation slides (if supervisor agrees)
-- Final presentation video (if supervisor agrees)
-- GitHub repos
-- Technical Diary
-- Weekly Progress
-- Project Management Tools
+- [Final presentation slides](https://wehieduau.sharepoint.com/:p:/r/sites/StudentInternGroupatWEHI/_layouts/15/doc2.aspx?sourcedoc=%7B54B430C0-172F-4A54-8646-4CF8F446454C%7D&file=Final%20Presentation%20Clinical%20Dashboards.pptx&action=edit&mobileredirect=true&DefaultItemOpen=1&ct=1739228756479&wdOrigin=OFFICECOM-WEB.MAIN.REC&cid=f2fec12c-1ef1-4987-9c49-467cf8c62039&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=e52534ca-978e-481e-a24e-edf0a5050bbc)
+- Final presentation video (tbc)
+- [WGS Github](https://github.com/onionsp/Synthetic-WGS-Dataset-Generator)
+- [Synthetic Clinical Metadata](https://wehieduau.sharepoint.com/:u:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Clinical%20Dashboards/2025%20Summer/Finalised%20Dataset/sampled_clinical_data.tsv?csf=1&web=1&e=OKrYwX)
+- [Data Transfer Agreement](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Clinical%20Dashboards/2025%20Summer/Data%20transfer%20agreement.docx?d=wd1c5e1623f0947469fd0cbc0297010b6&csf=1&web=1&e=nIDFHH)
+- [Our Early High Level Understanding](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Clinical%20Dashboards/2025%20Summer/Jordan%27s%20Understanding.docx?d=wf77f1ae9648b43559146572142039c8c&csf=1&web=1&e=FiVAIM)
+- [Weekly Updates]([https://wehieduau.sharepoint.com/:f:/s/StudentInternGroupatWEHI/Evmt-NPbZ09Lq7WXyYhKohsBdIVREOYRZ2ujDZ1Td6K3HA?e=OtLmDL](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/_layouts/15/Doc.aspx?sourcedoc=%7B86A2D5F1-8DC5-4272-9ABB-77625B1B79A4%7D&file=Weekly%20Email%20Template.docx&action=default&mobileredirect=true)
+
   
 # REDMANE Data Ingestion
 
