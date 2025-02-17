@@ -97,19 +97,20 @@ What we learned was ... maximus metus id erat pharetra facilisis. Nullam ac urna
 
 # REDMANE Omero Data Portal
 
-The challenge that we were trying to solve was ... ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet turpis lacus. Morbi a risus sed nunc venenatis vehicula sed sit amet tortor. Integer leo metus, scelerisque quis gravida quis, laoreet sed nisl. Duis lacus diam, dapibus id orci nec, pellentesque sollicitudin arcu. Vestibulum auctor nec velit sit amet ornare. 
+The challenge we were trying to solve was to adapt OMERO to meet the app store requirements outlined by the Demo and Quality teams. This involved automating OMERO’s deployment, integrating secure OIDC-based authentication for seamless Single Sign-On, and efficiently managing image sample data. Achieving consistent configuration across environments while maintaining robust access control in a research setting demanded a secured and scalable approach, including integrating OMERO into the REDMANE project.
 
-The way we tried to solve this was ... lorem mauris, ut suscipit dui porta at. Aenean elementum risus vel interdum condimentum. Nunc massa turpis, bibendum in leo vitae, dapibus cursus urna. Integer placerat lacinia finibus. Etiam vitae dolor ut tortor consectetur ultrices eu eget nisi. Cras neque massa, vestibulum id purus nec, aliquam molestie dolor. Vivamus sollicitudin, orci ut bibendum viverra, quam felis viverra purus, ut consectetur diam turpis quis eros.
+The way we tried to solve this was by developing a Docker Compose script to streamline OMERO’s setup and drafting a conceptual Kubernetes installation guide for scalable container orchestration. We integrated OIDC components to synchronize user data between Auth0 and OMERO, enabling users to bypass redundant logins, while concurrently preprocessing and uploading sample images to simulate real-world data workflows.
 
-What we learned was ... maximus metus id erat pharetra facilisis. Nullam ac urna ultricies diam volutpat faucibus. Sed feugiat placerat est nec scelerisque. Aenean a nisl sit amet ligula gravida fermentum eget in purus. Praesent a dui quis diam bibendum convallis vel in lacus.
+What we learned was that there are many approaches to deploying OMERO and configuring access controls to meet app store standards. However, hardware constraints limit our options for deployment and data storage, making it challenging—but not impossible—to find the optimal solution. By comparing various options and consulting with other teams, we can refine our approach. Additionally, involving experts in the field could help streamline the process and reduce the time needed to integrate these solutions effectively.
 
 ## Key links
 - Final presentation slides (if supervisor agrees)
 - Final presentation video (if supervisor agrees)
 - GitHub repos
-- Technical Diary
-- Weekly Progress
-- Project Management Tools
+    - [Omero DataPortal](https://github.com/DBK333/Omero-DataPortal)  
+- Technical Diary  
+    - [NectarVM Setup](https://wehieduau-my.sharepoint.com/:w:/g/personal/kasikumpaiboon_d_wehi_edu_au/EbuTOVm8MwNDrV3lIGVixukBgTxFFvSCCq3v-POA0LWpyA?e=MdpZDm)  
+    - [Technical Diary Document](https://wehieduau-my.sharepoint.com/:w:/r/personal/kasikumpaiboon_d_wehi_edu_au/Documents/Microsoft%20Teams%20Chat%20Files/Data%20Portal%20Technical%20Diary(1).docx?d=wcd787f8fb8444df78c01881e89b00ea4&csf=1&web=1&e=pJsezK)  
 
 # REDMANE Web Dev
 
