@@ -56,6 +56,7 @@ While we gained technical insights into data organisation, including the importa
 - GitHub repos
     - [redmane-metadata-generator](https://github.com/jerrilynlooi/redmane-metadata-generator)
     - [redmane_metadata_rocrate](https://github.com/irisgood03/redmane_metadata_rocrate)
+    - [REDMANE-metadata-generator-with-RO-Crate](https://github.com/lara-pawar/REDMANE-metadata-generator-with-RO-Crate)
 - Technical Diary
     - [Technical Notes.docx](https://wehieduau.sharepoint.com/:w:/s/StudentInternGroupatWEHI/ESlG0_iUA81CkkSlZYijvcgBEqb9SFIf4KXlpCMvEiDQmA?e=DR9qCI)
     - [rocrate_notes.docx](https://wehieduau.sharepoint.com/:w:/s/StudentInternGroupatWEHI/EZq-vx0nvIdDiKFcLxkPhPcBC_C1Xb3tZ8tpNeNr__-Wxw?e=F3pnVz)
@@ -63,7 +64,7 @@ While we gained technical insights into data organisation, including the importa
     - [Whiteboard Presentation - Miro](https://miro.com/app/board/uXjVL5Zf0kw=/)
 - [Weekly Reports Folder](https://wehieduau.sharepoint.com/:f:/s/StudentInternGroupatWEHI/Evmt-NPbZ09Lq7WXyYhKohsBdIVREOYRZ2ujDZ1Td6K3HA?e=OtLmDL)
 - Project Management Tools
-    - [WEHI REDMANE Data Ingestion Main Directory](https://wehieduau.sharepoint.com/:f:/s/StudentInternGroupatWEHI/EoVJAN1pGoNNovVFCqwkXtkBIkFW4fgCr6rXFRkElDylZw?e=2diR2u)
+    - [***WEHI REDMANE Data Ingestion Main Directory***](https://wehieduau.sharepoint.com/:f:/s/StudentInternGroupatWEHI/EoVJAN1pGoNNovVFCqwkXtkBIkFW4fgCr6rXFRkElDylZw?e=2diR2u)
 
 # REDMANE Demo and Quality
 
