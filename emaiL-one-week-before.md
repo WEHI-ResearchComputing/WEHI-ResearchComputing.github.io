@@ -26,7 +26,7 @@ Many students ask their supervisor questions that could be easily solved within 
 ## Goals for your first week
 
 1. Read the onboarding documentation (see below) and ensure you understand the "whys" behind the high-level context and the potential high-level tasks. This is the most important goal for your first week.
-2. Setup Workday (if available)
+2. Setup Workday (if available and you are not an Open Source Contributor)
 3. Reach out to your fellow student interns and supervisors to organise the weekly project meetings for the whole of your internship.
 4. Schedule two regular co-working sessions per week with your fellow student interns, without supervisors. These can be used so you can work together. The second co-working session should be co-ordinated with your sister project. A sister project is a project that is working on a similar set of technology to you that you would regularly talk to.
 5. Read [the Social Media Policy for student interns](social_media_policy).
