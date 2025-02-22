@@ -1,7 +1,7 @@
 # Intake 11 - Summer 2024/2025
 
 This is the list of projects for this intake. Here you will see:
-- Summary of the problem and the work done in the project 
+- Summary of the problem and the work done in the project
 - Links to the final presentation slides and/or video for the project
 - Links to the github repos that were part of this project
 - Links to other documentation, such as technical diary and other project documentation
@@ -10,7 +10,7 @@ This is the list of projects for this intake. Here you will see:
 
 # REDMANE Capacity Planning
 
-The challenge that we were trying to solve was ... ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet turpis lacus. Morbi a risus sed nunc venenatis vehicula sed sit amet tortor. Integer leo metus, scelerisque quis gravida quis, laoreet sed nisl. Duis lacus diam, dapibus id orci nec, pellentesque sollicitudin arcu. Vestibulum auctor nec velit sit amet ornare. 
+The challenge that we were trying to solve was ... ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet turpis lacus. Morbi a risus sed nunc venenatis vehicula sed sit amet tortor. Integer leo metus, scelerisque quis gravida quis, laoreet sed nisl. Duis lacus diam, dapibus id orci nec, pellentesque sollicitudin arcu. Vestibulum auctor nec velit sit amet ornare.
 
 The way we tried to solve this was ... lorem mauris, ut suscipit dui porta at. Aenean elementum risus vel interdum condimentum. Nunc massa turpis, bibendum in leo vitae, dapibus cursus urna. Integer placerat lacinia finibus. Etiam vitae dolor ut tortor consectetur ultrices eu eget nisi. Cras neque massa, vestibulum id purus nec, aliquam molestie dolor. Vivamus sollicitudin, orci ut bibendum viverra, quam felis viverra purus, ut consectetur diam turpis quis eros.
 
@@ -27,8 +27,8 @@ What we learned was ... maximus metus id erat pharetra facilisis. Nullam ac urna
 # REDMANE Clinical Dashboards
 
 The challenge that we were trying to solve was how to utilize publicly available clinical metadata while ensuring patient privacy and addressing any potential security concerns while still making the data useful for research. As an example, sensitive data such as: medicare number, date of birth, location of residence, etc, are often included in clinical data. Therefore the solution is to artificially or 'synthetically' generate clinical data that replicates real world datasets.
-  
-The way we tried to solve this was by developing code that renamed public clinical data files from cBioportal and randomly sampled a publicly available .fastq fille from genomeInABottle to generate the corresponding fastq files for each patient in the clinical data file. While these files aren’t real genome sequences, they are in the correct fastq format and can be used for other teams' data workflows. 
+
+The way we tried to solve this was by developing code that renamed public clinical data files from cBioportal and randomly sampled a publicly available .fastq fille from genomeInABottle to generate the corresponding fastq files for each patient in the clinical data file. While these files aren’t real genome sequences, they are in the correct fastq format and can be used for other teams' data workflows.
 
 Not only did we learn about methods for generating synthetic clinical data, but we also gained valuable experience in writing clean, maintainable code that integrates seamlessly into larger team workflows. Since our work was being used by multiple intern teams, it was crucial to distribute data efficiently and document our code thoroughly. We quickly realized that clear cross-team communication and well-structured documentation were essential to the success of both our team and others. While we each improved our technical skills, we found that soft skills—such as collaboration and effective communication—were just as critical. Additionally, developing a strong understanding of the high-level context of our work significantly reduced redundancy and saved time, allowing us to make more informed decisions thorughout the internship.
 
@@ -41,10 +41,10 @@ Not only did we learn about methods for generating synthetic clinical data, but 
 - [Our Early High Level Understanding](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Clinical%20Dashboards/2025%20Summer/Jordan%27s%20Understanding.docx?d=wf77f1ae9648b43559146572142039c8c&csf=1&web=1&e=FiVAIM)
 - [Weekly Updates]([https://wehieduau.sharepoint.com/:f:/s/StudentInternGroupatWEHI/Evmt-NPbZ09Lq7WXyYhKohsBdIVREOYRZ2ujDZ1Td6K3HA?e=OtLmDL](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/_layouts/15/Doc.aspx?sourcedoc=%7B86A2D5F1-8DC5-4272-9ABB-77625B1B79A4%7D&file=Weekly%20Email%20Template.docx&action=default&mobileredirect=true)
 
-  
+
 # REDMANE Data Ingestion
 
-The challenge that we were trying to solve was ensuring that metadata uploaded to the REDMANE data registry and data portals (specifically cBioPortal) were formatted in standardised ways. Different points of data ingestion required different metadata formats. For example, each data portal has its own specific format for metadata, and without a streamlined way to generate these metadata files, users would struggle to verify and upload their data correctly. This lack of consistency could lead to errors in data ingestion and disorganisation in REDMANE’s database. 
+The challenge that we were trying to solve was ensuring that metadata uploaded to the REDMANE data registry and data portals (specifically cBioPortal) were formatted in standardised ways. Different points of data ingestion required different metadata formats. For example, each data portal has its own specific format for metadata, and without a streamlined way to generate these metadata files, users would struggle to verify and upload their data correctly. This lack of consistency could lead to errors in data ingestion and disorganisation in REDMANE’s database.
 
 We solved a part of this by developing a script for registering files onto the REDMANE data registry. This script scans a specified local directory, extracts relevant metadata, and compiles it into a JSON file summary to be uploaded to the registry. This JSON report ensures that the metadata is ingestible to the registry’s standard, which was designed in collaboration with the REDMANE Web Development team. We also looked at converting our JSON report into RO-Crate.
 
@@ -68,7 +68,7 @@ While we gained technical insights into data organisation, including the importa
 
 # REDMANE Demo and Quality
 
-The challenge that we were trying to solve was ... ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet turpis lacus. Morbi a risus sed nunc venenatis vehicula sed sit amet tortor. Integer leo metus, scelerisque quis gravida quis, laoreet sed nisl. Duis lacus diam, dapibus id orci nec, pellentesque sollicitudin arcu. Vestibulum auctor nec velit sit amet ornare. 
+The challenge that we were trying to solve was ... ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet turpis lacus. Morbi a risus sed nunc venenatis vehicula sed sit amet tortor. Integer leo metus, scelerisque quis gravida quis, laoreet sed nisl. Duis lacus diam, dapibus id orci nec, pellentesque sollicitudin arcu. Vestibulum auctor nec velit sit amet ornare.
 
 The way we tried to solve this was ... lorem mauris, ut suscipit dui porta at. Aenean elementum risus vel interdum condimentum. Nunc massa turpis, bibendum in leo vitae, dapibus cursus urna. Integer placerat lacinia finibus. Etiam vitae dolor ut tortor consectetur ultrices eu eget nisi. Cras neque massa, vestibulum id purus nec, aliquam molestie dolor. Vivamus sollicitudin, orci ut bibendum viverra, quam felis viverra purus, ut consectetur diam turpis quis eros.
 
@@ -84,7 +84,7 @@ What we learned was ... maximus metus id erat pharetra facilisis. Nullam ac urna
 
 # REDMANE Funding and Partnerships
 
-The challenge that we were trying to solve was ... ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet turpis lacus. Morbi a risus sed nunc venenatis vehicula sed sit amet tortor. Integer leo metus, scelerisque quis gravida quis, laoreet sed nisl. Duis lacus diam, dapibus id orci nec, pellentesque sollicitudin arcu. Vestibulum auctor nec velit sit amet ornare. 
+The challenge that we were trying to solve was ... ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet turpis lacus. Morbi a risus sed nunc venenatis vehicula sed sit amet tortor. Integer leo metus, scelerisque quis gravida quis, laoreet sed nisl. Duis lacus diam, dapibus id orci nec, pellentesque sollicitudin arcu. Vestibulum auctor nec velit sit amet ornare.
 
 The way we tried to solve this was ... lorem mauris, ut suscipit dui porta at. Aenean elementum risus vel interdum condimentum. Nunc massa turpis, bibendum in leo vitae, dapibus cursus urna. Integer placerat lacinia finibus. Etiam vitae dolor ut tortor consectetur ultrices eu eget nisi. Cras neque massa, vestibulum id purus nec, aliquam molestie dolor. Vivamus sollicitudin, orci ut bibendum viverra, quam felis viverra purus, ut consectetur diam turpis quis eros.
 
@@ -110,14 +110,14 @@ What we learned was that there are many approaches to deploying OMERO and config
 - Final presentation slides (if supervisor agrees)
 - Final presentation video (if supervisor agrees)
 - GitHub repos
-    - [Omero DataPortal](https://github.com/DBK333/Omero-DataPortal)  
-- Technical Diary  
-    - [NectarVM Setup](https://wehieduau-my.sharepoint.com/:w:/g/personal/kasikumpaiboon_d_wehi_edu_au/EbuTOVm8MwNDrV3lIGVixukBgTxFFvSCCq3v-POA0LWpyA?e=MdpZDm)  
-    - [Technical Diary Document](https://wehieduau-my.sharepoint.com/:w:/r/personal/kasikumpaiboon_d_wehi_edu_au/Documents/Microsoft%20Teams%20Chat%20Files/Data%20Portal%20Technical%20Diary(1).docx?d=wcd787f8fb8444df78c01881e89b00ea4&csf=1&web=1&e=pJsezK)  
+    - [Omero DataPortal](https://github.com/DBK333/Omero-DataPortal)
+- Technical Diary
+    - [NectarVM Setup](https://wehieduau-my.sharepoint.com/:w:/g/personal/kasikumpaiboon_d_wehi_edu_au/EbuTOVm8MwNDrV3lIGVixukBgTxFFvSCCq3v-POA0LWpyA?e=MdpZDm)
+    - [Technical Diary Document](https://wehieduau-my.sharepoint.com/:w:/r/personal/kasikumpaiboon_d_wehi_edu_au/Documents/Microsoft%20Teams%20Chat%20Files/Data%20Portal%20Technical%20Diary(1).docx?d=wcd787f8fb8444df78c01881e89b00ea4&csf=1&web=1&e=pJsezK)
 
 # REDMANE Web Dev
 
-The challenge that we were trying to solve was ... ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet turpis lacus. Morbi a risus sed nunc venenatis vehicula sed sit amet tortor. Integer leo metus, scelerisque quis gravida quis, laoreet sed nisl. Duis lacus diam, dapibus id orci nec, pellentesque sollicitudin arcu. Vestibulum auctor nec velit sit amet ornare. 
+The challenge that we were trying to solve was ... ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet turpis lacus. Morbi a risus sed nunc venenatis vehicula sed sit amet tortor. Integer leo metus, scelerisque quis gravida quis, laoreet sed nisl. Duis lacus diam, dapibus id orci nec, pellentesque sollicitudin arcu. Vestibulum auctor nec velit sit amet ornare.
 
 The way we tried to solve this was ... lorem mauris, ut suscipit dui porta at. Aenean elementum risus vel interdum condimentum. Nunc massa turpis, bibendum in leo vitae, dapibus cursus urna. Integer placerat lacinia finibus. Etiam vitae dolor ut tortor consectetur ultrices eu eget nisi. Cras neque massa, vestibulum id purus nec, aliquam molestie dolor. Vivamus sollicitudin, orci ut bibendum viverra, quam felis viverra purus, ut consectetur diam turpis quis eros.
 
@@ -140,7 +140,7 @@ What we learned was ... maximus metus id erat pharetra facilisis. Nullam ac urna
 
 # REDMANE Workflows
 
-The challenge that we were trying to solve was ... ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet turpis lacus. Morbi a risus sed nunc venenatis vehicula sed sit amet tortor. Integer leo metus, scelerisque quis gravida quis, laoreet sed nisl. Duis lacus diam, dapibus id orci nec, pellentesque sollicitudin arcu. Vestibulum auctor nec velit sit amet ornare. 
+The challenge that we were trying to solve was ... ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet turpis lacus. Morbi a risus sed nunc venenatis vehicula sed sit amet tortor. Integer leo metus, scelerisque quis gravida quis, laoreet sed nisl. Duis lacus diam, dapibus id orci nec, pellentesque sollicitudin arcu. Vestibulum auctor nec velit sit amet ornare.
 
 The way we tried to solve this was ... lorem mauris, ut suscipit dui porta at. Aenean elementum risus vel interdum condimentum. Nunc massa turpis, bibendum in leo vitae, dapibus cursus urna. Integer placerat lacinia finibus. Etiam vitae dolor ut tortor consectetur ultrices eu eget nisi. Cras neque massa, vestibulum id purus nec, aliquam molestie dolor. Vivamus sollicitudin, orci ut bibendum viverra, quam felis viverra purus, ut consectetur diam turpis quis eros.
 
@@ -156,7 +156,7 @@ What we learned was ... maximus metus id erat pharetra facilisis. Nullam ac urna
 
 # Student Organiser Data Visualisation
 
-The challenge that we were trying to solve was ... ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet turpis lacus. Morbi a risus sed nunc venenatis vehicula sed sit amet tortor. Integer leo metus, scelerisque quis gravida quis, laoreet sed nisl. Duis lacus diam, dapibus id orci nec, pellentesque sollicitudin arcu. Vestibulum auctor nec velit sit amet ornare. 
+The challenge that we were trying to solve was ... ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet turpis lacus. Morbi a risus sed nunc venenatis vehicula sed sit amet tortor. Integer leo metus, scelerisque quis gravida quis, laoreet sed nisl. Duis lacus diam, dapibus id orci nec, pellentesque sollicitudin arcu. Vestibulum auctor nec velit sit amet ornare.
 
 The way we tried to solve this was ... lorem mauris, ut suscipit dui porta at. Aenean elementum risus vel interdum condimentum. Nunc massa turpis, bibendum in leo vitae, dapibus cursus urna. Integer placerat lacinia finibus. Etiam vitae dolor ut tortor consectetur ultrices eu eget nisi. Cras neque massa, vestibulum id purus nec, aliquam molestie dolor. Vivamus sollicitudin, orci ut bibendum viverra, quam felis viverra purus, ut consectetur diam turpis quis eros.
 
@@ -172,18 +172,18 @@ What we learned was ... maximus metus id erat pharetra facilisis. Nullam ac urna
 
 # Student Organiser PDF Coding
 
-The challenge that we were trying to solve was ... ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet turpis lacus. Morbi a risus sed nunc venenatis vehicula sed sit amet tortor. Integer leo metus, scelerisque quis gravida quis, laoreet sed nisl. Duis lacus diam, dapibus id orci nec, pellentesque sollicitudin arcu. Vestibulum auctor nec velit sit amet ornare. 
+The challenge that we were trying to solve was ... ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet turpis lacus. Morbi a risus sed nunc venenatis vehicula sed sit amet tortor. Integer leo metus, scelerisque quis gravida quis, laoreet sed nisl. Duis lacus diam, dapibus id orci nec, pellentesque sollicitudin arcu. Vestibulum auctor nec velit sit amet ornare.
 
 The way we tried to solve this was ... lorem mauris, ut suscipit dui porta at. Aenean elementum risus vel interdum condimentum. Nunc massa turpis, bibendum in leo vitae, dapibus cursus urna. Integer placerat lacinia finibus. Etiam vitae dolor ut tortor consectetur ultrices eu eget nisi. Cras neque massa, vestibulum id purus nec, aliquam molestie dolor. Vivamus sollicitudin, orci ut bibendum viverra, quam felis viverra purus, ut consectetur diam turpis quis eros.
 
 What we learned was ... maximus metus id erat pharetra facilisis. Nullam ac urna ultricies diam volutpat faucibus. Sed feugiat placerat est nec scelerisque. Aenean a nisl sit amet ligula gravida fermentum eget in purus. Praesent a dui quis diam bibendum convallis vel in lacus.
 
 ## Key links
-- Final presentation slides (if supervisor agrees)
-- Final presentation video (if supervisor agrees)
-- GitHub repos
+- [Final presentation slides] (https://www.canva.com/design/DAGeA-99sw8/wu8bETDU_Ioi26iVPz-sQQ/view?utm_content=DAGeA-99sw8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h124da5d634)
+- Final presentation video (tbc)
+- [GitHub repo] (https://github.com/WEHI-RCPStudentInternship/pdf-coder)
 - Technical Diary
-- Weekly Progress
+- [Weekly Progress](https://docs.google.com/document/d/11kn7avo8dtpY5Ho_D7bRSergjQzNMw7Q0_5i4YCggHg/edit?usp=sharing)
 - Project Management Tools
 
 # Student Organiser RAG LLM
@@ -205,7 +205,7 @@ What we learned was there are many moving parts to a RAG LLM, all of which can b
 
 # Quantum Computing
 
-The challenge that we were trying to solve was ... ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet turpis lacus. Morbi a risus sed nunc venenatis vehicula sed sit amet tortor. Integer leo metus, scelerisque quis gravida quis, laoreet sed nisl. Duis lacus diam, dapibus id orci nec, pellentesque sollicitudin arcu. Vestibulum auctor nec velit sit amet ornare. 
+The challenge that we were trying to solve was ... ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet turpis lacus. Morbi a risus sed nunc venenatis vehicula sed sit amet tortor. Integer leo metus, scelerisque quis gravida quis, laoreet sed nisl. Duis lacus diam, dapibus id orci nec, pellentesque sollicitudin arcu. Vestibulum auctor nec velit sit amet ornare.
 
 The way we tried to solve this was ... lorem mauris, ut suscipit dui porta at. Aenean elementum risus vel interdum condimentum. Nunc massa turpis, bibendum in leo vitae, dapibus cursus urna. Integer placerat lacinia finibus. Etiam vitae dolor ut tortor consectetur ultrices eu eget nisi. Cras neque massa, vestibulum id purus nec, aliquam molestie dolor. Vivamus sollicitudin, orci ut bibendum viverra, quam felis viverra purus, ut consectetur diam turpis quis eros.
 
