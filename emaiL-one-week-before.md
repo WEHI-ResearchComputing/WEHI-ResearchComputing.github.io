@@ -36,7 +36,7 @@ You can see the full list in [the key milestones and onboarding emails page](ema
 
 ## Onboarding information
 
-Please [read through the welcome presentation slides](https://www.canva.com/design/DAGLV0H1qOk/dID_FQC6UBABBsPsNDgCyA/view?utm_content=DAGLV0H1qOk) as this will help you ease your way into WEHI.
+Please [read through the welcome presentation slides](https://www.canva.com/design/DAGfzSu6evw/npFw4ssvw2n9B2k0HS-wgg/view) as this will help you ease your way into WEHI.
 
 Also make sure you read the Student Projects Outline document (link is in the welcome presentation slides) so you can understand the high-level context and potential high-level tasks.
 
