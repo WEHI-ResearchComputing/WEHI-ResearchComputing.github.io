@@ -1,4 +1,4 @@
-# Intake 11 - Summer 2024/2025
+#fix: links for Student Organiser PDF Coding Intake 11 - Summer 2024/2025
 
 This is the list of projects for this intake. Here you will see:
 - Summary of the problem and the work done in the project
@@ -156,16 +156,16 @@ What we learned was ... maximus metus id erat pharetra facilisis. Nullam ac urna
 
 # Student Organiser PDF Coding
 
-The challenge that we were trying to solve was ... ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet turpis lacus. Morbi a risus sed nunc venenatis vehicula sed sit amet tortor. Integer leo metus, scelerisque quis gravida quis, laoreet sed nisl. Duis lacus diam, dapibus id orci nec, pellentesque sollicitudin arcu. Vestibulum auctor nec velit sit amet ornare.
+The challenge that we were trying to solve was the time-consuming nature of reviewing internship applications. This involved downloading and sifting through numerous PDF resumes, extracting key information such as skills, experience, and education, and then comparing these across applicants. The process is not only slow but also prone to human error and can make it difficult to identify suitable candidates.
 
-The way we tried to solve this was ... lorem mauris, ut suscipit dui porta at. Aenean elementum risus vel interdum condimentum. Nunc massa turpis, bibendum in leo vitae, dapibus cursus urna. Integer placerat lacinia finibus. Etiam vitae dolor ut tortor consectetur ultrices eu eget nisi. Cras neque massa, vestibulum id purus nec, aliquam molestie dolor. Vivamus sollicitudin, orci ut bibendum viverra, quam felis viverra purus, ut consectetur diam turpis quis eros.
+The way we tried to solve this was by creating a web-based application using HTML, CSS, and JavaScript. The application provides a user interface where PDF files can be uploaded, viewed, and highlighted. The intended goal for the site is to streamline the resume review process, by easily being able to comment on selected text, and add categories relating to it. Additionally, being able to connect this application directly to the student organiser in order to easily open resumes and look at previous comments is ideal. All tasks were intended to be completed using open-source tools and libraries.
 
-What we learned was ... maximus metus id erat pharetra facilisis. Nullam ac urna ultricies diam volutpat faucibus. Sed feugiat placerat est nec scelerisque. Aenean a nisl sit amet ligula gravida fermentum eget in purus. Praesent a dui quis diam bibendum convallis vel in lacus.
+What we learned was open-source software can either be of great help or a major obstacle. On one side, many open-source projects have communities built around them, so one might be able to find answers easily with just a Google search. On the other hand, it can be hard to find solutions to your specific problems because of outdated information or bad documentations. However, as they are open-source you can read through the source code to get your answers.
 
 ## Key links
-- [Final presentation slides] (https://www.canva.com/design/DAGeA-99sw8/wu8bETDU_Ioi26iVPz-sQQ/view?utm_content=DAGeA-99sw8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h124da5d634)
+- [Final presentation slides](https://www.canva.com/design/DAGeA-99sw8/wu8bETDU_Ioi26iVPz-sQQ/view?utm_content=DAGeA-99sw8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h124da5d634)
 - Final presentation video (tbc)
-- [GitHub repo] (https://github.com/WEHI-RCPStudentInternship/pdf-coder)
+- [GitHub repo](https://github.com/WEHI-RCPStudentInternship/pdf-coder)
 - Technical Diary
 - [Weekly Progress](https://docs.google.com/document/d/11kn7avo8dtpY5Ho_D7bRSergjQzNMw7Q0_5i4YCggHg/edit?usp=sharing)
 - Project Management Tools
