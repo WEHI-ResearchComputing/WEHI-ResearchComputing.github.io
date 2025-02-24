@@ -101,16 +101,18 @@ What we learned was that there are many approaches to deploying OMERO and config
 
 # REDMANE Web Dev
 
-The challenge that we were trying to solve was ... ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet turpis lacus. Morbi a risus sed nunc venenatis vehicula sed sit amet tortor. Integer leo metus, scelerisque quis gravida quis, laoreet sed nisl. Duis lacus diam, dapibus id orci nec, pellentesque sollicitudin arcu. Vestibulum auctor nec velit sit amet ornare.
+The challenge that we were trying to solve was creating a web-based platform for the REDMANE project that facilitates efficient data management and user interaction. The project required a scalable, accessible, and well-integrated frontend and backend infrastructure to support research and development efforts. Additionally, ensuring a smooth development workflow with cloud-based hosting was essential.
 
-The way we tried to solve this was ... lorem mauris, ut suscipit dui porta at. Aenean elementum risus vel interdum condimentum. Nunc massa turpis, bibendum in leo vitae, dapibus cursus urna. Integer placerat lacinia finibus. Etiam vitae dolor ut tortor consectetur ultrices eu eget nisi. Cras neque massa, vestibulum id purus nec, aliquam molestie dolor. Vivamus sollicitudin, orci ut bibendum viverra, quam felis viverra purus, ut consectetur diam turpis quis eros.
+The way we tried to solve this was by developing a React-based frontend hosted on a Nectar Virtual Machine (VM), enabling researchers and developers to interact with the system seamlessly. We configured security groups for controlled access, implemented port forwarding to resolve connectivity issues, and deployed the application using Vite for optimal performance. On the backend, we integrated API endpoints to manage authentication, data handling, and application logic, ensuring efficient communication between components.
 
-What we learned was ... maximus metus id erat pharetra facilisis. Nullam ac urna ultricies diam volutpat faucibus. Sed feugiat placerat est nec scelerisque. Aenean a nisl sit amet ligula gravida fermentum eget in purus. Praesent a dui quis diam bibendum convallis vel in lacus.
+What we learned was the importance of setting up secure and scalable cloud-based infrastructure to support web applications in a research environment. We gained hands-on experience with Nectar VM configuration, network security management, and optimizing frontend-backend integration for a seamless user experience. Overcoming challenges like port forwarding and deployment issues enhanced our problem-solving skills and deepened our understanding of cloud-hosted web applications.
 
 ## Key links
-- Final presentation slides (if supervisor agrees)
+- [Final presentation slides](https://wehieduau.sharepoint.com/:p:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2024%20Semester%202%20Intake%20Final%20Presentation%20Data%20Registry.pptx?d=wa0e62184022149958e1e75afce0d4207&csf=1&web=1&e=2wQOd1)
 - Final presentation video (if supervisor agrees)
 - GitHub repos
+    - [Backend](https://github.com/Morganthium/REDMANE_fastapi/blob/main/app/main.py)
+    - [Frontend](https://github.com/alexandra5279/REDMANE_react.js/tree/main/src) 
 - Technical Diary
     - [Keycloak Set Up](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2024%20Semester%202/Authentication/KeyCloak%20Set%20Up.docx?d=we5e013c2b59c409f8775dc21e0f98f26&csf=1&web=1&e=zXw3xv)
     - [Auth0 Set Up](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2024%20Semester%202/Authentication/Auth0%20Okta%20Set%20Up.docx?d=w0f5fb55e3eed4418b4a9a0c502f5fe94&csf=1&web=1&e=vLQ75F)
@@ -120,7 +122,6 @@ What we learned was ... maximus metus id erat pharetra facilisis. Nullam ac urna
     - [Set up Keycloak on Nectar VM](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2025%20Summer/Web%20Development/Authenticaiton/Set%20up%20Keycloak%20on%20the%20Nectar%20VM.docx?d=w661b9e6185ee4e6cb55c2c2a5cc3a3c3&csf=1&web=1&e=rJJde7)
     - [Authentication Demo](https://wehieduau.sharepoint.com/:v:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2025%20Summer/Web%20Development/Authenticaiton/Authentication%20Demo.mp4?csf=1&web=1&e=iLGiGr)
 - Weekly Progress
-- Project Management Tools
 
 # REDMANE Workflows
 
