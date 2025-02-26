@@ -140,18 +140,30 @@ What we learned was ... maximus metus id erat pharetra facilisis. Nullam ac urna
 
 # REDMANE Workflows
 
-The challenge that we were trying to solve was ... ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet turpis lacus. Morbi a risus sed nunc venenatis vehicula sed sit amet tortor. Integer leo metus, scelerisque quis gravida quis, laoreet sed nisl. Duis lacus diam, dapibus id orci nec, pellentesque sollicitudin arcu. Vestibulum auctor nec velit sit amet ornare. 
+The challenge that we were trying to convert the raw data files to processed and summarised files.
 
-The way we tried to solve this was ... lorem mauris, ut suscipit dui porta at. Aenean elementum risus vel interdum condimentum. Nunc massa turpis, bibendum in leo vitae, dapibus cursus urna. Integer placerat lacinia finibus. Etiam vitae dolor ut tortor consectetur ultrices eu eget nisi. Cras neque massa, vestibulum id purus nec, aliquam molestie dolor. Vivamus sollicitudin, orci ut bibendum viverra, quam felis viverra purus, ut consectetur diam turpis quis eros.
+The way we tried to solve this was:
 
-What we learned was ... maximus metus id erat pharetra facilisis. Nullam ac urna ultricies diam volutpat faucibus. Sed feugiat placerat est nec scelerisque. Aenean a nisl sit amet ligula gravida fermentum eget in purus. Praesent a dui quis diam bibendum convallis vel in lacus.
+***1. Through Nextflow and Seqera on Milton HPC***
+1. Submit tickets to ask for access to Milton HPC and Seqera
+2. Upload raw data to `/vast/scratch/users/yourname/` + any subfolder you desire
+3. Generate access token on Seqera and fill it in the Nextflow Tower Agent page
+4. Select `Sarek_344` from Lanchpad and launch it
+5. Fill in Run setup configuration and lanch the pipeline
+    
+***2. Through Galaxy***
+Galaxy is a user-friendly interface where a lot of bioinformatics tools are available and ready to use.
+Use this link for more info: []
+
+What we learned was
+
 
 ## Key links
 - Final presentation slides (if supervisor agrees)
 - Final presentation video (if supervisor agrees)
-- GitHub repos
+- [GitHub repos] (https://github.com/VitaChien/WEHI_Workflow)
 - Technical Diary
-  - [Work Summary](https://wehieduau-my.sharepoint.com/:p:/r/personal/zhao_ch_wehi_edu_au/Documents/Work%20Summary.pptx?d=w3f5a83f7dcb444c0b5e84b955c1282ab&csf=1&web=1&e=oh3yJZ)
+  - [Work Summary](https://wehieduau-my.sharepoint.com/:p:/r/personal/zhao_ch_wehi_edu_au/Documents/Work%20Summary.pptx?d=w3f5a83f7dcb444c0b5e84b955c1282ab&csf=1&web=1&e=oh3yJZ) 
 - Weekly Progress
 - Project Management Tools
 
