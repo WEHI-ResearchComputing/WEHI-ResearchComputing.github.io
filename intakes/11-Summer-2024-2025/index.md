@@ -155,14 +155,17 @@ The way we tried to solve this was:
 Galaxy is a user-friendly interface where a lot of bioinformatics tools are available and ready to use.
 Use this link for more info: []
 
-What we learned was
+What we learned include reproducibility and scalability for the two platforms, compared barriers of entry, using both established tools to create workflows and trialing known pipelines. To be able to run Nextflow pipelines using Seqera we explored how to set up the environment on HPC, writing config files, and setting parameters. We've also did the conversion from command line manually using packages like bowtie2, samtools and bcftools. We've also learned how to effectively communicate across teams, sharing files as well as sourcing information about topics we knew less about in daily stand ups and co-working sessions.
 
+We've validated the final output (.vcf files) by visualising it using IGV. 
 
 ## Key links
-- Final presentation slides (if supervisor agrees)
+- Final presentation slides (if supervisor agrees?)
+  - [Final Presentation Slides](https://www.canva.com/design/DAGewhgcjlc/-93DtMN5HbugyU98Hr0V4A/edit)
 - Final presentation video (if supervisor agrees)
-- [GitHub repos] (https://github.com/VitaChien/WEHI_Workflow)
 - Technical Diary
+  - [Tish's Galaxy Workflow](https://usegalaxy.org.au/u/tishtar/w/basic-conversions)
+  - [GitHub repos](https://github.com/VitaChien/WEHI_Workflow)
   - [Work Summary](https://wehieduau-my.sharepoint.com/:p:/r/personal/zhao_ch_wehi_edu_au/Documents/Work%20Summary.pptx?d=w3f5a83f7dcb444c0b5e84b955c1282ab&csf=1&web=1&e=oh3yJZ) 
 - Weekly Progress
 - Project Management Tools
