@@ -68,19 +68,23 @@ While we gained technical insights into data organisation, including the importa
 
 # REDMANE Demo and Quality
 
-The challenge that we were trying to solve was ... ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet turpis lacus. Morbi a risus sed nunc venenatis vehicula sed sit amet tortor. Integer leo metus, scelerisque quis gravida quis, laoreet sed nisl. Duis lacus diam, dapibus id orci nec, pellentesque sollicitudin arcu. Vestibulum auctor nec velit sit amet ornare.
+The challenge we were trying to solve was bridging the gap between proof-of-concept and production by establishing a permanent demo environment that would ensure long-term availability. This environment was designed to mimic the REDMANE ecosystem, allowing other teams to deploy, test, and refine their code in a controlled setting. Key objectives included creating non-expiring VMs, improving quality control through cross-team collaboration, and providing support for integrating new code into the demo environment.
 
-The way we tried to solve this was ... lorem mauris, ut suscipit dui porta at. Aenean elementum risus vel interdum condimentum. Nunc massa turpis, bibendum in leo vitae, dapibus cursus urna. Integer placerat lacinia finibus. Etiam vitae dolor ut tortor consectetur ultrices eu eget nisi. Cras neque massa, vestibulum id purus nec, aliquam molestie dolor. Vivamus sollicitudin, orci ut bibendum viverra, quam felis viverra purus, ut consectetur diam turpis quis eros.
+The way we tried to solve this was by setting up permanent VMs on Nectar Research Cloud and making them externally accessible. We dockerised the data registry, implemented SSL connections, set up a Keycloak instance to manage authentication, and tested using synthetic datasets provided by other teams. Our work also included documenting App Store standards to define the criteria for integrating new data portals into the REDMANE ecosystem.
 
-What we learned was ... maximus metus id erat pharetra facilisis. Nullam ac urna ultricies diam volutpat faucibus. Sed feugiat placerat est nec scelerisque. Aenean a nisl sit amet ligula gravida fermentum eget in purus. Praesent a dui quis diam bibendum convallis vel in lacus.
+What we learned through this process extended beyond technical skills to include cross-team collaboration and project coordination. We gained hands-on experience with Docker, CI/CD, Nectar VMs, Keycloak, and security protocols, deepening our understanding of software deployment. Working across teams emphasised the importance of clear communication and alignment, ensuring smooth operation within the REDMANE ecosystem. Additionally, we found that having a high-level understanding of system architecture was crucial for effectively implementing solutions and setting up a cohesive demo environment.
 
 ## Key links
-- Final presentation slides (if supervisor agrees)
+- [Final presentation slides](https://wehieduau-my.sharepoint.com/:p:/g/personal/guo_t_wehi_edu_au/EXcCW73RXepOl-VICUIX0NQB4CFd3KMq5emNeM_BWXtEQA?e=2gJ8QV)
 - Final presentation video (if supervisor agrees)
 - GitHub repos
+    - [Keycloak Authentication](https://github.com/varshithmee/redmane-auth)
 - Technical Diary
-- Weekly Progress
-- Project Management Tools
+    - [App Store Standards](https://wehieduau-my.sharepoint.com/:w:/g/personal/qamar_j_wehi_edu_au/EQbFymUGnghDqHd3pV60Q0YBjixALU9a_aa4kZ5CDSBgEQ?e=He5hAW) 
+    - [Demo Environment Set Up](https://wehieduau.sharepoint.com/:w:/s/StudentInternGroupatWEHI/EXhrXywW5VFEojF9wj-UfBIB23Xhc5CgC3iA7yTxDOX-sw?e=14Kcer)
+    - [RStudio Set Up](https://wehieduau.sharepoint.com/:w:/s/StudentInternGroupatWEHI/EWjn0EY-YihOqTSzBMFnaQgBC384g3oY4hFjmu39rhho5g?e=uZFAXs)
+    - [Weekly Progress](https://wehieduau.sharepoint.com/:w:/s/redmane_demo_and_quality_team/EXn-vzXEMF1DnkrV_kGRFYUBm84mnEpWPwjSrOm8pLGMJw)
+    - [NectarVM setup](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/_layouts/15/Doc.aspx?sourcedoc=%7B98DE0595-08BD-4168-8CD7-2019AA9AA8D8%7D&file=Instantiating%20Virtual%20Machine%20Instances.docx&action=default&mobileredirect=true)
 
 # REDMANE Omero Data Portal
 
