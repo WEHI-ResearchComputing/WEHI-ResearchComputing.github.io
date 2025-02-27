@@ -8,6 +8,10 @@ Welcome to the RCP Student Internship Program at WEHI. We are excited to have yo
 
 This is a 100% remote internship and that part of the Workday email can be safely ignored. On your first day, you will be scheduled some virtual drop-in sessions so you can meet the supervisor and other interns.
 
+## WARNING: Open Source Contributors
+
+Please note that you won't have access to WEHI resources, including Workday and email. We will ensure that all information is being stored on Github repos that are publicly available.
+
 ## WARNING: Read the FAQ before setting up Workday
 
 Workday is the Human Resources software tool at WEHI. You will receive an email from Workday and will need to fill in all the forms before you start. You may not receive the Workday email before your start date. This is OK, you will just need to wait and use your student email for the time being. Please also note that there is a Workday FAQ you can find in the FAQ below.
