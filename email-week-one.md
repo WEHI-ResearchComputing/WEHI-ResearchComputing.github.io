@@ -20,6 +20,8 @@ Workday is the Human Resources software tool at WEHI. You will receive an email 
 
 It is usually an issue with students to have issues with Workday.
 
+## WARNING: Please note that your setup with University of Melbourne may cause confusion in your browser. Please use "Incognito" or "Private" mode when you are troubleshooting.
+
 Please go to [the FAQ and look through all the Workday issues](https://wehi-researchcomputing.github.io/faq#onboarding-onto-the-internship-program-workday) before your start setting up Workday.
 
 ## WARNING: Do you have a problem? Please read this first
@@ -28,33 +30,19 @@ Many students ask their supervisor questions that could be easily solved within 
 
 ## WARNING: Please note that your setup with University of Melbourne may cause confusion in your browser. Please use "Incognito" or "Private" mode when you are troubleshooting.
 
-## Goals for the week
+## Goals for your first week
 
-1. Read the onboarding documentation (see below) and ensure you understand the "whys" behind the high-level context and the potential high-level tasks. This is the most important goal for your first week. Make sure you collaborate and share notes with your fellow interns - many hands make light work!
-2. Setup Workday (if available) based off the information in [the Onboarding onto the Internship program FAQ](https://wehi-researchcomputing.github.io/faq#onboarding-onto-the-internship-program-workday)
-3. Reach out to your fellow student interns and supervisors to organise the weekly project meetings for the whole of your internship. Your supervisor can then create a weekly calendar invite on your behalf.
-4. Schedule two regular co-working sessions per week with your fellow student interns, without supervisors. These can be used so you can work together. The second co-working session should be co-ordinated with your sister project. A sister project is a project that is working on a similar set of technology to you that you would regularly talk to.
-6. Add your WEHI email (if you have one) to the Sharepoint/Teams "WEHI-wide student intern group" by following the ["How do I get access to the WEHI-wide student intern group using my WEHI email address?"](faq#how-do-i-get-access-to-the-wehi-wide-student-intern-group-using-my-wehi-email-address) FAQ
+1. Please [read through the welcome presentation slides](https://www.canva.com/design/DAGfzSu6evw/npFw4ssvw2n9B2k0HS-wgg/view) as this will help you ease your way into WEHI.
+2. Please check your emails consistently throughout the week for more details.
+3. Ensure you understand the "whys" behind the high-level context and the potential high-level tasks. This is the most important goal for your first week.
+4. Setup Workday (if available and you are not an Open Source Contributor)
+5. Reach out to your fellow student interns and supervisors to organise the weekly project meetings for the whole of your internship.
+6. Schedule two regular co-working sessions per week with your fellow student interns, without supervisors. These can be used so you can work together. The second co-working session should be co-ordinated with your sister project. A sister project is a project that is working on a similar set of technology to you that you would regularly talk to.
 7. Read [the Social Media Policy for student interns](social_media_policy).
-8. Create a chat room for your team to make communication easier - find out what everyone is most likely to use and use that!
-
+8. Please choose a person from your team to act as a team representative that can meet once a week with all the other team representatives and the Program Manager.
+9. 
 You can see the full list in [the key milestones and onboarding emails page](emails-and-key-milestones).
 
-## Onboarding documentation to understand high-level context
-
-Please [read through the welcome presentation slides](https://www.canva.com/design/DAGLV0H1qOk/dID_FQC6UBABBsPsNDgCyA/view?utm_content=DAGLV0H1qOk) as this will help you ease your way into WEHI. This includes the setup of your WEHI email and other things.
-
-
-Here are a few things you can do:
-
-- You can [look at the storage and compute options available at WEHI](https://wehi-researchcomputing.github.io/faq#i-need-to-use-storage-and-compute-what-are-my-options).
-- You can read about [the top 5 mistakes that students make](https://wehi-researchcomputing.github.io/top-5-mistakes)
-- You can also have a [look at the FAQ](https://wehi-researchcomputing.github.io/faq)
-- You can learn [how to handle a complex and ambiguous project](https://wehi-researchcomputing.github.io/complex-projects) 
-- You can [review your project and look at the available documentation](https://wehi-researchcomputing.github.io/project-wikis)
-- You can also [use this internship as an opportunity to network](faq#i-know-that-the-internships-are-usually-100-offsite-but-what-if-i-want-to-go-into-the-office-sometimes)
-
-If you have any questions or need further clarification regarding the internship program or the onboarding document, please feel free to reach out to me after you have looked through these documents. We are here to assist you and provide any necessary support.
 
 We are looking forward to working with you and wish you a rewarding and successful internship experience.
 
