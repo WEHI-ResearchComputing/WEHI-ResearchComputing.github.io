@@ -29,7 +29,7 @@ Many students ask their supervisor questions that could be easily solved within 
 
 ## Goals for your first week
 
-1. Please [read through the welcome presentation slides](https://www.canva.com/design/DAGfzSu6evw/npFw4ssvw2n9B2k0HS-wgg/view) as this will help you ease your way into WEHI.
+1. Please [read through the welcome presentation slides](https://doi.org/10.6084/m9.figshare.28503338) as this will help you ease your way into WEHI.
 2. Please check your emails consistently throughout the week for more details.
 3. Ensure you understand the "whys" behind the high-level context and the potential high-level tasks. This is the most important goal for your first week.
 4. Setup Workday (if available and you are not an Open Source Contributor)
