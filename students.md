@@ -18,6 +18,8 @@ We prepare students for the real-world by teaching them:
 
 We even tell students how to try to avoid [the top 5 mistakes that students make](top-5-mistakes).
 
+In our [Welcome Session, we talk about ways you can better learn real world skills](https://doi.org/10.6084/m9.figshare.28503338).
+
 ## Types of projects
 
 Many of the projects work in the Data Analysis and [Research Software Engineering](https://rse-aunz.github.io/) space using High Performance Compute (HPC). We work across diverse projects such as imaging, cryo-EM, genomics, transcriptomics, clinical informatics, and capacity planning.
