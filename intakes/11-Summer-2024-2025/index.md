@@ -145,15 +145,10 @@ The challenge that we were trying to convert the raw data files to processed and
 The way we tried to solve this was:
 
 ***1. Through Nextflow and Seqera on Milton HPC***
-1. Submit tickets to ask for access to Milton HPC and Seqera
-2. Upload raw data to `/vast/scratch/users/yourname/` + any subfolder you desire
-3. Generate access token on Seqera and fill it in the Nextflow Tower Agent page
-4. Select `Sarek_344` from Lanchpad and launch it
-5. Fill in Run setup configuration and lanch the pipeline
-    
+We learned about the common workflow used in the bioinformatics field, Nextflow, and gained experience with an open-source pipeline designed for variant mapping called nf-core/sarek. This pipeline allowed us to efficiently process WGS data by identifying genetic variants from sequencing datasets. Additionally, we deployed the pipeline on Seqera and executed it on Milton HPC.    
+
 ***2. Through Galaxy***
 Galaxy is a user-friendly interface where a lot of bioinformatics tools are available and ready to use.
-Use this link for more info: []
 
 What we learned include reproducibility and scalability for the two platforms, compared barriers of entry, using both established tools to create workflows and trialing known pipelines. To be able to run Nextflow pipelines using Seqera we explored how to set up the environment on HPC, writing config files, and setting parameters. We've also did the conversion from command line manually using packages like bowtie2, samtools and bcftools. We've also learned how to effectively communicate across teams, sharing files as well as sourcing information about topics we knew less about in daily stand ups and co-working sessions.
 
