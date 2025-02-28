@@ -8,6 +8,10 @@ Welcome to the RCP Student Internship Program at WEHI. We are excited to have yo
 
 This is a 100% remote internship and that part of the Workday email can be safely ignored. On your first day, you will be scheduled some virtual drop-in sessions so you can meet the supervisor and other interns.
 
+## WARNING: Do not register for an in-person welcome session.
+
+This is for staff who will get keycards to access WEHI and this is a 100% remote internship.
+
 ## WARNING: Open Source Contributors
 
 Please note that you won't have access to WEHI resources, including Workday and email. We will ensure that all information is being stored on Github repos that are publicly available.
