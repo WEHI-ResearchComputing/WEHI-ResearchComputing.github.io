@@ -54,6 +54,12 @@ Data engineering is focused on streamlining and cleaning data systematically. Da
 
 No, it is not accurate. This is a 100% remote internship and that part of the Workday email can be safely ignored. On your first day, you will be scheduled some virtual drop-in sessions so you can meet the supervisor and other interns. 
 
+## One of the Workday modules asked me to register for an in-person welcome session
+
+Do not register for an in-person welcome session.
+
+This is for staff who will get keycards to access WEHI and this is a 100% remote internship.
+
 ## I setup my Workday (HR system) through an initial email but now that password doesn't work or I cannot login to my WEHI email
 
 The links you might have previously used to access Workday before your official start date will no longer allow access.  Email hr [at] wehi [dot] edu [dot] au as this is the contact provided if you encounter any issue in regard to Workday. They will provided you with the new credentials to set up your WEHI email. You may need to go into Incognito mode to get it to work.

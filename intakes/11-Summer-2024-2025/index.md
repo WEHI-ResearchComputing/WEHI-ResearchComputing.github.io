@@ -1,4 +1,4 @@
-# Intake 11 - Summer 2024/2025
+# Student Organiser Intake 11 - Summer 2024/2025
 
 This is the list of projects for this intake. Here you will see:
 - Summary of the problem and the work done in the project 
@@ -68,35 +68,23 @@ While we gained technical insights into data organisation, including the importa
 
 # REDMANE Demo and Quality
 
-The challenge that we were trying to solve was ... ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet turpis lacus. Morbi a risus sed nunc venenatis vehicula sed sit amet tortor. Integer leo metus, scelerisque quis gravida quis, laoreet sed nisl. Duis lacus diam, dapibus id orci nec, pellentesque sollicitudin arcu. Vestibulum auctor nec velit sit amet ornare. 
+The challenge we were trying to solve was bridging the gap between proof-of-concept and production by establishing a permanent demo environment that would ensure long-term availability. This environment was designed to mimic the REDMANE ecosystem, allowing other teams to deploy, test, and refine their code in a controlled setting. Key objectives included creating non-expiring VMs, improving quality control through cross-team collaboration, and providing support for integrating new code into the demo environment.
 
-The way we tried to solve this was ... lorem mauris, ut suscipit dui porta at. Aenean elementum risus vel interdum condimentum. Nunc massa turpis, bibendum in leo vitae, dapibus cursus urna. Integer placerat lacinia finibus. Etiam vitae dolor ut tortor consectetur ultrices eu eget nisi. Cras neque massa, vestibulum id purus nec, aliquam molestie dolor. Vivamus sollicitudin, orci ut bibendum viverra, quam felis viverra purus, ut consectetur diam turpis quis eros.
+The way we tried to solve this was by setting up permanent VMs on Nectar Research Cloud and making them externally accessible. We dockerised the data registry, implemented SSL connections, set up a Keycloak instance to manage authentication, and tested using synthetic datasets provided by other teams. Our work also included documenting App Store standards to define the criteria for integrating new data portals into the REDMANE ecosystem.
 
-What we learned was ... maximus metus id erat pharetra facilisis. Nullam ac urna ultricies diam volutpat faucibus. Sed feugiat placerat est nec scelerisque. Aenean a nisl sit amet ligula gravida fermentum eget in purus. Praesent a dui quis diam bibendum convallis vel in lacus.
-
-## Key links
-- Final presentation slides (if supervisor agrees)
-- Final presentation video (if supervisor agrees)
-- GitHub repos
-- Technical Diary
-- Weekly Progress
-- Project Management Tools
-
-# REDMANE Funding and Partnerships
-
-The challenge that we were trying to solve was ... ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet turpis lacus. Morbi a risus sed nunc venenatis vehicula sed sit amet tortor. Integer leo metus, scelerisque quis gravida quis, laoreet sed nisl. Duis lacus diam, dapibus id orci nec, pellentesque sollicitudin arcu. Vestibulum auctor nec velit sit amet ornare. 
-
-The way we tried to solve this was ... lorem mauris, ut suscipit dui porta at. Aenean elementum risus vel interdum condimentum. Nunc massa turpis, bibendum in leo vitae, dapibus cursus urna. Integer placerat lacinia finibus. Etiam vitae dolor ut tortor consectetur ultrices eu eget nisi. Cras neque massa, vestibulum id purus nec, aliquam molestie dolor. Vivamus sollicitudin, orci ut bibendum viverra, quam felis viverra purus, ut consectetur diam turpis quis eros.
-
-What we learned was ... maximus metus id erat pharetra facilisis. Nullam ac urna ultricies diam volutpat faucibus. Sed feugiat placerat est nec scelerisque. Aenean a nisl sit amet ligula gravida fermentum eget in purus. Praesent a dui quis diam bibendum convallis vel in lacus.
+What we learned through this process extended beyond technical skills to include cross-team collaboration and project coordination. We gained hands-on experience with Docker, CI/CD, Nectar VMs, Keycloak, and security protocols, deepening our understanding of software deployment. Working across teams emphasised the importance of clear communication and alignment, ensuring smooth operation within the REDMANE ecosystem. Additionally, we found that having a high-level understanding of system architecture was crucial for effectively implementing solutions and setting up a cohesive demo environment.
 
 ## Key links
-- Final presentation slides (if supervisor agrees)
+- [Final presentation slides](https://wehieduau-my.sharepoint.com/:p:/g/personal/guo_t_wehi_edu_au/EXcCW73RXepOl-VICUIX0NQB4CFd3KMq5emNeM_BWXtEQA?e=2gJ8QV)
 - Final presentation video (if supervisor agrees)
 - GitHub repos
+    - [Keycloak Authentication](https://github.com/varshithmee/redmane-auth)
 - Technical Diary
-- Weekly Progress
-- Project Management Tools
+    - [App Store Standards](https://wehieduau-my.sharepoint.com/:w:/g/personal/qamar_j_wehi_edu_au/EQbFymUGnghDqHd3pV60Q0YBjixALU9a_aa4kZ5CDSBgEQ?e=He5hAW) 
+    - [Demo Environment Set Up](https://wehieduau.sharepoint.com/:w:/s/StudentInternGroupatWEHI/EXhrXywW5VFEojF9wj-UfBIB23Xhc5CgC3iA7yTxDOX-sw?e=14Kcer)
+    - [RStudio Set Up](https://wehieduau.sharepoint.com/:w:/s/StudentInternGroupatWEHI/EWjn0EY-YihOqTSzBMFnaQgBC384g3oY4hFjmu39rhho5g?e=uZFAXs)
+    - [Weekly Progress](https://wehieduau.sharepoint.com/:w:/s/redmane_demo_and_quality_team/EXn-vzXEMF1DnkrV_kGRFYUBm84mnEpWPwjSrOm8pLGMJw)
+    - [NectarVM setup](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/_layouts/15/Doc.aspx?sourcedoc=%7B98DE0595-08BD-4168-8CD7-2019AA9AA8D8%7D&file=Instantiating%20Virtual%20Machine%20Instances.docx&action=default&mobileredirect=true)
 
 # REDMANE Omero Data Portal
 
@@ -107,8 +95,11 @@ The way we tried to solve this was by developing a Docker Compose script to stre
 What we learned was that there are many approaches to deploying OMERO and configuring access controls to meet app store standards. However, hardware constraints limit our options for deployment and data storage, making it challenging—but not impossible—to find the optimal solution. By comparing various options and consulting with other teams, we can refine our approach. Additionally, involving experts in the field could help streamline the process and reduce the time needed to integrate these solutions effectively.
 
 ## Key links
-- Final presentation slides (if supervisor agrees)
-- Final presentation video (if supervisor agrees)
+- Final presentation
+    - [Final presentation slides](https://wehieduau.sharepoint.com/:p:/s/StudentInternGroupatWEHI/EQDMFvyjL8ZIodoMbt_Ck0YB8oGnsdaqSMqImWet1hnoHg?e=ZboIEc)
+    - Final presentation video (if supervisor agrees)
+- Whiteboard presentation
+    - [Whiteboard presentation video](https://wehieduau.sharepoint.com/:u:/s/StudentInternGroupatWEHI/EVYobuKcom1Aqx_Cj7qawSsBd9UGhS7S_oQvg5zOkQaKxg?e=Jw8ndR)
 - GitHub repos
     - [Omero DataPortal](https://github.com/DBK333/Omero-DataPortal)  
 - Technical Diary  
@@ -117,16 +108,18 @@ What we learned was that there are many approaches to deploying OMERO and config
 
 # REDMANE Web Dev
 
-The challenge that we were trying to solve was ... ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet turpis lacus. Morbi a risus sed nunc venenatis vehicula sed sit amet tortor. Integer leo metus, scelerisque quis gravida quis, laoreet sed nisl. Duis lacus diam, dapibus id orci nec, pellentesque sollicitudin arcu. Vestibulum auctor nec velit sit amet ornare. 
+The challenge that we were trying to solve was creating a web-based platform for the REDMANE project that facilitates efficient data management and user interaction. The project required a scalable, accessible, and well-integrated frontend and backend infrastructure to support research and development efforts. Additionally, ensuring a smooth development workflow with cloud-based hosting was essential.
 
-The way we tried to solve this was ... lorem mauris, ut suscipit dui porta at. Aenean elementum risus vel interdum condimentum. Nunc massa turpis, bibendum in leo vitae, dapibus cursus urna. Integer placerat lacinia finibus. Etiam vitae dolor ut tortor consectetur ultrices eu eget nisi. Cras neque massa, vestibulum id purus nec, aliquam molestie dolor. Vivamus sollicitudin, orci ut bibendum viverra, quam felis viverra purus, ut consectetur diam turpis quis eros.
+The way we tried to solve this was by developing a React-based frontend hosted on a Nectar Virtual Machine (VM), enabling researchers and developers to interact with the system seamlessly. We configured security groups for controlled access, implemented port forwarding to resolve connectivity issues, and deployed the application using Vite for optimal performance. On the backend, we integrated API endpoints to manage authentication, data handling, and application logic, ensuring efficient communication between components.
 
-What we learned was ... maximus metus id erat pharetra facilisis. Nullam ac urna ultricies diam volutpat faucibus. Sed feugiat placerat est nec scelerisque. Aenean a nisl sit amet ligula gravida fermentum eget in purus. Praesent a dui quis diam bibendum convallis vel in lacus.
+What we learned was the importance of setting up secure and scalable cloud-based infrastructure to support web applications in a research environment. We gained hands-on experience with Nectar VM configuration, network security management, and optimizing frontend-backend integration for a seamless user experience. Overcoming challenges like port forwarding and deployment issues enhanced our problem-solving skills and deepened our understanding of cloud-hosted web applications.
 
 ## Key links
-- Final presentation slides (if supervisor agrees)
+- [Final presentation slides](https://wehieduau.sharepoint.com/:p:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2024%20Semester%202%20Intake%20Final%20Presentation%20Data%20Registry.pptx?d=wa0e62184022149958e1e75afce0d4207&csf=1&web=1&e=2wQOd1)
 - Final presentation video (if supervisor agrees)
 - GitHub repos
+    - [Backend](https://github.com/Morganthium/REDMANE_fastapi/blob/main/app/main.py)
+    - [Frontend](https://github.com/alexandra5279/REDMANE_react.js/tree/main/src) 
 - Technical Diary
     - [Keycloak Set Up](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2024%20Semester%202/Authentication/KeyCloak%20Set%20Up.docx?d=we5e013c2b59c409f8775dc21e0f98f26&csf=1&web=1&e=zXw3xv)
     - [Auth0 Set Up](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2024%20Semester%202/Authentication/Auth0%20Okta%20Set%20Up.docx?d=w0f5fb55e3eed4418b4a9a0c502f5fe94&csf=1&web=1&e=vLQ75F)
@@ -136,7 +129,6 @@ What we learned was ... maximus metus id erat pharetra facilisis. Nullam ac urna
     - [Set up Keycloak on Nectar VM](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2025%20Summer/Web%20Development/Authenticaiton/Set%20up%20Keycloak%20on%20the%20Nectar%20VM.docx?d=w661b9e6185ee4e6cb55c2c2a5cc3a3c3&csf=1&web=1&e=rJJde7)
     - [Authentication Demo](https://wehieduau.sharepoint.com/:v:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2025%20Summer/Web%20Development/Authenticaiton/Authentication%20Demo.mp4?csf=1&web=1&e=iLGiGr)
 - Weekly Progress
-- Project Management Tools
 
 # REDMANE Workflows
 
@@ -155,8 +147,7 @@ What we learned include reproducibility and scalability for the two platforms, c
 We've validated the final output (.vcf files) by visualising it using IGV. 
 
 ## Key links
-- Final presentation slides (if supervisor agrees?)
-  - [Final Presentation Slides](https://www.canva.com/design/DAGewhgcjlc/-93DtMN5HbugyU98Hr0V4A/edit)
+- [Final Presentation Slides](https://www.canva.com/design/DAGewhgcjlc/-93DtMN5HbugyU98Hr0V4A/edit)
 - Final presentation video (if supervisor agrees)
 - Technical Diary
   - [Tish's Galaxy Workflow](https://usegalaxy.org.au/u/tishtar/w/basic-conversions)
