@@ -104,7 +104,7 @@ What we learned was that there are many approaches to deploying OMERO and config
     - [Omero DataPortal](https://github.com/DBK333/Omero-DataPortal)
 - Technical Diary
     - [NectarVM Setup](https://wehieduau-my.sharepoint.com/:w:/g/personal/kasikumpaiboon_d_wehi_edu_au/EbuTOVm8MwNDrV3lIGVixukBgTxFFvSCCq3v-POA0LWpyA?e=MdpZDm)
-    - [Technical Diary Document](https://wehieduau.sharepoint.com/:w:/s/StudentInternGroupatWEHI/ETlszokWPf5CjFXIE2imaDMBq_HXhHTzAS7nailAALxErQ?e=spjzm2) 
+    - [Technical Diary Document](https://wehieduau.sharepoint.com/:w:/s/StudentInternGroupatWEHI/ETlszokWPf5CjFXIE2imaDMBq_HXhHTzAS7nailAALxErQ?e=spjzm2)
 
 # REDMANE Web Dev
 
