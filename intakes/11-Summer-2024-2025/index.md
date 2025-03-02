@@ -95,13 +95,16 @@ The way we tried to solve this was by developing a Docker Compose script to stre
 What we learned was that there are many approaches to deploying OMERO and configuring access controls to meet app store standards. However, hardware constraints limit our options for deployment and data storage, making it challenging—but not impossible—to find the optimal solution. By comparing various options and consulting with other teams, we can refine our approach. Additionally, involving experts in the field could help streamline the process and reduce the time needed to integrate these solutions effectively.
 
 ## Key links
-- Final presentation slides (if supervisor agrees)
-- Final presentation video (if supervisor agrees)
+- Final presentation
+    - [Final presentation slides](https://wehieduau.sharepoint.com/:p:/s/StudentInternGroupatWEHI/EQDMFvyjL8ZIodoMbt_Ck0YB8oGnsdaqSMqImWet1hnoHg?e=ZboIEc)
+    - Final presentation video (if supervisor agrees)
+- Whiteboard presentation
+    - [Whiteboard presentation video](https://wehieduau.sharepoint.com/:u:/s/StudentInternGroupatWEHI/EVYobuKcom1Aqx_Cj7qawSsBd9UGhS7S_oQvg5zOkQaKxg?e=Jw8ndR)
 - GitHub repos
     - [Omero DataPortal](https://github.com/DBK333/Omero-DataPortal)
 - Technical Diary
     - [NectarVM Setup](https://wehieduau-my.sharepoint.com/:w:/g/personal/kasikumpaiboon_d_wehi_edu_au/EbuTOVm8MwNDrV3lIGVixukBgTxFFvSCCq3v-POA0LWpyA?e=MdpZDm)
-    - [Technical Diary Document](https://wehieduau-my.sharepoint.com/:w:/r/personal/kasikumpaiboon_d_wehi_edu_au/Documents/Microsoft%20Teams%20Chat%20Files/Data%20Portal%20Technical%20Diary(1).docx?d=wcd787f8fb8444df78c01881e89b00ea4&csf=1&web=1&e=pJsezK)
+    - [Technical Diary Document](https://wehieduau.sharepoint.com/:w:/s/StudentInternGroupatWEHI/ETlszokWPf5CjFXIE2imaDMBq_HXhHTzAS7nailAALxErQ?e=spjzm2)
 
 # REDMANE Web Dev
 
