@@ -161,8 +161,6 @@ Rules of thumb for being independent:
 
 ## We are required to interview a number of people to gather insight into their career pathway. How can I arrange this with you?
 
-You can see more in Ask About Career on [page 25 of the RCP Student Onboarding Checklist](https://doi.org/10.6084/m9.figshare.23280815.v5)
-
 For those doing the Bachelor of Science or the Master of Data Science course, you will need to ask a series of questions to a supervisor about their career.
 The questions are as follows:
 - How did you get started in this field, and what do you think has made you successful throughout your career?
