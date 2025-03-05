@@ -207,11 +207,11 @@ What we learned was there are many moving parts to a RAG LLM, all of which can b
 
 # Quantum Computing
 
-The challenge that we were trying to solve was ... ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet turpis lacus. Morbi a risus sed nunc venenatis vehicula sed sit amet tortor. Integer leo metus, scelerisque quis gravida quis, laoreet sed nisl. Duis lacus diam, dapibus id orci nec, pellentesque sollicitudin arcu. Vestibulum auctor nec velit sit amet ornare.
+Coming into this internship with no prior experience in quantum computing, we spent 12 weeks exploring its applications in bioinformatics and machine learning, hoping we could contribute something to WEHI for medical related issues.
 
-The way we tried to solve this was ... lorem mauris, ut suscipit dui porta at. Aenean elementum risus vel interdum condimentum. Nunc massa turpis, bibendum in leo vitae, dapibus cursus urna. Integer placerat lacinia finibus. Etiam vitae dolor ut tortor consectetur ultrices eu eget nisi. Cras neque massa, vestibulum id purus nec, aliquam molestie dolor. Vivamus sollicitudin, orci ut bibendum viverra, quam felis viverra purus, ut consectetur diam turpis quis eros.
+We worked extensively with Qiskit and PennyLane, two leading quantum programming frameworks, to understand quantum circuits and algorithms. This involved writing code, debugging quantum programs, and gaining exposure to cloud-based quantum computing. The nature of quantum computing required us to approach problem-solving in a completely new way, as errors and optimizations in quantum systems function differently from classical computing.
 
-What we learned was ... maximus metus id erat pharetra facilisis. Nullam ac urna ultricies diam volutpat faucibus. Sed feugiat placerat est nec scelerisque. Aenean a nisl sit amet ligula gravida fermentum eget in purus. Praesent a dui quis diam bibendum convallis vel in lacus.
+However, since we think quantum computing is still in an early stage and remains highly theoretical, we realised that we had to switch our focus to work on educational resources rather than attempting immediate real-world applications. Moreover, recognizing the steep learning curve associated with quantum computing, my team decided to develop an interactive educational platform. We created a website designed to help beginners navigate quantum concepts more effectively. The platform incorporated flip cards, quizzes, and curated learning resources to simplify complex topics and provide an engaging learning experience. This project was particularly meaningful because it allowed us to contribute something tangible to the field; an accessible tool that can help others get started with quantum computing.
 
 ## Key links
 - Final presentation slides (if supervisor agrees)
