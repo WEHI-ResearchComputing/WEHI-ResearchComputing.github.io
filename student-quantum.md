@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Quantum computers are gaining attention from disciplines outside of physics. We are starting to see algorithms being developed that could be used to solve problems in the future. There are many problems that exist in biology and bioinformatics that could be explored with quantum computing. 
+Coming into this internship with no prior experience in quantum computing, we spent 12 weeks exploring its applications in bioinformatics and machine learning, hoping we could contribute something to WEHI for medical related issues.
 
-Structural biology and drug discovery are two such areas that may be able to use quantum computing in the future as quantum computers mature.  
+We worked extensively with Qiskit and PennyLane, two leading quantum programming frameworks, to understand quantum circuits and algorithms. This involved writing code, debugging quantum programs, and gaining exposure to cloud-based quantum computing. The nature of quantum computing required us to approach problem-solving in a completely new way, as errors and optimizations in quantum systems function differently from classical computing.
 
-WEHI is collaborating with the University of Melbourne to create foundational knowledge of quantum computing in biology to ensure that we are prepared for the future. This role is part of that exploration and will help to lay down the foundation of knowledge to allow researchers and research software engineers to accelerate their learning.  
+However, since we think quantum computing is still in an early stage and remains highly theoretical, we realised that we had to switch our focus to work on educational resources rather than attempting immediate real-world applications. Moreover, recognizing the steep learning curve associated with quantum computing, my team decided to develop an interactive educational platform. We created a website designed to help beginners navigate quantum concepts more effectively. The platform incorporated flip cards, quizzes, and curated learning resources to simplify complex topics and provide an engaging learning experience. This project was particularly meaningful because it allowed us to contribute something tangible to the field; an accessible tool that can help others get started with quantum computing. 
 
 ## Duties while on placement
 
