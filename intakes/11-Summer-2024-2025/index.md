@@ -214,6 +214,8 @@ We worked extensively with Qiskit and PennyLane, two leading quantum programming
 However, since we think quantum computing is still in an early stage and remains highly theoretical, we realised that we had to switch our focus to work on educational resources rather than attempting immediate real-world applications. Moreover, recognizing the steep learning curve associated with quantum computing, my team decided to develop an interactive educational platform. We created a website designed to help beginners navigate quantum concepts more effectively. The platform incorporated flip cards, quizzes, and curated learning resources to simplify complex topics and provide an engaging learning experience. This project was particularly meaningful because it allowed us to contribute something tangible to the field; an accessible tool that can help others get started with quantum computing.
 
 ## Key links
+- [Whiteboard presentation](https://docs.google.com/presentation/d/1FvQW5jWeiL1eG53EM24xrpMG8sxhb21J7sGHjQHeo44/edit#slide=id.g31ec68b0e85_0_0)
+- [Mindsmith Educational Website](https://app.mindsmith.ai/lesson/cm6gdamso01cvw0kghy4sb36f/preview) 
 - Final presentation slides (if supervisor agrees)
 - Final presentation video (if supervisor agrees)
 - GitHub repos
