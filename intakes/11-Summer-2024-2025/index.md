@@ -1,4 +1,4 @@
-# Student Organiser Intake 11 - Summer 2024/2025
+# RCP Internship Program - Intake 11 - Summer 2024/2025
 
 This is the list of projects for this intake. Here you will see:
 - Summary of the problem and the work done in the project
