@@ -202,10 +202,12 @@ NOTE: Please ensure that anything you put in the public domain is not private. T
 Within your project channel in Sharepoint (ie. within the WEHI-wide student intern group in Teams > Files), you should have a Technical notes folder for your intake eg. Semester 2 2023 Technical notes. This is to help future students understand what you did in detail to get your results. This also includes things that should not be made public. So descriptions of where you put data or how you ran a script on Milton should not be made public and should go in Sharepoint.
 
 Technical knowledge to put into your technical diary in Sharepoint (among others) would include:
+- URLs of any documents you read or videos you watch, along with a quick summary of those documents to make it easy for others to decide if these documents or videos are worth reading/watching. 
 - commandline commands you used to setup your sofwtware system eg. pip install pandas
 - technical errors you encountered and how you fixed them, or what was the process you found to fix them
 - general technical notes that took you some time to figure out that might help a future student
-- any technical help you received from other students, mentors, or supervisors 
+- any technical help you received from other students, mentors, or supervisors
+ 
 
 
 ## How should I ask for help to solve a problem?
