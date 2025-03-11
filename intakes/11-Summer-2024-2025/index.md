@@ -194,11 +194,8 @@ However, since we think quantum computing is still in an early stage and remains
 - Weekly Progress
 - Project Management Tools
 
----
 
 # Student Organiser Data Visualisation
-
-**Internship Summary Report – Student Organiser Data Visualisation**
 
 This internship at the Walter and Eliza Hall Institute of Medical Research (WEHI) focused on enhancing the Student Intern Organiser, a Flask-based web application. Our goal was to improve user experience through interactive visualisations and better data management tools.
 
@@ -215,12 +212,14 @@ This internship provided valuable experience in data visualisation, software dev
 
 ## Key links
 - [Final presentation slides](https://wehieduau.sharepoint.com/:p:/r/sites/StudentInternGroupatWEHI/_layouts/15/Doc.aspx?sourcedoc=%7BE43AD54C-4B1E-4103-9496-A8B8B00FEE1E%7D&file=Student%20Organiser%20Data%20Viz%20Final%20Presentation.pptx&action=edit&mobileredirect=true)
-- [Final presentation video](https://wehieduau.sharepoint.com/sites/StudentInternGroupatWEHI/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FStudentInternGroupatWEHI%2FShared%20Documents%2FStudent%20Organiser%2FTechnical%20Notes%20Summer%202024%202025%2FStudent%20Organiser%20Data%20Viz&viewid=afd55542%2D8e3a%2D4327%2D95f9%2D63450ae10d2a))
+- [Final presentation video](https://wehieduau.sharepoint.com/sites/StudentInternGroupatWEHI/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FStudentInternGroupatWEHI%2FShared%20Documents%2FStudent%20Organiser%2FTechnical%20Notes%20Summer%202024%202025%2FStudent%20Organiser%20Data%20Viz&viewid=afd55542%2D8e3a%2D4327%2D95f9%2D63450ae10d2a)
 - [GitHub repos](https://github.com/WEHI-RCPStudentInternship/student-intern-organiser)
 - [Technical Diary](https://wehieduau.sharepoint.com/sites/StudentInternGroupatWEHI/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FStudentInternGroupatWEHI%2FShared%20Documents%2FStudent%20Organiser%2FTechnical%20Notes%20Summer%202024%202025%2FStudent%20Organiser%20Data%20Viz&viewid=afd55542%2D8e3a%2D4327%2D95f9%2D63450ae10d2a)
 - Weekly Progress
 - Project Management Tools
-- 
+
+---
+
 # REDMANE Capacity Planning (not finalised)
 
 The challenge that we were trying to solve was ... ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet turpis lacus. Morbi a risus sed nunc venenatis vehicula sed sit amet tortor. Integer leo metus, scelerisque quis gravida quis, laoreet sed nisl. Duis lacus diam, dapibus id orci nec, pellentesque sollicitudin arcu. Vestibulum auctor nec velit sit amet ornare.
