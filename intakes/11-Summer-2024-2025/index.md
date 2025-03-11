@@ -196,19 +196,28 @@ However, since we think quantum computing is still in an early stage and remains
 
 ---
 
-# Student Organiser Data Visualisation (not finalised)
+# Student Organiser Data Visualisation
 
-The challenge that we were trying to solve was ... ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet turpis lacus. Morbi a risus sed nunc venenatis vehicula sed sit amet tortor. Integer leo metus, scelerisque quis gravida quis, laoreet sed nisl. Duis lacus diam, dapibus id orci nec, pellentesque sollicitudin arcu. Vestibulum auctor nec velit sit amet ornare.
+**Internship Summary Report – Student Organiser Data Visualisation**
 
-The way we tried to solve this was ... lorem mauris, ut suscipit dui porta at. Aenean elementum risus vel interdum condimentum. Nunc massa turpis, bibendum in leo vitae, dapibus cursus urna. Integer placerat lacinia finibus. Etiam vitae dolor ut tortor consectetur ultrices eu eget nisi. Cras neque massa, vestibulum id purus nec, aliquam molestie dolor. Vivamus sollicitudin, orci ut bibendum viverra, quam felis viverra purus, ut consectetur diam turpis quis eros.
+This internship at the Walter and Eliza Hall Institute of Medical Research (WEHI) focused on enhancing the Student Intern Organiser, a Flask-based web application. Our goal was to improve user experience through interactive visualisations and better data management tools.
 
-What we learned was ... maximus metus id erat pharetra facilisis. Nullam ac urna ultricies diam volutpat faucibus. Sed feugiat placerat est nec scelerisque. Aenean a nisl sit amet ligula gravida fermentum eget in purus. Praesent a dui quis diam bibendum convallis vel in lacus.
+We developed an intuitive dashboard with filtering options, enabling users to track student intake, monitor hours, and analyse trends. Key visualisations, including line graphs and bar charts, provided insights into student distribution and project involvement. We also improved coordinator tools and refined the synthetic dataset for better usability.
+
+Challenges included initially over-focusing on technical details, Git repository management issues, and communication gaps within the team. These were resolved by engaging with our supervisor, refining workflow practices, and improving collaboration through regular updates and discussions.
+
+Key learnings included the importance of clear communication, structured documentation, and proactive problem-solving. We also developed teamwork skills, learned to balance independent work with seeking guidance, and understood the value of high-level planning before diving into technical tasks.
+
+Future improvements could include additional data visualisations, predictive analytics, optimised data export formats, and enhanced mobile responsiveness. Exploring front-end libraries like React.js could further enhance the dashboard’s usability.
+
+This internship provided valuable experience in data visualisation, software development, and teamwork. Overcoming challenges and refining our approach helped us develop crucial problem-solving and communication skills that will benefit future projects.
+
 
 ## Key links
-- Final presentation slides (if supervisor agrees)
-- Final presentation video (if supervisor agrees)
-- GitHub repos
-- Technical Diary
+- [Final presentation slides](https://wehieduau.sharepoint.com/:p:/r/sites/StudentInternGroupatWEHI/_layouts/15/Doc.aspx?sourcedoc=%7BE43AD54C-4B1E-4103-9496-A8B8B00FEE1E%7D&file=Student%20Organiser%20Data%20Viz%20Final%20Presentation.pptx&action=edit&mobileredirect=true)
+- [Final presentation video](https://wehieduau.sharepoint.com/sites/StudentInternGroupatWEHI/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FStudentInternGroupatWEHI%2FShared%20Documents%2FStudent%20Organiser%2FTechnical%20Notes%20Summer%202024%202025%2FStudent%20Organiser%20Data%20Viz&viewid=afd55542%2D8e3a%2D4327%2D95f9%2D63450ae10d2a))
+- [GitHub repos](https://github.com/WEHI-RCPStudentInternship/student-intern-organiser)
+- [Technical Diary](https://wehieduau.sharepoint.com/sites/StudentInternGroupatWEHI/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FStudentInternGroupatWEHI%2FShared%20Documents%2FStudent%20Organiser%2FTechnical%20Notes%20Summer%202024%202025%2FStudent%20Organiser%20Data%20Viz&viewid=afd55542%2D8e3a%2D4327%2D95f9%2D63450ae10d2a)
 - Weekly Progress
 - Project Management Tools
 - 
