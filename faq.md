@@ -104,6 +104,17 @@ Yes, that is correct.
 
 As it is remote, we are very flexible but there are times when we do get together, such as the weekly project meeting. This is explained in [the Student Internship Handbook](https://figshare.com/articles/presentation/Research_Computing_Platform_Student_Internship_Handbook/21259467).
 
+## How can I find out more about the Whiteboard Presentation in Week 4?
+
+- Keep it informal and treat the whiteboard session like an on-the-spot interview question, without pre-prepared materials.  
+- Sketch out the high-level problem on the whiteboard in front of your supervisors.  
+- Use big, simple boxes to keep it clear and uncluttered.  
+- Expect questions as supervisors will ask why the problem exists and how it impacts researchers.  
+- Explain your contributions to outline how you plan to contribute and what approaches you'll take.  
+- Refine the problem statement on the virtual whiteboard until your supervisors are satisfied.
+- Ask your questions in the daily standup.
+
+
 ## I need to use storage and compute. What are my options?
 
 We have a few options at WEHI for storage and compute.
