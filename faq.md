@@ -112,6 +112,7 @@ As it is remote, we are very flexible but there are times when we do get togethe
 - Expect questions as supervisors will ask why the problem exists and how it impacts researchers.  
 - Explain your contributions to outline how you plan to contribute and what approaches you'll take.  
 - Refine the problem statement on the virtual whiteboard until your supervisors are satisfied.
+- This will be done in your weekly project meeting.
 - Ask your questions in the daily standup.
 
 
