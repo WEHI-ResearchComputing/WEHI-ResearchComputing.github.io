@@ -106,7 +106,8 @@ As it is remote, we are very flexible but there are times when we do get togethe
 
 ## How can I find out more about the Whiteboard Presentation in Week 4?
 
-- Keep it informal and treat the whiteboard session like an on-the-spot interview question, without pre-prepared materials.  
+- Keep it informal and treat the whiteboard session like an on-the-spot interview question, without pre-prepared materials.
+- It will last around 10 to 15 minutes maximum.
 - Sketch out the high-level problem on the whiteboard in front of your supervisors.  
 - Use big, simple boxes to keep it clear and uncluttered.  
 - Expect questions as supervisors will ask why the problem exists and how it impacts researchers.  
