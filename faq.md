@@ -116,6 +116,7 @@ As it is remote, we are very flexible but there are times when we do get togethe
 - Refine the problem statement on the virtual whiteboard until your supervisors are satisfied.
 - This will be done in your weekly project meeting.
 - Ask your questions in the daily standup.
+- Here is an [example of a whiteboard presentation (need WEHI-wide Teams access)](https://wehieduau.sharepoint.com/:v:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Clinical%20Dashboards/Other%20Presentations/2024-03%20Clinical%20Dashboards%20Whiteboard%20presentation.mp4?csf=1&web=1&e=pM3YDI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 ## I need to use storage and compute. What are my options?
