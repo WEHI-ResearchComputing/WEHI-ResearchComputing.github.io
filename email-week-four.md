@@ -12,7 +12,7 @@ Many students ask their supervisor questions that could be easily solved within 
 
 ## Goals for the week
 
-1. Draw up the high-level problem on the whiteboard in front of your supervisor(s). They will ask you questions to see how well you know WHY the problem exists and WHY it causes researchers problems. 
+1. Draw up the high-level problem on the whiteboard in front of your supervisor(s). They will ask you questions to see how well you know WHY the problem exists and WHY it causes researchers problems. You can find out more in [the FAQ about the whiteboard presentation](https://wehi-researchcomputing.github.io/faq#how-can-i-find-out-more-about-the-whiteboard-presentation-in-week-4).
 2. If you pass, you will get permission to reach out to stakeholders and SMEs to setup a time to meet them in week 5. You will be provided with emails and asked to reach out to them to organise a time and day for the next week or two to meet with them. As part of this email, you will need to write down some questions to give them an idea of what you are going to ask them.
 
 You can see the full list in [the key milestones and onboarding emails page](emails-and-key-milestones).
