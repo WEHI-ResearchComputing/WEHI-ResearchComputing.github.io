@@ -285,6 +285,6 @@ The one page project summary audience is for myself and potential researchers wh
 
 For your final presentation – please make sure you have an acknowledgement slide and show the slides to your supervisor before your final presentation. [A good example of a set of slides is here.](https://wehieduau-my.sharepoint.com/:p:/g/personal/mosbergen_r_wehi_edu_au/EQ86ovGJSaVLoShy8rfccNcB7No-xe-nm6bcV8hTbGG6Kw?e=OrgXcI) And [here is another final student presentation example, although it is a little long.](https://figshare.com/articles/presentation/Clinical_Dashboards_Presentation_Summer_2022_2023_pdf/22337044).
 
-The audience for the presentation is for future students and for researchers who might be interested in understanding what you have done from a high level point of view, but can easily look at the wiki to find out more.
+The audience for the presentation is for future students and for researchers who might be interested in understanding what you have done from a high level point of view, but can easily look at the summary report online to find out more.
 
 Maximum time for the presentation is 15 to 20 minutes.
