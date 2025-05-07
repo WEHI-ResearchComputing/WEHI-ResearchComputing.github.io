@@ -268,6 +268,17 @@ You can confirm the breaks via [the Public and WEHI holidays on Catalyst](https:
 
 The final presentation and summary report are due on the last week of the internship. They are usually done at the same time as the regular weekly project meeting. It is important to provide an early draft and a late draft to your supervisors for both the final presentation and the summary report. The early draft is to make sure you are on the right track, and the late draft is to polish things. Please put them into Teams Files / Sharepoint so that they can be commented on directly by your supervisors. 
 
+Things to put into your final presentation:
+- Introduce yourselves
+- Explain the high level problem
+- Provide an overview of tools and technology you used eg. Python, R, Docker
+- Provide an overview of your architecture (if you built something)
+- Show what each person did in the group and what you learned
+- As a group tell us what you liked about the internship
+- As a group make suggestions to improve the intern experience
+- Make suggestions on what you would have liked to do next
+- Acknowledgements page with a list of previous interns
+
 We create a single document for all summary reports to be filed together. You will be sent a link to this Github web page when it is ready.
 
 The one page project summary audience is for myself and potential researchers who want to understand what you have done from a high level point of view, but can easily click on links to get to the technical detail / reports / visualisations. The one page summary should be handed in before the presentation or before the internship finishes.
