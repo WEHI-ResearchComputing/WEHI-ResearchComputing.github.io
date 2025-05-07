@@ -268,6 +268,8 @@ You can confirm the breaks via [the Public and WEHI holidays on Catalyst](https:
 
 The final presentation and summary report are due on the last week of the internship. They are usually done at the same time as the regular weekly project meeting. It is important to provide an early draft and a late draft to your supervisors for both the final presentation and the summary report. The early draft is to make sure you are on the right track, and the late draft is to polish things. Please put them into Teams Files / Sharepoint so that they can be commented on directly by your supervisors. 
 
+The final presentation is a high level overview of what you did, what you learned, and how someone can know how to continue your work even if they haven't done this before.
+
 Things to put into your final presentation:
 - Introduce yourselves
 - Explain the high level problem
