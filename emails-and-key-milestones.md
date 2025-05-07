@@ -33,9 +33,8 @@ The key milestones are:
 To find out actual dates for your intake, go to [the Student intake dates page](intake_dates).
 
 1. Share practice presentation,
-2. Finalise the onboarding page on the wiki,
-3. Practice presentation in the weekly project meeting, and
-4. Submit one page summary report.
+2. Practice presentation in the weekly project meeting, and
+3. Submit a pull request for the summary report.
 
 ## Last week 
 
