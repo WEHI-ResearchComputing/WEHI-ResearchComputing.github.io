@@ -8,7 +8,7 @@ This is the list of projects for this intake. Here you will see:
 - Links to other documentation, such as technical diary and other project documentation
 - Links to the project management tool with the tasks shown
 
-
+These reports are written by the group to help share information to future interns and interested parties.
 
 # REDMANE Data / Clinical Dashboards
 
