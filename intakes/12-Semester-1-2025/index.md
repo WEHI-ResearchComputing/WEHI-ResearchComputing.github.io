@@ -10,6 +10,8 @@ This is the list of projects for this intake. Here you will see:
 
 These reports are written by the group to help share information to future interns and interested parties.
 
+For more examples, see the [Intake 11 - Summary Report Page](https://wehi-researchcomputing.github.io/intakes/11-Summer-2024-2025/)
+
 # REDMANE Data / Clinical Dashboards
 
 The challenge that we were trying to solve was ...
