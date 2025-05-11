@@ -2,7 +2,7 @@
 
 This page allows you to have a look at all the internship projects offered at WEHI.
 
-## Semester 1 2025 Projects 
+## Semester 2 2025 Projects 
 
 ### AIVE - Research Software / Articifical Intelligence
 The project would involve a series of stages to bring the software infrastructure to a level that will help with development in a complex research environment where currently only 2 people in the world know the software.  For more details see the [AIVE project](student-aive) and [the AIVE public wiki](https://github.com/MitochondRuna/AIVE-Intro/wiki).
@@ -23,16 +23,14 @@ This project helps the Genomics lab  streamline quality control plot generation 
 ### Data Commons / REDMANE - Research - Full-Stack Web Developer, Data Engineering
 This project aims to create a proof-of-concept for a Data Lakehouse / Data Commons at WEHI. For more details see [Introduction to REDMANE](https://www.canva.com/design/DAGblemAUC0/DJfOcOWjcSxjpuqAwLIUcw/view?utm_content=DAGblemAUC0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5673c27e7b), [Data Lakehouse / Data Commons project](student-data-commons) and the [Data Commons Wiki](https://github.com/WEHI-ResearchComputing/data-commons/wiki).
 
-### Clinical Dashboards - Research - Data Analytics, Full-Stack Web Developer, or Data Engineering
-This project helps to setup foundational infrastructure for adding visualisation dashboards for clinically-adjacent data. For more details see [Clinical Dashboards project.](student-clinical-dashboards), the [Extract PDF Wiki](https://github.com/Clinical-Informatics-Collaborative/pdf-extraction-clinical-reports/wiki), and the [Clinical Dashboards Wiki](https://github.com/Clinical-Informatics-Collaborative/clinical_dashboards/wiki).
-
 ### Student Organiser - Full-Stack Web Developer
 This project aims to improve [the web application](https://github.com/WEHI-ResearchComputing/student-intern-organiser) that WEHI RCP uses to help streamline the recruitment of students for the internship program. For more details [read the student organiser project.](student-organiser)
 
 
 ## Potential Projects that are dependent on various factors
 
-
+### Clinical Dashboards - Research - Data Analytics, Full-Stack Web Developer, or Data Engineering
+This project helps to setup foundational infrastructure for adding visualisation dashboards for clinically-adjacent data. For more details see [Clinical Dashboards project.](student-clinical-dashboards), the [Extract PDF Wiki](https://github.com/Clinical-Informatics-Collaborative/pdf-extraction-clinical-reports/wiki), and the [Clinical Dashboards Wiki](https://github.com/Clinical-Informatics-Collaborative/clinical_dashboards/wiki).
 
 ### Genomics Metadata Multiplexing - Research - Data Engineering, Full-Stack Web Developer, or Software Engineering
 This project helps to setup infrastructure to keep track of what happens to a sample once it reaches the Genomics Facility. For more details see [Genomics Metadata Multiplexing project.](student-genomics-metadata.md) and the [Genomics Metadata Multiplexing Wiki](https://github.com/WEHI-ResearchComputing/Genomics-Metadata-Multiplexing/wiki) 
