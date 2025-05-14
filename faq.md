@@ -279,7 +279,7 @@ Things to put into your final presentation:
 - Show what each person did in the group and what you learned
 - As a group tell us what you liked about the internship
 - As a group make suggestions to improve the intern experience
-- Make suggestions on what you would have liked to do next
+- Make suggestions on what you would have liked to do next if you had more time
 - Acknowledgements page with a list of previous interns
 
 We create a single document for all summary reports to be filed together. You will be sent a link to this Github web page when it is ready.
