@@ -271,6 +271,7 @@ The final presentation and summary report are due on the last week of the intern
 The final presentation is a high level overview of what you did, what you learned, and how someone can know how to continue your work even if they haven't done this before.
 
 Things to put into your final presentation:
+- Acknowledgement of Country
 - Introduce yourselves
 - Explain the high level problem
 - Provide an overview of tools and technology you used eg. Python, R, Docker
