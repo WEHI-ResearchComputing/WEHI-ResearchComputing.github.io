@@ -60,4 +60,4 @@ The benefits for students whilst undertaking the internship include:
 
 
 ## Further reading
-- A wiki will be created soon
+- [Public wiki for AIVE](https://github.com/MitochondRuna/AIVE-Intro/wiki)
