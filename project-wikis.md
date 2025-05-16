@@ -5,7 +5,7 @@ This page allows you to have a look at all the internship projects offered at WE
 ## Semester 2 2025 Projects 
 
 ### AIVE - Research Software / Articifical Intelligence
-The project would involve a series of stages to bring the software infrastructure to a level that will help with development in a complex research environment where currently only 2 people in the world know the software.  For more details see the [AIVE project](student-aive) and [the AIVE public wiki](https://github.com/MitochondRuna/AIVE-Intro/wiki).
+The project would involve a series of stages to bring the software infrastructure to a level that will help with development in a complex research environment where currently only a few people in the world know the software.  For more details see the [AIVE project](student-aive) and [the AIVE public wiki](https://github.com/MitochondRuna/AIVE-Intro/wiki).
 
 ### BioNix - Research Software  
 This project helps with reproducibility in the field of Bioinformatics. For more details see [BioNix project](student-bionix) and the [BioNix Getting Started Wiki](https://github.com/WEHI-ResearchComputing/BioNix-GettingStarted/wiki).
