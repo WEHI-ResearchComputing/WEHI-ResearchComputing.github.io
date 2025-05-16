@@ -23,8 +23,20 @@ This project helps the Genomics lab  streamline quality control plot generation 
 ### Data Commons / REDMANE - Research - Full-Stack Web Developer, Data Engineering
 This project aims to create a proof-of-concept for a Data Lakehouse / Data Commons at WEHI. For more details see [Introduction to REDMANE](https://www.canva.com/design/DAGblemAUC0/DJfOcOWjcSxjpuqAwLIUcw/view?utm_content=DAGblemAUC0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5673c27e7b), [Data Lakehouse / Data Commons project](student-data-commons) and the [Data Commons Wiki](https://github.com/WEHI-ResearchComputing/data-commons/wiki).
 
+Key tasks for REDMANE - Semester 2 2025 include:
+1. Aim to finalise the demo environment including data and web services
+2. Improve the data registry web application 
+3. Setup authentication on the data registry and data portals
+4. Try federated learning scenarios in conjunction with REDMANE
+
 ### Student Organiser - Full-Stack Web Developer
-This project aims to improve [the web application](https://github.com/WEHI-ResearchComputing/student-intern-organiser) that WEHI RCP uses to help streamline the recruitment of students for the internship program. For more details [read the student organiser project.](student-organiser)
+This project aims to improve [the web application](https://github.com/WEHI-ResearchComputing/student-intern-organiser) that WEHI RCP uses to help streamline the recruitment of students for the internship program. For more details [read the student organiser project.](student-organiser) 
+
+Key tasks for Student Organiser - Semester 2 2025 include:
+1. Create an easy way to generate Individual Learning Plans for all interns
+2. Improve and update emails
+3. Key reporting queries
+4. PDF coding
 
 
 ## Potential Projects that are dependent on various factors
