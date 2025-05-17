@@ -32,7 +32,7 @@ We mainly work with projects that use R and Shiny, Python, Julia, bash, while al
 Here are some of the [recurring student intern projects and new projects we are working on](project-wikis).
 
 <a href="project-wikis" 
-   style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 40%; margin-bottom: 24px; text-align: center;">
+   style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
    View list of projects
 </a>
 <div style="clear:both"></div>
@@ -42,7 +42,7 @@ Here are some of the [recurring student intern projects and new projects we are 
 Here are some of the [previous student intern reports](intakes/).
 
 <a href="intakes/" 
-   style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 40%; margin-bottom: 24px; text-align: center;">
+   style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
    Previous Intern Reports
 </a>
 <div style="clear:both"></div>
@@ -52,7 +52,7 @@ Here are some of the [previous student intern reports](intakes/).
 Sometimes, we are in contact with students who cannot get course credit and are extremely keen to volunteer as an open source software contributor. In these situations, we have to be careful we do not act in an exploitative way. This is why [we have written our expectations of potential open source contributors to make the expectations more transparent](/expectations_open_source_contributors). 
 
 <a href="expectations_open_source_contributors" 
-   style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 40%; margin-bottom: 24px; text-align: center;">
+   style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
    Want to volunteer?
 </a>
 <div style="clear:both"></div>
@@ -73,7 +73,7 @@ You can listen to two students talk about their projects (click image below).
 - Further details on [how to apply are here](how-to-apply).
 
 <a href="how-to-apply" 
-   style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 40%; margin-bottom: 24px; text-align: center;">
+   style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
    How to Apply
 </a>
 <div style="clear:both"></div>
