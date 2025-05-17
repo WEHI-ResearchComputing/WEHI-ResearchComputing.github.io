@@ -31,6 +31,8 @@ We mainly work with projects that use R and Shiny, Python, Julia, bash, while al
 
 Here are some of the [recurring student intern projects and new projects we are working on](project-wikis).
 
+<a class="highlight" href="project-wikis">Look at the current and previous intern projects</a>
+
 ### List of previous student intern project reports
 
 Here are some of the [previous student intern reports](intakes/).
