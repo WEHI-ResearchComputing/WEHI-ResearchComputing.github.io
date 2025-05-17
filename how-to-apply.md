@@ -2,14 +2,18 @@
 
 Due to the volume of students now applying to this internship, to be eligible you must [fill out the RCP Student Internship Enrollment form](https://redcap.wehi.edu.au/surveys/?s=AMYXK9FFHXR9LE9T). 
 
-You can see the [intake dates here](intake_dates).
-
-This is because we now need to streamline our applications and ensure no students are missed in the application process. To do this we need to move from a a manual process to this more automated process. We appreciate that there may be some confusion but any applicants will be redirected to this form as it takes precedence over any other application method. 
+Please provide a resume and cover letter.
 
 
 ## Key Questions you should answer in the cover letter
 
-We suggest that you write a 1 page cover letter introducing yourself. We also have [material on how to write a good cover letter and what to look for when you are writing a resume](https://doi.org/10.6084/m9.figshare.21057535.v2). 
+We suggest that you write a 1 page cover letter introducing yourself. We also have [material on how to write a good cover letter and what to look for when you are writing a resume](https://doi.org/10.6084/m9.figshare.21057535.v2).
+
+<a href="https://redcap.wehi.edu.au/surveys/?s=AMYXK9FFHXR9LE9T" 
+   style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
+   Intern Enrollment Form
+</a>
+<div style="clear:both"></div>
 
 ## Need more information
 
