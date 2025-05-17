@@ -1,6 +1,6 @@
 # How to Apply
 
-Due to the volume of students now applying to this internship, to be eligible you must [fill out the RCP Student Internship Enrollment form](https://redcap.wehi.edu.au/surveys/?s=AMYXK9FFHXR9LE9T). 
+Due to the volume of students now applying to this internship, to be eligible you must fill out the RCP Student Internship Enrollment form. 
 
 Please provide a resume and cover letter.
 
