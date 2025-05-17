@@ -33,7 +33,7 @@ Here are some of the [recurring student intern projects and new projects we are 
 
 <a href="project-wikis" 
    style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 40%; margin-bottom: 24px; text-align: center;">
-   View list of current and previous intern projects
+   View list of projects
 </a>
 <div style="clear:both"></div>
 
@@ -41,10 +41,21 @@ Here are some of the [recurring student intern projects and new projects we are 
 
 Here are some of the [previous student intern reports](intakes/).
 
+<a href="intakes/" 
+   style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 40%; margin-bottom: 24px; text-align: center;">
+   Previous Intern Reports
+</a>
+<div style="clear:both"></div>
 
 ## Open source contributors
 
 Sometimes, we are in contact with students who cannot get course credit and are extremely keen to volunteer as an open source software contributor. In these situations, we have to be careful we do not act in an exploitative way. This is why [we have written our expectations of potential open source contributors to make the expectations more transparent](/expectations_open_source_contributors). 
+
+<a href="expectations_open_source_contributors" 
+   style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 40%; margin-bottom: 24px; text-align: center;">
+   Want to volunteer?
+</a>
+<div style="clear:both"></div>
 
 ## Hear from previous students
 
@@ -52,24 +63,27 @@ You can listen to two students talk about their projects (click image below).
 
 [![Symposium image of four people on a virtual call](/assets/symposium.jpeg){:width="400px"}](https://www.youtube.com/watch?v=QVMrIFLXOFw)
 
-## Key Documents to review and FAQ
-
-To understand more about the program, you can read:
-- the [RCP Student Internship Program Handbook](https://figshare.com/articles/presentation/Research_Computing_Platform_Student_Internship_Handbook/21259467),
-- the [RCP Code of Conduct](/code-of-conduct),
-- the [Social Media Policy for student interns](social_media_policy),
-- the [Annual Report RCP Discovery Internship Program 2025](/assets/Annual_Report_RCP_Discovery_Internship_Program_2025.pdf)
-- the [online FAQ](faq), and
-- the [key milestones and emails for the projects](emails-and-key-milestones)
-
-
 
 ## How to Apply
 
-- We suggest that you write a 1 page cover letter introducing yourself. We also have [material on how to write a good cover letter and what to look for when you are writing a resume](https://doi.org/10.6084/m9.figshare.21057535.v2).
-- View the [intake dates here](intake_dates) 
+- Read the [RCP Student Internship Program Handbook](https://figshare.com/articles/presentation/Research_Computing_Platform_Student_Internship_Handbook/21259467),
+- Read the [intake dates here](intake_dates)
+- Read the [RCP Code of Conduct](/code-of-conduct),
+- Read the [Social Media Policy for student interns](social_media_policy),
 - Further details on [how to apply are here](how-to-apply).
 
+<a href="how-to-apply" 
+   style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 40%; margin-bottom: 24px; text-align: center;">
+   How to Apply
+</a>
+<div style="clear:both"></div>
+
+## Other Information
+
+Here is more information about the internship program:
+- the [key milestones and emails for the projects](emails-and-key-milestones)
+- the [Annual Report RCP Discovery Internship Program 2025](/assets/Annual_Report_RCP_Discovery_Internship_Program_2025.pdf)
+- the [online FAQ](faq)
 
 ## To make changes to this website
 
