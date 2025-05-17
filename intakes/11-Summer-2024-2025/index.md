@@ -25,7 +25,8 @@ Not only did we learn about methods for generating synthetic clinical data, but 
 - [Synthetic Clinical Metadata](https://wehieduau.sharepoint.com/:u:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Clinical%20Dashboards/2025%20Summer/Finalised%20Dataset/sampled_clinical_data.tsv?csf=1&web=1&e=OKrYwX)
 - [Data Transfer Agreement](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Clinical%20Dashboards/2025%20Summer/Data%20transfer%20agreement.docx?d=wd1c5e1623f0947469fd0cbc0297010b6&csf=1&web=1&e=nIDFHH)
 - [Our Early High Level Understanding](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Clinical%20Dashboards/2025%20Summer/Jordan%27s%20Understanding.docx?d=wf77f1ae9648b43559146572142039c8c&csf=1&web=1&e=FiVAIM)
-- [Weekly Updates]([https://wehieduau.sharepoint.com/:f:/s/StudentInternGroupatWEHI/Evmt-NPbZ09Lq7WXyYhKohsBdIVREOYRZ2ujDZ1Td6K3HA?e=OtLmDL](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/_layouts/15/Doc.aspx?sourcedoc=%7B86A2D5F1-8DC5-4272-9ABB-77625B1B79A4%7D&file=Weekly%20Email%20Template.docx&action=default&mobileredirect=true)
+- [Weekly Updates]([https://wehieduau.sharepoint.com/:f:/s/StudentInternGroupatWEHI/Evmt-NPbZ09Lq7WXyYhKohsBdIVREOYRZ2ujDZ1Td6K3HA?e=OtLmDL)
+- [Weekly Email Templates](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/_layouts/15/Doc.aspx?sourcedoc=%7B86A2D5F1-8DC5-4272-9ABB-77625B1B79A4%7D&file=Weekly%20Email%20Template.docx&action=default&mobileredirect=true)
 
 
 # REDMANE Data Ingestion
@@ -222,19 +223,6 @@ This internship provided valuable experience in data visualisation, software dev
 
 # REDMANE Capacity Planning (not finalised)
 
-The challenge that we were trying to solve was ... ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet turpis lacus. Morbi a risus sed nunc venenatis vehicula sed sit amet tortor. Integer leo metus, scelerisque quis gravida quis, laoreet sed nisl. Duis lacus diam, dapibus id orci nec, pellentesque sollicitudin arcu. Vestibulum auctor nec velit sit amet ornare.
-
-The way we tried to solve this was ... lorem mauris, ut suscipit dui porta at. Aenean elementum risus vel interdum condimentum. Nunc massa turpis, bibendum in leo vitae, dapibus cursus urna. Integer placerat lacinia finibus. Etiam vitae dolor ut tortor consectetur ultrices eu eget nisi. Cras neque massa, vestibulum id purus nec, aliquam molestie dolor. Vivamus sollicitudin, orci ut bibendum viverra, quam felis viverra purus, ut consectetur diam turpis quis eros.
-
-What we learned was ... maximus metus id erat pharetra facilisis. Nullam ac urna ultricies diam volutpat faucibus. Sed feugiat placerat est nec scelerisque. Aenean a nisl sit amet ligula gravida fermentum eget in purus. Praesent a dui quis diam bibendum convallis vel in lacus.
-
-## Key links
-- Final presentation slides (if supervisor agrees)
-- Final presentation video (if supervisor agrees)
-- GitHub repos
-- Technical Diary
-- Weekly Progress
-- Project Management Tools
 
 # To update this file
 
