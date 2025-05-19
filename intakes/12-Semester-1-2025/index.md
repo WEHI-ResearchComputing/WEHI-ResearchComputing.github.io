@@ -63,20 +63,45 @@ What we learned through this process ...
 
 # Duplex Sequencing
 
-The challenge that we were trying to solve was ...
+The challenge that we were trying to solve was to streamline an existing pipeline to support the visualisation of Duplex Sequencing metrics, specifically using E.coli K12 data as a case study. This involved several key challenges:  
+Streamlining existing pipelines to reduce complexity, improve maintainability, and support reproducible QC reporting.
+Integrating external R scripts that were under a GPL license into the pipeline which is under an MIT licence.
+Maintaining flexibility to allow researchers to incorporate desired specialised metrics into the final report.
 
-The way we tried to solve this was ...
+The way we tried to solve this was …
+Modularising the pipeline by splitting the current pipeline into more manageable steps, the R scripts to undergo the calculations and the MultiQC plugin to output plots:
+R-script: 
+Separating the R code into scripts allowed us to process the rinfo files and produce a long-format output that can be easily consumed in downstream reporting such as MultiQC. To address licensing issues, we containerised the rscripts using Docker. This ensures the NanoSeq code remains encapsulated and allows future users to interact with the container without needing to modify the R codes. 
+MultiQC:
+Creating a MultiQC plugin enables the generation of MultiQC plots from summary data, but also facilitates the creation of custom plots using more specialised duplex specific metrics. The MultiQC plugin was created using Seqera documentation and Python. 
 
-What we learned through this process ...
+What we learned through this process …
+Communicating with team members and checking in with supervisors is really important to make sure your project is on track.
+How to create and run containers and use Multiqc and create Multiqc plugin
+How to break down complicated and ambiguous tasks into simple and manageable components. This helped with the overall development. 
 
+Key links
+Links to the final presentation slides and/or video for the project
+Final Presentation Duplex Sequencing Project.pptx
+Links to the github repos that were part of this project
+Multiqc and my_module.py: https://github.com/rachel610/MultiQC/tree/development/multiqc
+DuplexSequencingProject: https://github.com/azlan2003/DuplexSequencingProject/tree/main
+Duplex Sequencing Snakemake Pipeline: 
+https://github.com/WEHIGenomicsRnD/duplex-seq-pipeline 
+G000204_duplex:
+https://github.com/WEHIGenomicsRnD/G000204_duplex 
+Links to the data needed to run the software
+DuplexMetricsProject - OneDrive
+Links to other documentation, such as technical diary and other project documentation
+[Duplex Sequencing Plugin Student Intern Project](https://wehi-researchcomputing.github.io/student-duplex-sequencing)
 
-## Key links
-- Links to the final presentation slides and/or video for the project
-- Links to the github repos that were part of this project
-- Links to the data needed to run the software
-- Links to other documentation, such as technical diary and other project documentation
-- Links to the project management tool with the tasks shown
+[Ecoli K12 Notebook](https://wehigenomicsrnd.github.io/G000204_duplex/ecoli_K12.html)
 
+[Technical Diary (Kevin)](https://docs.google.com/document/d/1ZG3tf5Uxw9GY_c4Gl9sx3Sw_4v1AWD-MM2sUOUgparw/edit?tab=t.0)
+
+[WEHI sharepoint folder](https://wehieduau.sharepoint.com/sites/StudentInternGroupatWEHI/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=csSHFK&CID=b8e7e010%2D3ec4%2D45d1%2Db4ef%2D1722864d7b33&FolderCTID=0x0120008FF8F20683AC284798EA496C639CC069&id=%2Fsites%2FStudentInternGroupatWEHI%2FShared%20Documents%2FDuplex%20Sequencing)
+
+[Pipeline Schematic](https://www.canva.com/design/DAGiIPIb1gY/rj2FNR1Vh1tDmmopFOAgvQ/edit?utm_content=DAGiIPIb1gY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 # AIVE
 
