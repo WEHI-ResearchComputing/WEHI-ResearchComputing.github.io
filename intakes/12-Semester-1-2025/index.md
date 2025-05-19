@@ -12,21 +12,76 @@ These reports are written by the group to help share information to future inter
 
 For more examples, see the [Intake 11 - Summary Report Page](https://wehi-researchcomputing.github.io/intakes/11-Summer-2024-2025/)
 
-# REDMANE Data / Clinical Dashboards
+# **REDMANE Data / Clinical Dashboards**
 
-The challenge that we were trying to solve was ...
+Our team's work can be broken down into 2 main parts:
 
-The way we tried to solve this was ...
+### **Metadata generation for data ingestion**
 
-What we learned through this process ...
+*From the Summer 24/25 Data Ingestion Intake’s summary report: The challenge that we were trying to solve was ensuring that metadata uploaded to the REDMANE data registry and data portals were formatted in standardised ways. Different points of data ingestion required different metadata formats. Each data portal has its own specific format for metadata, and without a streamlined way to generate these metadata files, users would struggle to verify and upload their data correctly. This lack of consistency could lead to errors in data ingestion and disorganisation in REDMANE’s database.*
+
+More specifically, previous scripts could only work for the files associated with only one sample, so we needed to develop and modify scripts that can extract metadata for counts.csv/.tsv files, which are associated with multiple samples. 
+
+We solved the issue that the scripts cannot handle the counts.csv/.tsv files including multiple samples. First, we updated sample\_metadata.json from the previous intake to expand more sample ids to mimic the scenario where one patient has multiple samples. We generated 2 RNA-seq counts.csv datasets based on the mapping information in sample\_metadata.json. Second, we modified the scripts from the previous intake to suit the file types containing multiple samples (update\_local\_v1.py). At last, we optimized a script for HTML report generation, which is for the visual check on the format of Ro-Crate JSON file for data registry updates.
+
+### **Creating synthetic databases**
+
+Data management is the process of collecting, storing, organising, and using data in a structured manner to ensure accuracy, completeness, and security. It involves all aspects of managing data throughout its lifecycle, from creation to deletion or archiving. Essentially, it's about making sure data is accessible, reliable, and used effectively to support operations and decision-making.
+
+Data management becomes really difficult to achieve in a scenario where the research data is spread across multiple organisations, is multi-omics (genomics, transcriptomics, proteomics, and metabolomics) in nature, and is being published through different journals. To add more complexity to this, there are different versions/stages of the data files (raw, processed, summarised) throughout the data lifecycle, and ingesting the data into the essential workflows becomes all the more complex.  
+
+**RE**search **D**ata **M**anagement and **AN**alysis **E**nvironment (REDMANE) is a data management and analysis platform that was introduced to resolve these complex issues.
+
+REDMANE resolves these issues by having the following features:
+
+* Lightweight and flexible ecosystem  
+* Doesn't need organisational buy-in  
+* Cheaper to run than a full cloud solution  
+* Easily handles new data types  
+* Focused on importing information quickly and easily  
+* Single Sign On  
+* Can handle cross-organisation data easily
+
+REDMANE supports different types of datasets, for example, the Whole Genome Sequencing (WGS), Single Cell RNAseq, imaging dataset, and so on. 
+
+In this Summer 2025 intake, I narrowed down the problem space to creating an MVP to generate synthetic data for the different file types (raw, processed, and summarised) for the WGS dataset and creating a workflow to upload the corresponding metadata file to a synthetic data storage portal inspired from the cBioportal.
+
+Through this project, we learned the importance of clear communication, collaboration and a high-level understanding of the project before diving into the tasks through asking questions. By the end of the intake, we were more equipped to break down complex and ambiguous projects, maintain documentation and effective team coordination. We also gained an understanding about research workflows and data complexity, as well as how this affects users needs. 
+
+## **Key links**
+
+* [Final presentation slides](https://www.canva.com/design/DAGmk8jJWs8/McJQ3Z1PEb9-i0nG9tiXXw/edit).  
+* Github repositories:   
+  * [REDMANE metadata generator with rocrate](https://github.com/lara-pawar/REDMANE-metadata-generator-with-RO-Crate)  
+  * [Clinical Informatics Collaborative \- \`generatervis\`](https://github.com/Clinical-Informatics-Collaborative/generatervis)  
+  * [Clinical Informatics Collaborative \- data\_storage\_portal](https://github.com/Clinical-Informatics-Collaborative/data_storage_portal)  
+      
+* Technical Diary  
+  * [REDMANE Data Technical Notes](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2025%20Semester%201%20\(Data%20ingestion\)/REDMANE%20Data%20Technical%20Notes.docx?d=w69cc04a50ea4447182b37c3b7846f5f0&csf=1&web=1&e=nDJYhk)  
+  * [Team Weekly Notes](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2025%20Semester%201%20\(Data%20ingestion\)/REDMANE%20Data%20Semester%201%20-%20Weekly%20Notes.docx?d=w171d06a97ff449e2807c62ff8d098229&csf=1&web=1&e=egsLNO)  
+* [REDMANE Component Responsibility](https://wehieduau.sharepoint.com/:x:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2025%20Semester%201/REDMANE%20Component%20Responsibility.xlsx?d=wdcae9e112c724a00a9f18305cb56c86a&csf=1&web=1&e=eCZzx3)   
+* [REDMANE Document Registry](https://wehieduau.sharepoint.com/:x:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/REDMANE%20Document%20Registry.xlsx?d=w4b032f48c70f422eadc5fd1477500dc3&csf=1&web=1&e=de8A8Y)  
+* [Other useful links](https://wehieduau.sharepoint.com/:x:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2025%20Semester%201%20\(Data%20ingestion\)/Relevant_links.xlsx?d=w80a4cd823f5446c3abf121ffb7f2c13c&csf=1&web=1&e=DMo1Ie)
 
 
-## Key links
-- Links to the final presentation slides and/or video for the project
-- Links to the github repos that were part of this project
-- Links to the data needed to run the software
-- Links to other documentation, such as technical diary and other project documentation
-- Links to the project management tool with the tasks shown
+# **REDMANE Data Curation**
+
+The challenge we were trying to solve was how to make the process of navigating and curating complex medical data more intuitive and efficient for researchers. In medical research projects, a single patient can contribute to multiple datasets or projects, a sample may be linked to several files, and some files may not have a known dataset, often referred to as orphan files. These overlapping relationships between entities such as patients, samples, files, projects and datasets make it difficult to extract meaningful insights or organise information accurately.
+
+The way we tried to solve this was by designing a user-friendly wireframe prototype that supports dynamic filtering, personalised dataset creation, and better visibility into the relationships across data sources. The interface was created to help users easily select and organise data based on specific criteria, identify orphan files, and even generate new logical datasets across multiple existing ones. This design lays the foundation for an interactive data curation tool that helps researchers to manage complex datasets with clarity and control.
+
+We learned how complex medical data can be, especially when it spans across multiple projects, datasets, files, and collaborating organisations. Understanding the intricate relationships between these entities is essential, as improper data handling or mislabeling can significantly impact research outcomes, something that must be avoided in the medical field where accuracy is critical. We also recognised the importance of proper data curation practices to ensure integrity and usability.
+
+In addition, we learned how to collaborate effectively as a team, especially in remote settings where communication is often delayed and requires more effort. We developed skills in managing distributed teamwork, asking the right questions early, and staying aligned on goals. Specifically for this project, we learned how to shape and propose a solution even when the problem is not clearly defined, focusing instead on building a platform that supports and simplifies the user's workflow.
+
+## **Key links**
+
+* [Final presentation slides](https://www.canva.com/design/DAGmk8jJWs8/McJQ3Z1PEb9-i0nG9tiXXw/edit).  
+* Technical Diary  
+  * [REDMANE Data Technical Notes](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2025%20Semester%201%20\(Data%20ingestion\)/REDMANE%20Data%20Technical%20Notes.docx?d=w69cc04a50ea4447182b37c3b7846f5f0&csf=1&web=1&e=nDJYhk)  
+  * [Team Weekly Notes](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2025%20Semester%201%20\(Data%20ingestion\)/REDMANE%20Data%20Semester%201%20-%20Weekly%20Notes.docx?d=w171d06a97ff449e2807c62ff8d098229&csf=1&web=1&e=egsLNO)  
+  * [Data curation notes.](https://docs.google.com/document/d/1zOAC5G0brw4F6L3env3CkMxyvNpzRKb3wECMupytFjY/edit?usp=sharing)  
+  * [Data curation interfaces \- miro](https://miro.com/app/board/uXjVIChoK34=/?share_link_id=27653201771)
 
 # REDMANE Demo
 
