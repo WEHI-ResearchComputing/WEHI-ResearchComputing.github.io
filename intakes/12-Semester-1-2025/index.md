@@ -112,19 +112,36 @@ What we learned through this process ...
 
 # BioNix
 
-The challenge that we were trying to solve was ...
+The challenge that we were trying to solve was reproducibility issues in bioinformatics workflows, such that any two systems could produce the same output with the same input. Computing environments will rarely be equal amongst bioinformaticians, and so outputs on the same software will also tend differ between individuals. A multitude of factors can contribute to this – inclusive of (but not limited to) system configurations and dependency updates or version mismatch – and as such a solution calls for unification of workflows under one consistent environment umbrella. This is the BioNix project at its core, improving upon or otherwise reinforcing reproducibility in existing bioinformatics tools under Nix to maintain repeatable outputs.
 
-The way we tried to solve this was ...
+The way we tried to solve this was by utilising Nix, a declarative, functional package manager built from the ground up for reproducibility and reliability. In short, Nix ensures reproducibility by building packages using only the specified dependencies (and dependency versions) in complete isolation from each other. The main crux of our project focussed around the VIRUSBreakend software, more specifically, its dependencies of Kraken2 and RepeatMasker. We developed derivations of these dependencies in Nix, wrapping and shipping them to nixpkgs, an open-source repository of packages.
 
-What we learned through this process ...
+Through this process, we learned how to Nix, constructing wrappers for software that benefit greatly from reproducibility. We developed an appreciation for the high-level concepts and functions of the system, and were able to understand the importance of this knowledge when tackling difficult problems. We continuously faced open-source norms towards the end of the project, and so constructing a solid grasp on how we should tailor our work for integration into a public repository such as nixpkgs was also incredibly useful.
 
 
 ## Key links
-- Links to the final presentation slides and/or video for the project
-- Links to the github repos that were part of this project
-- Links to the data needed to run the software
-- Links to other documentation, such as technical diary and other project documentation
-- Links to the project management tool with the tasks shown
+- Final Presentation (to be added):
+  > Slides
+  >
+  > Video
+- Whiteboard Presentations:
+  > Sem 1 2025 (tba)
+  >
+  > [Sem 2 2024](https://wehieduau.sharepoint.com/sites/StudentInternGroupatWEHI/_layouts/15/stream.aspx?id=%2Fsites%2FStudentInternGroupatWEHI%2FShared%20Documents%2FBioNix%20Introduction%2FWhiteboard%20Presentation%20%2D%20BioNix%20%2D%20Semester%202%202024%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E6ee65d0f%2D3d96%2D4efe%2Db2cb%2D2eacaeb6aadb)
+- Repositories:
+  > [BioNix](https://github.com/PapenfussLab/bionix)
+  >
+  > [GRIDSS (VIRUSBreakend)](https://github.com/PapenfussLab/gridss)
+  >
+  > [nixpkgs](https://github.com/NixOS/nixpkgs)
+  >
+  > [Semester 1 2025 Intake Repository](https://github.com/cardealerT/intern_repo)
+- Previous Intake Presentations
+  > [Semester 2 2024](https://wehieduau.sharepoint.com/sites/StudentInternGroupatWEHI/_layouts/15/stream.aspx?id=%2Fsites%2FStudentInternGroupatWEHI%2FShared%20Documents%2FBioNix%20Introduction%2FFinal%20Presentation%20Semester%202%202024%20BioNix%2D20241008%5F093501%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E505ccfaf%2Dd8b4%2D4628%2Dbb4d%2D5f6b1a904041)
+  >
+  > [Summer 2023-2024](https://wehieduau.sharepoint.com/sites/StudentInternGroupatWEHI/_layouts/15/stream.aspx?id=%2Fsites%2FStudentInternGroupatWEHI%2FShared%20Documents%2FBioNix%20Introduction%2FFinal%20Presentation%20Summer%202022%202023%20BioNix%20Lezhou%20and%20Daniel%20Student%20Presentations%2D20230223%5F123238%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E379ee374%2Dcc29%2D469b%2Da378%2Dc9ce638fc541)
+  >
+  > [Semester 2 2022](https://wehieduau.sharepoint.com/sites/StudentInternGroupatWEHI/_layouts/15/stream.aspx?id=%2Fsites%2FStudentInternGroupatWEHI%2FShared%20Documents%2FBioNix%20Introduction%2FFinal%20Presentation%20Semester%202%202022%20BioNix%20Kai%20Bing%20Bionix%20Student%20Presentations%2D20221124%5F142758%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E3beced9b%2Dfe48%2D438d%2Dbbb1%2D5fb93c9d35f2)
 
 # Student Organiser
 
