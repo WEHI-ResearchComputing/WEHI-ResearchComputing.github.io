@@ -50,7 +50,8 @@ Through this project, we learned the importance of clear communication, collabor
 
 ## **Key links**
 
-* [Final presentation slides](https://www.canva.com/design/DAGmk8jJWs8/McJQ3Z1PEb9-i0nG9tiXXw/edit).  
+* [Final presentation slides](https://www.canva.com/design/DAGmk8jJWs8/McJQ3Z1PEb9-i0nG9tiXXw/edit).
+* [Final presentation video](https://wehieduau-my.sharepoint.com/:v:/g/personal/mosbergen_r_wehi_edu_au/Eb23Na3dmCRKtY_jc2NRu6YBpDs7VFKkqrNKXxjKgCYmsg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=feUsNv)  
 * Github repositories:   
   * [REDMANE metadata generator with rocrate](https://github.com/lara-pawar/REDMANE-metadata-generator-with-RO-Crate)  
   * [Clinical Informatics Collaborative \- \`generatervis\`](https://github.com/Clinical-Informatics-Collaborative/generatervis)  
