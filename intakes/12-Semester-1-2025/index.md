@@ -227,7 +227,7 @@ We have learned how to build a versatile architecture by making each of layer of
 ## Key links
 **Final Presentation:** 
 - [2024/25 Summer Intake Final Presentation](https://wehieduau.sharepoint.com/sites/StudentInternGroupatWEHI/_layouts/15/stream.aspx?id=%2Fsites%2FStudentInternGroupatWEHI%2FShared%20Documents%2FStudent%20Organiser%2FFinal%20Presentation%20RAG%20LLM%2020250218%5F093045%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ecec5ab88%2D2105%2D48e6%2Dbe92%2Ddd10e9901451)
-- [2025 Semester 1 Intake Final Presentation]
+- [2025 Semester 1 Intake Final Presentation Video](https://wehieduau-my.sharepoint.com/:v:/g/personal/mosbergen_r_wehi_edu_au/EfqzC8Fi33BDomqAP_A1AQABWLoqyuCT3e18tYLZt6FNSA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=MyeMLz)
 - [2025 Semester 1 Intake Final Presentation Slides](https://wehieduau.sharepoint.com/:p:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/RAG%20LLM/2025%20Semester%201%20Intake/Final%20Presentation.pptx?d=wbd487bc7223d457481261d6409e5895f&csf=1&web=1&e=7cia1Q)
 
 **Github:** 
