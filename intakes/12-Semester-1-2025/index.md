@@ -86,19 +86,25 @@ In addition, we learned how to collaborate effectively as a team, especially in 
 
 # REDMANE Demo
 
-The challenge that we were trying to solve was ...
+REDMANE Demo and Quality
+The objective was to assess the REDMANE demo setup to identify which components were operational and which required fixes. The environment spanned five virtual machines, each hosting components like the data registry, OMERO, cBioPortal, and authentication services. Ensuring consistent configuration and accessibility was crucial for maintaining a stable testing environment.
 
-The way we tried to solve this was ...
+The team reviewed six key components, focusing on service accessibility, configuration, and operational status. While some services were functional, others had issues such as missing SSL, incomplete database setups, and failed startups.
 
-What we learned through this process ...
+To address these issues, UptimeRobot was implemented to monitor service status in real time. A public dashboard was created for ongoing monitoring and quick issue detection.
+
+Testing involved synthetic datasets, including Whole Genome Sequencing (WGS) data and OMERO image data, exposing further configuration conflicts in Docker and Nginx. The Docker setup was adjusted to resolve port conflicts, and Nginx was reconfigured to handle SSL connections more effectively, improving security and data transfer reliability.
+The review process underscored the importance of maintaining clear documentation, particularly when multiple teams were involved in deploying and testing components across shared VMs. Creating a centralized dashboard provided a single reference point for service status, improving coordination and reducing troubleshooting time.
 
 
 ## Key links
-- Links to the final presentation slides and/or video for the project
-- Links to the github repos that were part of this project
-- Links to the data needed to run the software
-- Links to other documentation, such as technical diary and other project documentation
-- Links to the project management tool with the tasks shown
+- [Synthetic WGS Data Creation](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2025%20Semester%201%20Demo/Synthetic%20wgs%20Data%20creation.docx?d=wd9c4e2e103994ce68a5516d94b152af1&csf=1&web=1&e=VMm4M8)
+- [REDMANE Component Responsibility.xlsx](https://wehieduau.sharepoint.com/:x:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2025%20Semester%201/REDMANE%20Component%20Responsibility.xlsx?d=wdcae9e112c724a00a9f18305cb56c86a&csf=1&web=1&e=NvSRVd)
+- [UptimeRobot: Demo Environment Monitoring Setup](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2025%20Semester%201%20Demo/UptimeRobot.Demo%20Environment%20-%20Service%20Monitoring%20Inventory.docx?d=w935ea731dbee402989f0e782f79f13ee&csf=1&web=1&e=mDoJ6y)
+- [REDMANE Document Registry.xlsx](https://wehieduau.sharepoint.com/:x:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/REDMANE%20Document%20Registry.xlsx?d=w4b032f48c70f422eadc5fd1477500dc3&csf=1&web=1&e=P308d0)
+- [REDMANE Demo Technical Note: Eby](https://wehieduau.sharepoint.com/:w:/r/sites/studentinterngroupatwehi/_layouts/15/doc.aspx?sourcedoc={1ef2797f-d17f-4b20-b571-59534d6d7976}&file=redmane%20demo%20technical%20note%20eby.docx&action=default&mobileredirect=true)
+- [REDMANE Demo Shared Folder](https://wehieduau.sharepoint.com/:f:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2025%20Semester%201%20Demo?csf=1&web=1&e=o5d6i7)
+- [Demo and Quality Final Presentation (Semester 1, 2025)](https://unimelbcloud-my.sharepoint.com/:p:/r/personal/kkzhang_student_unimelb_edu_au/Documents/Demo%20and%20Quality%20Final%20Presentation%202025%20Semester%201%202025-05-21.pptx?d=w346a1fc51a1742688aa9a72d142fbd64&csf=1&web=1&e=lJYBHm)
 
 # REDMANE Web
 
