@@ -108,19 +108,23 @@ The review process underscored the importance of maintaining clear documentation
 
 # REDMANE Web
 
-The challenge that we were trying to solve was ...
+Our main challenge was to was to build a fully functional, user-friendly web interface for REDMANE's data registry. We aimed to connect the backend FastAPI to the frontend React.js to enable data flow. We can then removed the hardcoded content in the frontend and replace it with dynamic data fetched from the PostgreSQL database. We also wanted to create new pages and functionalities for the data registry, including single dataset view, all files page where all the metadata for the files are stored, and creating new dataset button.
 
-The way we tried to solve this was ...
+Our team took an iterative, testing-driven approach to solve the issues. First, we added synthetic data directly into the PostgreSQL database. We then verified whether this data was correctly retrieved and displayed by the FastAPI backend through its API endpoints. Only after confirming that the backend reflected the database correctly, we moved on to the frontend (React.js). We checked if the frontend was able to fetch and display the data as intended. At every stage, if the data wasn’t showing up as expected, we debugged the code—tracing the issue back through the frontend API calls, the backend routes, and the database queries. This step-by-step verification helped us ensure that the frontend was fetching data from the correct tables in the database and that the entire data pipeline was working as a cohesive system. 
 
-What we learned through this process ...
+When creating new pages and functionalities for the data registry, we had to think carefully about the purpose and requirements of each page. We ensured that each page’s functionality was clearly defined, and that it was properly connected to other relevant pages. For example, when creating a page for viewing single dataset details, we made sure it linked back to the dataset list page. 
 
+We've learnt how the different components of a web application works together. How the frontend, backend, and database are connected, and how changes in one component can affect the others. This understanding helped us debug effectively and build features that integrate smoothly across the system.
+
+In addition, we also learnt that when working with a large system like REDMANE, understanding the system architecture is essential. This made problem-solving much more efficient and strengthened our ability to trace problems across multiple layers of the system, learning how to identify whether an issue lies in the frontend, backend, or database.
 
 ## Key links
-- Links to the final presentation slides and/or video for the project
-- Links to the github repos that were part of this project
-- Links to the data needed to run the software
-- Links to other documentation, such as technical diary and other project documentation
-- Links to the project management tool with the tasks shown
+- [Final presentation slides](https://wehieduau.sharepoint.com/:p:/r/sites/StudentInternGroupatWEHI/_layouts/15/Doc.aspx?sourcedoc=%7BC32AFCDA-B950-48D0-A407-EB3CAC3F5FF0%7D&file=Presentation.pptx&action=edit&mobileredirect=true)
+- [REDMANE FastAPI repo](https://github.com/WEHI-RCPStudentInternship/REDMANE_fastapi/tree/2025_semester_1)
+- [REDMANE React.js repo](https://github.com/WEHI-RCPStudentInternship/REDMANE_react.js/tree/Semester_1_2025)
+- [Web dev team technical diary](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/_layouts/15/Doc.aspx?sourcedoc=%7B4DBACB1D-F71F-461D-BABE-FDB6F3BD87A9%7D&file=Technical%20Diary_Eachann.docx&action=default&mobileredirect=true, https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/_layouts/15/Doc.aspx?sourcedoc=%7B36695DC2-4C65-4804-9245-7F7D009A1333%7D&file=Clara%27s%20technical%20diary.docx&action=default&mobileredirect=true)
+- [Team Weekly Update](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/_layouts/15/Doc.aspx?sourcedoc=%7B14CE0193-3D97-49C5-A52D-ED069E8B10C1%7D&file=REDMANE%20Web%20Dev%20Team%20Weekly%20Update.docx&action=default&mobileredirect=true)
+
 
 
 # Duplex Sequencing
