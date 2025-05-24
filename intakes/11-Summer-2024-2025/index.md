@@ -140,8 +140,7 @@ We've validated the final output (.vcf files) by visualising it using IGV.
   - [Tish's Galaxy Workflow](https://usegalaxy.org.au/u/tishtar/w/basic-conversions)
   - [GitHub repos](https://github.com/VitaChien/WEHI_Workflow)
   - [Work Summary](https://wehieduau-my.sharepoint.com/:p:/r/personal/zhao_ch_wehi_edu_au/Documents/Work%20Summary.pptx?d=w3f5a83f7dcb444c0b5e84b955c1282ab&csf=1&web=1&e=oh3yJZ) 
-- Weekly Progress
-- Project Management Tools
+
 
 
 # Student Organiser PDF Coding
@@ -158,7 +157,6 @@ What we learned was open-source software can either be of great help or a major 
 - [GitHub repo](https://github.com/WEHI-RCPStudentInternship/pdf-coder)
 - Technical Diary
 - [Weekly Progress](https://docs.google.com/document/d/11kn7avo8dtpY5Ho_D7bRSergjQzNMw7Q0_5i4YCggHg/edit?usp=sharing)
-- Project Management Tools
 
 # Student Organiser RAG LLM
 
