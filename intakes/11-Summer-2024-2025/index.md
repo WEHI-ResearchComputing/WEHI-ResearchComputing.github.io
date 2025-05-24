@@ -20,7 +20,7 @@ Not only did we learn about methods for generating synthetic clinical data, but 
 
 ## Key links
 - [Final presentation slides](https://wehieduau.sharepoint.com/:p:/r/sites/StudentInternGroupatWEHI/_layouts/15/doc2.aspx?sourcedoc=%7B54B430C0-172F-4A54-8646-4CF8F446454C%7D&file=Final%20Presentation%20Clinical%20Dashboards.pptx&action=edit&mobileredirect=true&DefaultItemOpen=1&ct=1739228756479&wdOrigin=OFFICECOM-WEB.MAIN.REC&cid=f2fec12c-1ef1-4987-9c49-467cf8c62039&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=e52534ca-978e-481e-a24e-edf0a5050bbc)
-- Final presentation video (tbc)
+- [Final presentation video](https://wehieduau.sharepoint.com/:v:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Clinical%20Dashboards/Final%20Presentation%20Clinical%20Dashboards-20250219_163207-Meeting%20Recording.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=nHx2Ks)
 - [WGS Github](https://github.com/onionsp/Synthetic-WGS-Dataset-Generator)
 - [Synthetic Clinical Metadata](https://wehieduau.sharepoint.com/:u:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Clinical%20Dashboards/2025%20Summer/Finalised%20Dataset/sampled_clinical_data.tsv?csf=1&web=1&e=OKrYwX)
 - [Data Transfer Agreement](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Clinical%20Dashboards/2025%20Summer/Data%20transfer%20agreement.docx?d=wd1c5e1623f0947469fd0cbc0297010b6&csf=1&web=1&e=nIDFHH)
@@ -39,7 +39,7 @@ While we gained technical insights into data organisation, including the importa
 
 ## Key links
 - [Final presentation slides](https://www.canva.com/design/DAGeCN7sfwU/BiPaiieLzAlOUA7QfFOMDg/view?utm_content=DAGeCN7sfwU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h73b2165e9d)
-- Final presentation video (tbc)
+- [Final presentation video](https://wehieduau.sharepoint.com/:v:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Clinical%20Dashboards/Final%20Presentation%20Clinical%20Dashboards-20250219_163207-Meeting%20Recording.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=nHx2Ks)
 - GitHub repos
     - [redmane-metadata-generator](https://github.com/jerrilynlooi/redmane-metadata-generator)
     - [redmane_metadata_rocrate](https://github.com/irisgood03/redmane_metadata_rocrate)
@@ -63,7 +63,7 @@ What we learned through this process extended beyond technical skills to include
 
 ## Key links
 - [Final presentation slides](https://wehieduau-my.sharepoint.com/:p:/g/personal/guo_t_wehi_edu_au/EXcCW73RXepOl-VICUIX0NQB4CFd3KMq5emNeM_BWXtEQA?e=2gJ8QV)
-- Final presentation video (if supervisor agrees)
+- [Final presentation video](https://wehieduau.sharepoint.com/:v:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Clinical%20Dashboards/Final%20Presentation%20Clinical%20Dashboards-20250219_163207-Meeting%20Recording.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=nHx2Ks)
 - GitHub repos
     - [Keycloak Authentication](https://github.com/varshithmee/redmane-auth)
 - Technical Diary
@@ -84,7 +84,7 @@ What we learned was that there are many approaches to deploying OMERO and config
 ## Key links
 - Final presentation
     - [Final presentation slides](https://wehieduau.sharepoint.com/:p:/s/StudentInternGroupatWEHI/EQDMFvyjL8ZIodoMbt_Ck0YB8oGnsdaqSMqImWet1hnoHg?e=ZboIEc)
-    - Final presentation video (if supervisor agrees)
+    - [Final presentation video](https://wehieduau.sharepoint.com/:v:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/Final%20Presentation%20OMERO%20Data%20Portal-20250227_140543-Meeting%20Recording.mp4?csf=1&web=1&e=bOlNIF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Whiteboard presentation
     - [Whiteboard presentation video](https://wehieduau.sharepoint.com/:u:/s/StudentInternGroupatWEHI/EVYobuKcom1Aqx_Cj7qawSsBd9UGhS7S_oQvg5zOkQaKxg?e=Jw8ndR)
 - GitHub repos
@@ -103,7 +103,7 @@ What we learned was the importance of setting up secure and scalable cloud-based
 
 ## Key links
 - [Final presentation slides](https://wehieduau.sharepoint.com/:p:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/2024%20Semester%202%20Intake%20Final%20Presentation%20Data%20Registry.pptx?d=wa0e62184022149958e1e75afce0d4207&csf=1&web=1&e=2wQOd1)
-- Final presentation video (if supervisor agrees)
+- [Final presentation video](https://wehieduau.sharepoint.com/:v:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/Final%20Presentation%20REDMANE%20WebDev%20weekly%20meeting-20250219_110423-Meeting%20Recording.mp4?csf=1&web=1&e=iijG4F&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - GitHub repos
     - [Backend](https://github.com/Morganthium/REDMANE_fastapi/blob/main/app/main.py)
     - [Frontend](https://github.com/alexandra5279/REDMANE_react.js/tree/main/src) 
@@ -135,7 +135,7 @@ We've validated the final output (.vcf files) by visualising it using IGV.
 
 ## Key links
 - [Final Presentation Slides](https://www.canva.com/design/DAGewhgcjlc/-93DtMN5HbugyU98Hr0V4A/edit)
-- Final presentation video (if supervisor agrees)
+- [Final presentation video](https://wehieduau.sharepoint.com/:v:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/Final%20Presentation%20REDMANE%20Workflows-20250303_143211-Meeting%20Recording.mp4?csf=1&web=1&e=QuBmKy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Technical Diary
   - [Tish's Galaxy Workflow](https://usegalaxy.org.au/u/tishtar/w/basic-conversions)
   - [GitHub repos](https://github.com/VitaChien/WEHI_Workflow)
@@ -154,7 +154,7 @@ What we learned was open-source software can either be of great help or a major 
 
 ## Key links
 - [Final presentation slides](https://www.canva.com/design/DAGeA-99sw8/wu8bETDU_Ioi26iVPz-sQQ/view?utm_content=DAGeA-99sw8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h124da5d634)
-- Final presentation video (tbc)
+- [Final presentation video](https://wehieduau.sharepoint.com/:v:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Student%20Organiser/Final%20Presentation%20PDF%20Coding-20250218_095853-Meeting%20Recording.mp4?csf=1&web=1&e=e05TNr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - [GitHub repo](https://github.com/WEHI-RCPStudentInternship/pdf-coder)
 - Technical Diary
 - [Weekly Progress](https://docs.google.com/document/d/11kn7avo8dtpY5Ho_D7bRSergjQzNMw7Q0_5i4YCggHg/edit?usp=sharing)
@@ -170,7 +170,7 @@ What we learned was there are many moving parts to a RAG LLM, all of which can b
 
 ## Key links
 - [Final presentation slides](https://wehieduau.sharepoint.com/:p:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/RAG%20LLM/RAG%20LLM%20Final%20Presentation%20Slide.pptx?d=w3e265a2e52cf42e4b5b559df800037fd&csf=1&web=1&e=FsTJej)
-- Final presentation video
+- [Final presentation video](https://wehieduau.sharepoint.com/:v:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Student%20Organiser/Final%20Presentation%20RAG%20LLM%2020250218_093045-Meeting%20Recording.mp4?csf=1&web=1&e=6cUxLu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - [GitHub repo (Gemini)](https://github.com/arzmos/student-organiser-rag-llm)
 - [GitHub repo (Open-source model)](https://github.com/aaronlai-dev/student-organiser-rag-llm)
 - [Technical Diary (Gemini)](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/RAG%20LLM/Arezoo%20Technical%20Diary%20(Gemini%20Model).docx?d=w2bdb5b3362374e4cb7ab3f4455284b21&csf=1&web=1&e=asJNjy)
@@ -188,12 +188,6 @@ However, since we think quantum computing is still in an early stage and remains
 ## Key links
 - [Whiteboard presentation](https://docs.google.com/presentation/d/1FvQW5jWeiL1eG53EM24xrpMG8sxhb21J7sGHjQHeo44/edit#slide=id.g31ec68b0e85_0_0)
 - [Mindsmith Educational Website](https://app.mindsmith.ai/lesson/cm6gdamso01cvw0kghy4sb36f/preview) 
-- Final presentation slides (if supervisor agrees)
-- Final presentation video (if supervisor agrees)
-- GitHub repos
-- Technical Diary
-- Weekly Progress
-- Project Management Tools
 
 
 # Student Organiser Data Visualisation
@@ -216,8 +210,7 @@ This internship provided valuable experience in data visualisation, software dev
 - [Final presentation video](https://wehieduau.sharepoint.com/sites/StudentInternGroupatWEHI/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FStudentInternGroupatWEHI%2FShared%20Documents%2FStudent%20Organiser%2FTechnical%20Notes%20Summer%202024%202025%2FStudent%20Organiser%20Data%20Viz&viewid=afd55542%2D8e3a%2D4327%2D95f9%2D63450ae10d2a)
 - [GitHub repos](https://github.com/WEHI-RCPStudentInternship/student-intern-organiser)
 - [Technical Diary](https://wehieduau.sharepoint.com/sites/StudentInternGroupatWEHI/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FStudentInternGroupatWEHI%2FShared%20Documents%2FStudent%20Organiser%2FTechnical%20Notes%20Summer%202024%202025%2FStudent%20Organiser%20Data%20Viz&viewid=afd55542%2D8e3a%2D4327%2D95f9%2D63450ae10d2a)
-- Weekly Progress
-- Project Management Tools
+
 
 ---
 
