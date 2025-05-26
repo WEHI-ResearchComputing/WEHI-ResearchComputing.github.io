@@ -82,7 +82,7 @@ You can listen to two students talk about their projects (click image below).
 
 Here is more information about the internship program:
 - the [key milestones and emails for the projects](emails-and-key-milestones)
-- the [Annual Report RCP Discovery Internship Program 2025](/assets/Public_Annual_Report_RCP_Discovery_Internship_Program_2024.pdf)
+- the [Annual Report RCP Discovery Internship Program 2025](https://doi.org/10.6084/m9.figshare.29146673)
 - the [online FAQ](faq)
 
 ## To make changes to this website
