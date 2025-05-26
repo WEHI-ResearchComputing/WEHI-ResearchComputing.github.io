@@ -1,5 +1,7 @@
 # WEHI Research Computing Platform
 
+[Original PDF version on figshare](https://doi.org/10.6084/m9.figshare.29146673)
+
 ## Discovery Internship Program - Annual Report 2024
 
 ## Table of Contents
