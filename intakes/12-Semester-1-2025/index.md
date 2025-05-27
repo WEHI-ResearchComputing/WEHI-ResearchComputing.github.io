@@ -152,10 +152,10 @@ Key links
 Links to the final presentation slides and/or video for the project
 Final Presentation Duplex Sequencing Project.pptx
 Links to the github repos that were part of this project
-[Multiqc and my_module.py] (https://github.com/rachel610/MultiQC/tree/development/multiqc)
-[DuplexSequencingProject] (https://github.com/azlan2003/DuplexSequencingProject/tree/main)
-[Duplex Sequencing Snakemake Pipeline] (https://github.com/WEHIGenomicsRnD/duplex-seq-pipeline)
-[G000204_duplex] (https://github.com/WEHIGenomicsRnD/G000204_duplex)
+[Multiqc and my_module.py](https://github.com/rachel610/MultiQC/tree/development/multiqc)
+[DuplexSequencingProject](https://github.com/azlan2003/DuplexSequencingProject/tree/main)
+[Duplex Sequencing Snakemake Pipeline](https://github.com/WEHIGenomicsRnD/duplex-seq-pipeline)
+[G000204_duplex](https://github.com/WEHIGenomicsRnD/G000204_duplex)
 Links to the data needed to run the software
 DuplexMetricsProject - OneDrive
 Links to other documentation, such as technical diary and other project documentation
