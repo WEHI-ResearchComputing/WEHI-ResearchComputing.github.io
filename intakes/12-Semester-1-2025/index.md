@@ -5,7 +5,7 @@ This is the list of projects for this intake. Here you will see:
 - Links to the final presentation slides and/or video for the project
 - Links to the github repos that were part of this project
 - Links to the data needed to run the software
-- Links to other documentation, such as technical diary and other project documentation
+- Links to other documentation, such as technical diary and other project documentation.
 - Links to the project management tool with the tasks shown
 
 These reports are written by the group to help share information to future interns and interested parties.
