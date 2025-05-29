@@ -5,7 +5,7 @@ This is the list of projects for this intake. Here you will see:
 - Links to the final presentation slides and/or video for the project
 - Links to the github repos that were part of this project
 - Links to the data needed to run the software
-- Links to other documentation, such as technical diary and other project documentation
+- Links to other documentation, such as technical diary and other project documentation.
 - Links to the project management tool with the tasks shown
 
 These reports are written by the group to help share information to future interns and interested parties.
@@ -231,19 +231,30 @@ Through this process, we learned how to Nix, constructing wrappers for software 
 
 # Student Organiser
 
-The challenge that we were trying to solve was ...
+**Challenge Statement**
 
-The way we tried to solve this was ...
+The challenge we were trying to solve was improving the usability and efficiency of the WEHI Student Intern organiser Web app, specifically focusing on managing project allocation and streamlining recruitment and onboarding processes. The existing system required manual updates and lacked interactive features, making it time-consuming for team members to manage project status and track intern progress.
 
-What we learned through this process ...
+**Approach and Solution**
+
+The way we approached this challenge was by first gaining a high-level understanding of Rowland’s workflow and identifying the key pain points, especially around project allocation and managing weekly updates. Our team worked collaboratively to develop solutions that addressed these issues while maintaining compatibility with the existing system. After understanding Rowland’s overall workflow and the problems he faced, we started on working on the web app. First, we fixed the database off bugs so that it aligns with the UI features we want to implement. We also made some sample data that can be easily used for web app testing purposes even for future interns. Next, we enhanced the project allocation page by making status management easier, adding data visualisation, and improving user interface. Lastly, we made a student reminder page used to track student’s submission and remind them when necessary.
+
+Throughout the project, we worked closely as a team to align database updates with the new UI features, ensuring consistency between the backend and the frontend. Regular communication with Rowland helped us incorporate his feedback and make iterative improvements. These made project management more intuitive and efficient
+
+**Key Learnings**
+
+We learned that successful software improvements require balancing technical solutions with user-centric design. Understanding high-level goals and incorporating feedback were crucial to ensuring that the changes were both functional and practical. Additionally, we gained valuable experience in collaborating effectively within a multidisciplinary team, maintaining clear communication, and prioritizing user needs throughout the development process.
+
 
 
 ## Key links
-- Links to the final presentation slides and/or video for the project
-- Links to the github repos that were part of this project
-- Links to the data needed to run the software
-- Links to other documentation, such as technical diary and other project documentation
-- Links to the project management tool with the tasks shown
+- [Final Presentation Student Organiser.pptx](https://wehieduau.sharepoint.com/:p:/r/sites/StudentInternGroupatWEHI/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B6da65a83-3de1-4365-8712-644c8b32d6a3%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1748482054051&web=1)
+- [Final Presentation Video Link](https://wehieduau-my.sharepoint.com/:v:/g/personal/mosbergen_r_wehi_edu_au/EcSmGoOfruVPmD9AXMMFxCwBV2ou6DIxa9cbe60_pTMbLw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=KteWEI)
+- [Student organiser Wiki link](https://github.com/WEHI-RCPStudentInternship/student-intern-organiser/wiki)
+- [Student Organiser Github Link](https://github.com/WEHI-RCPStudentInternship/student-intern-organiser)
+- [Understanding of Rowland's Workflow.xlsx](https://wehieduau.sharepoint.com/:x:/r/sites/StudentInternGroupatWEHI/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B800dc76a-afff-4628-9b3c-69249bcbced0%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1748481928717&web=1)
+- [Internship weekly update.docx](https://wehieduau.sharepoint.com/:w:/r/sites/StudentInternGroupatWEHI/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Bb3573169-f62d-47ff-81b5-7919e7a6bdda%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1748481831783&web=1)
+
 
 # RAG LLM
 
