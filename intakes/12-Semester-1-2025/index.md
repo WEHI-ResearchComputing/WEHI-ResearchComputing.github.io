@@ -231,11 +231,20 @@ Through this process, we learned how to Nix, constructing wrappers for software 
 
 # Student Organiser
 
-The challenge that we were trying to solve was ...
+Challenge Statement
 
-The way we tried to solve this was ...
+The challenge we were trying to solve was improving the usability and efficiency of the WEHI Student Intern organiser Web app, specifically focusing on managing project allocation and streamlining recruitment and onboarding processes. The existing system required manual updates and lacked interactive features, making it time-consuming for team members to manage project status and track intern progress.
 
-What we learned through this process ...
+Approach and Solution
+
+The way we approached this challenge was by first gaining a high-level understanding of Rowland’s workflow and identifying the key pain points, especially around project allocation and managing weekly updates. Our team worked collaboratively to develop solutions that addressed these issues while maintaining compatibility with the existing system. After understanding Rowland’s overall workflow and the problems he faced, we started on working on the web app. First, we fixed the database off bugs so that it aligns with the UI features we want to implement. We also made some sample data that can be easily used for web app testing purposes even for future interns. Next, we enhanced the project allocation page by making status management easier, adding data visualisation, and improving user interface. Lastly, we made a student reminder page used to track student’s submission and remind them when necessary.
+
+Throughout the project, we worked closely as a team to align database updates with the new UI features, ensuring consistency between the backend and the frontend. Regular communication with Rowland helped us incorporate his feedback and make iterative improvements. These made project management more intuitive and efficient
+
+Key Learnings
+
+We learned that successful software improvements require balancing technical solutions with user-centric design. Understanding high-level goals and incorporating feedback were crucial to ensuring that the changes were both functional and practical. Additionally, we gained valuable experience in collaborating effectively within a multidisciplinary team, maintaining clear communication, and prioritizing user needs throughout the development process.
+
 
 
 ## Key links
