@@ -104,6 +104,12 @@ Yes, that is correct.
 
 As it is remote, we are very flexible but there are times when we do get together, such as the weekly project meeting. This is explained in [the Student Internship Handbook](https://figshare.com/articles/presentation/Research_Computing_Platform_Student_Internship_Handbook/21259467).
 
+## How can I find out more about the key questions I will need to answer in week 2?
+
+- To make it easier to narrow down the problem space, we will provide you with a series of key questions that we will ask you in week 2.
+- Your role in the first two weeks is to be able to answer these questions in week 2 and organise how you will connect with your team mates.
+- Once you have answered the questions correctly we will be asking you to draw up a whiteboard diagram and provide a project plan in week 4.
+
 ## How can I find out more about the Whiteboard Presentation in Week 4?
 
 - Keep it informal and treat the whiteboard session like an on-the-spot interview question, without pre-prepared materials.
