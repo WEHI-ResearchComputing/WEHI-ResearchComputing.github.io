@@ -85,6 +85,11 @@ Here is more information about the internship program:
 - the [Annual Report RCP Discovery Internship Program 2025](https://doi.org/10.6084/m9.figshare.29146673)
 - the [online FAQ](faq)
 
+<a href="faq" 
+   style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
+   FAQ
+</a>
+
 ## To make changes to this website
 
 Go to [the GitHub repo to change this website](https://github.com/WEHI-ResearchComputing/WEHI-ResearchComputing.github.io)
