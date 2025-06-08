@@ -1,4 +1,4 @@
-# Key milestones and onboarding emails
+# Key milestones
 
 We send you emails throughout your internship to ensure you are aware of what is coming up.
 
@@ -38,14 +38,4 @@ To find out actual dates for your intake, go to [the Student intake dates page](
 
 1. Do the final presentation.
 
-## Onboarding emails
 
-We send onboarding emails to your university email on:
-- the Monday before you start ([Link to the email](emaiL-one-week-before))
-- the Monday of week 1 ([Link to the email](email-week-one))
-- the Monday of week 2 ([Link to the email](email-week-two))
-- the Monday of week 3 ([Link to the email](email-week-three))
-- The Monday of week 4 ([Link to the email](email-week-four))
-- The Monday of week 5 ([Link to the email](email-week-five))
-- The Monday of week 10 ([Link to the email](email-week-ten))
-- The last week of your internship ([Link to the email](email-final-week))
