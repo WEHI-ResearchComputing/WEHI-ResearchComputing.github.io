@@ -182,19 +182,28 @@ Through this process, we learned how to write correct Python scripts and config 
 
 # Genomics Invoicing
 
-The challenge that we were trying to solve was ...
+The challenge that we were trying to solve was the current invoicing process at WEHI for the Genomics department is highly manual and repetitive. Daniela receives multiple pricing PDFs from different suppliers, which she then manually inputs into a spreadsheet. This data is later used to create quotes for both internal and external clients. Once approved, the quotes trigger either interdepartmental transactions or external Purchase Orders, all of which require further manual processing. This workflow is not only time-consuming but also prone to human error, lacks efficiency, and poses challenges for maintaining information security and consistency.
 
-The way we tried to solve this was ...
+We developed a web-based invoicing application using **RShiny**, hosted on WEHI's internal server — an officially supported infrastructure with minimal setup overhead.
+Key features of the app include:
+- Uploading a master spreadsheet with a predefined format.
+- Parsing and reviewing spreadsheet contents in the app.
+- Selecting, adding, editing, and deleting items for invoice generation.
+- Previewing invoices and downloading them in PDF format.
 
-What we learned through this process ...
+Through this project, we gained valuable experience in building a real-world application with direct practical impact.
+- The importance of clear communication and documentation for effective collaboration, especially in a multi-developer team.
+- The challenges of balancing user needs with technical constraints, such as RShiny’s limited support for authentication and access control.
+- The need for thoughtful UI/UX design to ensure usability for non-technical users.
+
+We appreciated the supportive environment provided during the internship, including daily opportunities to ask questions and receive feedback during lunch and afternoon standups.
 
 
 ## Key links
-- Links to the final presentation slides and/or video for the project
-- Links to the github repos that were part of this project
-- Links to the data needed to run the software
-- Links to other documentation, such as technical diary and other project documentation
-- Links to the project management tool with the tasks shown
+- [Links to the final presentation slides for the project](https://docs.google.com/presentation/d/18WhN5-dwRouefQymd0HCLZCPeXvaa97H/edit?usp=sharing&ouid=107684094605038765593&rtpof=true&sd=true)
+- [Links to the github repos that were part of this project](https://github.com/WEHI-RCPStudentInternship/genomics-invoicing/tree/2025_Semester1)
+- [Links to the data needed to run the software](https://wehieduau.sharepoint.com/:x:/r/sites/StudentInternGroupatWEHI/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Bdf0cc5b6-d8d6-4621-a852-245530d5d5f2%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1744024221439&web=1)
+
 
 # BioNix
 
