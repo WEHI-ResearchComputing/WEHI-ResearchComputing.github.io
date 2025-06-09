@@ -37,6 +37,12 @@ Here are some of the [recurring student intern projects and new projects we are 
 </a>
 <div style="clear:both"></div>
 
+<a href="intake_dates" 
+   style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
+   Intake Dates
+</a>
+<div style="clear:both"></div>
+
 ### List of previous student intern project reports
 
 Here are some of the [previous student intern reports](intakes/).
@@ -89,6 +95,7 @@ Here is more information about the internship program:
    style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
    FAQ
 </a>
+<div style="clear:both"></div>
 
 ## To make changes to this website
 
