@@ -3,8 +3,8 @@
 ## Semester 2 2025 now available
 
 - **[Engineering and IT](https://eng.unimelb.edu.au/industry/students/internships#key-dates):** start and end dates are tentatively from 7th July to 24th October for around 24 hours per week.
-- **[Faculty of Science](https://science.unimelb.edu.au/engage/industry/internships#key-dates):** start and end dates are from 21st July to 10th October for around 8 hours per week.
-- **Open Source Contributors:** start and end dates are from 21st July to 10th October for a minimum 2 hours per week.
+- **[Faculty of Science](https://science.unimelb.edu.au/engage/industry/internships#key-dates):** start and end dates are tentatively from 21st July to 10th October for around 8 hours per week.
+- **Open Source Contributors:** start and end dates are tentatively from 21st July to 10th October for a minimum 2 hours per week.
 - **Final Presentations will be in the week of the 6th of October.** Practice presentations will be done the week before final presentations.
 
 
