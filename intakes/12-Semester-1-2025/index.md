@@ -218,7 +218,7 @@ Through this process, we learned how to Nix, constructing wrappers for software 
 - Final Presentation (to be added):
   > Slides
   >
-  > Video
+  > [Video of final presentation Sem 1 2025](https://wehieduau-my.sharepoint.com/:v:/g/personal/mosbergen_r_wehi_edu_au/EX2x8LKrel5Gg07-_yDid4QBs-x9r8KXcXHXVR6Y_DBqTw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=kScofy)
 - Whiteboard Presentations:
   > Sem 1 2025 (tba)
   >
