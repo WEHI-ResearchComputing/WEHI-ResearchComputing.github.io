@@ -149,7 +149,7 @@ How to create and run containers and use Multiqc and create Multiqc plugin
 How to break down complicated and ambiguous tasks into simple and manageable components. This helped with the overall development. 
 
 Key links
-Links to the final presentation slides and/or video for the project
+- [Final presentation video (need WEHI access)](https://wehieduau-my.sharepoint.com/:v:/r/personal/mosbergen_r_wehi_edu_au/Documents/Recordings/Duplex%20Sequencing%20Weekly%20Project%20Meeting-20250520_130518-Meeting%20Recording.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=uuherj)
 Final Presentation Duplex Sequencing Project.pptx
 Links to the github repos that were part of this project
 - [Multiqc and my_module.py](https://github.com/rachel610/MultiQC/tree/development/multiqc)
