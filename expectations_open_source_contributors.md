@@ -19,9 +19,10 @@ How does an open source contributor differ from the student intern who gets cour
 | Situation | Open Source Contributor | Student Intern with course credit |
 | --- | --- | --- |
 | Must complete all hours as specified in contract | N/A | mandatory |
-| Must attend weekly meetings with supervisor | encouraged but optional | mandatory |
-| Must attend weekly meetings with other students | encouraged but optional | mandatory |
+| Must attend weekly meetings with supervisor (45 minutes) | encouraged but optional | mandatory |
+| Must attend weekly meetings with other interns (45 minutes) | encouraged but optional | mandatory |
 | Must attend weekly meetings with sister project | encouraged but optional | mandatory |
+| Must attend daily standups | encouraged but optional | encouraged but optional |
 | Must complete summary report | encouraged but optional | mandatory |
 | Must provide a final presentation | encouraged but optional | mandatory |
 | Must update wiki and documentation as appropriate | encouraged but optional | mandatory |
