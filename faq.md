@@ -192,7 +192,7 @@ The questions are as follows:
 - Are there particular publications, professional associations, or events I should explore for additional information on this field?
 - Would you advise me to speak to others about breaking into this field? Can you recommend anyone in particular?
 
-[There is a video available](https://urldefense.com/v3/__https://wehieduau-my.sharepoint.com/:v:/g/personal/mosbergen_r_wehi_edu_au/EU4fENR4KJpKjzOgDFbUNYUB5DmcmH3xaSp2CjZ2k2OerQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0*3D&e=d7zTvX&referrer=Outlook.Web&referrerScenario=email-linkwithembed__;JQ!!KKt0acMt!d2xyJaPfzT88bitGs_dByZOw-f0sjqQglJ2vbvtIOS5S7RAQWsjUWFnclLCJCJISORvlkgvpvNMBy1bY7y2r_xlZ5700mvOhckQ$) at Onboarding todo channel > Files > 2021-12-22 Data science internship survey questions. 
+[There is a video available](https://wehieduau-my.sharepoint.com/personal/mosbergen_r_wehi_edu_au/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmosbergen%5Fr%5Fwehi%5Fedu%5Fau%2FDocuments%2F2021%2D12%2D22%20Data%20science%20internship%20survey%20questions%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb6f3c4bd%2D4c85%2D4ee4%2Db44d%2D9981e3dbffcb&ga=1) at Onboarding todo channel > Files > 2021-12-22 Data science internship survey questions. 
 
 Once you have watched this, if you have further questions, please email me and we can arrange a time to chat about this as a group.
 
