@@ -192,7 +192,7 @@ The questions are as follows:
 - Are there particular publications, professional associations, or events I should explore for additional information on this field?
 - Would you advise me to speak to others about breaking into this field? Can you recommend anyone in particular?
 
-[There is a video available](https://wehieduau.sharepoint.com/sites/StudentInternGroupatWEHI/_layouts/15/stream.aspx?id=%2Fsites%2FStudentInternGroupatWEHI%2FShared%20Documents%2FOnboarding%20todo%2F2021%2D12%2D22%20Data%20science%20internship%20survey%20questions%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview) at Onboarding todo channel > Files > 2021-12-22 Data science internship survey questions. 
+[There is a video available](https://wehieduau-my.sharepoint.com/personal/mosbergen_r_wehi_edu_au/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmosbergen%5Fr%5Fwehi%5Fedu%5Fau%2FDocuments%2F2021%2D12%2D22%20Data%20science%20internship%20survey%20questions%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E861adcd0%2D0af3%2D49fc%2Dbb78%2Db8c3e2d3d4bd&ga=1) at Onboarding todo channel > Files > 2021-12-22 Data science internship survey questions. 
 
 Once you have watched this, if you have further questions, please email me and we can arrange a time to chat about this as a group.
 
