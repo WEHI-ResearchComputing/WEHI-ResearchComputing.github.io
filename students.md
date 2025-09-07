@@ -1,6 +1,6 @@
 # Unpaid Student Internship Program
 
-The WEHI Research Computing Platform regularly provides unpaid student internship opportunities through the University of Melbourne Data Science and Software Engineering programs. These internships are 100% remote. 
+The WEHI Research Computing Platform regularly provides unpaid student internship opportunities through the University of Melbourne Data Science and Software Engineering programs, as well as Open Source Contributors from around the world. We have three intakes per year - Semester 1 (March to May), Semester 2 (August to October), and Summer (November to February the next year). These internships are 100% remote. 
 
 <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=4nJ8qs_FQEqiKqWFwEygfHucYnIbkjZJm7W73SM5JMBUN1lEOTNXWEI2WjI2OTRDV1E4MjlOSzNQNy4u" 
    style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
@@ -8,7 +8,7 @@ The WEHI Research Computing Platform regularly provides unpaid student internshi
 </a>
 <div style="clear:both"></div>
 
-We have had 214 interns through the program since Semester 2, 2021 who have provided over 24 person years of effort to help us uncover and document complexity early in over 80 intern projects.
+We have had 251 interns through the program since Semester 2, 2021 who have provided over 24 person years of effort to help us uncover and document complexity early in over 80 intern projects.
 
 Out of the 14 anonymous reviews that have been given by students as at 11th of October 2024, our internships have been rated a 4.7 out of 5.
 
