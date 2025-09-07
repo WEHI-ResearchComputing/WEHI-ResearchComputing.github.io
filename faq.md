@@ -27,11 +27,10 @@ You can find the information here:
 We are open to having some opportunities to go to the office, especially if we can catchup with the other students. It would not be that regular though, but this can be discussed with other students. 
 
 There are also places to network:
-1. There is a [monthly onsite lunch with other Research Software Engineers (RSEs) around Parkville]([url](https://www.eventbrite.com.au/o/the-rse-association-of-australia-and-new-zealand-65201929823)). There are also online meetings every month as well.
-2. The [RSE Asia Australia unconference](https://rseaa.github.io/) happens every year in September. This is an online event and we encourage you to attend as there are scholarships available.
-3. You can join [the RSE Association of Australia and New Zealand](https://rse-aunz.github.io/) via their website.
-4. There is a WEHI student symposium usually at the end of the year that we encourage you to attend. This is a [link to the 2023 version of the Student Symposium (WEHI access only)](https://wehieduau.sharepoint.com/sites/Announcements/SitePages/Be-Part-Of-The-WEHI-Student-Symposium-2023!.aspx).
-5. You could proactively reach out to your fellow interns to see if there are others interested in networking.  
+1. The [RSE Asia Australia unconference](https://rseaa.github.io/) happens every year in September. This is an online event and we encourage you to attend as there are scholarships available.
+2. You can join [the RSE Association of Australia and New Zealand](https://rse-aunz.github.io/) via their website.
+3. There is a WEHI student symposium usually at the end of the year that we encourage you to attend. This is a [link to the 2023 version of the Student Symposium (WEHI access only)](https://wehieduau.sharepoint.com/sites/Announcements/SitePages/Be-Part-Of-The-WEHI-Student-Symposium-2023!.aspx).
+4. You could proactively reach out to your fellow interns to see if there are others interested in networking.  
 
 ## How do I know you won't get disengaged with the students?
 
