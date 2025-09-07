@@ -2,10 +2,7 @@
 
 This page allows you to have a look at all the internship projects offered at WEHI.
 
-## Semester 2 2025 Projects 
-
-### AIVE - Research Software / Artificial Intelligence
-The project would involve a series of stages to bring the software infrastructure to a level that will help with development in a complex research environment where currently only a few people in the world know the software.  For more details see the [AIVE project](student-aive) and [the AIVE public wiki](https://github.com/MitochondRuna/AIVE-Intro/wiki).
+## Summer 2025 / 2026 Projects 
 
 ### BioNix - Research Software  
 This project helps with reproducibility in the field of Bioinformatics. For more details see [BioNix project](student-bionix) and the [BioNix Getting Started Wiki](https://github.com/WEHI-ResearchComputing/BioNix-GettingStarted/wiki).
@@ -17,8 +14,6 @@ This project helps the Genomics lab quote their complex product range to interna
 ### Duplex Sequencing Plugin - Research Software
 
 This project helps the Genomics lab  streamline quality control plot generation for duplex sequencing data.  For more details see [Duplex Sequencing Plugin project](student-duplex-sequencing)
-
-## Ongoing Projects
 
 ### Data Commons / REDMANE - Research - Full-Stack Web Developer, Data Engineering
 This project aims to create a proof-of-concept for a Data Lakehouse / Data Commons at WEHI. For more details see [Introduction to REDMANE](https://www.canva.com/design/DAGblemAUC0/DJfOcOWjcSxjpuqAwLIUcw/view?utm_content=DAGblemAUC0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5673c27e7b), [Data Lakehouse / Data Commons project](student-data-commons) and the [Data Commons Wiki](https://github.com/WEHI-ResearchComputing/data-commons/wiki).
@@ -38,35 +33,37 @@ Key tasks for Student Organiser - Semester 2 2025 include:
 3. Key reporting queries
 4. PDF coding
 
-
 ## Potential Projects that are dependent on various factors
 
 ### Clinical Dashboards - Research - Data Analytics, Full-Stack Web Developer, or Data Engineering
 This project helps to setup foundational infrastructure for adding visualisation dashboards for clinically-adjacent data. For more details see [Clinical Dashboards project.](student-clinical-dashboards), the [Extract PDF Wiki](https://github.com/Clinical-Informatics-Collaborative/pdf-extraction-clinical-reports/wiki), and the [Clinical Dashboards Wiki](https://github.com/Clinical-Informatics-Collaborative/clinical_dashboards/wiki).
 
-### Genomics Metadata Multiplexing - Research - Data Engineering, Full-Stack Web Developer, or Software Engineering
-This project helps to setup infrastructure to keep track of what happens to a sample once it reaches the Genomics Facility. For more details see [Genomics Metadata Multiplexing project.](student-genomics-metadata.md) and the [Genomics Metadata Multiplexing Wiki](https://github.com/WEHI-ResearchComputing/Genomics-Metadata-Multiplexing/wiki) 
-
 ### Quantum Computing in Bioinformatics - Research - Data Analytics, Software Engineering
 
 This project is looking to create foundational knowledge of quantum computing in bioinformatics. For more details see [Quantum Computing in Bioinformatics project](student-quantum) and the [Quantum Computing Wiki](https://github.com/WEHI-ResearchComputing/quantum-computing/wiki).
 
+
+
+
+
+## Previous projects
+
 ### Imaging - Research - Data Engineering, Full-Stack Web Developer
 This project helps with the current work around automated processing of images from microscopes to the High Performance Compute. For more details see [Imaging project](student-imaging) and the [Imaging Getting Started Wiki](https://github.com/WEHI-ResearchComputing/Imaging-Getting-Started/wiki).
 
-
-### Immunology Web Application - Research - Full-Stack Web Developer
-
-This project looks to make Cyton, a sophisticated mathematical model, accessible to the scientific community by creating a web application that researchers can access with their browsers from anywhere in the world. For more details see [Immunology Web Application project.](student-immunology-web-application)
-
+### Genomics Metadata Multiplexing - Research - Data Engineering, Full-Stack Web Developer, or Software Engineering
+This project helps to setup infrastructure to keep track of what happens to a sample once it reaches the Genomics Facility. For more details see [Genomics Metadata Multiplexing project.](student-genomics-metadata.md) and the [Genomics Metadata Multiplexing Wiki](https://github.com/WEHI-ResearchComputing/Genomics-Metadata-Multiplexing/wiki) 
 
 ### Conference Organiser - Full-Stack Web Developer
 
 This project involves creating a web-based application to help conference organisers of RSEAA24, an international conference of Research Software Engineers that is held in September. For more details see [the GitHub repo for the Conference Organiser](https://github.com/rowlandm/conference_organiser).
 
+### Immunology Web Application - Research - Full-Stack Web Developer
 
+This project looks to make Cyton, a sophisticated mathematical model, accessible to the scientific community by creating a web application that researchers can access with their browsers from anywhere in the world. For more details see [Immunology Web Application project.](student-immunology-web-application)
 
-## Previous projects
+### AIVE - Research Software / Artificial Intelligence
+The project would involve a series of stages to bring the software infrastructure to a level that will help with development in a complex research environment where currently only a few people in the world know the software.  For more details see the [AIVE project](student-aive) and [the AIVE public wiki](https://github.com/MitochondRuna/AIVE-Intro/wiki).
 
 
 ### Haemosphere - Research - Data Analytics or Full-Stack Web Developer
