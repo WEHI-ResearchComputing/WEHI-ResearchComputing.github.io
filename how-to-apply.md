@@ -1,9 +1,10 @@
 # How to Apply
 
+We have three intakes per year - Semester 1 (March to May), Semester 2 (August to October), and Summer (November to February the next year). The [intake dates currently available and hours per week are here](intake_dates).
+
 Due to the volume of students now applying to this internship, to be eligible you must fill out the RCP Student Internship Enrollment form. 
 
 Please provide a resume and cover letter.
-
 
 ## Key Questions you should answer in the cover letter
 
