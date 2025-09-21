@@ -15,10 +15,13 @@ To make things clearer, I have provided the questions I will be asking in the ca
 1. How do I pronounce your name? I may ask you this question to ensure I do the best I can to pronounce your name.
 2. This is a 100% remote internship. This means all meetings are virtual. Are you OK with this?
 3. We take Diversity, Equity, and Inclusion seriously. We have a [Code of Conduct that you have to abide](code-of-conduct) by that is in the WEHI RCP Student Internship Handbook on page 10. Have you read it and are you willing to abide by it?
-4. What projects are you interested in and why?
-5. I will then show you the projects that are currently still available based on your interests.
-6. I will then explain the next steps to you
-7. I will ask you if you have any other questions. 
+4. How can you demonstrate that you will be organised? What do you use to organiser yourself?
+5. How can you demonstrate that you are willing to communicate well?
+6. How can you demonstrate that you are willing to ask 10+ questions per week in this internship?
+7. What projects are you interested in and why?
+8. I will then show you the projects that are currently still available based on your interests.
+9. I will then explain the next steps to you
+10. I will ask you if you have any other questions. 
 
 
 Other things to note:
