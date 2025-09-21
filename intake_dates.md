@@ -1,5 +1,7 @@
 # Student intake dates
 
+We have three intakes per year - Semester 1 (March to May), Semester 2 (August to October), and Summer (November to February the next year). 
+
 ## Summer 2025/2026 now available
 
 
