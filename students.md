@@ -4,9 +4,9 @@ The WEHI Research Computing Platform regularly provides unpaid student internshi
 
 We have three intakes per year - Semester 1 (March to May), Semester 2 (August to October), and Summer (November to February the next year). The [intake dates currently available and hours per week are here](intake_dates).
 
-<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=4nJ8qs_FQEqiKqWFwEygfHucYnIbkjZJm7W73SM5JMBUN1lEOTNXWEI2WjI2OTRDV1E4MjlOSzNQNy4u" 
+<a href="how-to-apply" 
    style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
-   Future Internship Mailing List Sign Up
+   How to Apply for Summer 25/26
 </a>
 <div style="clear:both"></div>
 
