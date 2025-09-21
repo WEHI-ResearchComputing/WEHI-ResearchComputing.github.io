@@ -12,6 +12,8 @@ These reports are written by the group to help share information to future inter
 
 For more examples, see the [Intake 11 - Summary Report Page](https://wehi-researchcomputing.github.io/intakes/11-Summer-2024-2025/)
 
+Please [update and do a pull request for this page via Github here](https://github.com/WEHI-ResearchComputing/WEHI-ResearchComputing.github.io/blob/main/intakes/13-Semester-2-2025/index.md).
+
 # AIVE
 
 Our objective was ...
