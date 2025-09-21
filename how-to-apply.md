@@ -11,7 +11,7 @@ We suggest that you write a 1 page cover letter introducing yourself.
 
 We would want you to answer:
 - Are you applying for course-credit or are you applying as a volunteer?
-- What project are you applying for?
+- What project are you applying for? The [list of projects curently available is here](https://wehi-researchcomputing.github.io/project-wikis).
 - How can you demonstrate that you will be organised, communicate well and ask questions in this internship?
 
 We also have [material on how to write a good cover letter and what to look for when you are writing a resume](https://doi.org/10.6084/m9.figshare.21057535.v2).
