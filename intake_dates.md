@@ -1,6 +1,15 @@
 # Student intake dates
 
-## Semester 2 2025 now available
+## Summer 2025/2026 now available
+
+
+- **[Engineering and IT](https://eng.unimelb.edu.au/industry/students/internships#key-dates):** start and end dates are tentatively from 17th November 2025 to 27th February 2026 for around 24 hours per week.
+- **[Faculty of Science](https://science.unimelb.edu.au/engage/industry/internships#key-dates):** sstart and end dates are tentatively from 17th November 2025 to 27th February 2026 for around 8 hours per week.
+- **Open Source Contributors:** start and end dates are tentatively from start and end dates are tentatively from 17th November 2025 to 27th February 2026 for around 6 hours per week minimum.
+- **Final Presentations will be in the week of the 23rd of February 2026.** Practice presentations will be done the week before final presentations.
+
+
+## Semester 2 2025 
 
 - **[Engineering and IT](https://eng.unimelb.edu.au/industry/students/internships#key-dates):** start and end dates are tentatively from 7th July to 24th October for around 24 hours per week.
 - **[Faculty of Science](https://science.unimelb.edu.au/engage/industry/internships#key-dates):** start and end dates are tentatively from 21st July to 10th October for around 8 hours per week.
