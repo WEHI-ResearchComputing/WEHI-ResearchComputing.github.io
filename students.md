@@ -1,6 +1,8 @@
 # Unpaid Student Internship Program
 
-The WEHI Research Computing Platform regularly provides unpaid student internship opportunities through the University of Melbourne Data Science and Software Engineering programs, as well as Open Source Contributors from around the world. We have three intakes per year - Semester 1 (March to May), Semester 2 (August to October), and Summer (November to February the next year). These internships are 100% remote. 
+The WEHI Research Computing Platform regularly provides unpaid student internship opportunities through the University of Melbourne Data Science and Software Engineering programs, as well as Open Source Contributors from around the world. These internships are 100% remote. 
+
+We have three intakes per year - Semester 1 (March to May), Semester 2 (August to October), and Summer (November to February the next year). The [intake dates currently available and hours per week are here](intake_dates).
 
 <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=4nJ8qs_FQEqiKqWFwEygfHucYnIbkjZJm7W73SM5JMBUN1lEOTNXWEI2WjI2OTRDV1E4MjlOSzNQNy4u" 
    style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
