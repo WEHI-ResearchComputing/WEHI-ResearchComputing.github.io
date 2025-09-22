@@ -203,6 +203,7 @@ We appreciated the supportive environment provided during the internship, includ
 - [Links to the final presentation slides for the project](https://docs.google.com/presentation/d/18WhN5-dwRouefQymd0HCLZCPeXvaa97H/edit?usp=sharing&ouid=107684094605038765593&rtpof=true&sd=true)
 - [Links to the github repos that were part of this project](https://github.com/WEHI-RCPStudentInternship/genomics-invoicing/tree/2025_Semester1)
 - [Links to the data needed to run the software](https://wehieduau.sharepoint.com/:x:/r/sites/StudentInternGroupatWEHI/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Bdf0cc5b6-d8d6-4621-a852-245530d5d5f2%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1744024221439&web=1)
+- [Link to the wireframe](https://wehieduau.sharepoint.com/sites/StudentInternGroupatWEHI/Shared%20Documents/Forms/AllItems.aspx?viewid=afd55542%2D8e3a%2D4327%2D95f9%2D63450ae10d2a&FolderCTID=0x0120008FF8F20683AC284798EA496C639CC069&id=%2Fsites%2FStudentInternGroupatWEHI%2FShared%20Documents%2FGenomics%20Invoicing%2FSemester%202%202024%2FGENOMICS%5FINVOICE%5FWIREFRAME%2Epdf&parent=%2Fsites%2FStudentInternGroupatWEHI%2FShared%20Documents%2FGenomics%20Invoicing%2FSemester%202%202024)
 
 
 # BioNix
