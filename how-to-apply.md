@@ -5,7 +5,7 @@ We have three intakes per year - Semester 1 (March to May), Semester 2 (August t
 Due to the volume of students now applying to this internship, to be eligible you must fill out the RCP Student Internship Enrollment form. 
 
 Please provide a resume and cover letter.
-# Expectations
+## Expectations
 Before you apply - please ensure you can take the time to spend doing at least 6 to 8 hours per week on these internships:
 - 1 hour a week for a project meeting with your supervisor and your teammates, 
 - 1 hour a week for a co-working session with your teammates,
