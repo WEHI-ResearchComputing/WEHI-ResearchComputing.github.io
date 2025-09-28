@@ -22,6 +22,14 @@ Before you apply - please ensure you can take the time to spend doing at least 6
 - 1 hour a week keeping track of emails and organising yourself, and
 - the rest working on projects in your own time and asking 10+ questions a week at standups that run twice a day but are not mandatory 
 
+Also please ensure you:
+- ask 10 questions a week about your project,
+- email a group weekly report before your meeting each week,
+- keep an Individual Learning Plan (ILP) and a technical diary,
+- keep on top of the emails sent about your internship (there are a lot!),
+- keep an up to date calendar so you can plan your week, and
+- let your supervisor by email if you are unable to work on the internship.
+
 ## Learn real world skills
 
 We prepare students for the real-world by teaching them:
