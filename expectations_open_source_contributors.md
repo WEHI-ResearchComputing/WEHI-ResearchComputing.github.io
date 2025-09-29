@@ -13,6 +13,7 @@ We wanted to clarify the expectations for those students who cannot get course c
 9. We want you to have fun, learn new things, and feel part of a community! Please let us know if you aren't feeling this.
 10. We will provide you with a "Certificate of Contribution" that is a permanent record of your contribution.
 11. We would like you to commit to 6 hours per week for the 12 weeks of the internship.
+12. As this is a global internship program, you would need to recognise the timezone we will be working in is around 9.30am to 4.30pm UTC +10/+11 Melbourne time and be able to have some overlap for project meetings and questions
 
 ## Comparison to the Student Internship with course credit
 
