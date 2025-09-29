@@ -18,10 +18,11 @@ To make things clearer, I have provided the questions I will be asking in the ca
 4. How can you demonstrate that you will be organised? What do you use to organiser yourself?
 5. How can you demonstrate that you are willing to communicate well?
 6. How can you demonstrate that you are willing to ask 10+ questions per week in this internship?
-7. What projects are you interested in and why?
-8. I will then show you the projects that are currently still available based on your interests.
-9. I will then explain the next steps to you
-10. I will ask you if you have any other questions. 
+7. Are you able to work around 6 hours per week if you are an Open Source Contributor, around 8 hours per week if you are from the Faculty of Science at University of Melbourne, or around 24 hours per week if you are from the Faculty of Engineering and IT at the University of Melbourne?
+8. What projects are you interested in and why?
+9. I will then show you the projects that are currently still available based on your interests.
+10. I will then explain the next steps to you
+11. I will ask you if you have any other questions. 
 
 
 Other things to note:
