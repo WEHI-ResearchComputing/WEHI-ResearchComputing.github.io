@@ -14,6 +14,7 @@ We have had 251 interns through the program since Semester 2, 2021 who have prov
 
 Out of the 14 anonymous reviews that have been given by students as at 11th of October 2024, our internships have been rated a 4.7 out of 5.
 
+
 ## Expectations during the internship
 
 Before you apply - please ensure you can take the time to spend doing at least 6 to 8 hours per week on these internships:
@@ -33,6 +34,9 @@ Also please ensure you:
 ## Learn real world skills
 
 We prepare students for the real-world by teaching them:
+- communication is 90% of the work - even in tech,
+- organisation skills are extremely important,
+- asking questions is a key factor in how fast you learn,
 - how understanding the domain problem and the users is more important than technical skills, and [how to work on a complex, ambiguous project](complex-projects),
 - showing them [how to become as independent as possible](faq#you-ask-us-to-be-as-independent-as-possible-how-can-we-do-that), 
 - show them [how to document and share knowledge](email-week-two) to others in a professional manner,
