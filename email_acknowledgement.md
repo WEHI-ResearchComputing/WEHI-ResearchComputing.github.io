@@ -21,7 +21,7 @@ To make things clearer, I have provided the questions I will be asking in the ca
 7. Are you able to work around 6 hours per week if you are an Open Source Contributor, around 8 hours per week if you are from the Faculty of Science at University of Melbourne, or around 24 hours per week if you are from the Faculty of Engineering and IT at the University of Melbourne?
 8. What projects are you interested in and why?
 9. I will then show you the projects that are currently still available based on your interests.
-10. I will then [explain the next steps to you - see What happens next](how-to-apply)
+10. I will then [explain the next steps to you - see the What happens next? section on the How to Apply page](how-to-apply)
 11. I will ask you if you have any other questions. 
 
 
