@@ -8,7 +8,7 @@ We provide [100% remote unpaid student internship opportunities](students) throu
 
 We have had 251 interns through the program since Semester 2, 2021 who have provided over 24 person years of effort to help us uncover and document complexity early in over 80 intern projects.
 
-Out of the 14 anonymous reviews that have been given by students as at 11th of October 2024, our internships have been rated a 4.7 out of 5.
+Out of the 16 anonymous reviews that have been given by students as at 4th of June 2025, our internships have been rated a 4.6 out of 5.
 
 <a href="students" 
    style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
