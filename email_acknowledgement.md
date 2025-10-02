@@ -16,8 +16,8 @@ To make things clearer, I have provided the questions I will be asking in the ca
 2. This is a 100% remote internship. This means all meetings are virtual. Are you OK with this?
 3. We take Diversity, Equity, and Inclusion seriously. We have a [Code of Conduct that you have to abide](code-of-conduct) by that is in the WEHI RCP Student Internship Handbook on page 10. Have you read it and are you willing to abide by it?
 4. How can you demonstrate that you will be organised? What do you use to organiser yourself?
-5. How can you demonstrate that you are willing to communicate well?
-6. How can you demonstrate that you are willing to ask 10+ questions per week in this internship?
+5. Are you willing to have at least 4 touch points per week with your supervisor (project meeting, weekly group email summary, and two other interactions)?
+6. How can you demonstrate that you are willing to ask 10+ questions per week in this internship - even if you feel embarrassed or feel uncomfortable?
 7. Are you able to work around 6 hours per week if you are an Open Source Contributor, around 8 hours per week if you are from the Faculty of Science at University of Melbourne, or around 24 hours per week if you are from the Faculty of Engineering and IT at the University of Melbourne?
 8. What projects are you interested in and why?
 9. I will then show you the projects that are currently still available based on your interests.
