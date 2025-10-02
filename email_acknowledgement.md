@@ -26,8 +26,10 @@ To make things clearer, I have provided the questions I will be asking in the ca
 
 
 Other things to note:
- 
+
 - Please [be acquainted with the program handbook](https://doi.org/10.6084/m9.figshare.21259467). 
 - Please [have a look through all the projects](https://wehi-researchcomputing.github.io/project-wikis)  
 - Other [key documents are available](https://wehi-researchcomputing.github.io/students#key-documents-to-review-and-faq) 
 - A [FAQ is also available](https://wehi-researchcomputing.github.io/faq) 
+
+One final note - this internship you only get out of it what you put into it. If you are proactive you will get a lot of benefit from the internship, if you are passive and expect to be told what to do, you will struggle.
