@@ -37,6 +37,15 @@ We also have [material on how to write a good cover letter and what to look for 
 </a>
 <div style="clear:both"></div>
 
+## What happens next?
+1. We will [email you to acknowledge that we have received your application](email_acknowledgement)
+2. We will then review your application
+3. We will then either put you in the interview list or the waiting list and contact you to let you know with more details
+4. We will then schedule a way to contact you for an informal meeting to ask you further questions
+5. At the informal interview we may offer you a place by email, or we may ask you to wait
+6. If you are a course credit intern, once you accept our offer by email, we will forward that onto the university to help get the ball rolling on course credit
+7. If you are an open source contributor, once you accept your offer by email, we will change your status in our system so we can keep you in the loop
+
 ## Need more information
 
 You can find more information here:
