@@ -18,7 +18,7 @@ We have three intakes per year - Semester 1 (March to May), Semester 2 (August t
 
 We have had 251 interns through the program since Semester 2, 2021 who have provided over 24 person years of effort to help us uncover and document complexity early in over 80 intern projects.
 
-Out of the 14 anonymous reviews that have been given by students as at 11th of October 2024, our internships have been rated a 4.7 out of 5.
+Out of the 16 anonymous reviews that have been given by students as at 4th of June 2025, our internships have been rated a 4.6 out of 5.
 
 
 ## Expectations during the internship
