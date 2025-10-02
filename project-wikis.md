@@ -4,6 +4,10 @@ This page allows you to have a look at all the internship projects offered at WE
 
 ## Summer 2025 / 2026 Projects 
 
+### 	Forecasting with Workday - Data Visualisation - Open Source
+
+This project helps the departments at WEHI help forecast budgets from Workday. For more details see [Forecasting with Workday project](student_forecasting).
+
 ### BioNix - Research Software - Open Source
 This project helps with reproducibility in the field of Bioinformatics. For more details see [BioNix project](student-bionix) and the [BioNix Getting Started Wiki](https://github.com/WEHI-ResearchComputing/BioNix-GettingStarted/wiki).
 
