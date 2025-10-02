@@ -2,6 +2,12 @@
 
 The WEHI Research Computing Platform regularly provides unpaid internship opportunities via the Discovery Internship Program. Interns can get course credit through the University of Melbourne Data Science and Software Engineering programs, as well as Open Source Contributors from around the world. These internships are 100% remote. 
 
+We have won a WEHI award - the Kellaway Excellence Education Award in 2024 - for being innovative and putting interns first. This is why we have:
+- daily standups twice a day except for Friday (only once on Fridays),
+- individual learning plans to help you plan your learning needs to fit your goals,
+- technical diaries to share your technical work with your team mates, and
+- the ability to test and improve your continuous improvement skills 
+
 We have three intakes per year - Semester 1 (March to May), Semester 2 (August to October), and Summer (November to February the next year). The [intake dates currently available and hours per week are here](intake_dates).
 
 <a href="how-to-apply" 
