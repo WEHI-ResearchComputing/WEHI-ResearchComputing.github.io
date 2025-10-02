@@ -15,6 +15,7 @@ Before you apply - please ensure you can take the time to spend doing at least 6
 Also please ensure you:
 - ask 10+ questions a week about your project,
 - email a group weekly report before your meeting each week,
+- 4 touch points per week with your supervisor (project meeting, weekly group email summary, and two other interactions)
 - keep an Individual Learning Plan (ILP) and a technical diary,
 - keep on top of the emails sent about your internship (there are a lot!),
 - keep an up to date calendar so you can plan your week, and
