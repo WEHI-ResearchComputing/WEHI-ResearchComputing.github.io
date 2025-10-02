@@ -13,7 +13,7 @@ If I am calling and it is a bad time, don’t answer. I can leave a message and 
 To make things clearer, I have provided the questions I will be asking in the call. Please look through the questions and the website to be prepared for the call. 
 
 1. How do I pronounce your name? I may ask you this question to ensure I do the best I can to pronounce your name.
-2. This is a 100% remote internship. This means all meetings are virtual. Are you OK with this?
+2. This is an unpaid, 100% remote internship. This means all meetings are virtual. Are you OK with this?
 3. We take Diversity, Equity, and Inclusion seriously. We have a [Code of Conduct that you have to abide](code-of-conduct) by that is in the WEHI RCP Student Internship Handbook on page 10. Have you read it and are you willing to abide by it?
 4. Our most successful interns are organised, communicate well and ask lots of questions. How can you demonstrate that you will be organised? What do you use to organiser yourself (how do you use your calendar, how do you prioritise, how do you take notes)?
 5. Are you willing to have at least 4 touch points per week with your supervisor (project meeting, weekly group email summary, and two other interactions)?
@@ -21,7 +21,7 @@ To make things clearer, I have provided the questions I will be asking in the ca
 7. Are you able to work around 6 hours per week if you are an Open Source Contributor, around 8 hours per week if you are from the Faculty of Science at University of Melbourne, or around 24 hours per week if you are from the Faculty of Engineering and IT at the University of Melbourne?
 8. What projects are you interested in and why?
 9. I will then show you the projects that are currently still available based on your interests.
-10. I will then explain the next steps to you
+10. I will then [explain the next steps to you - see What happens next](how-to-apply)
 11. I will ask you if you have any other questions. 
 
 
