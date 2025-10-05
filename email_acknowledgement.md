@@ -19,7 +19,7 @@ To make things clearer, I have provided the questions I will be asking in the ca
 5. Are you willing to have at least 4 touch points per week with your supervisor (project meeting, weekly group email summary, and two other interactions)?
 6. How can you demonstrate that you are willing to ask 10+ questions per week in this internship - even if you feel embarrassed or feel uncomfortable?
 7. Are you able to work around 6 hours per week if you are an Open Source Contributor, around 8 hours per week if you are from the Faculty of Science at University of Melbourne, or around 24 hours per week if you are from the Faculty of Engineering and IT at the University of Melbourne?
-8. What projects are you interested in and why?
+8. What projects are you interested in and why? You can [read more about them in this summary of projects for Summer 2025/2026.](https://www.canva.com/design/DAG0zIczPN0/MiXn_0tJkDLvWYzn3WIIDA/view?utm_content=DAG0zIczPN0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6dfc0bd5ba)
 9. I will then show you the projects that are currently still available based on your interests.
 10. I will then [explain the next steps to you - see the What happens next? section on the How to Apply page](how-to-apply)
 11. I will ask you if you have any other questions. 
