@@ -26,6 +26,8 @@ You can find the information here:
 
 We are open to having some opportunities to go to the office, especially if we can catchup with the other students. It would not be that regular though, but this can be discussed with other students. 
 
+If you are overseas, you can still participate as this is 100% online.
+
 There are also places to network:
 1. The [RSE Asia Australia unconference](https://rseaa.github.io/) happens every year in September. This is an online event and we encourage you to attend as there are scholarships available.
 2. You can join [the RSE Association of Australia and New Zealand](https://rse-aunz.github.io/) via their website.
