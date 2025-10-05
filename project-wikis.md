@@ -4,6 +4,8 @@ This page allows you to have a look at all the internship projects offered at WE
 
 ## Summer 2025 / 2026 Projects 
 
+[Overview of all the projects for Summer 2025 / 2026](https://www.canva.com/design/DAG0zIczPN0/MiXn_0tJkDLvWYzn3WIIDA/view?utm_content=DAG0zIczPN0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6dfc0bd5ba)
+
 ### 	Forecasting with Workday - Data Visualisation - Open Source
 
 This project helps the departments at WEHI help forecast budgets from Workday. For more details see [Forecasting with Workday project](student_forecasting).
