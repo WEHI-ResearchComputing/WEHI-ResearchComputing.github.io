@@ -32,6 +32,8 @@ We would want you to answer:
 
 We also have [material on how to write a good cover letter and what to look for when you are writing a resume](https://doi.org/10.6084/m9.figshare.21057535.v2).
 
+Please provide a single pdf with cover letter and resume. One way to merge them is to [use an online pdf merging tool like this one](https://www.ilovepdf.com/merge_pdf).
+
 <a href="https://redcap.wehi.edu.au/surveys/?s=AMYXK9FFHXR9LE9T" 
    style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
    Intern Enrollment Form
