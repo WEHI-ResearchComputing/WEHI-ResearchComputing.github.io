@@ -1,4 +1,4 @@
-# RCP Internship Program - Intake 13 - Semester 2 2025
+# RCP Internship Program - Intake 13 - Semester 2 2025 (In Progress)
 
 This is the list of projects for this intake. Here you will see:
 - Summary of the problem and the work done in the project
