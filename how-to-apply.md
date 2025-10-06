@@ -2,9 +2,27 @@
 
 We have three intakes per year - Semester 1 (March to May), Semester 2 (August to October), and Summer (November to February the next year). The [intake dates currently available and hours per week are here](intake_dates).
 
-Due to the volume of students now applying to this internship, to be eligible you must fill out the RCP Student Internship Enrollment form. 
+## Please check out projects available
 
-Please provide a resume and cover letter.
+
+<a href="https://www.canva.com/design/DAG0zIczPN0/MiXn_0tJkDLvWYzn3WIIDA/view?utm_content=DAG0zIczPN0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6dfc0bd5ba" 
+   style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
+   Summary of projects for Summer 2025 / 2026 (Presentation Slides)
+</a>
+<div style="clear:both"></div>
+
+<a href="https://wehieduau-my.sharepoint.com/:v:/g/personal/mosbergen_r_wehi_edu_au/EV8GFAEFZzNNm1iH0vLS870BORC9GjxFO6k0kIdjIKllYw" 
+   style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
+   Summary of projects for Summer 2025 / 2026 (Presentation Recording)
+</a>
+<div style="clear:both"></div>
+
+<a href="project-wiki" 
+   style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
+   List of projects
+</a>
+<div style="clear:both"></div>
+
 ## Expectations
 Before you apply - please ensure you can take the time to spend doing at least 6 to 8 hours per week on these internships:
 - 1 hour a week for a project meeting with your supervisor and your teammates, 
@@ -33,6 +51,8 @@ We would want you to answer:
 We also have [material on how to write a good cover letter and what to look for when you are writing a resume](https://doi.org/10.6084/m9.figshare.21057535.v2).
 
 Please provide a single pdf with cover letter and resume. One way to merge them is to [use an online pdf merging tool like this one](https://www.ilovepdf.com/merge_pdf).
+
+Due to the volume of students now applying to this internship, to be eligible you must fill out the RCP Student Internship Enrollment form. 
 
 <a href="https://redcap.wehi.edu.au/surveys/?s=AMYXK9FFHXR9LE9T" 
    style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
