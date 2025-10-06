@@ -17,7 +17,7 @@ We have three intakes per year - Semester 1 (March to May), Semester 2 (August t
 </a>
 <div style="clear:both"></div>
 
-<a href="project-wiki" 
+<a href="project-wikis" 
    style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
    List of projects
 </a>
