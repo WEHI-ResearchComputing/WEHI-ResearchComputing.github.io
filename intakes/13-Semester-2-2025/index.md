@@ -82,7 +82,7 @@ What I did was focus on **rebuilding the system infrastructure** by setting up a
 How far I got was a **nearly complete system**, with the backend and database fully connected and running smoothly, and the final step being to establish the connection between the backend and frontend. This progress laid the groundwork for completing the full data flow and advancing REDMANE toward a production-ready stage.
 
 ## Key links
-- Final presentation video
+- [Final presentation video](https://wehieduau-my.sharepoint.com/:v:/g/personal/mosbergen_r_wehi_edu_au/EW6eFphhisNErQ19JXVJnfQBxMrnwGJcOGczOMBGfVqZRg?e=KNxu34)
 - [Final presentation slides](https://wehieduau.sharepoint.com/:p:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/Semester%202%202025/Data%20Registry/REDMANE%202025S2.pptx?d=wf821941c6ff344f884624a86e8cdc29c&csf=1&web=1&e=9fBUeW)
 - [Link to daily technical diary](https://wehieduau.sharepoint.com/:b:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/Semester%202%202025/Data%20Registry/Minghan%20Li%20REDMANE%20Daily%20Notes.pdf?csf=1&web=1&e=KbR9eq)
 - [Link to Github repo](https://github.com/theBEST-git/REDMANE_Demo_2025s2)
