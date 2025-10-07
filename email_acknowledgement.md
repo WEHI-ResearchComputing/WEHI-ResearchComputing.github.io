@@ -8,8 +8,6 @@ If you are granted an interview, I will be contacting you by email to arrange a 
 
 If you are not granted an interview, I will let you know as soon as I can by email that you are on a waiting list.
 
-If I am calling and it is a bad time, don’t answer. I can leave a message and call back later. 
-
 To make things clearer, I have provided the questions I will be asking in the call. Please look through the questions and the website to be prepared for the call. 
 
 1. How do I pronounce your name? I may ask you this question to ensure I do the best I can to pronounce your name.
