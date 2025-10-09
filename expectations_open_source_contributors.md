@@ -31,5 +31,6 @@ How does an open source contributor differ from the student intern who gets cour
 | Must update wiki and documentation as appropriate | encouraged but optional | mandatory |
 | Must work on an open source project | mandatory | can work on open source and close source projects |
 | Has access to WEHI resources | no | yes |
+| Acknowlegement Received | Certificate of Contribution | Certificate of Completion |
 | --- | --- | --- |
 
