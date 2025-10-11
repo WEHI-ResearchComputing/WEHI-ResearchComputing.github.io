@@ -16,15 +16,9 @@ Please note that applications for the Summer 2025 / 2026 intake have now closed.
 
 Here are some of the [recurring student intern projects and new projects we are working on](project-wikis).
 
-<a href="project-wikis" 
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=4nJ8qs_FQEqiKqWFwEygfHucYnIbkjZJm7W73SM5JMBUN1lEOTNXWEI2WjI2OTRDV1E4MjlOSzNQNy4u" 
    style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
-   View list of projects
-</a>
-<div style="clear:both"></div>
-
-<a href="intake_dates" 
-   style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
-   Intake Dates
+   Sign up for Semester 1 2026 updates
 </a>
 <div style="clear:both"></div>
 
