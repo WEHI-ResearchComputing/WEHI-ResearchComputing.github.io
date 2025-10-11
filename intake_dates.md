@@ -8,7 +8,7 @@ We have three intakes per year - Semester 1 (March to May), Semester 2 (August t
 </a>
 <div style="clear:both"></div>
 
-## Summer 2025/2026 now available
+## Summer 2025/2026 applications have now closed
 
 
 - **[Engineering and IT](https://eng.unimelb.edu.au/industry/students/internships#key-dates):** start and end dates are tentatively from 17th November 2025 to 27th February 2026 for around 24 hours per week.
