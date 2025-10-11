@@ -10,9 +10,21 @@ We have won a WEHI award - the Kellaway Excellence Education Award in 2024 - for
 
 We have three intakes per year - Semester 1 (March to May), Semester 2 (August to October), and Summer (November to February the next year). The [intake dates currently available and hours per week are here](intake_dates). We have anywhere between 20 and 45 interns in an intake.
 
-<a href="how-to-apply" 
+### List of student intern projects (subject to availability and eligibility)
+
+Please note that applications for the Summer 2025 / 2026 intake have now closed.
+
+Here are some of the [recurring student intern projects and new projects we are working on](project-wikis).
+
+<a href="project-wikis" 
    style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
-   How to Apply for Summer 25/26
+   View list of projects
+</a>
+<div style="clear:both"></div>
+
+<a href="intake_dates" 
+   style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
+   Intake Dates
 </a>
 <div style="clear:both"></div>
 
@@ -60,22 +72,6 @@ Many of the projects work in the Data Analysis and [Research Software Engineerin
 
 We mainly work with projects that use R and Shiny, Python, Julia, bash, while also making the most out of other technologies such as RStudio, Jupyter notebooks, PowerBI and other applications within the data analytics space.
 
-
-### List of student intern projects (subject to availability and eligibility)
-
-Here are some of the [recurring student intern projects and new projects we are working on](project-wikis).
-
-<a href="project-wikis" 
-   style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
-   View list of projects
-</a>
-<div style="clear:both"></div>
-
-<a href="intake_dates" 
-   style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
-   Intake Dates
-</a>
-<div style="clear:both"></div>
 
 ### List of previous student intern project reports
 
