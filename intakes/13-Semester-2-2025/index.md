@@ -32,12 +32,12 @@ For AIVE integration, one main task was to get the AI segmentation done in WEKA 
 As a group, we first reviewed the project background, research paper, and previous interns' work to get a clear understanding of our starting point. After this we began narrowing down the problem space to decide what we would work on, eventually landing on the two objectives mentioned. 
 
 #### Tasks Undertaken:
-•	Investigating various segmentation tools: We focused primarily on Empanada and microSam and began by testing the ML models provided by these software tools in their capability to segment FIB-SEM images. 
-•	Develop Scripts for file conversion: Python scripts were written for conversions in relation to .tif format files. Specifically, Zarr to tiff and tiff to NumPy arrays.
-•	Developed a model runner: A model runner that allows users to run multiple empanada models at the same time was implemented for convenience.
-•	Setting up and testing workflows for 3D image data: Setup a  minimal reproducible pipeline: load → encode→ run models → merge → export
-•	Documenting technical setups, challenges, and recommendations: All details related to the process, results achieved, and any notable observations as well as insights were recorded in documentation to be referred to. 
-•	Sharing progress and insights in regular group meetings: We had regular group meetings amongst the team members to discuss our progress and to decide the next steps. We conveyed any issues and discoveries that we made during our experience and learned how to employ effective teamwork and communication to achieve results. 
+-	Investigating various segmentation tools: We focused primarily on Empanada and microSam and began by testing the ML models provided by these software tools in their capability to segment FIB-SEM images. 
+-	Develop Scripts for file conversion: Python scripts were written for conversions in relation to .tif format files. Specifically, Zarr to tiff and tiff to NumPy arrays.
+-	Developed a model runner: A model runner that allows users to run multiple empanada models at the same time was implemented for convenience.
+-	Setting up and testing workflows for 3D image data: Setup a  minimal reproducible pipeline: load → encode→ run models → merge → export
+-	Documenting technical setups, challenges, and recommendations: All details related to the process, results achieved, and any notable observations as well as insights were recorded in documentation to be referred to. 
+-	Sharing progress and insights in regular group meetings: We had regular group meetings amongst the team members to discuss our progress and to decide the next steps. We conveyed any issues and discoveries that we made during our experience and learned how to employ effective teamwork and communication to achieve results. 
 
 We collaborated actively to identify bottlenecks, benchmark results, and keep documentation up to date for both future interns and project integration.
 
@@ -55,7 +55,7 @@ By the end of the internship, we were able to partially reproduce the AIVE core 
 - [Link to individual learning plans](https://wehieduau.sharepoint.com/:f:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/AIVE/2025%20Semester%202/ILPs?csf=1&web=1&e=qrYrGb)
 - [Link to technical diaries](https://wehieduau.sharepoint.com/:f:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/AIVE/2025%20Semester%202/Technical%20Diary?csf=1&web=1&e=bNCcZH)
 - [Link to Github repos](https://github.com/MitochondRuna/AIVE-Intro/tree/WEHI-Internship-S2-2025)
-- [Semester 2 2025 Folder](https://wehieduau.sharepoint.com/:f:/r/sites/StudentInternGroupatWEHI/Shared Documents/AIVE/2025 Semester 2?csf=1&web=1&e=gFpfRj)
+- [Semester 2 2025 Folder](https://wehieduau.sharepoint.com/:f:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/AIVE/2025%20Semester%202?csf=1&web=1&e=Iq6CnZ)
 
 # BioNix
 
