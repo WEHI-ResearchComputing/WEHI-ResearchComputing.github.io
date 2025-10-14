@@ -16,18 +16,46 @@ Please [update and do a pull request for this page via Github here](https://gith
 
 # AIVE
 
-Our objective was ...
+### OBJECTIVE
+Our team was divided into two groups, each tasked with their own objectives. 
 
-What we did as a group was ...
+#### Organelle Segmentation
+The objective for this group was to contribute to the AIVE project by addressing the intensive manual effort required for organelle segmentation in microscopy images. Identifying the structures of organelles within electron microscopy (EM) images is an important task in the AIVE pipeline which is largely done through manual segmentation- which is time consuming - rather than Machine Learning techniques such as Deep Learning Models due to insufficient investment in the matter. The task included exploring and evaluating the various software tools that can be used to perform segmentation of 3D EM images, thus allowing researchers to determine its viability in the AIVE workflow’s integration requirements. We created documentation regarding the usage of such tools, the results obtained, and observations such as their performance ability and technical capabilities.  
 
-How far we got was ...
+#### AI Probabilities and AIVE Integration
+The second group’s objective was to streamline the AIVE workflow in WEKA. The motivation comes from knowing that in the current workflow, AIVE is a separate step from AI predictions to enhance the results. The goal was to explore WEKA to determine whether adding an extra layer to the model can integrate the AI predictions with the original EM image.  
+For AIVE integration, one main task was to get the AI segmentation done in WEKA which includes training and evaluating a Random Forest classifier and getting the probability maps per class. The second main task was to preprocess the raw EM image using Fiji/ImageJ which includes applying contrast normalisation and denoising techniques.
+
+
+### WHAT WE DID AS A GROUP
+#### Comprehending the AIVE Workflow
+As a group, we first reviewed the project background, research paper, and previous interns' work to get a clear understanding of our starting point. After this we began narrowing down the problem space to decide what we would work on, eventually landing on the two objectives mentioned. 
+
+#### Tasks Undertaken:
+•	Investigating various segmentation tools: We focused primarily on Empanada and microSam and began by testing the ML models provided by these software tools in their capability to segment FIB-SEM images. 
+•	Develop Scripts for file conversion: Python scripts were written for conversions in relation to .tif format files. Specifically, Zarr to tiff and tiff to NumPy arrays.
+•	Developed a model runner: A model runner that allows users to run multiple empanada models at the same time was implemented for convenience.
+•	Setting up and testing workflows for 3D image data: Setup a  minimal reproducible pipeline: load → encode→ run models → merge → export
+•	Documenting technical setups, challenges, and recommendations: All details related to the process, results achieved, and any notable observations as well as insights were recorded in documentation to be referred to. 
+•	Sharing progress and insights in regular group meetings: We had regular group meetings amongst the team members to discuss our progress and to decide the next steps. We conveyed any issues and discoveries that we made during our experience and learned how to employ effective teamwork and communication to achieve results. 
+
+We collaborated actively to identify bottlenecks, benchmark results, and keep documentation up to date for both future interns and project integration.
+
+### FINAL STATUS
+#### Organelle Segmentation
+By the end of the internship, we had tested and documented the initial analysis of tools for organelle segmentation. We established a reproducible workflow, highlighted tool limitations, and proposed recommendations for further improvements.
+While initial tool analysis objectives were achieved, additional development will be needed for full automation and deeper integration with the wider AIVE project
+#### AI Probabilities and AIVE Integration
+By the end of the internship, we were able to partially reproduce the AIVE core workflow that covers 3 main complex steps including AI segmentation, data preprocessing and voxel multiplication. Unlike AIVE original workflow, we were able to integrate AI segmentation and the voxel multiplication within WEKA by using a mathematical expression tool. 
+
 
 ## Key links
-- Final presentation video
-- FInal presentation slides
-- Link to individual learning plans
-- Link to technical diaries
-- Link to Github repos
+- [Final presentation video](https://wehieduau-my.sharepoint.com/personal/mosbergen_r_wehi_edu_au/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmosbergen%5Fr%5Fwehi%5Fedu%5Fau%2FDocuments%2FRecordings%2FAIVE%20Weekly%20Project%20Meeting%2D20251007%5F150733%2DMeeting%20Recording%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E81ec71a7%2De37d%2D4d53%2Da7ad%2Db07b1cd30418&ga=1)
+- [Final presentation slides](https://wehieduau.sharepoint.com/:b:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/AIVE/2025%20Semester%202/AIVE%20-%20Sem%202%202025%20Final%20presentation.pdf?csf=1&web=1&e=gNjPGx)
+- [Link to individual learning plans](https://wehieduau.sharepoint.com/:f:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/AIVE/2025%20Semester%202/ILPs?csf=1&web=1&e=qrYrGb)
+- [Link to technical diaries](https://wehieduau.sharepoint.com/:f:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/AIVE/2025%20Semester%202/Technical%20Diary?csf=1&web=1&e=bNCcZH)
+- [Link to Github repos](https://github.com/MitochondRuna/AIVE-Intro/tree/WEHI-Internship-S2-2025)
+- [Semester 2 2025 Folder](https://wehieduau.sharepoint.com/:f:/r/sites/StudentInternGroupatWEHI/Shared Documents/AIVE/2025 Semester 2?csf=1&web=1&e=gFpfRj)
 
 # BioNix
 
