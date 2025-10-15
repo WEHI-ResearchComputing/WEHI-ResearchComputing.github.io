@@ -136,12 +136,33 @@ How far we got was ...
 - Link to Github repos
 
 # Student Organiser
-Our objective was ...
+### Objective
 
-What we did as a group was ...
+The objective of our project was to improve the **Student Organiser** application to support Rowland in managing interns, projects, and intakes more effectively. Additionally, our team aimed to design a new **Student Engagement** feature that would allow Rowland to track attendance, questions asked, and overall engagement throughout each internship period.
 
-How far we got was ...
+### What We Did as a Group
 
+As a team, we began by reviewing the existing system, including documentation and previous interns’ work, to fully understand its workflow and current limitations. We identified several areas for improvement and prioritised features that would enhance usability, data accuracy, and supervisor efficiency.
+
+## Our key contributions included:
+
+- **Enhancing project and capacity management:** Implemented functionality that allows Rowland to view offered and accepted students together, providing a clearer overview of project capacity.
+
+- **Improving project job description management:** Developed a feature that enables reuse and editing of project job descriptions for new intakes.
+
+- **Streamlining intake management:** Added the ability to modify intake start dates and send emails directly to interns using saved templates, improving communication and reducing manual work.
+
+- **Designing a Student Engagement system:** Created a database schema and UI layout to track student participation, including attendance records, questions asked, and communication history. This design will form the foundation for future development and integration.
+
+- **Collaboration and testing:** Regularly held team meetings to review code, identify missing functions (such as email handling in intake management), and maintain consistency through GitHub workflows.
+
+### Final Status
+
+By the end of the internship, the team had successfully implemented and tested the new features for **project capacity tracking, job description management**, and **intake communication** using automated email templates.
+
+The **Student Engagement** system was fully designed, with both the database structure and UI prototypes completed, but not yet implemented. This provides a clear and well-documented roadmap for future interns to continue building upon.
+
+Overall, the Student Organiser is now more user-friendly, efficient, and aligned with the supervisor’s needs, setting a strong foundation for future improvements in intern management and engagement tracking.
 ## Key links
 - Final presentation video
 - FInal presentation slides
