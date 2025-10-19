@@ -122,18 +122,21 @@ How far I got was a **nearly complete system**, with the backend and database fu
 - [Link to FastAPI+PSQL Setup Guide](https://wehieduau.sharepoint.com/:b:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Data%20Commons/Semester%202%202025/Data%20Registry/REDMANE%20FastAPI%20Setup.pdf?csf=1&web=1&e=GejO3b)
 
 # REDMANE Web Dev
-Our objective was ...
+The objective of our team this semester was to turn the REDMANE Data Registry into a **functional MVP** that could be shown to stakeholders. We aimed to remove hardcoded content, make pages responsive, and connect the frontend to the PostgreSQL database.
 
-What we did as a group was ...
+This internship, we completed three core features. **Creating new datasets, a project summary page, and uploading file metadata.** As well as updating the files view page for a dataset to be responsive, and filter between raw / processed / summarised files. The datasets and projects are now also read from the database. These features all interact directly with the database and now allow for basic Create and Read functionality (no Update and Delete just yet) in the demo.
 
-How far we got was ...
+This intake we were able to turn what was previously a basic framework for REDMANE, into a functional demo built with core create / upload features, with some advanced features still in progress, paving the way for future development.
 
 ## Key links
-- Final presentation video
-- FInal presentation slides
-- Link to individual learning plans
-- Link to technical diaries
-- Link to Github repos
+- [Semester 2 2025 Folder](https://wehieduau.sharepoint.com/sites/StudentInternGroupatWEHI/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=pDcIAg&CID=96eb9bc2%2D2476%2D442d%2Dbb04%2D3562dbd82c60&FolderCTID=0x0120008FF8F20683AC284798EA496C639CC069&id=%2Fsites%2FStudentInternGroupatWEHI%2FShared%20Documents%2FData%20Commons%2F2025%20Semester%202%20Web%20Dev)
+- [Final presentation video](https://wehieduau-my.sharepoint.com/personal/mosbergen_r_wehi_edu_au/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmosbergen%5Fr%5Fwehi%5Fedu%5Fau%2FDocuments%2FRecordings%2FREDMANE%20Web%20Final%20Presentation%2D20251017%5F130758%2DMeeting%20Recording%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E5516915a%2Dc2bf%2D4002%2D91b4%2D147cb14d9d9f&ga=1)
+- [Final presentation slides](https://wehieduau.sharepoint.com/:p:/r/sites/StudentInternGroupatWEHI/_layouts/15/Doc.aspx?sourcedoc=%7B8B397EA8-4FB4-4765-A4C2-B7F7E689A10A%7D&file=2025_Sem2Presentation.pptx&action=edit&mobileredirect=true)
+- [Link to individual learning plans](https://wehieduau.sharepoint.com/sites/StudentInternGroupatWEHI/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FStudentInternGroupatWEHI%2FShared%20Documents%2FData%20Commons%2F2025%20Semester%202%20Web%20Dev%2FIndividual%20Learning%20Plans&viewid=afd55542%2D8e3a%2D4327%2D95f9%2D63450ae10d2a&csf=1&web=1&e=pDcIAg&CID=96eb9bc2%2D2476%2D442d%2Dbb04%2D3562dbd82c60&FolderCTID=0x0120008FF8F20683AC284798EA496C639CC069)
+- [Link to technical diaries](https://wehieduau.sharepoint.com/sites/StudentInternGroupatWEHI/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FStudentInternGroupatWEHI%2FShared%20Documents%2FData%20Commons%2F2025%20Semester%202%20Web%20Dev%2FTechnical%20Diaries&viewid=afd55542%2D8e3a%2D4327%2D95f9%2D63450ae10d2a&csf=1&web=1&e=pDcIAg&CID=96eb9bc2%2D2476%2D442d%2Dbb04%2D3562dbd82c60&FolderCTID=0x0120008FF8F20683AC284798EA496C639CC069)
+- [Link to Github Frontend ReactJS Repo](https://github.com/WEHI-RCPStudentInternship/REDMANE_react.js/tree/13-semester2_2025)
+- [Link to Github Backend FastAPI Repo](https://github.com/WEHI-RCPStudentInternship/REDMANE_fastapi/tree/13-2025-Semester-2)
+- [Link to Github Database Setup PostgreSQL Repo](https://github.com/WEHI-RCPStudentInternship/REDMANE_fastapi_public_data/tree/sem_2_2025)
 
 # Student Organiser
 Our objective was ...
