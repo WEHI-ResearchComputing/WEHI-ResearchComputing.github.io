@@ -164,8 +164,9 @@ The **Student Engagement** system was fully designed, with both the database str
 
 Overall, the Student Organiser is now more user-friendly, efficient, and aligned with the supervisor’s needs, setting a strong foundation for future improvements in intern management and engagement tracking.
 ## Key links
-- Final presentation video
-- FInal presentation slides
-- Link to individual learning plans
-- Link to technical diaries
-- Link to Github repos
+ [Final presentation video](https://wehieduau-my.sharepoint.com/personal/mosbergen_r_wehi_edu_au/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmosbergen%5Fr%5Fwehi%5Fedu%5Fau%2FDocuments%2FRecordings%2FStudent%20Organiser%20Final%20Presentation%20Sem%202%202025%2D20251020%5F161255%2DMeeting%20Recording%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E1052496f%2D5949%2D4237%2Da8b8%2D5a3f18e216ba&ga=1)
+- [Final presentation slides](https://www.canva.com/design/DAGz8areWv0/I5qfmPocTYP1-jN4NJAaqg/edit?utm_content=DAGz8areWv0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Link to daily technical diary](https://wehieduau.sharepoint.com/:f:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Student%20Organiser/2025%20S2/Daily%20Technical%20Diary?csf=1&web=1&e=uIK8Ma)
+- [Link to individual learning ](https://wehieduau.sharepoint.com/:f:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Student%20Organiser/2025%20S2/Individual%20Learning%20Plans?csf=1&web=1&e=0AEwNj)
+- [Link to Github repo](https://github.com/WEHI-RCPStudentInternship/student-intern-organiser)
+- [Link to Semster 2 2025](https://wehieduau.sharepoint.com/:f:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Student%20Organiser/2025%20S2?csf=1&web=1&e=hj1aiW)
