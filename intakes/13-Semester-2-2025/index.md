@@ -158,15 +158,37 @@ This intake we were able to turn what was previously a basic framework for REDMA
 - [Link to Github Database Setup PostgreSQL Repo](https://github.com/WEHI-RCPStudentInternship/REDMANE_fastapi_public_data/tree/sem_2_2025)
 
 # Student Organiser
-Our objective was ...
+### Objective
 
-What we did as a group was ...
+The objective of our project was to improve the **Student Organiser** application to support Rowland in managing interns, projects, and intakes more effectively. Additionally, our team aimed to design a new **Student Engagement** feature that would allow Rowland to track attendance, questions asked, and overall engagement throughout each internship period.
 
-How far we got was ...
+### What We Did as a Group
 
+As a team, we began by reviewing the existing system, including documentation and previous interns’ work, to fully understand its workflow and current limitations. We identified several areas for improvement and prioritised features that would enhance usability, data accuracy, and supervisor efficiency.
+
+## Our key contributions included:
+
+- **Enhancing project and capacity management:** Implemented functionality that allows Rowland to view offered and accepted students together, providing a clearer overview of project capacity.
+
+- **Improving project job description management:** Developed a feature that enables reuse and editing of project job descriptions for new intakes.
+
+- **Streamlining intake management:** Added the ability to modify intake start dates and send emails directly to interns using saved templates, improving communication and reducing manual work.
+
+- **Designing a Student Engagement system:** Created a database schema and UI layout to track student participation, including attendance records, questions asked, and communication history. This design will form the foundation for future development and integration.
+
+- **Collaboration and testing:** Regularly held team meetings to review code, identify missing functions (such as email handling in intake management), and maintain consistency through GitHub workflows.
+
+### Final Status
+
+By the end of the internship, the team had successfully implemented and tested the new features for **project capacity tracking, job description management**, and **intake communication** using automated email templates.
+
+The **Student Engagement** system was fully designed, with both the database structure and UI prototypes completed, but not yet implemented. This provides a clear and well-documented roadmap for future interns to continue building upon.
+
+Overall, the Student Organiser is now more user-friendly, efficient, and aligned with the supervisor’s needs, setting a strong foundation for future improvements in intern management and engagement tracking.
 ## Key links
-- Final presentation video
-- FInal presentation slides
-- Link to individual learning plans
-- Link to technical diaries
-- Link to Github repos
+ [Final presentation video](https://wehieduau-my.sharepoint.com/personal/mosbergen_r_wehi_edu_au/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmosbergen%5Fr%5Fwehi%5Fedu%5Fau%2FDocuments%2FRecordings%2FStudent%20Organiser%20Final%20Presentation%20Sem%202%202025%2D20251020%5F161255%2DMeeting%20Recording%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E1052496f%2D5949%2D4237%2Da8b8%2D5a3f18e216ba&ga=1)
+- [Final presentation slides](https://www.canva.com/design/DAGz8areWv0/I5qfmPocTYP1-jN4NJAaqg/edit?utm_content=DAGz8areWv0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Link to daily technical diary](https://wehieduau.sharepoint.com/:f:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Student%20Organiser/2025%20S2/Daily%20Technical%20Diary?csf=1&web=1&e=uIK8Ma)
+- [Link to individual learning ](https://wehieduau.sharepoint.com/:f:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Student%20Organiser/2025%20S2/Individual%20Learning%20Plans?csf=1&web=1&e=0AEwNj)
+- [Link to Github repo](https://github.com/WEHI-RCPStudentInternship/student-intern-organiser)
+- [Link to Semster 2 2025](https://wehieduau.sharepoint.com/:f:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Student%20Organiser/2025%20S2?csf=1&web=1&e=hj1aiW)
