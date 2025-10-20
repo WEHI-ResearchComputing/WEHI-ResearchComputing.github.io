@@ -59,11 +59,31 @@ By the end of the internship, we were able to partially reproduce the AIVE core 
 
 # BioNix
 
-Our objective was ...
+##OBJECTIVE
+The research project worked to boost bioinformatics workflow reproducibility through its development of BioNix which operates as a Nix package manager extension.  BioNix enables scientists to create reproducible environments for complex scientific analyses which can be shared and version controlled. Our main goal was to find the barriers of computational reproducibility and make useful improvements by adding documentation to code and implementing testing and packaging.
 
-What we did as a group was ...
+##WHAT WE DID AS A GROUP
+As a team, we explored the Nix ecosystem, including Bash scripting, Nix, Nixpkgs, and BioNix. The learning process started with a challenging slope because we lacked experience with these tools. We concentrated on: 
+•	Understanding how Nix ensures consistent builds and dependency management.
+•	Exploring reproducibility challenges in existing bioinformatics workflows.
+•	Testing and documenting small, reproducible pipelines to demonstrate workflow consistency.
+•	Trying genome alignment using nixpkgs.
+•	Improving onboarding materials by creating an “Introduction to BioNix Project” page, which provides guidance on installation, key concepts, and troubleshooting.
+•	Maintaining detailed technical diaries to record progress, errors, and solutions for future contributors.
+We worked collaboratively, shared progress in regular meetings, and updated documentation to support long-term project continuity and accessibility. 
 
-How far we got was ...
+##HOW FAR WE GOT
+By the end of the project, we achieved several outcomes:
+•	Developed a foundational understanding of reproducible build systems and workflow management using Nix and BioNix.
+•	Developed understanding of genome alignment workflows using BWA, samtools, and seqtk within reproducible environments.
+•	Investigated reproducibility barriers in packaging complex bioinformatics tools, such as Gridss
+•	Created and published onboarding documentation on GitHub to support new users and interns with minimal programming background.
+Although full integration of advanced tools like Gridss into BioNix remains ongoing work, the team established a reproducible foundation, identified technical bottlenecks, and provided documentation that will streamline future development.
+
+##FINAL INSIGHTS
+Through this project, we learned how to apply reproducibility principles in real-world bioinformatics contexts.
+We moved beyond traditional learning styles to self-directed exploration, iterative testing, and reflective documentation.
+Our collective effort resulted in practical contributions to BioNix’s infrastructure and onboarding resources, setting the stage for continued development by future contributors.
 
 ## Key links
 - Final presentation video
