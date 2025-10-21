@@ -60,9 +60,11 @@ By the end of the internship, we were able to partially reproduce the AIVE core 
 # BioNix
 
 OBJECTIVE
+
 The research project worked to boost bioinformatics workflow reproducibility through its development of BioNix which operates as a Nix package manager extension.  BioNix enables scientists to create reproducible environments for complex scientific analyses which can be shared and version controlled. Our main goal was to find the barriers of computational reproducibility and make useful improvements by adding documentation to code and implementing testing and packaging.
 
 WHAT WE DID AS A GROUP
+
 As a team, we explored the Nix ecosystem, including Bash scripting, Nix, Nixpkgs, and BioNix. The learning process started with a challenging slope because we lacked experience with these tools. We concentrated on: 
 •	Understanding how Nix ensures consistent builds and dependency management.
 •	Exploring reproducibility challenges in existing bioinformatics workflows.
@@ -72,6 +74,7 @@ As a team, we explored the Nix ecosystem, including Bash scripting, Nix, Nixpkgs
 We worked collaboratively, shared progress in regular meetings, and updated documentation to support long-term project continuity and accessibility. 
 
 HOW FAR WE GOT
+
 By the end of the project, we achieved several tangible outcomes:
 •	Developed a foundational understanding of reproducible build systems and workflow management using Nix and BioNix.
 •	Demonstrated understanding of genome alignment conecepts and workflow.
@@ -80,12 +83,13 @@ By the end of the project, we achieved several tangible outcomes:
 Although full integration of advanced tools like Gridss into BioNix remains ongoing work, the team established a reproducible foundation, identified technical bottlenecks, and provided documentation that will streamline future development.
  
 FINAL INSIGHTS
+
 Through this project, we learned how to apply reproducibility principles in real-world bioinformatics contexts.
 We moved beyond traditional learning styles to self-directed exploration, iterative testing, and reflective documentation.
 Our collective effort resulted in practical contributions to BioNix’s infrastructure and onboarding resources, setting the stage for continued development by future contributors.
 
 ## Key links
-- Final presentation video 
+- [Final presentation video](https://wehieduau-my.sharepoint.com/personal/mosbergen_r_wehi_edu_au/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmosbergen%5Fr%5Fwehi%5Fedu%5Fau%2FDocuments%2FRecordings%2FBioNix%20Final%20Presentation%2D20251020%5F133335%2DMeeting%20Recording%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ebfeaad5d%2Daae9%2D4c0a%2D9be9%2D63a58bd5d653&ga=1)
 - [FInal presentation slides](https://wehieduau.sharepoint.com/:p:/r/sites/StudentInternGroupatWEHI/_layouts/15/Doc.aspx?sourcedoc=%7B9732F922-1FA2-4B54-9DF1-2573C7E76867%7D&file=BioNix%20Final%20Presentation%20Sem2%202025.pptx&action=edit&mobileredirect=true)
 - [Link to individual learning plans](https://wehieduau.sharepoint.com/sites/StudentInternGroupatWEHI/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FStudentInternGroupatWEHI%2FShared%20Documents%2FBioNix%20Introduction%2FBioNix%202025%20sem%202&viewid=afd55542%2D8e3a%2D4327%2D95f9%2D63450ae10d2a&web=1&FolderCTID=0x0120008FF8F20683AC284798EA496C639CC069)
 - [Link to technical diaries](https://wehieduau.sharepoint.com/sites/StudentInternGroupatWEHI/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FStudentInternGroupatWEHI%2FShared%20Documents%2FBioNix%20Introduction%2FBioNix%202025%20sem%202&viewid=afd55542%2D8e3a%2D4327%2D95f9%2D63450ae10d2a&web=1&FolderCTID=0x0120008FF8F20683AC284798EA496C639CC069)
