@@ -1,6 +1,8 @@
-# Unpaid Discovery Internship Program
+# RCP Discovery Internship Program
 
-The WEHI Research Computing Platform regularly provides unpaid internship opportunities via the Discovery Internship Program. Interns can get course credit through the University of Melbourne Data Science and Software Engineering programs, as well as Open Source Contributors (volunteers) from around the world. These internships are 100% remote. 
+The WEHI Research Computing Platform regularly provides unpaid internship opportunities via the Discovery Internship Program. Interns can get course credit through the University of Melbourne Data Science and Software Engineering programs, and Open Source Contributors (volunteers) can also participate from around the world. 
+
+These internships are 100% remote, and we have already hosted interns from Africa, Asia, Australia, Europe, and both North and South America — every continent except Antarctica!
 
 We assist students and early career professionals in transitioning to the real workforce by engaging them in multi-disciplinary teams on complex projects. Over the past four years, we have successfully assembled more than 81 multi-disciplinary teams, featuring over 270 interns.
 
