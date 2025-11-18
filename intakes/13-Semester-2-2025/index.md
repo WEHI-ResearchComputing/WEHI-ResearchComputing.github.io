@@ -1,4 +1,4 @@
-# RCP Internship Program - Intake 13 - Semester 2 2025 (In Progress)
+# RCP Internship Program - Intake 13 - Semester 2 2025 (Finished)
 
 This is the list of projects for this intake. Here you will see:
 - Summary of the problem and the work done in the project
@@ -122,7 +122,7 @@ What we did as a group was ...
 How far we got was ...
 
 ## Key links
-- Final presentation video
+- [Final presentation video](https://wehieduau-my.sharepoint.com/:v:/g/personal/mosbergen_r_wehi_edu_au/IQCLIq4wWmhrTbaAITLTP5YtAZYbeLaZwcjT7_-VlnCyio8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=MH1kdd)
 - FInal presentation slides
 - Link to individual learning plans
 - Link to technical diaries
