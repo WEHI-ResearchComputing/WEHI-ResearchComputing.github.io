@@ -115,18 +115,20 @@ How far we got was completing all the planned work, including refactoring the R 
 
 # Genomics Invoicing
 
-Our objective was ...
+Our objective was:
 
-What we did as a group was ...
+To develop a proof-of-concept R Shiny application that streamlines and automates the process of quote creation, pricing updates, and invoice generation for the WEHI Genomics Facility. The aim was to replace slow, error-prone manual spreadsheets with a flexible, data-driven system that improves efficiency, consistency, and accuracy when reagent and consumable prices frequently change.
+What we did as a group was:
+We collaborated to design and implement a modular Shiny web application that allows users to upload a master spreadsheet, filter and summarise products, and automatically generate invoices based on selected items. The group worked together on building the app’s architecture, interface design, and back-end logic, while also managing version control through GitHub and integrating feedback from supervisors. Our workflow involved combining data-handling functions, user interface development, and testing within a shared repository.
 
-How far we got was ...
+How far we got was:
+
+By the end of the internship, we successfully produced a working prototype capable of reading and cleaning Excel pricing sheets, dynamically filtering products by brand and category, and generating itemised invoices. The core features, file upload, data parsing, filtering, and summary reporting were completed and tested locally. Future work could focus on refining the user interface, adding automated error logging, fixing the add and delete buttons, and an option to change item quantities before invoice creation.
 
 ## Key links
 - [Final presentation video](https://wehieduau-my.sharepoint.com/:v:/g/personal/mosbergen_r_wehi_edu_au/IQCLIq4wWmhrTbaAITLTP5YtAZYbeLaZwcjT7_-VlnCyio8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=MH1kdd)
-- FInal presentation slides
-- Link to individual learning plans
-- Link to technical diaries
-- Link to Github repos
+- [Final presentation slides, and individual learning plans](https://wehieduau.sharepoint.com/:f:/r/sites/StudentInternGroupatWEHI/Shared%20Documents/Genomics%20Invoicing/2025%20Semester%202?csf=1&web=1&e=YmlWf0)
+- [Link to Github repo for this intake](https://github.com/FractalDevelopers/genomics-invoicing)
 
 # REDMANE Demo
 The objective of my internship was to **revive and modernize REDMANE**, a modular Research Data Management (RDM) platform designed to help researchers securely manage, organize, and share biomedical datasets. The aim was to restore its functionality, improve stability, and prepare the system for future scalability and integration.
