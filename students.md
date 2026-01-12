@@ -16,6 +16,10 @@ We have won a WEHI award - the Kellaway Excellence Education Award in 2024 - for
 
 We have three intakes per year - Semester 1 (March to May), Semester 2 (August to October), and Summer (November to February the next year). The [intake dates currently available and hours per week are here](intake_dates). We have anywhere between 20 and 45 interns in an intake.
 
+We have had 251 interns through the program since Semester 2, 2021 who have provided over 24 person years of effort to help us uncover and document complexity early in over 80 intern projects.
+
+Out of the 16 anonymous reviews that have been given by students as at 4th of June 2025, our internships have been rated a 4.6 out of 5.
+
 ### Semester 1 2026 applications are now open
 
 Please note that applications for the Semester 1 2026 intake are now open.
@@ -27,10 +31,6 @@ Please note that applications for the Semester 1 2026 intake are now open.
 <div style="clear:both"></div>
 
 Here are some of the [recurring student intern projects and new projects we are working on](project-wikis).
-
-We have had 251 interns through the program since Semester 2, 2021 who have provided over 24 person years of effort to help us uncover and document complexity early in over 80 intern projects.
-
-Out of the 16 anonymous reviews that have been given by students as at 4th of June 2025, our internships have been rated a 4.6 out of 5.
 
 
 ## Expectations during the internship
