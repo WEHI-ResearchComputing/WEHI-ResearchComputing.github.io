@@ -30,7 +30,11 @@ Please note that applications for the Semester 1 2026 intake are now open.
 </a>
 <div style="clear:both"></div>
 
-Here are some of the [recurring student intern projects and new projects we are working on](project-wikis).
+<a href="project-wikis" 
+   style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
+   List of Available Projects
+</a>
+<div style="clear:both"></div>
 
 
 ## Expectations during the internship
