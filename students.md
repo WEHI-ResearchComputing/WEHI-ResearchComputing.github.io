@@ -16,7 +16,7 @@ We have won a WEHI award - the Kellaway Excellence Education Award in 2024 - for
 
 We have three intakes per year - Semester 1 (March to May), Semester 2 (August to October), and Summer (November to February the next year). The [intake dates currently available and hours per week are here](intake_dates). We have anywhere between 20 and 45 interns in an intake.
 
-### List of student intern projects (subject to availability and eligibility)
+### Semester 1 2026 applications are now open
 
 Please note that applications for the Semester 1 2026 intake are now open.
 
