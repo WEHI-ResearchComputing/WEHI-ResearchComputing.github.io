@@ -129,4 +129,4 @@ Here is more information about the internship program:
 
 ## To make changes to this website
 
-Go to [the GitHub repo to change this website](https://github.com/WEHI-ResearchComputing/WEHI-ResearchComputing.github.io)
+Go to [the GitHub repo to change this website](https://github.com/WEHI-RCPStudentInternship/WEHI-RCPStudentInternship.github.io)
