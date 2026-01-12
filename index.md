@@ -12,7 +12,7 @@ We have had interns from around the globe - including Turkey, India, China, Peru
 
 Out of the 16 anonymous reviews that have been given by students as at 4th of June 2025, our internships have been rated a 4.6 out of 5.
 
-<a href="https://wehi-rcpstudentinternship.github.io/students" 
+<a href="https://wehi-rcpstudentinternship.github.io/" 
    style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
    Learn more about internships at WEHI
 </a>
