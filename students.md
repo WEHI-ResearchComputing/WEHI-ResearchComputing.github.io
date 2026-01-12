@@ -26,6 +26,12 @@ We have three intakes per year - Semester 1 (March to May), Semester 2 (August t
 
 Please note that applications for the Semester 1 2026 intake are now open.
 
+<a href="expectations-general" 
+   style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
+   Expectations of Interns
+</a>
+<div style="clear:both"></div>
+
 <a href="how-to-apply" 
    style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
    How to Apply
