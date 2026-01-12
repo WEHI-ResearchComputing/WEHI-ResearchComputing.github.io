@@ -4,33 +4,19 @@ The WEHI Research Computing Platform regularly provides unpaid internship opport
 
 These internships are 100% remote, and we have already hosted interns from Africa, Asia, Australia, Europe, and both North and South America — every continent except Antarctica!
 
-We have had 251 interns through the program since Semester 2, 2021 who have provided over 24 person years of effort to help us uncover and document complexity early in over 80 intern projects.
+We have had 270+ interns through the program since Semester 2, 2021 who have provided over 24 person years of effort to help us uncover and document complexity early in over 80 intern projects.
 
 Out of the 16 anonymous reviews that have been given by students as at 4th of June 2025, our internships have been rated a 4.6 out of 5.
 
 # Why apply for an internship?
 
-We assist students and early career professionals in transitioning to the real workforce by engaging them in multi-disciplinary teams on complex projects. Over the past four years, we have successfully assembled more than 81 multi-disciplinary teams, featuring over 270 interns.
+We assist students and early career professionals in transitioning to the real workforce by engaging them in multi-disciplinary teams on complex projects. Over the past four years, we have successfully assembled more than 70 multi-disciplinary teams.
 
-We prepare students for the real-world by teaching them:
-- communication is 90% of the work - even in tech,
-- organisation skills are extremely important,
-- asking questions is a key factor in how fast you learn,
-- how understanding the domain problem and the users is more important than technical skills, and [how to work on a complex, ambiguous project](complex-projects),
-- showing them [how to become as independent as possible](faq#you-ask-us-to-be-as-independent-as-possible-how-can-we-do-that), 
-- show them [how to document and share knowledge](email-week-two) to others in a professional manner,
-- [explain how a software maturity model can help clarify expectations](software_maturity_model), and 
-- teaching them how to work productively in a remote environment.
-
-We even tell students how to try to avoid [the top 5 mistakes that students make](top-5-mistakes).
-
-In our [Welcome Session, we talk about ways you can better learn real world skills](https://doi.org/10.6084/m9.figshare.28503338).
-
-We have won a WEHI award - the Kellaway Excellence Education Award in 2024 - for being innovative and putting interns first. This is why we have:
-- daily standups twice a day except for Friday (only once on Fridays),
-- individual learning plans to help you plan your learning needs to fit your goals,
-- technical diaries to share your technical work with your team mates, and
-- the ability to test and improve your continuous improvement skills 
+<a href="why-apply" 
+   style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
+   Find out more reasons to apply
+</a>
+<div style="clear:both"></div>
 
 # When are the internships scheduled?
 
@@ -53,55 +39,17 @@ Please note that applications for the Semester 1 2026 intake are now open.
 <div style="clear:both"></div>
 
 
-## Expectations during the internship
-
-Before you apply - please ensure you can take the time to spend doing at least 6 to 8 hours per week on these internships:
-- 1 hour a week for a project meeting with your supervisor and your teammates, 
-- 1 hour a week for a co-working session with your teammates,
-- 1 hour a week keeping track of emails and organising yourself, and
-- the rest working on projects in your own time and asking 10+ questions a week at standups that run twice a day but are not mandatory 
-
-Also please ensure you:
-- ask 10+ questions a week about your project ([this link shows you how many questions were asked in Intake 13 - Semester 2](https://keepthescore.com/board/vphrskbwqdjyr#)),
-- email a group weekly report before your meeting each week,
-- 4 touch points per week with your supervisor (project meeting, weekly group email summary, and two other interactions)
-- keep an Individual Learning Plan (ILP) and a technical diary,
-- keep on top of the emails sent about your internship (there are a lot!),
-- keep an up to date calendar so you can plan your week, and
-- let your supervisor by email if you are unable to work on the internship.
-
 ## Types of projects
 
 Many of the projects work in the Data Analysis and [Research Software Engineering](https://rse-aunz.github.io/) space using High Performance Compute (HPC). We work across diverse projects such as imaging, cryo-EM, genomics, transcriptomics, clinical informatics, and capacity planning.
 
 We mainly work with projects that use R and Shiny, Python, Julia, bash, while also making the most out of other technologies such as RStudio, Jupyter notebooks, PowerBI and other applications within the data analytics space.
 
-
-### List of previous student intern project reports
-
-Here are some of the [previous student intern reports](intakes/).
-
 <a href="intakes/" 
    style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
    Previous Intern Reports
 </a>
 <div style="clear:both"></div>
-
-## Open source contributors
-
-Sometimes, we are in contact with students who cannot get course credit and are extremely keen to volunteer as an open source software contributor. In these situations, we have to be careful we do not act in an exploitative way. This is why [we have written our expectations of potential open source contributors to make the expectations more transparent](/expectations_open_source_contributors). 
-
-<a href="expectations_open_source_contributors" 
-   style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
-   Want to volunteer?
-</a>
-<div style="clear:both"></div>
-
-## Hear from previous students
-
-You can listen to two students talk about their projects (click image below).
-
-[![Symposium image of four people on a virtual call](/assets/symposium.jpeg){:width="400px"}](https://www.youtube.com/watch?v=QVMrIFLXOFw)
 
 
 ## How to Apply
