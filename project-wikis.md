@@ -2,27 +2,7 @@
 
 This page allows you to have a look at all the internship projects offered at WEHI.
 
-## Summer 2025 / 2026 Projects 
-
-
-<a href="https://www.canva.com/design/DAG0zIczPN0/MiXn_0tJkDLvWYzn3WIIDA/view?utm_content=DAG0zIczPN0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6dfc0bd5ba" 
-   style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
-   Summary of projects for Summer 2025 / 2026 (Presentation Slides)
-</a>
-<div style="clear:both"></div>
-
-<a href="https://wehieduau-my.sharepoint.com/:v:/g/personal/mosbergen_r_wehi_edu_au/EV8GFAEFZzNNm1iH0vLS870BORC9GjxFO6k0kIdjIKllYw" 
-   style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
-   Summary of projects for Summer 2025 / 2026 (Presentation Recording)
-</a>
-<div style="clear:both"></div>
-
-### 	Forecasting with Workday - Data Visualisation - Open Source
-
-This project helps the departments at WEHI help forecast budgets from Workday. For more details see [Forecasting with Workday project](student_forecasting).
-
-### BioNix - Research Software - Open Source
-This project helps with reproducibility in the field of Bioinformatics. For more details see [BioNix project](student-bionix) and the [BioNix Getting Started Wiki](https://github.com/WEHI-ResearchComputing/BioNix-GettingStarted/wiki).
+## Semester 1 2026 Projects 
 
 ### Genomics Invoicing - Research Software - Open Source
 
@@ -52,18 +32,21 @@ Key tasks for Student Organiser include:
 
 ## Potential Projects that are dependent on various factors
 
+### 	Forecasting with Workday - Data Visualisation - Open Source
+
+This project helps the departments at WEHI help forecast budgets from Workday. For more details see [Forecasting with Workday project](student_forecasting).
+
+## Previous projects
+
+### BioNix - Research Software - Open Source
+This project helps with reproducibility in the field of Bioinformatics. For more details see [BioNix project](student-bionix) and the [BioNix Getting Started Wiki](https://github.com/WEHI-ResearchComputing/BioNix-GettingStarted/wiki).
+
 ### Clinical Dashboards - Research - Data Analytics, Full-Stack Web Developer, or Data Engineering
 This project helps to setup foundational infrastructure for adding visualisation dashboards for clinically-adjacent data. For more details see [Clinical Dashboards project.](student-clinical-dashboards), the [Extract PDF Wiki](https://github.com/Clinical-Informatics-Collaborative/pdf-extraction-clinical-reports/wiki), and the [Clinical Dashboards Wiki](https://github.com/Clinical-Informatics-Collaborative/clinical_dashboards/wiki).
 
 ### Quantum Computing in Bioinformatics - Research - Data Analytics, Software Engineering
 
 This project is looking to create foundational knowledge of quantum computing in bioinformatics. For more details see [Quantum Computing in Bioinformatics project](student-quantum) and the [Quantum Computing Wiki](https://github.com/WEHI-ResearchComputing/quantum-computing/wiki).
-
-
-
-
-
-## Previous projects
 
 ### Imaging - Research - Data Engineering, Full-Stack Web Developer
 This project helps with the current work around automated processing of images from microscopes to the High Performance Compute. For more details see [Imaging project](student-imaging) and the [Imaging Getting Started Wiki](https://github.com/WEHI-ResearchComputing/Imaging-Getting-Started/wiki).
