@@ -4,7 +4,7 @@ The Research Computing Platform (RCP) is based in the Computational Biology them
 
 At Research Computing Platform our mission is to create a collaborative, multi-disciplinary platform that supports and advocates for WEHI researchers and their computational research.
 
-We provide [100% remote unpaid student internship opportunities](students) through the University of Melbourne for Data Science and Software Engineering, as well as Open Source Contributors from around the world. We have three intakes per year - Semester 1 (March to May), Semester 2 (August to October), and Summer (November to February the next year). To understand more about the program, you can download and read the [RCP Student Internship Program Handbook.](https://figshare.com/articles/presentation/Research_Computing_Platform_Student_Internship_Handbook/21259467) 
+We provide [100% remote unpaid student internship opportunities](https://wehi-rcpstudentinternship.github.io/) through the University of Melbourne for Data Science and Software Engineering, as well as Open Source Contributors from around the world. We have three intakes per year - Semester 1 (March to May), Semester 2 (August to October), and Summer (November to February the next year). To understand more about the program, you can download and read the [RCP Student Internship Program Handbook.](https://figshare.com/articles/presentation/Research_Computing_Platform_Student_Internship_Handbook/21259467) 
 
 We have had 251 interns through the program since Semester 2, 2021 who have provided over 24 person years of effort to help us uncover and document complexity early in over 80 intern projects.
 
