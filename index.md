@@ -1,4 +1,4 @@
-## Welcome to the WEHI Research Computing Platform website
+## Welcome to the WEHI RCP Discovery Internship Program website
 
 <a href="students" 
    style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
