@@ -2,11 +2,29 @@
 
 The WEHI Research Computing Platform regularly provides unpaid internship opportunities via the Discovery Internship Program. Interns can get course credit through the University of Melbourne Data Science and Software Engineering programs, and Open Source Contributors (volunteers) can also participate from around the world. 
 
-Out of the 16 anonymous reviews that have been given by students as at 4th of June 2025, our internships have been rated a 4.6 out of 5.
-
 These internships are 100% remote, and we have already hosted interns from Africa, Asia, Australia, Europe, and both North and South America — every continent except Antarctica!
 
+We have had 251 interns through the program since Semester 2, 2021 who have provided over 24 person years of effort to help us uncover and document complexity early in over 80 intern projects.
+
+Out of the 16 anonymous reviews that have been given by students as at 4th of June 2025, our internships have been rated a 4.6 out of 5.
+
+# Why apply for an internship?
+
 We assist students and early career professionals in transitioning to the real workforce by engaging them in multi-disciplinary teams on complex projects. Over the past four years, we have successfully assembled more than 81 multi-disciplinary teams, featuring over 270 interns.
+
+We prepare students for the real-world by teaching them:
+- communication is 90% of the work - even in tech,
+- organisation skills are extremely important,
+- asking questions is a key factor in how fast you learn,
+- how understanding the domain problem and the users is more important than technical skills, and [how to work on a complex, ambiguous project](complex-projects),
+- showing them [how to become as independent as possible](faq#you-ask-us-to-be-as-independent-as-possible-how-can-we-do-that), 
+- show them [how to document and share knowledge](email-week-two) to others in a professional manner,
+- [explain how a software maturity model can help clarify expectations](software_maturity_model), and 
+- teaching them how to work productively in a remote environment.
+
+We even tell students how to try to avoid [the top 5 mistakes that students make](top-5-mistakes).
+
+In our [Welcome Session, we talk about ways you can better learn real world skills](https://doi.org/10.6084/m9.figshare.28503338).
 
 We have won a WEHI award - the Kellaway Excellence Education Award in 2024 - for being innovative and putting interns first. This is why we have:
 - daily standups twice a day except for Friday (only once on Fridays),
@@ -14,11 +32,9 @@ We have won a WEHI award - the Kellaway Excellence Education Award in 2024 - for
 - technical diaries to share your technical work with your team mates, and
 - the ability to test and improve your continuous improvement skills 
 
+# When are the internships scheduled?
+
 We have three intakes per year - Semester 1 (March to May), Semester 2 (August to October), and Summer (November to February the next year). The [intake dates currently available and hours per week are here](intake_dates). We have anywhere between 20 and 45 interns in an intake.
-
-We have had 251 interns through the program since Semester 2, 2021 who have provided over 24 person years of effort to help us uncover and document complexity early in over 80 intern projects.
-
-Out of the 16 anonymous reviews that have been given by students as at 4th of June 2025, our internships have been rated a 4.6 out of 5.
 
 ### Semester 1 2026 applications are now open
 
@@ -53,22 +69,6 @@ Also please ensure you:
 - keep on top of the emails sent about your internship (there are a lot!),
 - keep an up to date calendar so you can plan your week, and
 - let your supervisor by email if you are unable to work on the internship.
-
-## Learn real world skills
-
-We prepare students for the real-world by teaching them:
-- communication is 90% of the work - even in tech,
-- organisation skills are extremely important,
-- asking questions is a key factor in how fast you learn,
-- how understanding the domain problem and the users is more important than technical skills, and [how to work on a complex, ambiguous project](complex-projects),
-- showing them [how to become as independent as possible](faq#you-ask-us-to-be-as-independent-as-possible-how-can-we-do-that), 
-- show them [how to document and share knowledge](email-week-two) to others in a professional manner,
-- [explain how a software maturity model can help clarify expectations](software_maturity_model), and 
-- teaching them how to work productively in a remote environment.
-
-We even tell students how to try to avoid [the top 5 mistakes that students make](top-5-mistakes).
-
-In our [Welcome Session, we talk about ways you can better learn real world skills](https://doi.org/10.6084/m9.figshare.28503338).
 
 ## Types of projects
 
